@@ -1,0 +1,31 @@
+# Exchange definition. Copy this file to add another exchange (see /add-exchange).
+code: NASDAQ
+calendar: XNAS                 # exchange_calendars code
+timezone: America/New_York
+currency: USD
+symbol_suffix: ""              # yfinance symbol suffix (".IS" for Borsa Istanbul)
+benchmark: QQQ                 # benchmark for relative strength and scoring
+universe:
+  source: nasdaqtrader
+  url: https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt
+sessions:
+  premarket:                   # before the open
+    minutes_before_open_start: 60
+    minutes_before_open_end: 5
+  preclose:                    # before the close (follows early closes automatically)
+    minutes_before_close_start: 75
+    minutes_before_close_end: 20
+filters:
+  min_price: 5
+  min_dollar_volume: 10000000  # 20-day average traded value, USD
+  min_market_cap: 1000000000
+  history_days: 300            # calendar days
+screen:
+  info_pool: 60                # candidates to fetch market cap / sector for
+  top_n: 25                    # candidates sent to triage
+  finalists: 8                 # candidates sent to deep analysis (picked by triage)
+regime_symbols:
+  index: [QQQ, SPY, IWM]
+  volatility: "^VIX"
+  rates: "^TNX"
+  sectors: [XLK, XLC, XLY, XLV, XLF, XLI, XLE, XLP, XLU, XLB, XLRE, SMH]

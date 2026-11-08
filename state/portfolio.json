@@ -1,0 +1,7 @@
+{
+  "as_of": null,
+  "note": "Notional portfolio in units (base 1000). Record a position as the units allocated at entry and its entry price; the system only reads this file.",
+  "cash_units": 1000,
+  "peak_value": 1000,
+  "positions": []
+}

@@ -1,0 +1,5 @@
+# All sizing is expressed against a notional portfolio. Weights are what matter;
+# scale the amounts to your own account outside the repo.
+notional_base: 1000            # notional units (no currency)
+horizon: swing                 # a few days to a few weeks
+score_horizons: [5, 20]        # decisions are scored this many business days later

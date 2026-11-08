@@ -1,0 +1,28 @@
+# Risk and sizing rules. Agents MUST NOT edit this file; only the owner changes it.
+risk_per_trade: 0.0075         # loss at stop as a fraction of portfolio value (0.75%)
+atr_period: 14
+atr_stop_mult: 2.0             # if no stop is given: entry - 2 x ATR
+min_reward_risk: 1.5           # reject if (target-entry)/(entry-stop) is below this
+kelly_fraction: 0.25           # quarter Kelly
+max_position: 0.10             # single position cap
+max_sector: 0.30
+max_positions: 8
+min_cash: 0.10
+corr_lookback: 60
+corr_threshold: 0.80           # above this pairwise correlation the weaker candidate is halved
+earnings_blackout_days: 3      # no new buys this many business days before earnings
+target_vol: 0.15               # annualised portfolio volatility target
+drawdown_breaker: 0.10         # stop new buys at this drawdown from peak
+drawdown_gross_mult: 0.5
+pm_adjust_limit: 0.25          # portfolio-manager may move an engine weight by at most +/-25%
+long_only: true
+conviction_mult:
+  Buy: 1.0
+  Overweight: 0.6
+  Hold: 0.0
+  Underweight: 0.0
+  Sell: 0.0
+regime_mult:
+  risk-on: 1.0
+  neutral: 0.7
+  risk-off: 0.4

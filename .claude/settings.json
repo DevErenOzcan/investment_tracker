@@ -1,0 +1,56 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m scanner.:*)",
+      "Bash(python3 -m scanner.:*)",
+      "Bash(python -c:*)",
+      "Bash(pip install -q -r requirements.txt)",
+      "Bash(pip install -r requirements.txt)",
+      "Bash(python -m pytest:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git pull:*)",
+      "Bash(git status)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)",
+      "Bash(date:*)",
+      "Read",
+      "Edit(/reports/**)",
+      "Write(/reports/**)",
+      "Edit(/state/decisions.jsonl)",
+      "Edit(/state/lessons.md)",
+      "Edit(/state/scorecard.csv)",
+      "Write(/state/lessons.md)"
+    ],
+    "deny": [
+      "Edit(/config/risk.yaml)",
+      "Write(/config/risk.yaml)",
+      "Edit(/state/portfolio.json)",
+      "Write(/state/portfolio.json)"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash|WebFetch",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/.claude/hooks/block_orders.py\""
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/.claude/hooks/validate_on_stop.py\""
+          }
+        ]
+      }
+    ]
+  }
+}
