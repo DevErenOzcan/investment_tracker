@@ -54,6 +54,10 @@ def build(run_dir: Path, tickers: list[str], exchange_code: str = "nasdaq",
         px = pd.concat([px, data.history(need, days=ex["filters"]["history_days"],
                                          suffix=ex["symbol_suffix"])])
         px.to_pickle(pkl)
+    # An empty frame concatenated with fresh history leaves object dtypes; coerce them.
+    px["date"] = pd.to_datetime(px["date"])
+    for c in ("open", "high", "low", "close", "volume"):
+        px[c] = pd.to_numeric(px[c], errors="coerce")
     b = px[px["symbol"] == ex["benchmark"]].sort_values("date")["close"]
     b63 = float(b.iloc[-1] / b.iloc[-64] - 1) if len(b) > 64 else None
 

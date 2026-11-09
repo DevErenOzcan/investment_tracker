@@ -1,0 +1,6 @@
+{"ticker": "KDP", "setup": "trend-continuation", "trend": "up",
+ "entry_zone": [36.3, 36.8], "stop": 34.18, "target": 38.92,
+ "reward_risk": 1.0, "atr": 1.0327,
+ "invalidation": "A daily close below 34.18 (just under the 10-day swing low of 34.28), or a failed push above the 52-week high of 37.89 followed by a close back below the SMA20 (35.13).",
+ "score": 1,
+ "notes": "Trend is up on every measure: last price 36.79 sits above SMA20 (35.13), SMA50 (32.87) and SMA200 (29.92), with 63-day return of +27.0% and relative strength of +0.32. RSI14 is 64.8 and volume ratio is 1.59, so momentum and participation are healthy, but price is 4.7% above SMA20 and only 2.9% below the 52-week high of 37.89, which acts as resistance (rejected on 2026-11-05 with a high of 37.89 and a close of 36.89). Entry zone 36.30-36.80 sits at the last price and the prior-day close and does not chase; stop 34.18 is just below the 10-day swing low (34.28) and about 2.37 from the zone midpoint, inside the 2.5 x ATR limit of 2.58. Target 38.92 is the 52-week high plus one ATR, since the high itself is only 1.34 above the midpoint; reward/risk from the midpoint (36.55) is 1.0, which is thin, so the score is held to +1 despite the strong trend."}

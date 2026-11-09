@@ -1,0 +1,19 @@
+{"regime": "risk-off",
+ "confidence": 0.9,
+ "leading_sectors": ["XLV", "XLP", "XLRE"],
+ "lagging_sectors": ["XLK", "XLC", "XLE"],
+ "evidence": [
+  "QQQ below its 200-day and 50-day averages (above_sma200 false, above_sma50 false)",
+  "QQQ 21-day return -12.24%, worse than the -8% risk-off threshold",
+  "^VIX 1-year percentile 0.876 (> 0.85), last 23.19, 21-day change +56.27%",
+  "SMH 21-day return -23.6% and XLK -16.71%, both below 50- and 200-day averages",
+  "IWM below 50- and 200-day averages (21-day -1.41%); SPY below its 50-day (21-day -4.99%)",
+  "Defensives leading: XLV 21-day +9.9% (1y percentile 0.981), XLP +7.98% (0.981), XLRE +7.71%"
+ ],
+ "watch": [
+  "Whether QQQ (last 656.1) can regain its 50-day average; 5-day return is still -4.98%",
+  "Whether ^VIX (last 23.19, percentile 0.876) keeps rising or retreats below the 0.85 percentile",
+  "Semiconductor weakness: SMH 5-day return -11.2%, XLK 5-day -8.23%"
+ ],
+ "summary": "Risk-off: QQQ is below both its 50- and 200-day averages with a 21-day return of -12.24%, and VIX sits at a 0.876 one-year percentile after a +56.27% 21-day rise. Technology and semiconductors lead the decline (XLK 21-day -16.71%, SMH -23.6%), while defensives (XLV, XLP, XLRE) and XLF/XLY hold above their 50- and 200-day averages. Several independent risk-off triggers are met, so confidence is high."
+}

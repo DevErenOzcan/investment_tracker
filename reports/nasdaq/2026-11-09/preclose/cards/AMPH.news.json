@@ -1,0 +1,13 @@
+{"ticker": "AMPH", "catalysts": [
+  {"what": "Quarterly results released (8-K items 2.02, 9.01) with the 10-Q for the period ended 2026-09-30. Packet fundamentals show revenue up 8.2% year over year and net income up 117.6% year over year.", "date": "2026-11-05", "direction": "positive", "source": "https://www.sec.gov/Archives/edgar/data/1297184/000129718426000051/amph-20261105x8k.htm"},
+  {"what": "10-Q filed for the quarter ended 2026-09-30; no item codes listed in the packet.", "date": "2026-11-05", "direction": "positive", "source": "https://www.sec.gov/Archives/edgar/data/1297184/000129718426000053/amph-20260930x10q.htm"}
+ ],
+ "event_risks": [
+  "News unavailable: news_7d is empty because the news feed is blocked, so this does not mean there are no events.",
+  "No S-3 or 424B5 appears in the 10-day filings list, so no share-offering signal is visible, but the news gap limits confidence.",
+  "Short interest is 22.08% of float, which can amplify moves in both directions.",
+  "Mean analyst target 24.5 (6 opinions) is below the last price, so the rally may be ahead of analyst views.",
+  "No known events in the next 20 business days can be confirmed from the packet; the earnings event (2026-11-05) has already passed."
+ ],
+ "binary_event": false, "news_available": false, "score": 1,
+ "notes": "News unavailable: no headlines could be reviewed, so the reason for the price move cannot be confirmed from news. The only sourced catalyst is the 2026-11-05 earnings release (8-K 2.02) and 10-Q, and packet fundamentals show revenue up 8.2% and net income up 117.6% year over year, which supports the price rise. The filings list shows no offering or other adverse item codes. The score is a modest +1 because the evidence is limited to filings and the news gap leaves unseen risk."}

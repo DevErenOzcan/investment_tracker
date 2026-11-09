@@ -1,0 +1,15 @@
+{"ticker": "KDP", "rating": "Hold", "confidence": 0.4,
+ "entry": 36.79, "entry_zone": [35.6, 36.1], "stop": 34.18, "target": 38.92, "horizon_days": 10,
+ "expected_return": {"low": -0.071, "high": 0.058},
+ "sector": "Consumer Defensive", "earnings_date": "2026-11-03",
+ "thesis": "The trend and defensive-leadership case is unchanged (last 36.79 above SMA20 35.13, SMA50 32.87 and SMA200 29.92 in a leading XLP group), but the morning call was conditional on a pullback into 35.6-36.1, and today's low of 36.27 never reached it. From 36.79, reward/risk to the afternoon technical target 38.92 (the 37.89 high plus one ATR) against the 34.18 stop is about 0.82 (about 0.97 with the morning 39.49/34.0 levels), well below the 1.5 bar. Downgraded to Hold; the setup needs a dip into the 35.6-36.1 zone or a confirmed breakout above 37.89 to be reassessed.",
+ "invalidation": "Daily close below 34.18 (under the 10-day swing low 34.28), or a failed push above 37.89 followed by a close back below the SMA20 at 35.13.",
+ "key_risks": [
+  "Reward/risk from the current price is about 0.82; the 37.89 52-week high is only 1.10 above the price",
+  "Target 38.92 requires a breakout above 37.89, which was rejected on 2026-11-05",
+  "Fundamentals unverified: the revenue step to 7,344M (+70.6% YoY) is unexplained and the 10-Q filed today has not been reviewed",
+  "News feed blocked (news_7d empty): post-earnings drivers and other event risk are unknown",
+  "Stop and target changed from the morning 34.0/39.49 to the afternoon technical card's 34.18/38.92"
+ ],
+ "debate_winner": "draw",
+ "morning_rating": "Overweight"}

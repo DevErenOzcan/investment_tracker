@@ -1,0 +1,15 @@
+{"ticker": "CRVL", "rating": "Overweight", "confidence": 0.46,
+ "entry": 82.32, "entry_zone": [80.8, 82.4], "stop": 78.8, "target": 89.76, "horizon_days": 10,
+ "expected_return": {"low": -0.043, "high": 0.09},
+ "sector": "Financial Services", "earnings_date": "2027-02-02",
+ "thesis": "The morning thesis holds: CRVL is in an uptrend (last 82.32 above SMA50 76.39 and SMA200 62.92) and has pulled back to a flat SMA20 at 82.33, with high-quality, accelerating fundamentals (revenue +11.5%, net income +22.2% YoY) and no earnings until 2027-02-02. The last price sits inside both the morning zone (81.5-83.2) and the afternoon technical zone (80.8-82.4), so entry is not chasing, and reward/risk from 82.32 to the 89.76 high against the 78.8 stop is about 2.1. Conviction stays capped at Overweight because today's push to 85.33 faded back to 82.32, closes have been lower since 2026-11-04, the regime is risk-off and the news feed is still blocked.",
+ "invalidation": "A daily close below 78.8 (under the 10-day swing low 79.19) voids the setup; a close below the SMA50 at 76.39 breaks the uptrend.",
+ "key_risks": [
+  "Intraday fade from the 85.33 high to 82.32 and a 5-day return of -1.1% show sellers are still active below the 89.76 rejection",
+  "Risk-off regime (confidence 0.9, QQQ 21-day -12.24%, VIX percentile 0.876) can de-rate a rich multiple (trailing P/E 34.6, EV/EBITDA 20.2)",
+  "Target is the 89.76 52-week high that rejected price on 2026-11-05",
+  "News feed blocked (news_7d empty): non-filing event risk is unknown, which is missing data, not absence of events",
+  "Stop changed from the morning 78.9 to the afternoon technical card's 78.8; both sit under the 79.19 swing low"
+ ],
+ "debate_winner": "bull",
+ "morning_rating": "Overweight"}

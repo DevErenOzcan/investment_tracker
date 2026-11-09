@@ -1,0 +1,14 @@
+{"ticker": "KDP",
+ "catalysts": [
+  {"what": "Form 8-K, items 2.02 and 9.01 (results of operations, financial exhibits): earnings release. Price reaction was large: 2026-11-02 close 36.82, then 34.74 on 2026-11-03 (the earnings date in the profile) with volume of 33.3M, then recovery to 36.79 by 2026-11-04.", "date": "2026-11-03", "direction": "mixed", "source": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000064/kdp-20261103.htm"},
+  {"what": "Form 10-Q for the quarter ended 2026-09-30 filed. Packet fundamentals show quarterly revenue of 7344000000 vs 4306000000 a year earlier (+70.6% yoy) and net income of 882000000 (+33.2% yoy); the cause of the revenue jump is not given in the packet.", "date": "2026-11-09", "direction": "mixed", "source": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000066/kdp-20260930.htm"}
+ ],
+ "event_risks": [
+  "News unavailable: news_7d is empty because the news feed is blocked; this does not mean there are no events.",
+  "No S-3 or 424B5 in the last 10 days of filings, so no share-offering risk is visible in the packet.",
+  "The 8-K carries only items 2.02 and 9.01 (earnings); no 1.01, 5.02 or other event items are listed.",
+  "The most recent earnings date (2026-11-03) has passed; no upcoming event dates are given in the packet, so known events in the next 20 business days cannot be assessed.",
+  "The 10-Q was filed today with no item detail in the packet; its contents have not been reviewed."
+ ],
+ "binary_event": false, "news_available": false, "score": 0,
+ "notes": "News unavailable: the news feed is blocked, so headlines, analyst actions and any M&A or litigation news for the last 7 days could not be reviewed. The only evidence is the filing list: an earnings 8-K (items 2.02, 9.01) on 2026-11-03 and a 10-Q on 2026-11-09, with no offering filings. The price shock on earnings day (a drop to 34.74 on very high volume) was fully recovered within a day, which suggests the market accepted the results, but this is inferred from price only. Score is neutral at 0 because the lack of news data is not evidence of absence; treat any size decision as lacking news confirmation."}

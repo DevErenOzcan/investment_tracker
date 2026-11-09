@@ -1,0 +1,48 @@
+{
+  "as_of": "2026-11-09",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "peak_value_units": 1000,
+  "drawdown": 0.0,
+  "regime": "risk-off",
+  "regime_mult": 0.4,
+  "risk_per_trade": 0.0075,
+  "portfolio_vol": 0.002465269047084045,
+  "positions": [
+    {
+      "ticker": "CRVL",
+      "status": "new",
+      "sector": "Financial Services",
+      "price": 82.32,
+      "stop": 78.8,
+      "target": 89.76,
+      "rr": 2.11,
+      "rating": "Overweight",
+      "confidence": 0.46,
+      "kelly": 0.2045,
+      "stop_pct": 0.0428,
+      "binding": "kelly",
+      "engine_weight": 0.0092,
+      "priority": 0.12270967741935528,
+      "flags": [
+        "risk-officer reduction x0.75: Consistent with the morning cut: news is still unavailable and the 8-K/10-Q content is unreviewed, the trailing P/E of 34.6 is rich after a 34.5% 63-day run in a risk-off tape, 20-day traded value is thin, and today's fade from 85.33 back to 82.32 with lower closes since 2026-11-04 shows sellers remain active, though the setup itself (entry at SMA20, reward/risk 2.1, no earnings until 2027-02-02) is unchanged."
+      ],
+      "amount_units": 9.2
+    }
+  ],
+  "cash_weight": 0.9908,
+  "rejected": [
+    {
+      "ticker": "AMPH",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "EXEL",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "KDP",
+      "reason": "rating Hold: no new buy"
+    }
+  ]
+}

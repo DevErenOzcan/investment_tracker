@@ -1,0 +1,8 @@
+{"ticker": "CRVL",
+ "catalysts": [
+  {"what": "8-K filed with Item 2.02 (results of operations), most likely the quarterly earnings release; content not available in the packet. The price reacted with a wide intraday range and a high-volume reversal on 2026-11-03, then rose on 2026-11-04.", "date": "2026-11-03", "direction": "mixed", "source": "https://www.sec.gov/Archives/edgar/data/874866/000119312526444065/crvl-20261103.htm"},
+  {"what": "10-Q for the quarter ended 2026-09-30 filed; SEC fundamentals show revenue up 11.5% and net income up 22.2% year over year.", "date": "2026-11-05", "direction": "positive", "source": "https://www.sec.gov/Archives/edgar/data/874866/000119312526449982/crvl-20260930.htm"}
+ ],
+ "event_risks": ["News unavailable: the news feed returned nothing (blocked by a proxy), which does not mean there are no events.", "No S-3 or 424B5 in the last 10 days, so no offering filing is visible.", "Next known earnings date is 2027-02-02, outside the 20-business-day window."],
+ "binary_event": false, "news_available": false, "score": 0,
+ "notes": "News unavailable: news_7d is empty because the feed is blocked, so no headline-level catalysts, upgrades, downgrades or M&A can be assessed. The only evidence is SEC filings: an 8-K with Item 2.02 on 2026-11-03 (earnings release, content not read) and the 10-Q on 2026-11-05, with year-over-year revenue growth of 11.5% and net income growth of 22.2%. No offering (S-3/424B5), no Item 1.01 or 5.02 events appear in the last 10 days. Next earnings are on 2027-02-02, so no scheduled binary event falls inside the swing window. Score is neutral because the news side is unverified."}

@@ -1,0 +1,17 @@
+{"ticker": "AMPH", "rating": "Hold", "confidence": 0.4,
+ "entry": 29.48, "entry_zone": [28.5, 28.8], "stop": 27.35, "target": 31.0, "horizon_days": 10,
+ "expected_return": {"low": -0.072, "high": 0.052},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "The fundamental view is unchanged (accelerating revenue growth to +8.2% YoY, forward P/E 8.86, Healthcare leading) and the uptrend is intact, but the price has risen to 29.48, above the morning 27.5-28.4 entry zone and the afternoon technical zone 28.5-29.1, so a fill now would be chasing. From 29.48, reward/risk to the 31.0 high against the 27.35 stop is about 0.71, far below the 1.5 bar, and even the technical card's mid-zone 28.8 gives only 1.52. Downgraded to Hold; a dip to 28.5-28.8 would restore a marginal setup.",
+ "invalidation": "Daily close below 27.35 (under the 2026-11-05 low of 27.43), which breaks the higher-low sequence.",
+ "key_risks": [
+  "Extended: RSI14 71.2, 10.5% above SMA20 26.69 and up 44.4% over 63 days",
+  "Target 31.0 is the 2026-11-06 post-earnings high that was rejected to a 28.49 close",
+  "Reward/risk from the current price is about 0.71",
+  "Mean analyst target 24.5 (6 opinions) is below the last price; short interest 22.08% of float",
+  "Debt 691.7M against cash 230.6M with thin free cash flow of 9.2M",
+  "News feed blocked (news_7d empty); risk-off regime (confidence 0.9)",
+  "Stop changed from the morning 26.6 to the afternoon technical card's 27.35"
+ ],
+ "debate_winner": "draw",
+ "morning_rating": "Overweight"}

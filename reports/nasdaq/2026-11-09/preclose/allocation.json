@@ -1,0 +1,32 @@
+{
+  "as_of": "2026-11-09",
+  "session": "preclose",
+  "exchange": "NASDAQ",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "regime": "risk-off",
+  "positions": [
+    {"ticker": "CRVL", "status": "new", "sector": "Financial Services", "price": 82.32,
+     "weight": 0.0092, "engine_weight": 0.0092, "amount_units": 9.2,
+     "entry_zone": [80.8, 82.4], "stop": 78.8, "target": 89.76, "rating": "Overweight", "confidence": 0.46,
+     "action": "buy-confirm",
+     "rationale": "Engine weight kept (down from the morning 0.01 after the risk officer's repeated x0.75 cut): the last price 82.32 is inside the 80.8-82.4 zone at a flat SMA20 with reward/risk about 2.1 and no earnings until 2027-02-02, but today's fade from 85.33 argues for no fill above 82.4."},
+    {"ticker": "EXEL", "status": "new", "sector": "Healthcare", "price": 71.555,
+     "weight": 0.0, "engine_weight": 0.0, "amount_units": 0.0,
+     "entry_zone": [69.4, 70.45], "stop": 67.7, "target": 76.0, "rating": "Hold", "confidence": 0.44,
+     "action": "cancel",
+     "rationale": "Cancelled because the price ran to 71.555 above the zone (reward/risk about 1.15); the setup revives only on a pullback into 69.4-70.45 while holding above 67.7."},
+    {"ticker": "AMPH", "status": "new", "sector": "Healthcare", "price": 29.48,
+     "weight": 0.0, "engine_weight": 0.0, "amount_units": 0.0,
+     "entry_zone": [28.5, 28.8], "stop": 27.35, "target": 31.0, "rating": "Hold", "confidence": 0.4,
+     "action": "cancel",
+     "rationale": "Cancelled because 29.48 is extended above every entry zone (reward/risk about 0.71 to 31.0); a dip into 28.5-28.8 with no close below 27.35 would restore a marginal setup."},
+    {"ticker": "KDP", "status": "new", "sector": "Consumer Defensive", "price": 36.79,
+     "weight": 0.0, "engine_weight": 0.0, "amount_units": 0.0,
+     "entry_zone": [35.6, 36.1], "stop": 34.18, "target": 38.92, "rating": "Hold", "confidence": 0.4,
+     "action": "cancel",
+     "rationale": "Cancelled because today's low of 36.27 never reached the conditional zone and reward/risk from 36.79 is about 0.82; it revives on a dip into 35.6-36.1 or a confirmed breakout above 37.89."}
+  ],
+  "cash_weight": 0.9908,
+  "vetoed": []
+}

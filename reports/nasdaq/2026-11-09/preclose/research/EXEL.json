@@ -1,0 +1,16 @@
+{"ticker": "EXEL", "rating": "Hold", "confidence": 0.44,
+ "entry": 71.555, "entry_zone": [69.4, 70.45], "stop": 67.7, "target": 76.0, "horizon_days": 10,
+ "expected_return": {"low": -0.054, "high": 0.062},
+ "sector": "Healthcare", "earnings_date": "2026-10-29",
+ "thesis": "The fundamental view is unchanged (steady profitable growth, revenue +10.2% YoY, Healthcare leading the risk-off tape) and the uptrend is intact, but the price has run to 71.555, above the morning 67.0-69.6 entry zone, so buying now would be chasing what the morning card said not to chase. From 71.555, reward/risk to the afternoon technical target 76.0 (the 73.69 high plus one ATR) against the 67.7 stop is about 1.15, and only about 0.55 to the 73.69 high itself, which is below the 1.5 bar. Downgraded to Hold; it would qualify again on a pullback into 69.4-70.45 (reward/risk about 2.0 or better from 70.45).",
+ "invalidation": "Daily close below 67.7 (under the 2026-11-06 swing low 68.01), or a failed retest of 73.69 followed by a close back under the SMA20 at 66.22.",
+ "key_risks": [
+  "Price is extended: RSI14 70.2 and 8.1% above SMA20 66.22, just 2.9% below the 73.69 high that was rejected on 2026-11-05 on 4.4M shares",
+  "Reward/risk from the current price is about 1.15; the target 76.0 sits above an untested 52-week high",
+  "Mean analyst target 61.57 is well below the last price",
+  "News feed blocked and sec_filings_10d empty, so event and offering risk are unassessed",
+  "Risk-off regime (confidence 0.9); short interest 15.3% of float can amplify moves either way",
+  "Stop and target changed from the morning 64.1/77.1 to the afternoon technical card's 67.7/76.0"
+ ],
+ "debate_winner": "draw",
+ "morning_rating": "Overweight"}
