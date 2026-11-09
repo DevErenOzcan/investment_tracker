@@ -1,0 +1,112 @@
+{
+  "as_of": "2026-11-09",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "peak_value_units": 1000,
+  "drawdown": 0.0,
+  "regime": "risk-off",
+  "regime_mult": 0.4,
+  "risk_per_trade": 0.0075,
+  "portfolio_vol": 0.004454905537482715,
+  "positions": [
+    {
+      "ticker": "CRVL",
+      "status": "new",
+      "sector": "Financial Services",
+      "price": 82.35,
+      "stop": 78.9,
+      "target": 89.76,
+      "rr": 2.15,
+      "rating": "Overweight",
+      "confidence": 0.47,
+      "kelly": 0.2232,
+      "stop_pct": 0.0419,
+      "binding": "kelly",
+      "engine_weight": 0.01,
+      "priority": 0.13394331983805735,
+      "flags": [
+        "risk-officer reduction x0.75: This is the cleanest setup, but the news feed is missing, the 8-K/10-Q content was not reviewed, the trailing P/E of 34.9 is rich after a 34.8% 63-day run in a risk-off tape, and dollar volume is thin, so it gets a modest haircut rather than silence."
+      ],
+      "amount_units": 10.0
+    },
+    {
+      "ticker": "EXEL",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 68.3,
+      "stop": 64.1,
+      "target": 77.1,
+      "rr": 2.1,
+      "rating": "Overweight",
+      "confidence": 0.47,
+      "kelly": 0.217,
+      "stop_pct": 0.0615,
+      "binding": "kelly",
+      "engine_weight": 0.0065,
+      "priority": 0.13022727272727255,
+      "flags": [
+        "risk-officer reduction x0.5: Event risk is completely unchecked for a biotech that is exposed to trial and regulatory binary events (news_7d empty, sec_filings_10d empty, profile all null), and the 11/05 reversal from 73.69 on 4.4M shares is a distribution warning with resistance between entry and target."
+      ],
+      "amount_units": 6.5
+    },
+    {
+      "ticker": "AMPH",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 27.95,
+      "stop": 26.6,
+      "target": 31.0,
+      "rr": 2.26,
+      "rating": "Overweight",
+      "confidence": 0.42,
+      "kelly": 0.1633,
+      "stop_pct": 0.0483,
+      "binding": "kelly",
+      "engine_weight": 0.0049,
+      "priority": 0.09796721311475436,
+      "flags": [
+        "risk-officer reduction x0.5: A specialty-pharma small cap with 22.08% short interest, a mean analyst target of 22.5 below the 28.49 close, debt of 691.7M against cash of 230.6M and thin FCF; the target is the 31.0 level that was just rejected, and the content of the 11/05 earnings 8-K and the litigation/approval risk cannot be checked without news."
+      ],
+      "amount_units": 4.9
+    },
+    {
+      "ticker": "KDP",
+      "status": "new",
+      "sector": "Consumer Defensive",
+      "price": 36.1,
+      "stop": 34.0,
+      "target": 39.49,
+      "rr": 1.61,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "kelly": 0.1093,
+      "stop_pct": 0.0582,
+      "binding": "kelly",
+      "engine_weight": 0.0033,
+      "priority": 0.06557522123893794,
+      "flags": [
+        "risk-officer reduction x0.5: The unexplained revenue step from 3,976M to 7,309M points to a major corporate action whose terms (leverage, integration, any separation) are not visible in the packet, and reward/risk of 1.61 only barely clears 1.5, depends on a breakout above 37.89, and pre-market 36.5 is already above the entry zone."
+      ],
+      "amount_units": 3.3
+    }
+  ],
+  "cash_weight": 0.9753,
+  "rejected": [
+    {
+      "ticker": "ASO",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "CDNA",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "MANH",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "SIBN",
+      "reason": "rating Hold: no new buy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+ "ticker": "SIBN",
+ "catalysts": [
+  {
+   "what": "Form 8-K items 2.02 (results of operations) and 9.01 filed, indicating an earnings release; content not available in packet",
+   "date": "2026-11-02",
+   "direction": "mixed",
+   "source": "https://www.sec.gov/Archives/edgar/data/1459839/000145983926000084/sibn-20261102.htm"
+  },
+  {
+   "what": "Form 10-Q for the quarter ended 2026-09-30 filed",
+   "date": "2026-11-03",
+   "direction": "mixed",
+   "source": "https://www.sec.gov/Archives/edgar/data/1459839/000145983926000086/sibn-20260930.htm"
+  }
+ ],
+ "event_risks": [
+  "News unavailable; earnings reaction and any guidance change are unknown.",
+  "No S-3/424B5 in the 10-day filings listed, but the SEC list may be incomplete given blocked fetches."
+ ],
+ "binary_event": false,
+ "news_available": false,
+ "score": 0,
+ "notes": "News unavailable: the news feed was blocked by the network this run, so news_7d is empty; this does not mean there were no events. The packet lists an 8-K (items 2.02, 9.01) filed 2026-11-02 and a 10-Q filed 2026-11-03, so earnings have just been reported, and that is probably what moved the price. The direction cannot be judged without the news or the filing text. No offering filings appear. Score is neutral."
+}

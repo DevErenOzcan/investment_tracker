@@ -1,0 +1,14 @@
+{"ticker": "EXEL",
+ "thesis": "EXEL is a quality grower, but the timing is poor. The stock reversed from its 52-week high on 11/05 on heavy volume, a distribution warning, and has stalled since, with resistance at 73.69 sitting close to the entry zone. Valuation is unknown because the profile fields are null, so there is no margin-of-safety argument. The regime is risk-off with high confidence, and a pullback entry in an uptrend can fail quickly when the index is broken. The news feed was unavailable, so event and offering risk are unchecked; this is missing data, not a binary event, and it adds uncertainty rather than a veto.",
+ "evidence": [
+  "technical: setup = pullback; close 69.57 vs 52-week high 73.69, reversal on 11/05 (high 73.69, close 68.71 on 4.4M shares) = distribution warning",
+  "technical: score = 1, held down because resistance at 73.69 is close",
+  "technical: invalidation = daily close below 64.1, or close below SMA20 65.63 on rising volume",
+  "fundamentals: valuation = unknown; yfinance profile fields all null, so margins, debt, cash, short interest and targets are unavailable",
+  "fundamentals: red_flags = SEC quarterly series has gaps and irregular dates, quarter alignment uncertain",
+  "news: news_available = false; event_risks = cannot be assessed (missing data, not the same as no events)",
+  "regime_view: regime = risk-off, confidence = 0.9; QQQ below SMA50 and SMA200, VIX 1-year percentile 0.876"
+ ],
+ "downside_case": {"level": 64.1, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

@@ -1,0 +1,32 @@
+{
+  "as_of": "2026-11-09",
+  "session": "premarket",
+  "exchange": "NASDAQ",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "regime": "risk-off",
+  "positions": [
+    {"ticker": "CRVL", "status": "new", "sector": "Financial Services", "price": 82.35,
+     "weight": 0.01, "engine_weight": 0.01, "amount_units": 10.0,
+     "entry_zone": [81.5, 83.2], "stop": 78.9, "target": 89.76, "rating": "Overweight", "confidence": 0.47,
+     "action": "buy",
+     "rationale": "Engine weight kept: cleanest setup (uptrend pulling back to SMA20, R/R 2.15, no earnings until 2027-02-02), already cut x0.75 by the risk officer for missing news, a rich multiple and thin liquidity; buy only inside the zone, nearer the midpoint."},
+    {"ticker": "EXEL", "status": "new", "sector": "Healthcare", "price": 68.3,
+     "weight": 0.0065, "engine_weight": 0.0065, "amount_units": 6.5,
+     "entry_zone": [67.0, 69.6], "stop": 64.1, "target": 77.1, "rating": "Overweight", "confidence": 0.47,
+     "action": "buy",
+     "rationale": "Engine weight kept after the risk officer's x0.5 cut for unchecked biotech event risk and the 11/05 reversal; pre-market 71.0 is above the zone, so this is a pullback-only entry and should not be chased."},
+    {"ticker": "AMPH", "status": "new", "sector": "Healthcare", "price": 27.95,
+     "weight": 0.0049, "engine_weight": 0.0049, "amount_units": 4.9,
+     "entry_zone": [27.5, 28.4], "stop": 26.6, "target": 31.0, "rating": "Overweight", "confidence": 0.42,
+     "action": "buy",
+     "rationale": "Engine weight kept after the x0.5 risk cut (22% short interest, analyst target below price, leverage, target at the just-rejected 31.0); entry only on a pullback into the zone, since the last close of 28.49 is above it."},
+    {"ticker": "KDP", "status": "new", "sector": "Consumer Defensive", "price": 36.1,
+     "weight": 0.0033, "engine_weight": 0.0033, "amount_units": 3.3,
+     "entry_zone": [35.6, 36.1], "stop": 34.0, "target": 39.49, "rating": "Overweight", "confidence": 0.45,
+     "action": "buy",
+     "rationale": "Engine weight kept after the x0.5 risk cut for unverified fundamentals and a thin R/R of 1.61; pre-market 36.5 is above the zone, so this is conditional on a pullback to 36.1 or lower and on a later breakout above 37.89."}
+  ],
+  "cash_weight": 0.9753,
+  "vetoed": []
+}

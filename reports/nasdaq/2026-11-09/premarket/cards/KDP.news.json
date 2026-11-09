@@ -1,0 +1,25 @@
+{
+ "ticker": "KDP",
+ "catalysts": [
+  {
+   "what": "Earnings 8-K (items 2.02, 9.01); results content not in packet, direction unknown",
+   "date": "2026-11-03",
+   "direction": "mixed",
+   "source": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000064/kdp-20261103.htm"
+  },
+  {
+   "what": "10-Q for quarter ended 2026-09-30 filed; content not reviewed",
+   "date": "2026-11-09",
+   "direction": "mixed",
+   "source": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000066/kdp-20260930.htm"
+  }
+ ],
+ "event_risks": [
+  "News unavailable; price-moving events outside filings unknown.",
+  "No S-3/424B5 in the last 10 days."
+ ],
+ "binary_event": false,
+ "news_available": false,
+ "score": 0,
+ "notes": "News unavailable: news_7d is empty (feed blocked), which does not mean no events. SEC filings were available: an earnings 8-K (2.02) on 2026-11-03 and the 10-Q on 2026-11-09, so the earnings event has just passed. Filing text is not in the packet, so the direction and persistence of the effect cannot be judged. No offering filings are present. Score neutral (0)."
+}

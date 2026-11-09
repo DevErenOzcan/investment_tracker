@@ -1,0 +1,8 @@
+{"ticker": "CDNA", "quality": "high", "growth": "stable", "valuation": "rich", "earnings_date": null,
+ "dilution_risk": "low", "score": 1,
+ "red_flags": ["Valuation rich: forward P/E 49.77, price/sales 8.30, EV/EBITDA 152.45; no sector ratios in packet to compare against",
+  "Net income of 110,636,000 in the quarter ended 2026-06-30 is an outlier versus 19,292,000 and 2,809,000 in adjacent quarters, so headline earnings growth (earningsGrowth 10.667) is not a clean run-rate",
+  "Sequential revenue growth is slowing (131.9M to 139.4M, about +5.6% versus +12.1% the quarter before)",
+  "Beta 2.49 and ATR 6.85% of price: high volatility",
+  "Profile fields were populated in the packet despite the run note saying they would be null; figures below are taken from the packet"],
+ "notes": "Revenue rose 39.3% YoY to 139.4M in the quarter ended 2026-09-30, with eight-quarter revenue up from 82.9M to 139.4M, but sequential growth is slowing, so growth is stable-to-strong rather than accelerating. The company is profitable (profit margin 25.9%, operating margin 8.5%, gross margin 71.0%), with free cash flow of 130.4M, cash of 250.5M against debt of 29.0M, so dilution risk is low. Valuation is rich (forward P/E 49.77, P/S 8.30), and the profit margin is flattered by the one-off-looking Q2 net income. Short interest is 13.0% of float, below the 15% squeeze threshold. Earnings were already reported on 2026-10-29 (about 7 business days ago), so there is no imminent earnings event; the next date is not in the packet."}

@@ -1,0 +1,25 @@
+{
+ "ticker": "AMPH",
+ "catalysts": [
+  {
+   "what": "Earnings 8-K (items 2.02, 9.01); results content not in packet, direction unknown",
+   "date": "2026-11-05",
+   "direction": "mixed",
+   "source": "https://www.sec.gov/Archives/edgar/data/1297184/000129718426000051/amph-20261105x8k.htm"
+  },
+  {
+   "what": "10-Q for quarter ended 2026-09-30 filed; content not reviewed",
+   "date": "2026-11-05",
+   "direction": "mixed",
+   "source": "https://www.sec.gov/Archives/edgar/data/1297184/000129718426000053/amph-20260930x10q.htm"
+  }
+ ],
+ "event_risks": [
+  "News unavailable; price-moving events outside filings unknown.",
+  "No S-3/424B5 in the last 10 days."
+ ],
+ "binary_event": false,
+ "news_available": false,
+ "score": 0,
+ "notes": "News unavailable: news_7d is empty (feed blocked), which does not mean no events. SEC filings were available: an earnings 8-K (2.02) and the 10-Q, both filed 2026-11-05, so earnings have just been reported. Filing text is not in the packet, so direction and persistence cannot be judged. No offering filings are present. Score neutral (0)."
+}

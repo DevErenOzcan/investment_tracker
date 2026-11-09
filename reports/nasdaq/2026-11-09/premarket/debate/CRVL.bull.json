@@ -1,0 +1,21 @@
+{"ticker": "CRVL",
+ "thesis": "CRVL is a clean uptrend pulling back to its SMA20 inside a risk-off tape, which is relative strength when QQQ is below both its averages. Fundamentals are high quality and improving: growth is accelerating, margins and ROE are solid, cash far exceeds debt, and dilution risk is low. The entry zone 81.5-83.2 does not chase the 52-week high, the stop sits just under the 79.19 swing low, and the target at the prior high gives about 2.2 reward/risk. Earnings are 61 business days away, so no event risk falls inside a swing horizon. The main weaknesses are a rich valuation, a market that is risk-off, and unknown content of the just-filed earnings 8-K, so this is a moderate-conviction setup rather than a high-conviction one.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = pullback",
+  "technical: entry_zone = [81.5, 83.2]",
+  "technical: stop = 78.9",
+  "technical: target = 89.76",
+  "technical: reward_risk = 2.2",
+  "technical: notes = close 83.16 above SMA20 82.11, SMA50 76.13 and SMA200 62.85; RSI14 57.9, volume ratio 1.25",
+  "fundamentals: quality = high",
+  "fundamentals: growth = accelerating",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: notes = revenue YoY 11.5%, net income YoY 22.2%, operating margin 17.2%, ROE 30.6%, cash 270.0M vs debt 33.1M",
+  "fundamentals: earnings_date = 2027-02-02",
+  "news: binary_event = false",
+  "news: event_risks = No S-3/424B5 in the last 10 days.",
+  "regime_view: regime = risk-off (the pullback holds an uptrend while QQQ is below its 50-day and 200-day averages)"
+ ],
+ "upside_case": {"target": 89.76, "probability": 0.4},
+ "rebuttal_to_bear": null}

@@ -1,0 +1,31 @@
+{
+  "finalists": [
+    {"ticker": "EXEL", "why": "Biotech (leading XLV) in a clean uptrend with ext_20 6.0%, RSI 66, 5.6% below the 52-week high and volume ratio 1.56.", "watch": "Headlines were unavailable, so binary event risk (trial data, litigation) is unchecked; the risk-off tape could hit growth-sensitive biotech."},
+    {"ticker": "KDP", "why": "Consumer Defensive (leading XLP) name in a trend-4 uptrend with ext_20 4.9%, RSI 64, 3.3% from the high and volume ratio 1.97.", "watch": "The reported revenue growth of 70.6% looks like a corporate-action artifact, so fundamentals are unverified; headlines are missing."},
+    {"ticker": "AMPH", "why": "Healthcare specialty pharma with a trend-4 uptrend, ext_20 7.3%, RSI 67 and volume ratio 1.29, not over-extended.", "watch": "Small cap with thin dollar volume (about 11.7M), so slippage and gap risk are higher; the earnings reaction on 2026-11-05 has already passed."},
+    {"ticker": "CRVL", "why": "Insurance services name with a controlled setup: ext_20 1.3%, RSI 58, 7.4% below the high, low ATR 3.3%, no earnings until 2027-02-02.", "watch": "Thin dollar volume (about 14.2M) and weaker momentum than peers; no headlines were available to check for event risk."},
+    {"ticker": "CDNA", "why": "Strong relative strength (rs_63 0.76) with a 63-day return of 66.9%, ext_20 8.0% and RSI 59, pulling back from the highs after earnings.", "watch": "High volatility (ATR 6.9%), a 5-day return of -10.1% and 13.5% below the high, so the post-earnings pullback may continue; sector and industry are null."},
+    {"ticker": "SIBN", "why": "Medical device breakout with ext_20 13.1%, RSI 67 and an elevated volume ratio of 2.43 following earnings on 2026-11-02.", "watch": "ext_20 is close to the 15% limit after a 14.2% 5-day gain, so it is prone to a pullback; negative forward P/E and a small cap."},
+    {"ticker": "ASO", "why": "Trend-4 uptrend 3.4% from the high with ext_20 11.8% and no earnings until 2026-12-08, so there is no near-term event risk.", "watch": "RSI is 74 and the 5-day return is 13.6% on a below-average volume ratio of 0.90; Consumer Cyclical is not a leading sector in a risk-off regime."},
+    {"ticker": "MANH", "why": "Large, liquid software name (dollar volume about 229M) with ext_20 6.2%, RSI 68, 4.1% below the high and earnings already reported on 2026-10-27.", "watch": "Technology/XLK is a lagging sector in a risk-off regime with a high forward P/E of 40.9, so it is vulnerable to further tech weakness."}
+  ],
+  "dropped": [
+    {"ticker": "BRZE", "why": "RSI 81.4 is above the 78 limit, so it is overbought."},
+    {"ticker": "CERT", "why": "ext_20 is 15.2%, above the 15% over-extension limit."},
+    {"ticker": "GMAB", "why": "ext_20 is 16.8%, above the 15% limit, and the 5-day return is -6.0%."},
+    {"ticker": "APPN", "why": "Good setup but cut for diversification and sector preference; the software slot went to the more liquid MANH while the tech sector lags."},
+    {"ticker": "VERX", "why": "ext_20 is 15.7%, above the 15% limit, and it sits 15.4% below the high."},
+    {"ticker": "KOD", "why": "Earnings on 2026-11-12 fall within the next 3 business days, and the volume ratio is only 0.44."},
+    {"ticker": "HTFL", "why": "Earnings on 2026-11-12 fall within the next 3 business days; RSI is 47.6 and the 5-day return is -11.3%."},
+    {"ticker": "BSY", "why": "RSI 80.1 is above the 78 limit, so it is overbought."},
+    {"ticker": "SDGR", "why": "ext_20 is 14.4% with ATR 7.4% and weak volume (0.72), so the risk-reward is poor next to the cleaner healthcare picks."},
+    {"ticker": "FLYW", "why": "Technology is a lagging sector; ext_20 is 11.8% after a 9.5% 5-day gain, so it was cut in favour of leading-sector names."},
+    {"ticker": "CBLL", "why": "Trend score is only 3 with RSI 51.9 and ATR 6.5%, so it is not a clean uptrend or breakout."},
+    {"ticker": "ARHS", "why": "ext_20 is 24.2% and RSI 76.4, so it is badly over-extended."},
+    {"ticker": "AMPL", "why": "Technology is a lagging sector with a 5-day return of -2.2% and 11.4% below the high; the forward P/E of 98.6 is stretched."},
+    {"ticker": "XERS", "why": "ext_20 is 40.2% and RSI 82.4 after a 41.9% 5-day spike, so it is extremely over-extended."},
+    {"ticker": "SEZL", "why": "ATR 7.6% and 23.6% below the high show a damaged, high-volatility chart that is not a clean setup."},
+    {"ticker": "SLN", "why": "Earnings are today (2026-11-09), RSI 78.06 is above the limit, and ext_20 is 15.6%."},
+    {"ticker": "REPL", "why": "ext_20 is 46.1% and RSI 79.9, so it is extremely over-extended."}
+  ]
+}

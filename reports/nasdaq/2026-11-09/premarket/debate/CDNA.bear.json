@@ -1,0 +1,17 @@
+{"ticker": "CDNA",
+ "thesis": "CDNA is a rich-valuation, high-beta name being bought into a confirmed risk-off tape, after a gap-up spike that has already started to unwind on elevated volume. The quality is real, but forward P/E of 49.77 and P/S of 8.30 leave little room, the headline profit margin is flattered by an outlier quarter, and sequential revenue growth is decelerating. Reward/risk of about 1.4 to the 52-week high is thin for a stock with ATR of 6.85% of price and beta 2.49 while QQQ is below both its 50- and 200-day averages. News and SEC filings were not checked this run, so offering and event risk are unassessed, which is missing information and not a finding of danger, but it argues against sizing up.",
+ "evidence": [
+  "fundamentals: valuation = rich (forward P/E 49.77, price/sales 8.30, EV/EBITDA 152.45)",
+  "fundamentals: red_flags = Q2 net income 110,636,000 is an outlier versus 19,292,000 and 2,809,000, so earningsGrowth 10.667 is not a clean run-rate",
+  "fundamentals: red_flags = sequential revenue growth slowing, about +5.6% versus +12.1% the quarter before",
+  "fundamentals: red_flags = beta 2.49, ATR 6.85% of price",
+  "fundamentals: short interest = 13.0% of float, a meaningful short base and a sign of skeptics",
+  "technical: reward_risk = 1.4, score capped at +1",
+  "technical: pullback of about 13.5% in four sessions from the 90.87 high, with 2.06M volume on 11/5, so distribution is a risk",
+  "technical: invalidation = daily close below 67.9, or a close under 71.52 meaning the gap is fully filled",
+  "news: news_available = false, event_risks = offering, litigation and event risk cannot be assessed",
+  "regime_view: regime = risk-off, confidence = 0.9; QQQ 21-day return -12.24%, VIX 1-year percentile 0.876"
+ ],
+ "downside_case": {"level": 71.52, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

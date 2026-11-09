@@ -1,0 +1,14 @@
+{"ticker": "EXEL", "rating": "Overweight", "confidence": 0.47,
+ "entry": 68.3, "entry_zone": [67.0, 69.6], "stop": 64.1, "target": 77.1, "horizon_days": 10,
+ "expected_return": {"low": -0.061, "high": 0.129},
+ "sector": "Healthcare", "earnings_date": "2026-10-29",
+ "thesis": "EXEL is in a clean uptrend (close 69.57 above SMA20 65.63, SMA50 60.92 and SMA200 51.57, rs_63 +0.40), with steady profitable growth (latest quarter revenue +10.2% YoY) and earnings already past on 2026-10-29. It is in Healthcare, a sector leading in the current risk-off regime (XLV 21-day +9.9%), so relative strength is backed by sector rotation. Reward/risk from the 68.3 mid-entry to the 77.1 target against the 64.1 stop is about 2.1, which clears the 1.5 bar, but the 11/05 reversal from 73.69 on 4.4M shares, nearby resistance and missing news hold the rating to Overweight rather than Buy.",
+ "invalidation": "Daily close below 64.1, or a close below SMA20 (65.63) on rising volume.",
+ "key_risks": [
+  "News feed was blocked this run and sec_filings_10d is empty, so event and offering risk are unassessed (missing data, not absence of events)",
+  "Distribution warning: 11/05 reversal from the 52-week high 73.69 to close 68.71 on 4.4M shares, with resistance at 73.69 between entry and target",
+  "Regime is risk-off with confidence 0.9 (QQQ 21-day -12.24%, VIX percentile 0.876); a broad sell-off can break pullback entries",
+  "Pre-market price 71.0 is above the 67.0-69.6 entry zone; do not chase, enter only on a pullback into the zone",
+  "Valuation context is thin: profile fields were null in the packet and the SEC quarterly series has gaps"
+ ],
+ "debate_winner": "draw"}

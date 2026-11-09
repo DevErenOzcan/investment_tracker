@@ -1,0 +1,22 @@
+{"ticker": "AMPH",
+ "thesis": "AMPH is a clean uptrend with accelerating fundamentals and a cheap valuation, which is rare in a risk-off tape where QQQ is below its 50- and 200-day averages. Quarterly revenue growth has stepped up from 0.4% to 5.4% to 8.2% YoY and Q3 net income recovered sharply, yet forward P/E is only 8.57. The entry is deliberately set on a pullback to 27.5-28.4 rather than chasing the rejected 31.0 spike, giving a reward/risk of 2.26 with a defined invalidation at 26.6. This is a moderate, not a high-conviction, thesis: the regime is hostile, news is unavailable, short interest is high and the post-earnings run may be partly priced in, so it should only be acted on if the pullback entry fills.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = pullback",
+  "technical: entry_zone = [27.5, 28.4]",
+  "technical: stop = 26.6",
+  "technical: target = 31.0",
+  "technical: reward_risk = 2.26",
+  "technical: invalidation = Daily close below 26.6 (under the 2 Nov low of 26.69 and the 27.0-27.1 consolidation)",
+  "technical: notes = close 28.49 above SMA20 26.55, SMA50 25.35 and SMA200 22.29, RSI14 66.7",
+  "fundamentals: growth = accelerating",
+  "fundamentals: valuation = cheap",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: notes = revenue YoY growth 0.4% (Q1) to 5.4% (Q2) to 8.2% (Q3); net income 37.8M in Q3 vs 17.4M a year earlier; forward P/E 8.57, EV/EBITDA 8.45, operating margin 24.46%",
+  "fundamentals: red_flags = Short interest 22.08% of float: squeeze potential and higher volatility",
+  "news: event_risks = No S-3/424B5 in the last 10 days.",
+  "news: binary_event = false",
+  "news: catalysts = Earnings 8-K and 10-Q filed 2026-11-05, so no earnings event ahead"
+ ],
+ "upside_case": {"target": 31.0, "probability": 0.4},
+ "rebuttal_to_bear": null}

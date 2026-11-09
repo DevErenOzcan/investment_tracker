@@ -1,0 +1,11 @@
+{
+ "ticker": "CDNA",
+ "catalysts": [],
+ "event_risks": [
+  "News and SEC filings unavailable (fetch blocked); offering, litigation and event risk cannot be assessed."
+ ],
+ "binary_event": false,
+ "news_available": false,
+ "score": 0,
+ "notes": "News unavailable: the news feed was blocked by the network this run, so news_7d is empty; this does not mean there were no events. The SEC filings fetch was also blocked, so sec_filings_10d is empty and S-3/424B5 offering risk could not be checked. No catalyst can be identified, so the score is neutral by default, not a finding of no events."
+}

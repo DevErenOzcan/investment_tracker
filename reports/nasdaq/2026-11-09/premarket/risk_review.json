@@ -1,0 +1,27 @@
+{
+  "vetoes": [],
+  "reductions": [
+    {
+      "ticker": "EXEL",
+      "factor": 0.5,
+      "reason": "Event risk is completely unchecked for a biotech that is exposed to trial and regulatory binary events (news_7d empty, sec_filings_10d empty, profile all null), and the 11/05 reversal from 73.69 on 4.4M shares is a distribution warning with resistance between entry and target."
+    },
+    {
+      "ticker": "AMPH",
+      "factor": 0.5,
+      "reason": "A specialty-pharma small cap with 22.08% short interest, a mean analyst target of 22.5 below the 28.49 close, debt of 691.7M against cash of 230.6M and thin FCF; the target is the 31.0 level that was just rejected, and the content of the 11/05 earnings 8-K and the litigation/approval risk cannot be checked without news."
+    },
+    {
+      "ticker": "KDP",
+      "factor": 0.5,
+      "reason": "The unexplained revenue step from 3,976M to 7,309M points to a major corporate action whose terms (leverage, integration, any separation) are not visible in the packet, and reward/risk of 1.61 only barely clears 1.5, depends on a breakout above 37.89, and pre-market 36.5 is already above the entry zone."
+    },
+    {
+      "ticker": "CRVL",
+      "factor": 0.75,
+      "reason": "This is the cleanest setup, but the news feed is missing, the 8-K/10-Q content was not reviewed, the trailing P/E of 34.9 is rich after a 34.8% 63-day run in a risk-off tape, and dollar volume is thin, so it gets a modest haircut rather than silence."
+    }
+  ],
+  "portfolio_notes": "The engine is only about 4.3% invested (cash 0.9572) after the risk-off multiplier of 0.4, so the numeric limits are far from binding. The hidden concentration is a single theme: all four names are bets that the defensive rotation will continue (two Healthcare names worth 0.0228 combined, plus Consumer Defensive and insurance services), so a risk-on reversal or a rebound in XLK/SMH would hit them together. Every candidate is a post-earnings or near-high setup with news unavailable, so event risk could not be verified for any name; the reductions above reflect that missing data rather than identified events. No vetoes were needed because no confirmed binary event, offering filing or earnings inside the blackout was found.",
+  "held_alerts": []
+}

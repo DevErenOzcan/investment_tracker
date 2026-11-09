@@ -1,0 +1,20 @@
+{"ticker": "KDP",
+ "thesis": "KDP is in a clean, confirmed uptrend with strong relative strength, and it is one of the few names holding up in a risk-off tape, which fits the defensive-staples leadership in the regime view. Earnings are already out (2026-11-03) and the 10-Q is filed, so there is no earnings event risk in the swing window, and reported growth and profitability are accelerating with low dilution risk. The forward P/E sits well below the trailing P/E, implying expected earnings growth. The setup is only a modest one: reward/risk is 1.6 and the target needs a breakout through the 52-week high, so the thesis rests on a pullback entry inside the zone and not on chasing.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = trend-continuation",
+  "technical: entry_zone = [35.6, 36.63]",
+  "technical: stop = 34.0",
+  "technical: target = 39.49",
+  "technical: reward_risk = 1.6",
+  "technical: notes = close 36.63 above SMA20 34.93, SMA50 32.78 and SMA200 29.87, +26% 63-day return, rs_63 0.35, RSI14 64, volume ratio 1.97",
+  "fundamentals: growth = accelerating",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: earnings_date = 2026-11-03 (no earnings event risk in the swing window)",
+  "fundamentals: notes = trailing P/E 33.0 against forward P/E 14.4; profitable in every quarter shown",
+  "news: binary_event = false",
+  "news: event_risks = No S-3/424B5 in the last 10 days.",
+  "regime_view: leading_sectors = XLV, XLP, XLRE (defensives lead, supportive of a beverage/staples name)"
+ ],
+ "upside_case": {"target": 39.49, "probability": 0.35},
+ "rebuttal_to_bear": null}

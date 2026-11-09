@@ -1,0 +1,5 @@
+{"ticker": "CRVL", "setup": "pullback", "trend": "up",
+ "entry_zone": [81.5, 83.2], "stop": 78.9, "target": 89.76, "reward_risk": 2.2, "atr": 2.705,
+ "invalidation": "Daily close below 78.9 (under the 79.19 swing low of 2026-11-03) or a close below the SMA50 at 76.13 voids the uptrend structure.",
+ "score": 1,
+ "notes": "Clear uptrend: close 83.16 above SMA20 82.11, SMA50 76.13 and SMA200 62.85, with weekly closes rising from 57 to 83 and 63-day relative strength of +0.44. The stock is pulling back from the 89.76 52-week high set on 2026-11-05 (the last two sessions were lower, close 7.4% below the high), with RSI14 at 57.9 and volume ratio 1.25, so momentum is healthy but not stretched. Entry zone 81.5-83.2 sits at the SMA20 and does not chase the high. Stop 78.9 is just below the 79.19 swing low and about 3.4 below the zone midpoint of 82.35, well inside the 2.5 x ATR limit (6.76). Target is the 89.76 52-week high for roughly 2.2 reward/risk; the 11-03 reversal bar on 441,800 shares and the failed push to 89.76 are mild cautions."}

@@ -1,0 +1,5 @@
+{"ticker": "KDP", "setup": "trend-continuation", "trend": "up",
+ "entry_zone": [35.6, 36.63], "stop": 34.0, "target": 39.49, "reward_risk": 1.6, "atr": 1.064,
+ "invalidation": "Daily close below 34.0 (under the 10-day swing low of 34.28), or a failed breakout with a close back below SMA20 (about 34.9).",
+ "score": 1,
+ "notes": "Clean uptrend: close 36.63 above SMA20 34.93, SMA50 32.78 and SMA200 29.87, with a +26% 63-day return and strong relative strength (rs_63 0.35). RSI14 of 64 and volume ratio of 1.97 confirm momentum, but price is 4.9% above SMA20 and 3.3% below the 52-week high of 37.89, so chasing is unattractive; the entry zone is 35.6 to 36.63 on a minor pullback. The stop of 34.0 sits just under the 10-day swing low 34.28 and is inside the 2.5 x ATR limit (about 33.4 from the zone midpoint 36.1). The target of 39.49 is the 52-week high plus 1.5 ATR; a target at the 37.89 high alone would give reward/risk below 1, so the trade depends on a breakout through resistance."}

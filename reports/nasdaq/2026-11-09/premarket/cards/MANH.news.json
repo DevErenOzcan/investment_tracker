@@ -1,0 +1,19 @@
+{
+ "ticker": "MANH",
+ "catalysts": [
+  {
+   "what": "Form 10-Q for the quarter ended 2026-09-30 filed (no item codes)",
+   "date": "2026-10-30",
+   "direction": "mixed",
+   "source": "https://www.sec.gov/Archives/edgar/data/1056696/000119312526441094/manh-20260930.htm"
+  }
+ ],
+ "event_risks": [
+  "News unavailable; the earnings reaction, guidance and any 8-K event are unknown (no 8-K appears in the packet).",
+  "No S-3/424B5 in the listed filings."
+ ],
+ "binary_event": false,
+ "news_available": false,
+ "score": 0,
+ "notes": "News unavailable: the news feed was blocked by the network this run, so news_7d is empty; this does not mean there were no events. The only item in the packet is the 10-Q filed 2026-10-30, which implies the quarterly report is out and the next earnings event is likely months away. Its content and the market reaction cannot be judged here. No offering filings are listed. Score is neutral."
+}

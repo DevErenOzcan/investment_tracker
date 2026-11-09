@@ -1,0 +1,17 @@
+{"ticker": "CRVL",
+ "thesis": "CRVL has run a long way, and the entry sits in a risk-off tape where high-multiple winners are exposed to a de-rating. Valuation is rich with no peer or forward context, and the stock is up 34.8% over 63 days, so good news is largely priced in. The earnings 8-K and 10-Q were filed days ago with content unreviewed, so whether the 11-03 reversal bar and the failed push to the 52-week high reflect a disappointing print is unknown; this is missing data, not a binary event. The target is the same 89.76 high that just failed, and a close under the 78.9 stop or the SMA50 would void the uptrend structure.",
+ "evidence": [
+  "regime_view: regime = risk-off, confidence 0.9; QQQ below its 50- and 200-day averages",
+  "fundamentals: valuation = rich",
+  "fundamentals: red_flags = Trailing P/E 34.9 and EV/EBITDA 20.2 are demanding; no forward P/E or analyst target in packet",
+  "fundamentals: red_flags = Stock is up 34.8% over 63 days, so good news is largely priced in",
+  "news: news_available = false (price-moving events outside filings unknown)",
+  "news: catalysts = Earnings 8-K 2026-11-03, results content not in packet, direction unknown",
+  "technical: notes = the 11-03 reversal bar on 441,800 shares and the failed push to 89.76 are mild cautions",
+  "technical: notes = the last two sessions were lower, close 7.4% below the high",
+  "technical: invalidation = daily close below 78.9 or a close below the SMA50 at 76.13 voids the uptrend structure",
+  "fundamentals: notes = short interest is 11.0% of float, below the 15% threshold (no squeeze support either way)"
+ ],
+ "downside_case": {"level": 76.13, "probability": 0.3},
+ "rebuttal_to_bull": "The bull reads the pullback as relative strength, but the stock is down two sessions from a failed high and the cards cannot say whether the 11-03 earnings reaction was negative; the 'no event risk' point only covers the next earnings date, not the unreviewed print. Reward/risk of about 2.2 depends on the target breaking the exact high that just rejected price. Risk-off regimes compress rich multiples, and quality and growth do not protect a P/E of 34.9 after a 34.8% run. The bull itself concedes valuation, regime and the unknown 8-K are weaknesses.",
+ "dealbreaker": false}

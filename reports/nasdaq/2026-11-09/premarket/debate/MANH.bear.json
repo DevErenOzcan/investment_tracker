@@ -1,0 +1,17 @@
+{"ticker": "MANH",
+ "thesis": "MANH is a high-quality grower, but the entry is poor on timing and price. Valuation is rich (forward P/E 40.9, P/S 12.7) and the stock is extended after a gap-up (RSI14 67.7, 6.2% above SMA20) while the tape is risk-off with technology the lagging sector (XLK, SMH sharply down, QQQ below its 50- and 200-day averages). Reward/risk from the entry zone is only about 1.21, thin compensation for a high-beta software name in a regime where multiples compress first. Earnings growth (+4.6% YoY) lags revenue growth (+11.0%), so the premium multiple is not backed by earnings acceleration. News was unavailable this run, so the reaction to the 10-Q and the earnings report is unknown; this is missing data, not a binary event, and it argues for smaller size rather than a veto.",
+ "evidence": [
+  "fundamentals: valuation = rich",
+  "fundamentals: red_flags = forward P/E 40.9, trailing P/E 70.8, P/S 12.7, no sector comparison in packet",
+  "fundamentals: red_flags = net income growth 4.6% YoY lags revenue growth 11.0% YoY",
+  "technical: reward_risk = 1.21",
+  "technical: notes = RSI14 67.7, price 6.2% above SMA20, somewhat extended",
+  "technical: target 272.0 vs stop 230.9 around entry zone 247.0-252.0",
+  "regime_view: regime = risk-off, confidence = 0.9",
+  "regime_view: lagging_sectors = XLK, XLC, XLE",
+  "regime_view: QQQ 21-day return -12.24%, below SMA50 and SMA200",
+  "news: news_available = false; earnings reaction, guidance and any 8-K unknown (missing data)"
+ ],
+ "downside_case": {"level": 220.5, "probability": 0.3},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

@@ -1,0 +1,20 @@
+{"ticker": "CDNA",
+ "thesis": "CDNA is in a clean uptrend with high-quality, profitable, cash-rich fundamentals, and the pullback from the 10/30 gap-up has been orderly, with volume drying up as price held the 75.8 area. Buying in the 75.8-79.0 entry zone avoids chasing and puts the stop under a defined swing low. Revenue growth of 39.3% YoY with low dilution risk supports a retest of the 52-week high. The case is only moderate, though: reward/risk is a modest 1.4, valuation is rich, the market regime is risk-off, and the news feed was blocked so offering risk is unchecked, so any position should be small.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = pullback",
+  "technical: entry_zone = [75.8, 79.0]",
+  "technical: stop = 67.9",
+  "technical: target = 90.87",
+  "technical: reward_risk = 1.4",
+  "technical: notes = close 78.56 above SMA20 (72.75), SMA50 (63.23), SMA200 (35.20); RSI14 at 59; volume dried up to 1.13M on 11/6 as price held 75.8",
+  "fundamentals: quality = high",
+  "fundamentals: growth = stable",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: notes = revenue rose 39.3% YoY to 139.4M; free cash flow 130.4M; cash 250.5M against debt 29.0M; short interest 13.0% of float, below the 15% squeeze threshold",
+  "fundamentals: earnings_date = null (earnings already reported 2026-10-29, no imminent earnings event)",
+  "news: news_available = false (no catalyst or event risk can be confirmed either way; neutral, not supportive)",
+  "regime_view: regime = risk-off (headwind; the stock is holding up against a falling QQQ, but this argues for small size)"
+ ],
+ "upside_case": {"target": 90.87, "probability": 0.35},
+ "rebuttal_to_bear": null}

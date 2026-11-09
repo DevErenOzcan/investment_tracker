@@ -1,0 +1,5 @@
+{"ticker": "SIBN", "quality": "medium", "growth": "stable",
+ "valuation": "fair", "earnings_date": null,
+ "dilution_risk": "low", "score": 1,
+ "red_flags": ["Still loss-making (profit margin -6.2%, operating margin -7.8%), though losses are narrowing", "Q3 2026 revenue (55.704M) slipped slightly vs Q2 2026 (56.010M)", "Quarterly revenue series in the packet has gaps, so the acceleration read is approximate"],
+ "notes": "Revenue grew 14.5% YoY (SEC) with a 79.4% gross margin, and quarterly net loss has narrowed from -6.152M (Q2 2025) to -3.620M (Q3 2026), so growth looks stable with improving profitability. Free cash flow is about -1.17M against 146.26M cash and 42.80M debt, so dilution risk is low. Price/sales is 4.96 and forward P/E is not meaningful (negative); sector peer ratios are not in the packet, so valuation is judged fair rather than compared. Short interest is 12.2% of float, below the 15% squeeze threshold; mean analyst target is 26.44 vs a 24.24 close. The last earnings report was 2026-11-02 (5 business days ago, 10-Q filed 2026-11-03), so no earnings event is pending and the next date is unknown."}

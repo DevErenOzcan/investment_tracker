@@ -1,0 +1,19 @@
+{"ticker": "SIBN",
+ "thesis": "SIBN is extended after a gap-up and spike to the 52-week high of 25.92, with volume fading to 0.68M in the last two sessions, so buying now means paying up after the move rather than before it. The technical card itself calls the setup only moderate (reward_risk 1.4) and says not to chase, and the stop is capped well below the structural gap-day low. The company is still loss-making with a sequential revenue dip, and the cause of the earnings-driven move is unknown because news was unavailable, which is missing data and not a binary event. The regime is risk-off with QQQ below its 50- and 200-day averages and growth/tech names leading the decline, which raises the odds that a pullback extends into the gap rather than holding the entry zone.",
+ "evidence": [
+  "technical: reward_risk = 1.4",
+  "technical: notes = Price is extended (13% above SMA20, RSI14 66.8), volume faded to 0.68M in last two sessions, do not chase",
+  "technical: invalidation = close back inside the 11-03 gap (below ~23.0) on rising volume",
+  "technical: stop = 21.15 vs structural gap-day low 19.07, so stop is capped and a gap fill is not covered",
+  "fundamentals: red_flags = Still loss-making (profit margin -6.2%, operating margin -7.8%)",
+  "fundamentals: red_flags = Q3 2026 revenue (55.704M) slipped slightly vs Q2 2026 (56.010M)",
+  "fundamentals: valuation = fair, price/sales 4.96, forward P/E not meaningful (negative), no peer comparison in packet",
+  "fundamentals: notes = Short interest 12.2% of float, mean analyst target 26.44 vs 24.24 close (limited upside)",
+  "news: news_available = false (earnings reaction and guidance direction unknown; missing data, not a binary event)",
+  "news: catalysts = 8-K item 2.02 on 2026-11-02 and 10-Q on 2026-11-03, direction mixed, content not in packet",
+  "regime_view: regime = risk-off, confidence = 0.9",
+  "regime_view: evidence = QQQ below 200-day and 50-day averages, QQQ 21-day return -12.24%, VIX 1-year percentile 0.876"
+ ],
+ "downside_case": {"level": 21.15, "probability": 0.3},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

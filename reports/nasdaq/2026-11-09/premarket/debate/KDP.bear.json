@@ -1,0 +1,18 @@
+{
+ "ticker": "KDP",
+ "thesis": "The setup is a chase in a risk-off tape: price sits 4.9% above SMA20 and just under the 52-week high, so the entry zone requires a pullback that has not happened. The reward/risk of 1.6 depends entirely on a breakout through 37.89 resistance, since a target at the high alone gives reward/risk below 1. Fundamentals are unverified: the revenue step from Q1 to Q2 2026 is unexplained, Q3 net income may include one-offs, and leverage, margins and sector valuation are null. News was unavailable, so the post-earnings reaction and any non-filing events are unknown, which is missing data and not a binary event. With QQQ below its 50- and 200-day averages and VIX at a high percentile, breakouts are more likely to fail.",
+ "evidence": [
+  "technical: entry_zone = [35.6, 36.63], close is 4.9% above SMA20 (34.93)",
+  "technical: reward_risk = 1.6, target 39.49 requires breakout above the 52-week high 37.89",
+  "fundamentals: valuation = unknown",
+  "fundamentals: red_flags = revenue step 3,976M to 7,309M unexplained; net income erratic (270M, 142M, 882M); debt, cash, margins null",
+  "news: news_available = false; filing content not reviewed, direction mixed",
+  "regime_view: regime = risk-off, confidence = 0.9; QQQ below 50- and 200-day averages"
+ ],
+ "downside_case": {
+  "level": 34.0,
+  "probability": 0.35
+ },
+ "rebuttal_to_bull": null,
+ "dealbreaker": false
+}

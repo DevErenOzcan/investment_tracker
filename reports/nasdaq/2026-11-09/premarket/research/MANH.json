@@ -1,0 +1,8 @@
+{"ticker": "MANH", "rating": "Hold", "confidence": 0.42,
+ "entry": 249.5, "entry_zone": [247.0, 252.0], "stop": 230.9, "target": 272.0, "horizon_days": 10,
+ "expected_return": {"low": -0.0745, "high": 0.0902},
+ "sector": "Technology", "earnings_date": null,
+ "thesis": "MANH is a high-quality, accelerating grower in a clean uptrend (close 252.78 above SMA20 238.0, SMA50 220.5 and SMA200 168.5, with rs_63 +0.38), but the setup does not pay enough. From the 249.5 zone midpoint the reward/risk is only about 1.21 (target 272.0, stop 230.9), below the 1.5 Buy floor; break-even needs about 45% odds, and a risk-off regime (confidence 0.9) with XLK lagging, RSI14 67.7 and price 6.2% above SMA20 put the odds slightly below that. Missing news is treated as unpriced event risk: the reaction to the 2026-10-27 earnings report and any 8-K could not be checked, which argues against adding exposure.",
+ "invalidation": "Hold turns constructive only on a reset that lifts reward/risk to at least 1.5 (for example a pullback toward the 238.0 SMA20 that holds above the 231.73 swing low) together with QQQ regaining its 50-day average; a daily close below 230.9 breaks the trend.",
+ "key_risks": ["Risk-off regime with technology the lagging sector (XLK 21-day -16.71%, QQQ below SMA50 and SMA200)", "Rich valuation (forward P/E 40.9, P/S 12.7) that is exposed to multiple compression", "Extended after the gap-up (RSI14 67.7, 6.2% above SMA20, 4.1% below the 263.47 52-week high)", "News feed unavailable this run: earnings reaction, guidance and any 8-K are unknown", "Net income growth (+4.6% YoY) lags revenue growth (+11.0% YoY)"],
+ "debate_winner": "bear"}

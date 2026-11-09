@@ -1,0 +1,22 @@
+{"ticker": "MANH",
+ "thesis": "MANH is a clean uptrend holding up against a risk-off tape: price is above its 20-, 50- and 200-day averages, and a post-earnings gap-up on heavy volume has held. Fundamentals back the move, with revenue growth accelerating for three straight quarters, high quality, strong margins, and low dilution risk. The setup is a pullback entry (247-252) with a defined stop below the swing low, so risk is controlled. The case is limited by a rich valuation, extension near the 52-week high, a modest reward/risk of about 1.2, and a risk-off regime, so this is a measured long, not a high-conviction one.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = trend-continuation",
+  "technical: score = 1",
+  "technical: entry_zone = [247.0, 252.0]",
+  "technical: stop = 230.9",
+  "technical: target = 272.0",
+  "technical: reward_risk = 1.21",
+  "technical: notes = close 252.78 above SMA20 (238.0), SMA50 (220.5), SMA200 (168.5); gap-up on heavy volume 2026-10-28/29 held; 63-day relative strength +0.38",
+  "fundamentals: growth = accelerating",
+  "fundamentals: quality = high",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: notes = revenue YoY 7.4% -> 9.3% -> 11.0%; operating margin 26.5%; free cash flow 324.7M; cash 199.4M vs debt 51.7M; short interest 7.4% of float",
+  "fundamentals: earnings_date = null (last report 2026-10-27 already passed, no near-term earnings event)",
+  "news: binary_event = false",
+  "news: score = 0 (neutral; news_available = false, so no negative news is confirmed)",
+  "regime_view: regime = risk-off (headwind acknowledged; lagging_sectors includes XLK)"
+ ],
+ "upside_case": {"target": 272.0, "probability": 0.45},
+ "rebuttal_to_bear": null}

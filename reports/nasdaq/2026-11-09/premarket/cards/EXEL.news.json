@@ -1,0 +1,11 @@
+{
+ "ticker": "EXEL",
+ "catalysts": [],
+ "event_risks": [
+  "News unavailable and no SEC filings in packet; event risk cannot be assessed (not the same as no events)."
+ ],
+ "binary_event": false,
+ "news_available": false,
+ "score": 0,
+ "notes": "News unavailable: news_7d is empty because the feed fetch was blocked, which does not mean there are no events. sec_filings_10d is also empty, so no filing-based catalysts or offering risk (S-3/424B5) could be checked. No catalyst can be identified from the packet. Score is neutral (0) because of missing data, not a judgement of no news."
+}

@@ -1,0 +1,6 @@
+{"ticker": "CDNA", "setup": "pullback", "trend": "up",
+ "entry_zone": [75.8, 79.0], "stop": 67.9, "target": 90.87,
+ "reward_risk": 1.4, "atr": 5.38,
+ "invalidation": "Daily close below 67.9 (under the 10-day swing low of 68.33, which is also the Oct 26 low and below the 10/30 gap-up open area), or a close back under 71.52, the pre-gap close, which would mean the gap is fully filled.",
+ "score": 1,
+ "notes": "Trend is up on all measures: close 78.56 is above SMA20 (72.75), SMA50 (63.23) and SMA200 (35.20), with 63-day relative strength of +0.76 and RSI14 at 59. The stock gapped from 71.52 to a 90.87 high on 10/30 on 3.55M shares, then gave back about 13.5% over four sessions; the pullback was on elevated volume (2.06M on 11/5), so distribution is a risk but volume dried up to 1.13M on 11/6 as price held 75.8. Entry zone 75.8-79.0 sits on the last close and the 11/5 low, which avoids chasing. Stop 67.9 is just under the 10-day swing low 68.33 and is 9.5 below a 77.4 mid-entry, inside the 2.5 x ATR cap of 13.5. Target is the 90.87 52-week high, giving reward/risk of about 1.4, which is modest, so the score is capped at +1; the setup improves if price is bought nearer 76. ATR is 6.9% of price, so position size should be small."}

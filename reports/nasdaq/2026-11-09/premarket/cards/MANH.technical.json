@@ -1,0 +1,6 @@
+{"ticker": "MANH", "setup": "trend-continuation",
+ "trend": "up", "entry_zone": [247.0, 252.0], "stop": 230.9, "target": 272.0,
+ "reward_risk": 1.21, "atr": 8.58,
+ "invalidation": "Daily close below 230.9 (under the 10-day swing low of 231.73 and the 20-day SMA of 238.0), or a close below the 20-day SMA on rising volume.",
+ "score": 1,
+ "notes": "Clean uptrend: close 252.78 is above SMA20 (238.0), SMA50 (220.5) and SMA200 (168.5), with 63-day relative strength of +0.38 and a gap-up on heavy volume on 2026-10-28/29 that held. RSI14 is 67.7 and price is 6.2% above SMA20 and 4.1% below the 52-week high of 263.47, so it is somewhat extended; the entry zone 247-252 waits for a small dip rather than chasing. Stop 230.9 sits just under the 10-day swing low (231.73), about 18.6 below the zone midpoint and inside the 2.5 x ATR cap (21.45). Target 272.0 is the 52-week high 263.47 plus one ATR, giving a modest reward/risk of about 1.2 from the zone midpoint (249.5), which limits the score despite the strong trend."}

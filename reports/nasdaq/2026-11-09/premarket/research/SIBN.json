@@ -1,0 +1,8 @@
+{"ticker": "SIBN", "rating": "Hold", "confidence": 0.42,
+ "entry": 23.8, "entry_zone": [23.4, 24.2], "stop": 21.15, "target": 27.5, "horizon_days": 10,
+ "expected_return": {"low": -0.111, "high": 0.155},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "SIBN is in a strong uptrend (close 24.24 above SMA20 21.43, SMA50 19.81, SMA200 16.56, RS63 +0.38) with growing revenue (+14.5% YoY), narrowing losses and low dilution risk, and its Healthcare sector is leading in a risk-off tape. But the setup is extended (13% above SMA20, RSI14 66.8) and from mid-zone 23.8 the reward/risk to 27.5 with a 21.15 stop is only about 1.4, below the 1.5 Buy floor. The post-earnings gap of 11-03 cannot be explained because news was unavailable, so event risk is unmeasured; wait for a better entry rather than add now.",
+ "invalidation": "Daily close below 21.15, or a close back inside the 11-03 gap (below about 23.0) on rising volume.",
+ "key_risks": ["Reward/risk about 1.4 from mid-zone 23.8, below the 1.5 Buy threshold", "Price extended after gap-up (13% above SMA20, RSI14 66.8) with volume fading to 0.68M", "News feed blocked: the earnings reaction and any guidance change behind the 11-02/11-03 move are unknown (missing event-risk data)", "Risk-off regime (QQQ 21-day -12.24%, VIX 1-year percentile 0.876) raises odds of a gap fill below the capped 21.15 stop toward the 19.07 gap-day low", "Still loss-making (profit margin -6.2%) and Q3 2026 revenue 55.704M slipped vs Q2 56.010M"],
+ "debate_winner": "bear"}

@@ -1,0 +1,8 @@
+{"ticker": "ASO", "rating": "Hold", "confidence": 0.42,
+ "entry": 65.0, "entry_zone": [64.0, 66.0], "stop": 58.8, "target": 72.1, "horizon_days": 10,
+ "expected_return": {"low": -0.095, "high": 0.109},
+ "sector": "Consumer Cyclical", "earnings_date": "2026-12-08",
+ "thesis": "ASO is in a confirmed uptrend after the 2026-11-04 breakout to a 69.62 52-week high, with cheap absolute multiples (forward P/E 9.5) and positive free cash flow, but it is stretched (RSI14 74, 11.8% above SMA20, volume fading to 0.90x). At the 65.0 mid-zone entry, reward/risk to the 72.1 target versus the ATR-capped 58.8 stop is only about 1.15, below the 1.5 minimum for Buy, in a high-confidence risk-off regime. The news and SEC filings feeds were blocked this run, so offering, litigation and event risk are unassessed; that missing data argues against opening a position.",
+ "invalidation": "A daily close below 58.28 (10-day swing low) or a close back under SMA20 (about 60.2) after a failed retest of 69.62 ends the uptrend case.",
+ "key_risks": ["Reward/risk about 1.15 at entry 65.0 (target 72.1, stop 58.8), below the 1.5 Buy threshold", "Risk-off regime (confidence 0.9): QQQ 21-day -12.24%, VIX 1-year percentile 0.876", "Stretched momentum: RSI14 74, price 11.8% above SMA20, volume 0.90x 20-day average since breakout", "Last close 67.265 above analyst mean target 60.89", "News and SEC filings unavailable this run: event and offering risk not assessed", "Short interest 23.4% of float and debt/equity 90.4 add volatility and leverage risk"],
+ "debate_winner": "bear"}

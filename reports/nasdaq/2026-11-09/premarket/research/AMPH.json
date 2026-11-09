@@ -1,0 +1,15 @@
+{"ticker": "AMPH", "rating": "Overweight", "confidence": 0.42,
+ "entry": 27.95, "entry_zone": [27.5, 28.4], "stop": 26.6, "target": 31.0, "horizon_days": 10,
+ "expected_return": {"low": -0.048, "high": 0.109},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "AMPH is in a clean uptrend (close 28.49 above SMA20 26.55, SMA50 25.35, SMA200 22.29) with accelerating revenue growth (0.4% to 5.4% to 8.2% YoY) and a cheap forward P/E of 8.57, and it sits in Healthcare (XLV), one of the sectors leading this risk-off tape. The reward/risk from the 27.95 zone midpoint to the 31.0 high against a 26.6 stop is 2.26, but the 6 Nov post-earnings spike to 31.0 was rejected to a 28.49 close, the stock is up 40.28% in 63 days, and the news feed was blocked, so this is a moderate call that only applies if the pullback entry fills.",
+ "invalidation": "Daily close below 26.6, under the 2 Nov low of 26.69, which breaks the higher-low sequence.",
+ "key_risks": [
+  "News feed blocked (news_7d empty): event risk and the content of the 5 Nov earnings 8-K/10-Q are unknown",
+  "Regime is risk-off with confidence 0.9 (QQQ below its 50- and 200-day averages, VIX percentile 0.876)",
+  "6 Nov long upper-wick rejection from 31.0 to 28.49 after earnings; target is the level just rejected",
+  "Price 7.3% extended over SMA20 and up 40.28% over 63 days; last close 28.49 is above the entry zone",
+  "Short interest 22.08% of float; mean analyst target 22.5 below last close; debt 691.7M vs cash 230.6M with thin FCF of 9.2M",
+  "Next earnings date unknown (last reported 2026-11-05)"
+ ],
+ "debate_winner": "draw"}

@@ -1,0 +1,15 @@
+{
+ "ticker": "CRVL",
+ "quality": "high",
+ "growth": "accelerating",
+ "valuation": "rich",
+ "earnings_date": "2027-02-02",
+ "dilution_risk": "low",
+ "score": 1,
+ "red_flags": [
+  "Trailing P/E 34.9 and EV/EBITDA 20.2 are demanding; no forward P/E or analyst target in packet, and no sector peer ratios to compare against",
+  "Stock is up 34.8% over 63 days, so good news is largely priced in",
+  "SEC quarter-end labels are irregular (gaps in series), so the trend is read from the YoY figures and latest quarters"
+ ],
+ "notes": "Revenue YoY is 11.5% and net income YoY 22.2% in the latest SEC quarter (revenue 267.1M vs 239.6M, net income 34.1M vs 27.9M), up from roughly 6.8% and 19.3% for the prior-year comparison in the series, so growth looks accelerating. Profitability is solid: operating margin 17.2%, profit margin 12.0%, ROE 30.6%, free cash flow about 106.0M, cash 270.0M versus debt 33.1M, so dilution risk is low. Valuation looks rich at trailing P/E 34.9 and EV/EBITDA 20.2, though I cannot compare against sector peers from the packet. Short interest is 11.0% of float, below the 15% threshold. Next earnings is 2027-02-02, 61 business days away, so no earnings event inside a swing horizon; the 10-Q was filed 2026-11-05 and the 8-K 2.02 on 2026-11-03."
+}

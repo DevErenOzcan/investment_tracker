@@ -1,0 +1,16 @@
+{"ticker": "CDNA", "rating": "Hold", "confidence": 0.42,
+ "entry": 77.4, "entry_zone": [75.8, 79.0], "stop": 67.9, "target": 90.87, "horizon_days": 10,
+ "expected_return": {"low": -0.123, "high": 0.174},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "CDNA is a high-quality, cash-generative grower (revenue +39.3% YoY, FCF 130.4M, cash 250.5M vs debt 29.0M) in a clean uptrend, pulling back from the 10/30 gap to 90.87, and it sits in Healthcare, a sector leading the risk-off tape. But reward/risk from the 77.4 mid-entry to the 90.87 high over the 67.9 stop is about 1.42, below the 1.5 Buy floor, and with beta 2.49, ATR 6.85% of price, rich valuation (forward P/E 49.77) and a risk-off regime (confidence 0.9), the edge is not enough to open a position. Hold is driven by reward/risk and regime, not by the missing news; clean news would not have lifted it to Buy, though it is the one input that could have supported Overweight.",
+ "invalidation": "A daily close below 67.9 (under the 68.33 10-day swing low), or a close under 71.52 that fully fills the 10/30 gap; an upgrade would need a pullback entry near 75.8 (reward/risk about 1.92) with news/SEC filings checked clean.",
+ "key_risks": [
+  "News and SEC filings were blocked this run (news_7d and sec_filings_10d empty): offering (S-3/424B5), litigation and other event risk are unassessed, which matters after a 26% one-day gap to a 52-week high",
+  "Pre-market price 81.0 is above the 75.8-79.0 entry zone; buying there would cut reward/risk to about 0.75",
+  "Possible distribution: 13.5% give-back from 90.87 with 2.06M volume on 11/5",
+  "Risk-off regime: QQQ 21-day -12.24%, below its 50- and 200-day averages; VIX 1-year percentile 0.876",
+  "High volatility (beta 2.49, ATR 5.38 = 6.85% of price) and rich valuation (forward P/E 49.77, P/S 8.30, EV/EBITDA 152.45)",
+  "Headline profitability flattered by an outlier Q2 net income (110.6M vs 2.8M and 19.3M) and sequential revenue growth slowing to about +5.6%",
+  "Short interest 13.0% of float"
+ ],
+ "debate_winner": "bear"}

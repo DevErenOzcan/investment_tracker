@@ -1,0 +1,22 @@
+{
+ "ticker": "AMPH",
+ "thesis": "AMPH is a good business that has already been repriced: the stock is up 40.28% in 63 days, sits 7.3% above its SMA20, and the 6 Nov spike to the 31.0 high was rejected with a long upper wick, which is classic exhaustion after the 5 Nov earnings print. The regime is risk-off with high confidence (QQQ below 50- and 200-day averages, VIX at the 0.876 percentile), so even a clean single-stock setup faces a hostile tape. Short interest of 22.08% of float adds volatility in both directions, the mean analyst target of 22.5 is below the last close of 28.49, and free cash flow is thin at 9.2M against 691.7M of debt. The news feed was blocked, so the reaction to earnings and any other events are unknown; that is missing data that argues for caution, not a binary event.",
+ "evidence": [
+  "fundamentals: red_flags = Price up 40.28% over 63 days, so the earnings beat may already be priced in",
+  "fundamentals: red_flags = Mean analyst target 22.5 is below the last close of 28.49 (only 6 opinions)",
+  "fundamentals: red_flags = Short interest 22.08% of float (above 15%)",
+  "fundamentals: red_flags = Total debt 691,689,024 vs cash 230,634,000; debtToEquity 84.916",
+  "fundamentals: red_flags = Trailing free cash flow is thin at 9,201,000",
+  "technical: notes = 6 Nov bar spiked to 31.0 then closed at 28.49, a long upper-wick rejection; price 7.3% extended over SMA20",
+  "technical: entry_zone = [27.5, 28.4] with last close 28.49, so price is above the entry zone and a pullback is required",
+  "technical: RSI14 = 66.7, strong but near extended",
+  "news: news_available = false; results content of the 5 Nov 8-K and 10-Q not reviewed, direction unknown",
+  "regime_view: regime = risk-off, confidence = 0.9; QQQ below sma50 and sma200, VIX percentile 0.876"
+ ],
+ "downside_case": {
+  "level": 25.35,
+  "probability": 0.3
+ },
+ "rebuttal_to_bull": "The bull concedes the key points: hostile regime, missing news, high short interest and a possibly priced-in run. Cheap forward P/E of 8.57 is absolute only, with no peer ratios, and rests on earnings whose content was not reviewed. The 2.26 reward/risk targets the 31.0 high that was just rejected on a long upper wick, and the 0.4 upside probability is generous in a risk-off tape. A pullback entry also means buying into weakness that a falling QQQ can extend through the 26.6 stop and toward SMA50 at 25.35. Accelerating growth is real but is already reflected in a 40.28% gain.",
+ "dealbreaker": false
+}

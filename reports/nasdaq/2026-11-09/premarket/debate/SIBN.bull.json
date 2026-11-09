@@ -1,0 +1,19 @@
+{"ticker": "SIBN",
+ "thesis": "SIBN is in a confirmed uptrend with relative strength, and the pullback into the 23.4-24.2 consolidation zone after the 11-03 gap-up breakout offers a defined entry with a stop at 21.15. Fundamentals are improving: revenue is growing 14.5% YoY at a 79.4% gross margin, quarterly losses are narrowing, and cash of 146.26M against 42.80M debt keeps dilution risk low. Short interest below the squeeze threshold and a mean analyst target above the close add some upside support. The setup is only moderate (R/R about 1.4) and the risk-off regime argues for modest conviction, so this is a tactical long on the pullback, not a chase.",
+ "evidence": [
+  "technical: setup = pullback",
+  "technical: trend = up",
+  "technical: entry_zone = [23.4, 24.2]",
+  "technical: stop = 21.15",
+  "technical: target = 27.5",
+  "technical: reward_risk = 1.4",
+  "technical: notes = close 24.24 above SMA20 21.43, SMA50 19.81 and SMA200 16.56, with RS63 +0.38 and a gap-up breakout on 11-03 (volume 3.3M)",
+  "fundamentals: growth = stable",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: notes = revenue grew 14.5% YoY with a 79.4% gross margin, and quarterly net loss narrowed from -6.152M (Q2 2025) to -3.620M (Q3 2026)",
+  "fundamentals: notes = 146.26M cash against 42.80M debt; short interest 12.2% of float, below the 15% squeeze threshold; mean analyst target 26.44 vs a 24.24 close",
+  "news: binary_event = false",
+  "news: catalysts = 8-K (items 2.02, 9.01) filed 2026-11-02 and 10-Q filed 2026-11-03; no S-3/424B5 offering filings listed"
+ ],
+ "upside_case": {"target": 27.5, "probability": 0.35},
+ "rebuttal_to_bear": null}

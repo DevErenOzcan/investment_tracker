@@ -1,0 +1,6 @@
+{"ticker": "ASO", "setup": "pullback",
+ "trend": "up", "entry_zone": [64.0, 66.0], "stop": 58.8, "target": 72.1,
+ "reward_risk": 1.15, "atr": 2.48,
+ "invalidation": "Daily close below 58.28 (10-day swing low, also below the 58.8 stop) or a close back under the SMA20 (about 60.2) after a failed retest of the 69.62 high.",
+ "score": 0.5,
+ "notes": "Strong uptrend: close 67.27 is above SMA20 60.19, SMA50 53.40 and SMA200 52.72, with 63-day relative strength of +0.44 and a breakout on 2026-11-04 (volume about 2.4M) to a new 52-week high of 69.62. Momentum is stretched: RSI14 is 74, price is 11.8% above SMA20, and volume has faded to 0.90x the 20-day average since the breakout, so chasing at the last price is not advised. The entry zone 64.0-66.0 waits for a 2-4% pullback toward the 11-04 breakout area. The structural stop (just under the 58.28 swing low) is more than 2.5 x ATR from entry, so the stop is capped at 65.0 - 2.5 x 2.48 = 58.8. Target 72.1 is the 52-week high 69.62 plus one ATR (measured extension); reward/risk is only about 1.15, which limits the score."}

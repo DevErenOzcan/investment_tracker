@@ -1,0 +1,26 @@
+{
+ "ticker": "EXEL",
+ "thesis": "EXEL is a clean uptrend with a shallow-pullback entry: the close sits above SMA20, SMA50 and SMA200 with positive 63-day relative strength, which matters in a risk-off tape where QQQ is below its averages. Fundamentals are high quality and profitable, with steady double-digit YoY growth in revenue and net income and low dilution risk. The earnings event has already passed, so no scheduled binary risk remains. Entry at 67.0-69.6 with a structural stop at 64.1 gives about 2.1 reward/risk toward 77.1. The case is moderate rather than strong: the 11/05 reversal is a distribution warning, resistance at the 52-week high is close, and valuation and news are unknown, so the technical score is held to +1 and the thesis should not be oversized.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = pullback",
+  "technical: entry_zone = [67.0, 69.6]",
+  "technical: stop = 64.1",
+  "technical: target = 77.1",
+  "technical: reward_risk = 2.1",
+  "technical: score = 1",
+  "fundamentals: quality = high",
+  "fundamentals: growth = stable",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: earnings_date = 2026-10-29 (already past)",
+  "fundamentals: score = 1",
+  "news: binary_event = false",
+  "news: news_available = false (no catalyst identified, event risk unassessed)",
+  "regime_view: regime = risk-off (headwind for any long)"
+ ],
+ "upside_case": {
+  "target": 77.1,
+  "probability": 0.35
+ },
+ "rebuttal_to_bear": null
+}
