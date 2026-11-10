@@ -1,0 +1,60 @@
+{
+  "as_of": "2026-11-10",
+  "session": "preclose",
+  "exchange": "NASDAQ",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "regime": "risk-off",
+  "positions": [
+    {
+      "ticker": "EXEL",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 70.72,
+      "weight": 0.0061,
+      "engine_weight": 0.0061,
+      "amount_units": 6.1,
+      "entry_zone": [69.5, 71.0],
+      "stop": 67.7,
+      "target": 76.0,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "action": "buy-confirm",
+      "rationale": "Engine weight kept unchanged (after the risk officer's x0.75 cut): last 70.72 is inside the 69.50-71.00 zone with RSI cooled to 66.2 and the 68.01 swing low intact, giving reward/risk 1.75 to 76.0; do not fill above 71.00."
+    },
+    {
+      "ticker": "LFST",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 14.66,
+      "weight": 0.004,
+      "engine_weight": 0.004,
+      "amount_units": 4.0,
+      "entry_zone": [14.0, 14.4],
+      "stop": 12.95,
+      "target": 17.0,
+      "rating": "Overweight",
+      "confidence": 0.4,
+      "action": "buy-confirm",
+      "rationale": "Engine weight kept unchanged (after the risk officer's x0.5 cut): revenue +25.3% YoY uptrend holding the Nov 9 breakout, but last 14.66 is above the zone (reward/risk about 1.37 there), so limit-only in 14.00-14.40 and no chase."
+    },
+    {
+      "ticker": "AMPH",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 29.06,
+      "weight": 0.0031,
+      "engine_weight": 0.0031,
+      "amount_units": 3.1,
+      "entry_zone": [28.0, 28.6],
+      "stop": 26.6,
+      "target": 31.0,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "action": "buy-confirm",
+      "rationale": "Engine weight kept unchanged (after the risk officer's x0.5 cut): low-multiple post-earnings uptrend, but last 29.06 is well above the zone and reward/risk only clears 1.5 at or below about 28.36, so limit at the 28.00-28.30 lower half only; unassessed 11-05 net income refile."
+    }
+  ],
+  "cash_weight": 0.9868,
+  "vetoed": []
+}

@@ -1,0 +1,23 @@
+{"regime": "risk-off",
+ "confidence": 0.8,
+ "leading_sectors": ["XLV", "XLP", "XLY"],
+ "lagging_sectors": ["SMH", "XLK", "XLE"],
+ "evidence": [
+  "QQQ below both its 50- and 200-day averages (last 679.35)",
+  "QQQ 21-day return -9.57%, worse than the -8% risk-off threshold; 63-day return -5.34%",
+  "VIX at 20.85 with 1-year percentile 0.833 (just under the 0.85 threshold), 21-day change +37.08%, above its 50- and 200-day averages",
+  "SMH 21-day return -19.21% and XLK -14.04%, both below their 50-day; SMH also below its 200-day",
+  "SPY below its 50-day (21-day return -3.32%) but still above its 200-day",
+  "Defensive and rate-sensitive leadership: XLV 21-day +10.26% (percentile 0.99), XLP +8.94% (percentile 0.986), XLRE +7.28%",
+  "XLY 21-day +7.23% and XLF +5.96%, both above 50- and 200-day, so breadth outside tech is intact",
+  "IWM above 50- and 200-day (5-day +1.21%), showing the weakness is concentrated in mega-cap and semiconductor growth",
+  "10-year yield (^TNX) 4.938, 63-day change +5.47%, percentile 0.817"
+ ],
+ "watch": [
+  "Whether QQQ can reclaim its 200-day average or keeps making lower lows",
+  "VIX percentile crossing 0.85 would confirm stress; it is currently 0.833",
+  "Semiconductor (SMH) stabilisation after a 21-day return of -19.21%",
+  "XLC 5-day rebound of +7.08% while still below 50- and 200-day: a possible relief bounce or early rotation"
+ ],
+ "summary": "QQQ is below its 50- and 200-day averages and its 21-day return of -9.57% breaches the risk-off threshold, led down by semiconductors (SMH -19.21%) and technology (XLK -14.04%). VIX is elevated (20.85, percentile 0.833) and rising (+37.08% over 21 days). Money is rotating into health care, staples and consumer discretionary, so long swing exposure to NASDAQ growth should be treated defensively."
+}

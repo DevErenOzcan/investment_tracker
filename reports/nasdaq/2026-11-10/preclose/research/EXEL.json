@@ -1,0 +1,16 @@
+{"ticker": "EXEL", "rating": "Overweight", "confidence": 0.45,
+ "entry": 70.72, "entry_zone": [69.5, 71.0], "stop": 67.7, "target": 76.0, "horizon_days": 10,
+ "expected_return": {"low": -0.0427, "high": 0.0747},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "The morning thesis still holds. EXEL is a high-margin, cash-generative biotech (operating margin 0.41, FCF 759M vs debt 162M) in a strong uptrend (last 70.72 above SMA20 66.79, SMA50 61.59 and SMA200 51.84, 63-day +40.4%, RS +0.47), and it sits in the leading health care group in a risk-off tape. The dip entry the morning card asked for has arrived: last 70.72 is inside the 69.50-71.00 zone, RSI14 has cooled from 70.5 to 66.2, and the 68.01 swing low and 67.70 stop are intact. Reward/risk is about 1.75 at the current price (2.25 from the 70.25 zone mid) to the 76.0 target. It stays Overweight rather than Buy because news and SEC feeds are still unavailable, no debate was run this session, price is above the 61.57 mean analyst target, and the regime is risk-off.",
+ "invalidation": "Daily close below 67.70, under the 2026-11-06 swing low of 68.01 and the 68.46 Nov 5 low, or a failed break above 73.69 on heavy volume followed by a close back under 68.",
+ "key_risks": [
+  "News feed and SEC filings still unavailable (news_7d and sec_filings_10d empty); the causes of the 2026-11-05 reversal from 73.69 and the 2026-11-09 move on 4.8M shares are unknown",
+  "Intraday rejection today at 72.14 after a 71.56 open (-1.4% on the day); a further slide below 69.50 leaves the entry zone",
+  "Supply at the 73.69 high; reward/risk to that level is only about 0.99 from 70.72, and the trade depends on reaching the 76.0 target",
+  "Price 70.72 is above the mean analyst target of 61.57 (14 opinions), which creates downgrade risk",
+  "Short interest 15.3% of float adds gap risk in both directions",
+  "Risk-off regime (confidence 0.8, QQQ 21-day -9.57%, VIX percentile 0.833)",
+  "No bull/bear debate this session; this rating rests on the cards and the morning debate only"
+ ],
+ "debate_winner": "skipped"}

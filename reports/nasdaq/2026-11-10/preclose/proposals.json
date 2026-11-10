@@ -1,0 +1,75 @@
+{
+  "as_of": "2026-11-10",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "peak_value_units": 1000,
+  "drawdown": 0.0,
+  "regime": "risk-off",
+  "regime_mult": 0.4,
+  "risk_per_trade": 0.0075,
+  "portfolio_vol": 0.003090431037644416,
+  "positions": [
+    {
+      "ticker": "EXEL",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 70.72,
+      "stop": 67.7,
+      "target": 76.0,
+      "rr": 1.75,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "kelly": 0.1354,
+      "stop_pct": 0.0427,
+      "binding": "kelly",
+      "engine_weight": 0.0061,
+      "priority": 0.08125000000000028,
+      "flags": [
+        "risk-officer reduction x0.75: This is the highest-quality name, but news_7d and sec_filings_10d are both empty, so the causes of the 11/05 reversal and the 11/09 volume (4.8M shares) are unknown; with 15.3% short interest and the price above the 61.57 mean analyst target, a modest reduction is better than saying nothing."
+      ],
+      "amount_units": 6.1
+    },
+    {
+      "ticker": "LFST",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 14.2,
+      "stop": 12.95,
+      "target": 17.0,
+      "rr": 2.24,
+      "rating": "Overweight",
+      "confidence": 0.4,
+      "kelly": 0.1321,
+      "stop_pct": 0.088,
+      "binding": "kelly",
+      "engine_weight": 0.004,
+      "priority": 0.07928571428571433,
+      "flags": [
+        "risk-officer reduction x0.5: The Nov 9 volume of 29.5M shares (about 6x average) has no verified cause and the news feed is blocked, so a secondary or sponsor-selling event cannot be ruled out; this sits on top of the lowest confidence (0.40), the widest stop (8.8%), a rich valuation and a reward/risk of only about 1.37 if filled at the 14.66 last price instead of the 14.20 zone midpoint."
+      ],
+      "amount_units": 4.0
+    },
+    {
+      "ticker": "AMPH",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 28.3,
+      "stop": 26.6,
+      "target": 31.0,
+      "rr": 1.59,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "kelly": 0.1037,
+      "stop_pct": 0.0601,
+      "binding": "kelly",
+      "engine_weight": 0.0031,
+      "priority": 0.06222222222222224,
+      "flags": [
+        "risk-officer reduction x0.5: Prior-quarter net income was refiled on 2026-11-05 and the possible restatement has not been assessed; with news blocked, 22% short interest, net debt and the price above the 24.5 mean analyst target, the accounting and event risk cannot be checked, and reward/risk is only about 0.9 unless the 28.00-28.60 limit fills."
+      ],
+      "amount_units": 3.1
+    }
+  ],
+  "cash_weight": 0.9868,
+  "rejected": []
+}

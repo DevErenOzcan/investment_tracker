@@ -1,0 +1,14 @@
+{"ticker": "LFST", "rating": "Overweight", "confidence": 0.40,
+ "entry": 14.2, "entry_zone": [14.0, 14.4], "stop": 12.95, "target": 17.0, "horizon_days": 15,
+ "expected_return": {"low": -0.088, "high": 0.197},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "The morning thesis is intact. LFST is holding the Nov 9 breakout intraday (last 14.66, range 14.28-14.88, above SMA20 13.12, SMA50 12.71 and SMA200 9.57), and it rests on real operating improvement: revenue +25.3% YoY, positive net income and free cash flow. Using the preclose technical card's levels (entry 14.20 midpoint, stop 12.95, target 17.0) gives reward/risk of 2.24. This stays Overweight on a pullback fill into 14.00-14.40 only, not a chase at 14.66, because the regime is risk-off, 15.66 is proven overhead supply and the cause of the Nov 9 volume is still unverified.",
+ "invalidation": "A daily close below 12.95 (under the 13.05 10-day swing low), or a heavy-volume close back under the 13.20 Nov 9 low, invalidates the setup.",
+ "key_risks": [
+  "The Nov 9 move (29.5M shares, about 6x average) still has no verified driver because the news feed was blocked again. A secondary sale or sponsor selling cannot be ruled out.",
+  "Overhead supply at 15.66: the Nov 5 earnings spike reversed to a 13.43 close. Reward/risk to 15.66 alone is only about 1.2, so the 17.0 target needs a breakout.",
+  "The regime is risk-off (confidence 0.8): QQQ is below its 50- and 200-day averages, its 21-day return is -9.57%, and VIX is up 37.08% over 21 days. Health care (XLV) is leading, which partly offsets this.",
+  "The price is extended (RSI 69, 11.8% above SMA20) and above the entry zone, so the limit may not fill, or a pullback may fall through 14.00.",
+  "Valuation is rich (trailing P/E 81.4, EV/EBITDA 35.5), total debt 475.5M exceeds cash 218.8M, and the profit margin is only 4.3%."
+ ],
+ "debate_winner": "skipped"}

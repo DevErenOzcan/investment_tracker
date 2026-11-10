@@ -1,0 +1,17 @@
+{"ticker": "AMPH", "rating": "Overweight", "confidence": 0.45,
+ "entry": 28.3, "entry_zone": [28.0, 28.6], "stop": 26.6, "target": 31.0, "horizon_days": 10,
+ "expected_return": {"low": -0.06, "high": 0.095},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "The morning thesis holds: last 29.06 is above SMA20 26.83, SMA50 25.63 and SMA200 22.32 with relative strength +0.52, after a Q3 print with revenue +8.2% YoY and net income +118% YoY at low multiples (forward P/E 8.74, EV/EBITDA 8.64), and health care (XLV) leads the risk-off rotation. Today's -0.32 drift on light volume (247k) cooled RSI from 70.8 to 67.6 without breaking structure; the day low 28.51 held above the 11-06 low of 27.80. The edge is still only a limit entry in the 28.00-28.60 zone (reward/risk about 1.59 to 31.0 from the 28.30 midpoint); at 29.06 reward/risk is about 0.9, so do not chase.",
+ "invalidation": "A daily close below 26.60, or a close below the 11-06 low of 27.80 that does not recover quickly, undoes the post-earnings breakout.",
+ "key_risks": [
+  "Rejection at the 31.0 52-week high on 11-06 (close 28.49) puts supply exactly at the target",
+  "Price 29.06 is above the 6-analyst mean target of 24.5; downgrade risk",
+  "News feed still unavailable, so analyst actions, regulatory news and M&A are unchecked",
+  "Prior-quarter net income figures were refiled on 2026-11-05; possible restatement not yet assessed",
+  "Risk-off regime (confidence 0.8, QQQ 21-day -9.57%, VIX 20.85 and rising)",
+  "Short interest 22.08% of float drives two-way volatility",
+  "Weak cash conversion (FCF 9.2M) and net debt (debt 691.7M vs cash 230.6M)",
+  "Entry zone is below the current price; the dip fill may not come"
+ ],
+ "debate_winner": "skipped"}
