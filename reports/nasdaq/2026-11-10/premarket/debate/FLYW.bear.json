@@ -1,0 +1,18 @@
+{"ticker": "FLYW",
+ "thesis": "FLYW is extended after a one-off earnings gap, in a risk-off tape where growth is being sold. It sits 0.2% under its 52-week high, RSI 71.4, 13.7% above SMA20 and +13.6% in 5 days, while post-gap volume has faded each session. The headline profit jump is unverified and may include one-offs, growth is decelerating, and the mean analyst target leaves almost no upside. The technical card's own reward/risk of 1.6 is only moderate, and the stop at 19.60 is about 2.3 ATR away. Unresolved item 5.02 and a missing news feed add unchecked event risk, so buying now offers poor timing against a QQQ that is below its 50- and 200-day averages.",
+ "evidence": [
+  "technical: setup = pullback, entry_zone = [21.3, 21.8] vs close 22.13, so chasing is explicitly poor",
+  "technical: RSI 71.4, 13.7% above SMA20, +13.6% in 5 days, 0.2% below 52-week high 22.18",
+  "technical: post-gap volume faded 4.83M, 2.50M, 1.64M while price kept rising",
+  "technical: reward_risk = 1.6, stop = 19.6, target = 24.7 with no structural support nearby (10-day low 18.67)",
+  "fundamentals: growth = decelerating; net income -8,147,000 (Jun quarter) then 74,543,000 (Sep quarter), may include one-offs",
+  "fundamentals: mean analyst target 23.11 vs close 22.13; trailing P/E 36.28, EV/EBITDA 26.17",
+  "news: item 5.02 on the earnings 8-K unresolved (possible CFO or CEO change)",
+  "news: news_available = false, so analyst actions, price-target changes and M&A rumors are unchecked",
+  "news: pre-market indication 21.82 vs close 22.13 (about -1.4%)",
+  "regime_view: risk-off, confidence 0.8; QQQ 21-day return -9.57%, below 50- and 200-day; VIX 20.85 percentile 0.833, 21-day change +37.08%",
+  "regime_view: 10-year yield 4.938, percentile 0.817"
+ ],
+ "downside_case": {"level": 19.68, "probability": 0.3},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

@@ -1,0 +1,96 @@
+{
+  "as_of": "2026-11-10",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "peak_value_units": 1000,
+  "drawdown": 0.0,
+  "regime": "risk-off",
+  "regime_mult": 0.4,
+  "risk_per_trade": 0.0075,
+  "portfolio_vol": 0.004118974867266213,
+  "positions": [
+    {
+      "ticker": "EXEL",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 70.45,
+      "stop": 67.8,
+      "target": 76.0,
+      "rr": 2.09,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "kelly": 0.1874,
+      "stop_pct": 0.0376,
+      "binding": "kelly",
+      "engine_weight": 0.0084,
+      "priority": 0.11243243243243202,
+      "flags": [
+        "risk-officer reduction x0.75: The cause of the 2026-11-05 reversal from 73.69 to 68.71 on 4.4M shares is unknown because the news and SEC feeds were down. The stock is also extended (RSI 70.5) and trades above the 61.57 mean analyst target, with 15.3% short interest."
+      ],
+      "amount_units": 8.4
+    },
+    {
+      "ticker": "AMPH",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 28.2,
+      "stop": 26.6,
+      "target": 31.0,
+      "rr": 1.75,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "kelly": 0.1357,
+      "stop_pct": 0.0567,
+      "binding": "kelly",
+      "engine_weight": 0.0061,
+      "priority": 0.08142857142857174,
+      "flags": [
+        "risk-officer reduction x0.75: Analyst actions, guidance and M&A could not be checked without news. Short interest is 22.08% of float, price is above the 24.5 mean analyst target, and reward/risk of 1.75 sits close to the 1.5 floor, with the target at the 31.0 rejection wick."
+      ],
+      "amount_units": 6.1
+    },
+    {
+      "ticker": "LFST",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 14.2,
+      "stop": 12.85,
+      "target": 17.0,
+      "rr": 2.07,
+      "rating": "Overweight",
+      "confidence": 0.4,
+      "kelly": 0.1107,
+      "stop_pct": 0.0951,
+      "binding": "kelly",
+      "engine_weight": 0.0033,
+      "priority": 0.06642857142857156,
+      "flags": [
+        "risk-officer reduction x0.5: The 11/09 move (+6% on 29.5M shares, about 6x average) has no verified driver and the news feed is down, so an offering or secondary sale cannot be ruled out. This is also the widest stop (9.51%), the richest valuation (trailing P/E 81.1) and the lowest confidence (0.40) of the three names."
+      ],
+      "amount_units": 3.3
+    }
+  ],
+  "cash_weight": 0.9822,
+  "rejected": [
+    {
+      "ticker": "AMPL",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "APPN",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "CDNA",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "FLYW",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "VERX",
+      "reason": "rating Hold: no new buy"
+    }
+  ]
+}

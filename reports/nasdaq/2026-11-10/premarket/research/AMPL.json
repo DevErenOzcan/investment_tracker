@@ -1,0 +1,8 @@
+{"ticker": "AMPL", "rating": "Hold", "confidence": 0.4,
+ "entry": 16.825, "entry_zone": [16.6, 17.05], "stop": 15.55, "target": 18.85, "horizon_days": 10,
+ "expected_return": {"low": -0.0758, "high": 0.1204},
+ "sector": "Technology", "earnings_date": null,
+ "thesis": "AMPL is in a clean uptrend (close 17.32 above SMA20 16.52, SMA50 14.87, SMA200 9.81) with accelerating revenue (revenue_yoy 0.2493), positive free cash flow and low dilution risk, but the target is the 18.85 post-earnings rejection high, which leaves reward/risk at only 1.59 from the 16.825 zone midpoint and 1.20 from the 17.05 top of the zone. The regime is risk-off with confidence 0.8 (QQQ 21-day -9.57%, XLK -14.04%), and the stock is a loss-making growth-software name after a +172% 126-day run. The news feed was down, so guidance and analyst reactions are unverified. The setup does not justify a new position now.",
+ "invalidation": "A daily close below 15.55, under the 15.62 swing low of 2026-11-06, invalidates the uptrend pullback thesis.",
+ "key_risks": ["Risk-off regime concentrated in NASDAQ growth and tech (QQQ below 50- and 200-day, VIX 20.85 at percentile 0.833 and rising)", "Target 18.85 is a failed-breakout level (2026-11-05 open 18.52, close 16.10 on about 1.7x average volume)", "Thin reward/risk: 1.59 at the zone midpoint and below 1.5 for any fill above about 16.98", "News feed unavailable: guidance, analyst actions and other headlines are unchecked", "Rich valuation (forward P/E 103.29, P/S 5.57) with persistent GAAP losses (operating margin -0.22253), so the stock is exposed to multiple compression", "Extended far above SMA50 14.87 and SMA200 9.81"],
+ "debate_winner": "bear"}

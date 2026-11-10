@@ -1,0 +1,17 @@
+{"ticker": "AMPH",
+ "thesis": "AMPH is a post-earnings uptrend name with accelerating fundamentals: Q3 revenue grew and net income more than doubled year over year, valuation multiples are low, and the stock sits above its SMA20, SMA50 and SMA200 with strong relative strength. The setup is a pullback entry (27.90-28.50) rather than a chase, with a defined stop under the 11-02 low and the 52-week high as target. High short interest adds squeeze potential on a retest of the high, and the health care-led rotation in the risk-off tape is a regime tailwind relative to NASDAQ tech. This is a modest, not a strong, setup: reward/risk is only about 1.75, the stock is extended, and the news feed was unavailable, so it only works with a disciplined fill near the low end of the zone.",
+ "evidence": [
+  "AMPH.technical: setup = pullback; trend = up",
+  "AMPH.technical: entry_zone = [27.9, 28.5]; stop = 26.6; target = 31.0; reward_risk = 1.75",
+  "AMPH.technical: notes = close 29.38 above SMA20 26.68, SMA50 25.50, SMA200 22.30; 63-day return +43.9%; relative strength +0.49",
+  "AMPH.technical: notes = volume ratio 1.32 (826k on 11-06 vs 467k average), supportive of the post-earnings move",
+  "AMPH.fundamentals: growth = accelerating; quality = medium; dilution_risk = low",
+  "AMPH.fundamentals: notes = Q3 revenue 207,608,000 (YoY 0.0822), net income 37,763,000 (YoY 1.1765), operating margin 0.24456",
+  "AMPH.fundamentals: valuation = cheap; notes = trailing P/E 13.477, forward P/E 8.835, EV/EBITDA 8.643",
+  "AMPH.fundamentals: red_flags = short interest 22.08% of float, squeeze potential",
+  "AMPH.news: catalysts = Q3 2026 earnings 8-K and 10-Q filed 2026-11-05, direction positive; no S-3 or 424B5 in the last 10 days",
+  "AMPH.news: binary_event = false",
+  "regime_view: leading_sectors = XLV, XLP, XLY; IWM above 50- and 200-day, so weakness is concentrated in mega-cap and semiconductor growth"
+ ],
+ "upside_case": {"target": 31.0, "probability": 0.35},
+ "rebuttal_to_bear": null}

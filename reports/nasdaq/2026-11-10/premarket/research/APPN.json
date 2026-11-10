@@ -1,0 +1,8 @@
+{"ticker": "APPN", "rating": "Hold", "confidence": 0.4,
+ "entry": 50.0, "entry_zone": [49.0, 51.0], "stop": 46.4, "target": 56.38, "horizon_days": 10,
+ "expected_return": {"low": -0.072, "high": 0.1276},
+ "sector": "Technology", "earnings_date": null,
+ "thesis": "APPN has a strong uptrend (close 51.15 above SMA20 47.91, SMA50 41.71, SMA200 29.58; ret_63 +44%) and accelerating fundamentals (revenue 234.6M, +25.5% YoY, GAAP net income +12.3M, FCF 78.3M) after the 2026-11-05 earnings. But the post-earnings gap has faded for two sessions after a heavy-volume rejection at the 56.38 high, reward/risk is only 1.77 at the 50.0 mid-entry (below 1.5 at the top of the zone at 51.0), valuation is rich (EV/EBITDA 76.0, forward P/E 33.3), and the NASDAQ regime is risk-off with confidence 0.8. Even the bull puts only 0.3 on reaching the target, so the edge does not justify a new position now; revisit on a hold of 49.0-49.82 with the gap intact or a regime improvement.",
+ "invalidation": "A daily close below 49.82 fills the post-earnings gap, and a close below 46.4 breaks the 10-day swing low structure and voids the uptrend setup.",
+ "key_risks": ["Risk-off regime: QQQ below 50- and 200-day, 21-day -9.57%, XLK 21-day -14.04%, VIX 20.85 and +37.08% over 21 days", "Supply near the 52-week high: failed retest (11-09 high 54.20) after the 56.38 rejection on 2.0M shares", "High volatility: ATR 3.05, about 6% of price", "Rich valuation (EV/EBITDA 76.0, forward P/E 33.3) and price 51.15 near the analyst mean target of 54.8 (5 opinions)", "Debt 256.9M vs cash 88.9M; short interest 12.1% of float", "News feed unavailable this run, so analyst actions, contracts, litigation and M&A were not checked"],
+ "debate_winner": "bear"}

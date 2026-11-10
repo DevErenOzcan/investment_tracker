@@ -1,0 +1,29 @@
+{
+  "ticker": "VERX",
+  "catalysts": [
+    {
+      "what": "Q3 2026 earnings 8-K (Item 2.02 results of operations, 9.01 exhibits) filed 2026-11-04 after the close. Stock gapped up on 2026-11-05 (open 18.21 vs prior close 15.92, about +14%) on about 5.0M shares, roughly 3x average volume, then closed at 17.59. The headline content of the release is not in the packet.",
+      "date": "2026-11-04",
+      "direction": "positive",
+      "source": "https://www.sec.gov/Archives/edgar/data/1806837/000110465926122659/verx-20261104x8k.htm"
+    },
+    {
+      "what": "10-Q for the quarter ended 2026-09-30 filed 2026-11-05. The SEC data in the packet shows quarterly revenue of 213.3M (about +11% y/y) but a net loss of 46.6M, versus net income of 9.0M the prior quarter. The cause of the loss is not stated in the packet.",
+      "date": "2026-11-05",
+      "direction": "mixed",
+      "source": "https://www.sec.gov/Archives/edgar/data/1806837/000110465926123357/verx-20260930x10q.htm"
+    }
+  ],
+  "event_risks": [
+    "NEWS DATA GAP: news_7d is empty because the feed was unreachable in this run. This means news is unavailable, not that there were no events. Guidance, analyst actions and any M&A or litigation news are unknown.",
+    "The Q3 net loss of 46.6M is large and unexplained in the packet. It could be a one-off such as an impairment or non-cash charge, but this is unverified. Check the 10-Q before relying on it.",
+    "No S-3 or 424B5 appears in the 10-day filings, so there is no visible offering risk. Debt-to-equity is high at 194 and total debt is 350M against cash of 218M.",
+    "The 8-K carries no Item 1.01, 5.02 or 8.01, so no contract, management-change or takeover signal is visible. A takeover cannot be ruled out because the news feed is missing.",
+    "The earnings date has passed (2026-11-04), so no scheduled earnings fall in the next 20 business days. Other known events could not be checked.",
+    "Post-earnings gap partly faded: 2026-11-05 closed 17.59, and 2026-11-06 opened 16.78 and closed 17.08. The pre-market price of 17.13 is slightly below the 17.30 close. RSI is 72 and price is about 15% above the 20-day SMA, so it is extended."
+  ],
+  "binary_event": false,
+  "news_available": false,
+  "score": 0,
+  "notes": "News unavailable (empty feed), so the catalyst read relies only on SEC filings and price action. The 2026-11-04 earnings 8-K (Item 2.02) drove a roughly 14% gap up on about 3x normal volume, and the stock has held most of the gain. That points to a favorable reception, but the packet does not show the guidance or results. The 10-Q shows revenue growth of about 11% and a large unexplained Q3 net loss, which offsets the positive reaction. There is no offering, M&A or litigation signal in the filings, and no known binary event in the next 20 business days, though the data gap limits confidence. Neutral score of 0 for now, and the 10-Q loss driver should be checked."
+}

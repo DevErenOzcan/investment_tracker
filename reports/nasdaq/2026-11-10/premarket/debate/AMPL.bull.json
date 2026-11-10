@@ -1,0 +1,22 @@
+{"ticker": "AMPL",
+ "thesis": "AMPL is in a strong uptrend (close above SMA20, SMA50 and SMA200) and has bounced back from the post-earnings reversal of 2026-11-05 to sit in a pullback entry zone near SMA20. Revenue growth is accelerating, with the latest quarter the largest in the series, and positive free cash flow plus a cash-rich balance sheet make dilution risk low. Earnings have passed, so there is no near-term event risk, and short interest is low, so there is no squeeze overhang. The setup is only modest, though. Reward/risk is about 1.6 into a recent rejection level, valuation is rich, GAAP losses persist, and the regime is risk-off for NASDAQ growth, so this deserves a small, disciplined position at most. The news feed was unavailable, so the thesis rests on the technical and fundamentals cards only.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = pullback",
+  "technical: notes = close 17.32 above SMA20 16.52, SMA50 14.87 and SMA200 9.81; RSI14 61.9; 63-day relative strength +0.42",
+  "technical: entry_zone = [16.6, 17.05]",
+  "technical: stop = 15.55 (just under the 15.62 swing low)",
+  "technical: target = 18.85",
+  "technical: reward_risk = 1.58",
+  "technical: notes = recovered from the 16.10 close on 2026-11-05 to 17.32 on a volume ratio of 1.52",
+  "fundamentals: growth = accelerating",
+  "fundamentals: notes = revenue 93492000 -> 100886000 -> 110644000, revenue_yoy 0.2493",
+  "fundamentals: notes = free cash flow 74000000, total cash 140516000 vs total debt 9329000",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: earnings_date = null (the 2026-11-04 print has passed; the next date is unknown)",
+  "fundamentals: notes = short interest 0.0832 of float, so no squeeze overhang",
+  "regime_view: XLY 21-day +7.23% and XLF +5.96%, both above 50- and 200-day, so breadth outside tech is intact",
+  "regime_view: IWM above 50- and 200-day, so the weakness is concentrated in mega-cap and semiconductor growth"
+ ],
+ "upside_case": {"target": 18.85, "probability": 0.35},
+ "rebuttal_to_bear": null}

@@ -1,0 +1,21 @@
+{"ticker": "APPN",
+ "thesis": "APPN is in a strong uptrend with accelerating fundamentals: quarterly revenue grew about 25% YoY and GAAP net income turned positive after the Nov 5 earnings. The two-session fade from the gap leaves a pullback entry at 49.0-51.0 with a structural stop at 46.4, which sits under the base of the post-earnings gap. Free cash flow is positive and no offering or earnings event risk is visible in the swing window. The setup is only moderate, though. Reward/risk is about 1.8, valuation is rich, the high was rejected on heavy volume, and the regime is risk-off for NASDAQ growth. This supports a small, disciplined pullback entry and not a chase.",
+ "evidence": [
+  "technical: setup = pullback",
+  "technical: trend = up",
+  "technical: entry_zone = [49.0, 51.0]",
+  "technical: stop = 46.4",
+  "technical: target = 56.38",
+  "technical: reward_risk = 1.77",
+  "technical: score = 1",
+  "technical: notes = close 51.15 above SMA20 47.91, SMA50 41.71 and SMA200 29.58, ret_63 +44%, RS_63 +0.49, RSI 61 and not overbought",
+  "fundamentals: growth = accelerating",
+  "fundamentals: notes = quarterly revenue 234.6M vs 187.0M a year earlier (YoY +25.5%), net income +12.3M, free cash flow 78.3M, operating margin 11.2%",
+  "fundamentals: red_flags = short interest 12.1% of float, below the 15% threshold, so no squeeze flag",
+  "news: catalysts = Q3 2026 earnings (8-K Item 2.02 and 10-Q) filed 2026-11-05, direction positive",
+  "news: event_risks = no S-3 or 424B5 in the 10-day filings, so no offering risk is visible; no scheduled earnings in the next 20 business days",
+  "news: binary_event = false",
+  "regime_view: evidence = XLY 21-day +7.23% and IWM above its 50- and 200-day, so breadth outside mega-cap tech is intact"
+ ],
+ "upside_case": {"target": 56.38, "probability": 0.3},
+ "rebuttal_to_bear": null}

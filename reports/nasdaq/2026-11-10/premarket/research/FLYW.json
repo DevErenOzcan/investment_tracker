@@ -1,0 +1,8 @@
+{"ticker": "FLYW", "rating": "Hold", "confidence": 0.42,
+ "entry": 21.55, "entry_zone": [21.3, 21.8], "stop": 19.6, "target": 24.7, "horizon_days": 10,
+ "expected_return": {"low": -0.0905, "high": 0.1462},
+ "sector": "Technology", "earnings_date": null,
+ "thesis": "FLYW has a real post-earnings breakout: Q3 revenue was 250.3M (+25% YoY), the 11/4 gap held for four sessions, the price is above all major averages, and the balance sheet is clean (cash 410.2M vs debt 1.4M). But the stock is extended (RSI 71.4, 13.7% above SMA20), reward/risk is only 1.6 from the 21.55 mid-entry and about 1.3 at the top of the zone or at the 21.82 pre-market quote, and the regime is risk-off with confidence 0.8 (QQQ -9.57% over 21 days, VIX rising). With the news feed missing and the 8-K item 5.02 management-change flag unresolved, the edge does not justify a new position today; re-assess for an Overweight on a pullback toward 21.30 once item 5.02 is checked.",
+ "invalidation": "A daily close below 19.68 (the 2026-11-04 gap-day low) fills the earnings gap and negates the breakout thesis.",
+ "key_risks": ["Risk-off regime (QQQ below 50- and 200-day, VIX 20.85 at percentile 0.833 and +37.08% over 21 days) can drag extended growth names down", "Unresolved 8-K item 5.02 (possible CFO/CEO change) and news feed unavailable, so analyst actions and other events are unchecked", "Extended after a 5-session-old catalyst (RSI 71.4, +13.6% in 5 days) on fading volume (4.83M, 2.50M, 1.64M)", "Net income jump (74.5M vs -8.1M prior quarter) may include one-offs; revenue growth is decelerating", "Mean analyst target 23.11 is below the 24.7 technical target"],
+ "debate_winner": "bear"}

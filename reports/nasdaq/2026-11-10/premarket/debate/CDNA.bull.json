@@ -1,0 +1,20 @@
+{"ticker": "CDNA",
+ "thesis": "CDNA is in a strong, fundamentally backed uptrend that has held up while the Nasdaq complex sells off. An earnings gap on 2026-10-30 was followed by a higher-low pullback and a rebound, so the post-earnings structure is intact. Revenue is growing at a high rate, free cash flow is strongly positive, cash far exceeds debt and dilution risk is low. The entry zone waits for a small dip instead of chasing, with a defined stop below the higher low. This is a tactical, small-size long and not a high-conviction one: the regime is risk-off, valuation is rich, the news feed was down and the reward/risk is only moderate.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = pullback",
+  "technical: notes = close 84.42 above SMA20 73.82, SMA50 63.92 and SMA200 35.52, 63-day return +78.7%, RSI14 64.6 (not overbought)",
+  "technical: entry_zone = [81.5, 84.0]",
+  "technical: stop = 75.3",
+  "technical: target = 96.4",
+  "technical: reward_risk = 1.8",
+  "technical: notes = rebound of +7.5% on 2026-11-09 off the 75.81 post-earnings-gap higher low, volume ratio 1.05",
+  "fundamentals: quality = high",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: notes = revenue +0.3929 YoY to 139362000, free cash flow 130446872, cash 250480000 against debt 29001000",
+  "fundamentals: notes = short interest 0.1304 of float, below the 15% threshold; mean analyst target 93.5 versus pre-market 83.69",
+  "news: score = 0 (neutral by default, no negative catalyst sourced; news_available = false)",
+  "regime_view: IWM above 50- and 200-day, showing the weakness is concentrated in mega-cap and semiconductor growth"
+ ],
+ "upside_case": {"target": 96.4, "probability": 0.35},
+ "rebuttal_to_bear": null}

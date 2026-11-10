@@ -1,0 +1,8 @@
+{"ticker": "VERX", "rating": "Hold", "confidence": 0.4,
+ "entry": 16.85, "entry_zone": [16.6, 17.1], "stop": 14.95, "target": 20.09, "horizon_days": 10,
+ "expected_return": {"low": -0.113, "high": 0.192},
+ "sector": "Technology", "earnings_date": null,
+ "thesis": "VERX has a real post-earnings uptrend (above SMA20/50/200, 63-day RS 0.468, gap on about 3x volume) and reward/risk of about 1.7 from the 16.85 mid-entry to the 20.09 52-week high clears the 1.5 floor. But the regime is risk-off with QQQ -9.57% over 21 days and XLK lagging, the Q3 net loss of -46.6M is unexplained, the news feed was down, and the gap-day high of 18.53 already faded, so the edge is too thin to open a new position. Revisit if price dips into 16.60-17.10 and holds, and the 10-Q loss driver is confirmed as non-cash.",
+ "invalidation": "A daily close below 15.92 (fills the earnings gap) or below the 15.03 base kills the long thesis.",
+ "key_risks": ["Risk-off regime (confidence 0.8): QQQ below 50/200-day, XLK 21-day -14.04%, VIX 20.85 and rising", "Q3 GAAP net loss -46.6M with cause not in packet; non-cash nature unconfirmed", "News feed unavailable: guidance, analyst actions, M&A and litigation unknown", "Wide stop: 14.95 is 1.90 below the 16.85 mid-entry (about 2.4 ATR), so a loss costs about 11%", "Leverage: debt-to-equity 194, debt 350M versus cash 218M; EV/EBITDA 88", "Extended: RSI14 72.3, close 15.5% above SMA20; gap-day high 18.53 faded to 17.59"],
+ "debate_winner": "bear"}

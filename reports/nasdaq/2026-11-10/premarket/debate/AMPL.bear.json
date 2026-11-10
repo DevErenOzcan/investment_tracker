@@ -1,0 +1,16 @@
+{"ticker": "AMPL",
+ "thesis": "The regime is risk-off with growth and semiconductors leading the decline, and AMPL is a loss-making software name after a +172% 126-day run, which is exactly the profile that gets sold when multiples compress. The earnings catalyst is spent: the stock gapped to 18.85 and reversed to close 16.10 on heavy volume, a classic failed breakout at the 52-week high. The proposed target is that same rejection level, so reward/risk of 1.58 is thin for a name that is far above its SMA50 and SMA200. The news feed was down, so guidance and analyst reactions are unchecked, which means the buyer takes unknown event risk.",
+ "evidence": [
+  "regime_view: regime = risk-off, confidence = 0.8; QQQ 21-day return -9.57%, below 50- and 200-day",
+  "regime_view: VIX 20.85, 21-day change +37.08%, percentile 0.833",
+  "technical: setup = pullback, score = 1 (capped), reward_risk = 1.58",
+  "technical: target 18.85 equals the 52-week high set on 2026-11-05, a rejection level (open 18.52, close 16.10 on 3.2M shares, about 1.7x average)",
+  "technical: close 17.32 vs SMA50 14.87 and SMA200 9.81, so price is extended from its longer averages with a large mean-reversion gap",
+  "technical: stop 15.55 is 1.4 ATR from the zone midpoint, and the 15.62 swing low was only set 2026-11-06",
+  "news: score = 0, news_available = false, news_7d empty, so guidance and analyst actions are unverified",
+  "news: Q3 earnings catalyst direction = mixed; net loss 24.5M, operating margin about -22%, about 5.6x trailing sales after +172% 126-day run",
+  "news: event_risks states the post-earnings catalyst is now spent and no scheduled catalyst falls in the next 20 business days"
+ ],
+ "downside_case": {"level": 14.87, "probability": 0.3},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

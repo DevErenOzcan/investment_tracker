@@ -1,0 +1,16 @@
+{"ticker": "EXEL",
+ "thesis": "EXEL is extended after a 63-day run of +39.8%, with RSI14 at 70.5 and price 8.3% above SMA20, in a risk-off tape (QQQ below its 50- and 200-day, VIX percentile 0.833). Price of 71.74 is above the mean analyst target of 61.57 across 14 opinions, so the fundamental upside is already priced and the 'fair' valuation rests on an unverified sector comparison. The 73.69 high was rejected on 2026-11-05 (reversal to 68.71 on 4.4M shares, cause unknown) and the news feed and SEC filings were unavailable, so unseen event risk cannot be ruled out. Short interest above 15% of float means any adverse headline can produce a violent move, and the technical reward/risk of about 2.1 depends on a dip entry that has not happened; only about 1.2 is available to the nearby high.",
+ "evidence": [
+  "technical: RSI14 = 70.5, price 8.3% above SMA20 66.23, close 71.74",
+  "technical: Nov 5 reversal from 73.69 shows supply at the 52-week high; reward/risk only about 1.2 to that high",
+  "technical: stop 67.8 sits close to the 68.01 swing low, a failure there opens a gap to the SMA20 area 66.23",
+  "fundamentals: close 71.74 above mean analyst target 61.57143 (14 opinions)",
+  "fundamentals: growth = stable, net income up 12.7% yoy versus revenue up 10.2%; not accelerating",
+  "fundamentals: short interest 0.1533 of float (>15%), higher volatility",
+  "news: news_available = false; sec_filings_10d empty, so offering, 8-K or litigation signals could not be checked",
+  "news: 2026-11-05 intraday reversal from 73.69 to 68.71 on 4.4M volume, cause unknown",
+  "regime: risk-off, confidence 0.8; QQQ 21-day return -9.57%, VIX 21-day change +37.08%"
+ ],
+ "downside_case": {"level": 66.23, "probability": 0.3},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

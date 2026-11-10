@@ -1,0 +1,22 @@
+{"ticker": "EXEL",
+ "thesis": "EXEL is a high-quality, profitable biotech in a strong uptrend that has held up while NASDAQ growth sold off, and the regime itself shows money rotating toward health care. The Oct 30 post-earnings volume surge reads as accumulation, and short interest above 15% of float adds fuel if the stock resumes upward. The case is only for a pullback entry in the 69.6-71.3 zone, not for chasing: RSI is 70.5, price is extended above SMA20, and supply showed up at 73.69. Reward/risk of 2.1 to the 76.0 target is acceptable but not wide, the news feed was unavailable, and the stock trades above the mean analyst target, so this is a modest-conviction, entry-disciplined long in a risk-off tape.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = pullback",
+  "technical: entry_zone = [69.6, 71.3]",
+  "technical: stop = 67.8",
+  "technical: target = 76.0",
+  "technical: reward_risk = 2.1",
+  "technical: notes = close 71.74 above SMA20 66.23, SMA50 61.27 and SMA200 51.70, 63-day return +39.8%, relative strength vs benchmark +0.45",
+  "technical: notes = Oct 30 gap on 5.1M shares looks like post-earnings accumulation (volume ratio 1.46)",
+  "fundamentals: quality = high",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: notes = profit margin 0.3545, operating margin 0.40750998, free cash flow 759443008 vs total debt 162200992 and cash 892017984",
+  "fundamentals: notes = revenue YoY 0.1019, net income YoY 0.1267, latest quarter revenue 658696000 up from 628690000 and 610812000",
+  "fundamentals: notes = trailing P/E 21.479042, forward P/E 16.783485",
+  "fundamentals: red_flags = short interest 0.1533 of float (squeeze potential)",
+  "news: binary_event = false",
+  "regime_view: leading_sectors = XLV, XLP, XLY (health care leading, XLV 21-day +10.26%)"
+ ],
+ "upside_case": {"target": 76.0, "probability": 0.3},
+ "rebuttal_to_bear": null}

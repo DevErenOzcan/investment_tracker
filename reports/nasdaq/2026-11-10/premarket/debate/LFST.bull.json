@@ -1,0 +1,17 @@
+{"ticker": "LFST",
+ "thesis": "LFST is a confirmed uptrend with strong reported growth and an accumulation-sized volume day, and it is idiosyncratic against a risk-off tape. Revenue grew 25.3% YoY with three sequential increases, net income is solidly positive, free cash flow is positive and dilution risk is low. The setup is a pullback entry, not a chase: wait for 14.00-14.40, with a stop at 12.85 and a target of 17.0, for reward/risk of 2.07. The edge is modest (all card scores are +1), the regime is risk-off, and the 11/09 volume driver is unverified, so this is a small, price-disciplined long and not a high-conviction one.",
+ "evidence": [
+  "technical: trend = up; close 14.60 above SMA20 13.00, SMA50 12.66 and SMA200 9.53 (per notes)",
+  "technical: setup = pullback; entry_zone = [14.0, 14.4]; stop = 12.85; target = 17.0; reward_risk = 2.07",
+  "technical: notes = Nov 9 rose 6% on 29.5M shares, about 6x the 4.7M average volume, described as strong accumulation",
+  "technical: notes = 63-day return is +27%; weekly closes climb steadily from 7.39 to 14.60",
+  "fundamentals: notes = revenue +25.3% YoY (455,864,000 vs 363,809,000), sequential increases 403,476,000 to 435,354,000 to 455,864,000",
+  "fundamentals: notes = net income 14,243,000, 23,612,000, 22,385,000 over the last three reported quarters; free cash flow 171,344,992",
+  "fundamentals: dilution_risk = low; growth = stable; quality = medium",
+  "fundamentals: notes = short interest 0.0754 of float, below the 15% threshold; mean analyst target 16.3",
+  "news: catalysts = 10-Q for quarter ended 2026-09-30 filed 2026-11-05, direction positive, confirms reported results",
+  "news: event_risks = no S-3 or 424B5 in the 10-day filings; binary_event = false; no known scheduled events in the next 20 business days",
+  "regime_view: IWM above 50- and 200-day; XLY and XLF above 50- and 200-day, so weakness is concentrated in mega-cap and semiconductor growth rather than broad"
+ ],
+ "upside_case": {"target": 17.0, "probability": 0.3},
+ "rebuttal_to_bear": null}

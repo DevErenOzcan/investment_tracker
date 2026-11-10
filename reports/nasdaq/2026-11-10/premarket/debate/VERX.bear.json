@@ -1,0 +1,20 @@
+{"ticker": "VERX",
+ "thesis": "VERX is extended after a post-earnings gap, with RSI14 at 72.3 and a close 15.5% above SMA20, in a risk-off regime where QQQ is below both its 50- and 200-day averages and VIX is rising. The gap-day high of 18.53 already faded to a 17.59 close, a sign that buyers did not follow through. The Q3 GAAP net loss of -46.6M is unexplained and the news feed was down, so guidance, analyst actions and any M&A or litigation news are unknown. Balance sheet leverage is high (debt-to-equity 194, debt 350M versus cash 218M) and EV/EBITDA is 88. Reward/risk of 1.7 is only acceptable, and a stop at 14.95 sits well below the entry, so the cost of being wrong is large relative to the payoff.",
+ "evidence": [
+  "technical: RSI14 = 72.3, close 17.30 is 15.5% above SMA20 (14.98)",
+  "technical: notes = gap-day high 18.53 faded to 17.59 close; 11/06 opened 16.78 and closed 17.08",
+  "technical: reward_risk = 1.7, score = 1 (capped)",
+  "technical: invalidation = daily close below 15.03 or below 15.92 (fills whole gap)",
+  "technical: stop = 14.95 versus entry_zone = [16.6, 17.1]",
+  "fundamentals: red_flags = Q3 net income -46,633,000 versus +4,045,000 a year earlier; cause not in packet",
+  "fundamentals: red_flags = GAAP profit margin -0.05825, ROE -0.21187",
+  "fundamentals: red_flags = debtToEquity 194.235; total debt 349,937,984 exceeds total cash 217,796,992",
+  "fundamentals: red_flags = enterpriseToEbitda 88.031",
+  "fundamentals: revenue_yoy = 0.1102 (stable growth, not accelerating)",
+  "news: news_available = false; guidance, analyst actions, M&A and litigation unknown",
+  "regime_view: regime = risk-off, confidence 0.8; QQQ 21-day return -9.57%, VIX 20.85 (percentile 0.833)",
+  "regime_view: 10-year yield 4.938, 63-day change +5.47%"
+ ],
+ "downside_case": {"level": 15.03, "probability": 0.35},
+ "rebuttal_to_bull": "The bull calls the two sessions of holding 16.45-17.49 digestion, but the stock gave back the whole gap-day high of 18.53 and the pre-market price of 17.13 is already below the 17.30 close. The bull relies on the loss being non-cash, but the fundamentals card marks that as unconfirmed. Fair valuation on forward P/E 16.6 conflicts with EV/EBITDA of 88 and a negative GAAP margin. The bull also concedes the entry depends on a dip, which in a risk-off tape can run through the entry zone to the 15.03 base. Strength outside tech does not help a software name if QQQ breaks lower again.",
+ "dealbreaker": false}

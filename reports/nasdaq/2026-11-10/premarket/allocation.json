@@ -1,0 +1,60 @@
+{
+  "as_of": "2026-11-10",
+  "session": "premarket",
+  "exchange": "NASDAQ",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "regime": "risk-off",
+  "positions": [
+    {
+      "ticker": "EXEL",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 70.45,
+      "weight": 0.0084,
+      "engine_weight": 0.0084,
+      "amount_units": 8.4,
+      "entry_zone": [69.6, 71.3],
+      "stop": 67.8,
+      "target": 76.0,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "action": "buy",
+      "rationale": "Engine weight kept unchanged: cash-generative biotech in a strong uptrend in the leading health care group, but extended (RSI 70.5) with the 11-05 reversal cause unverified, so limit entry in 69.60-71.30 only, no chasing the 71.74 close."
+    },
+    {
+      "ticker": "AMPH",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 28.2,
+      "weight": 0.0061,
+      "engine_weight": 0.0061,
+      "amount_units": 6.1,
+      "entry_zone": [27.9, 28.5],
+      "stop": 26.6,
+      "target": 31.0,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "action": "buy",
+      "rationale": "Engine weight kept unchanged: low-multiple post-earnings uptrend (forward P/E 8.835) with a modest 1.75 reward/risk and thin liquidity, so limit entry in 27.90-28.50 only, no chasing the 29.38 close."
+    },
+    {
+      "ticker": "LFST",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 14.2,
+      "weight": 0.0033,
+      "engine_weight": 0.0033,
+      "amount_units": 3.3,
+      "entry_zone": [14.0, 14.4],
+      "stop": 12.85,
+      "target": 17.0,
+      "rating": "Overweight",
+      "confidence": 0.4,
+      "action": "buy",
+      "rationale": "Engine weight kept unchanged: revenue +25.3% YoY uptrend, but the 11-09 volume spike has no verified driver and the stop is the widest of the three, so limit entry in 14.00-14.40 only and treat a close below 12.94 (thesis invalidation, above the 12.85 stop) as the exit."
+    }
+  ],
+  "cash_weight": 0.9822,
+  "vetoed": []
+}

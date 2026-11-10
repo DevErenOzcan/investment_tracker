@@ -1,0 +1,22 @@
+{
+  "vetoes": [],
+  "reductions": [
+    {
+      "ticker": "LFST",
+      "factor": 0.5,
+      "reason": "The 11/09 move (+6% on 29.5M shares, about 6x average) has no verified driver and the news feed is down, so an offering or secondary sale cannot be ruled out. This is also the widest stop (9.51%), the richest valuation (trailing P/E 81.1) and the lowest confidence (0.40) of the three names."
+    },
+    {
+      "ticker": "AMPH",
+      "factor": 0.75,
+      "reason": "Analyst actions, guidance and M&A could not be checked without news. Short interest is 22.08% of float, price is above the 24.5 mean analyst target, and reward/risk of 1.75 sits close to the 1.5 floor, with the target at the 31.0 rejection wick."
+    },
+    {
+      "ticker": "EXEL",
+      "factor": 0.75,
+      "reason": "The cause of the 2026-11-05 reversal from 73.69 to 68.71 on 4.4M shares is unknown because the news and SEC feeds were down. The stock is also extended (RSI 70.5) and trades above the 61.57 mean analyst target, with 15.3% short interest."
+    }
+  ],
+  "portfolio_notes": "All three proposals are the same trade: extended health-care momentum names (RSI 68.6-70.8, each trading above its mean analyst target or near overhead supply) riding a defensive rotation in which XLV is at a 0.99 percentile 21-day return. A reversal of that rotation would hit all three together. The sector labels are inconsistent ('Health Care' for EXEL, 'Healthcare' for AMPH and LFST), so the engine's sector aggregation may not have grouped them; total exposure of 0.0259 is well below max_sector 0.30 either way, but the label should be normalised. With the news feed down and the regime risk-off (confidence 0.8), every name carries unchecked event risk, so all three are trimmed and kept as limit-entry-only orders in their stated pullback zones with no chasing. LFST's thesis invalidation (12.94) sits above its engine stop (12.85); the tighter level should govern exits.",
+  "held_alerts": []
+}

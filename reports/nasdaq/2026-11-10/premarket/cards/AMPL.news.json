@@ -1,0 +1,28 @@
+{
+  "ticker": "AMPL",
+  "catalysts": [
+    {
+      "what": "Q3 2026 earnings 8-K (Item 2.02 results, 9.01 exhibits) filed 2026-11-04. Stock gapped up to 18.85 intraday on 11-05 (open 18.52) then reversed to close 16.10 on 3.2M shares, then recovered to 17.32 by 11-09. Guidance and headline details are not in the packet.",
+      "date": "2026-11-04",
+      "direction": "mixed",
+      "source": "https://www.sec.gov/Archives/edgar/data/1866692/000119312526447218/ampl-20261104.htm"
+    },
+    {
+      "what": "10-Q for quarter ended 2026-09-30 filed. SEC fundamentals show quarterly revenue of 110.6M (about +24.9% YoY) and net loss of 24.5M, roughly flat YoY.",
+      "date": "2026-11-05",
+      "direction": "mixed",
+      "source": "https://www.sec.gov/Archives/edgar/data/1866692/000119312526447817/ampl-20260930.htm"
+    }
+  ],
+  "event_risks": [
+    "News feed unavailable this run: news_7d is empty. This is a data gap and does not mean there are no events. Analyst actions, guidance details and any M&A or litigation headlines could not be checked.",
+    "No S-3 or 424B5 in the 10-day filings, so no offering signal. Cash is about 140.5M against debt of about 9.3M.",
+    "The earnings reaction was a failed gap-up (intraday high 18.85, close 16.10), which points to sellers at the 52-week high. The post-earnings catalyst is now spent.",
+    "No known scheduled events in the next 20 business days appear in the packet. The next earnings report is likely around February 2027, outside the window. This is not confirmed.",
+    "The company is still loss-making (operating margin about -22%) and trades at about 5.6x trailing sales after a +172% 126-day run, so it is sensitive to growth-software multiples."
+  ],
+  "binary_event": false,
+  "news_available": false,
+  "score": 0,
+  "notes": "News feed was unreachable, so the assessment rests only on SEC filings and price action. The Q3 earnings 8-K (2026-11-04) and 10-Q (2026-11-05) are the only identified catalysts. The stock spiked to 18.85 and reversed to 16.10 the next day, then retraced to 17.32 on above-average volume, so the market has mostly digested the print. Revenue growth of about 25% YoY is solid, but the guidance content is unknown. There are no offering, M&A, litigation or other 8-K event flags in the packet. Score is neutral (0) because of the data gap and the mixed earnings reaction."
+}

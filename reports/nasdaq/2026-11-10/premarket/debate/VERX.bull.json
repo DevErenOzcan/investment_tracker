@@ -1,0 +1,21 @@
+{"ticker": "VERX",
+ "thesis": "VERX is in a confirmed uptrend, above its SMA20, SMA50 and SMA200, with strong 63-day relative strength, and it gapped up on earnings on roughly 3x normal volume. The stock has held the upper part of the gap for two sessions on average volume, which looks like digestion rather than distribution. Fundamentals are medium quality: revenue grows steadily, operating margin and free cash flow are positive, dilution risk is low, and valuation is fair. The setup is a pullback entry, not a chase, because RSI is extended. Reward/risk is only acceptable and the regime is risk-off, so this is a modest, patient long that depends on a dip into the entry zone. The news feed was unavailable, so there is no news evidence either way.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = pullback",
+  "technical: entry_zone = [16.6, 17.1]",
+  "technical: stop = 14.95",
+  "technical: target = 20.09",
+  "technical: reward_risk = 1.7",
+  "technical: notes = close 17.30 is above SMA20 (14.98), SMA50 (13.48) and SMA200 (13.21); 63-day relative strength 0.468",
+  "technical: notes = earnings gap on 4.99M shares, about 3x normal volume; held 16.45-17.49 for two sessions on average volume",
+  "fundamentals: notes = revenue_yoy 0.1102, quarters rose from 196.6M to 204.0M to 213.3M",
+  "fundamentals: notes = operating margin +7.9%, free cash flow 134.3M, cash 217.8M",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: valuation = fair (forward P/E 16.6, P/S 3.47)",
+  "fundamentals: notes = short interest 7.07% of float, below the 15% threshold",
+  "fundamentals: earnings_date = null, so no near-term earnings event risk",
+  "regime_view: IWM above 50- and 200-day, so weakness is concentrated in mega-cap and semiconductor growth rather than broad"
+ ],
+ "upside_case": {"target": 20.09, "probability": 0.3},
+ "rebuttal_to_bear": null}

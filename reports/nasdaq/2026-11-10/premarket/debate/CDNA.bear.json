@@ -1,0 +1,17 @@
+{"ticker": "CDNA",
+ "thesis": "CDNA is a high-beta (2.487), extended momentum name being bought into a risk-off tape (QQQ below 50- and 200-day, 21-day -9.57%, VIX 20.85 and rising) that is hitting growth and tech hardest. Price already sits above the technical entry zone (close 84.42 vs zone 81.5-84.0), 14.4% above SMA20, after a roughly +390% run in 126 days, so a buyer is chasing a post-earnings gap. Valuation is rich (forward P/E 53.5, P/S 8.9, EV/EBITDA 164) while growth is slowing sequentially and reported profit is flattered by a non-recurring Q2. The news and SEC feeds were down, so offering risk and the cause of the gap and the 11% drop on 2026-11-05 are unverified; a stock this extended is a classic candidate for an equity raise or a gap fill.",
+ "evidence": [
+  "regime_view: regime = risk-off, confidence = 0.8; QQQ below 50- and 200-day, 21-day return -9.57%",
+  "regime_view: VIX 20.85, percentile 0.833, 21-day change +37.08%; SMH 21-day -19.21%, XLK -14.04%",
+  "technical: close 84.42 vs entry_zone [81.5, 84.0]; price 14.4% above SMA20 73.82; 63-day return +78.7%",
+  "technical: reward_risk = 1.8 from midpoint but only about 1.1 if first target is the 90.87 high",
+  "technical: atr = 5.51 (6.5% of price); gap-day open 80.61 and swing low 75.81 are close below price, gap fill risk",
+  "fundamentals: valuation = rich; forward P/E 53.48691, P/S 8.917768, EV/EBITDA 164.469",
+  "fundamentals: revenue 117.7M -> 131.9M -> 139.4M, growth slowing sequentially; Q2 net income 110.6M non-recurring, earnings growth 10.667 distorted",
+  "fundamentals: operating margin 0.084759995; mean analyst target 93.5 vs pre-market 83.69 leaves limited upside to consensus",
+  "news: news_available = false; news_7d and sec_filings_10d empty, so S-3/424B5 and 8-K risk cannot be checked",
+  "news: beta 2.49, short interest 13% of float; cause of 2026-10-30 gap and 2026-11-05 drop of about 11% undocumented"
+ ],
+ "downside_case": {"level": 75.3, "probability": 0.4},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

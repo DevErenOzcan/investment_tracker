@@ -1,0 +1,8 @@
+{"ticker": "CDNA", "rating": "Hold", "confidence": 0.38,
+ "entry": 82.75, "entry_zone": [81.5, 84.0], "stop": 75.3, "target": 96.4, "horizon_days": 10,
+ "expected_return": {"low": -0.09, "high": 0.165},
+ "sector": "Unknown", "earnings_date": null,
+ "thesis": "CDNA has a sound post-earnings structure (higher low at 75.81, close 84.42 above SMA20 73.82, revenue +39% YoY, cash 250.5M vs debt 29.0M), but it is a beta-2.49 growth name in a risk-off NASDAQ regime (QQQ 21-day -9.57%, VIX 20.85 and rising). The 1.8 reward/risk relies on a breakout to 96.4 beyond the 90.87 52-week high (only about 1.1 to that high), the bull's own target probability is 0.35, and the news/SEC feeds were down, so offering risk and the cause of the gap and the 11% drop on 2026-11-05 cannot be checked. Wait for the regime to stabilise and the news feed to return before taking a position.",
+ "invalidation": "A daily close below 75.81 (the 2026-11-05 higher low), or a close back below the 80.61 gap-day open on rising volume, breaks the bullish structure.",
+ "key_risks": ["Risk-off regime led by tech and semiconductors (QQQ below 50- and 200-day, SMH 21-day -19.21%) hitting a beta-2.49 name", "News and SEC filing feeds unavailable: equity raise (S-3/424B5) after a roughly +390% 126-day run cannot be ruled out", "Gap-fill risk toward 80.61 and 75.81; ATR 5.51 is 6.5% of price", "Rich valuation (forward P/E 53.5, P/S 8.9, EV/EBITDA 164) with sequentially slowing revenue growth and non-recurring Q2 profit", "Price at the top of the entry zone; first resistance at the 90.87 high gives only about 1.1 reward/risk"],
+ "debate_winner": "bear"}

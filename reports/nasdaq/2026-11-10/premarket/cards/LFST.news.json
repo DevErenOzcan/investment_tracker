@@ -1,0 +1,17 @@
+{"ticker": "LFST",
+ "catalysts": [
+  {"what": "Q3 2026 earnings release (8-K Items 2.02, 7.01, 9.01). Per SEC fundamentals in the packet, quarterly revenue was 455.9M (+25.3% YoY) and net income 22.4M (vs 1.1M a year earlier). Guidance details were not in the packet. The stock spiked to 15.66 intraday on 11/05 and closed at 13.43, a sharp intraday reversal on 11M shares.", "date": "2026-11-05", "direction": "mixed", "source": "https://www.sec.gov/Archives/edgar/data/1845257/000119312526447943/lfst-20261105.htm"},
+  {"what": "10-Q for the quarter ended 2026-09-30 filed. It confirms the reported results. No risk-factor or financing content was reviewed.", "date": "2026-11-05", "direction": "positive", "source": "https://www.sec.gov/Archives/edgar/data/1845257/000119312526449746/lfst-20260930.htm"}
+ ],
+ "event_risks": [
+  "News feed unavailable this run (news_7d empty). The cause of the 11/09 move (+6.0% to 14.60 on 29.5M shares, about 6x average volume) is unexplained by the packet. Possible causes include an offering, a secondary sale by holders, an index change or M&A, but none of these is confirmed.",
+  "No S-3 or 424B5 in the 10-day filings, so no registered offering is visible. A fresh filing could still appear after the packet cut-off.",
+  "The 11/05 intraday reversal from 15.66 to 13.43 shows supply near the 52-week high.",
+  "No known scheduled events in the next 20 business days. Next earnings are likely outside the window (date not in packet).",
+  "The price is extended: RSI 68.6, 12% above the 20-day SMA, and 6.8% below the 52-week high."
+ ],
+ "binary_event": false,
+ "news_available": false,
+ "score": 1,
+ "notes": "News unavailable (feed blocked), which does not mean there are no events. The only confirmed catalyst is the 11/05 earnings 8-K and 10-Q, with strong reported growth (revenue +25% YoY, net income 22.4M) and a persistent operating trend. Reaction was volatile: a spike to 15.66 faded to 13.43, then the stock rallied on very heavy volume on 11/09 for an unknown reason. No offering filing (S-3/424B5) or 8-K item 1.01/5.02 appears in the packet. Score is a modest +1, capped by the data gap and the unexplained volume spike. Treat the 11/09 driver as unverified before sizing up."
+}

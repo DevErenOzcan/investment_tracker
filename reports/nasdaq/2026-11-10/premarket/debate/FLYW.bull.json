@@ -1,0 +1,21 @@
+{"ticker": "FLYW",
+ "thesis": "FLYW is a high-quality, cash-rich compounder that gapped up on a strong Q3 print and held the gap for four sessions while volume faded, which is constructive post-earnings drift behavior. It trades in a clean uptrend above its 20-, 50- and 200-day averages with no overhead resistance, and the pre-market quote already sits inside the pullback entry zone. The balance sheet (cash against almost no debt) and a forward P/E well below trailing support a fair valuation with low dilution risk. The setup is only moderate: the stock is extended, reward/risk is about 1.6, the regime is risk-off and the news feed was missing, so this is a pullback-entry idea at small conviction, not a chase.",
+ "evidence": [
+  "technical: setup = pullback",
+  "technical: trend = up",
+  "technical: entry_zone = [21.3, 21.8]",
+  "technical: stop = 19.6",
+  "technical: target = 24.7",
+  "technical: reward_risk = 1.6",
+  "technical: notes = close 22.13 above SMA20 19.47, SMA50 18.52 and SMA200 15.74; 11/4 earnings gap held for four sessions on fading volume (4.83M, 2.50M, 1.64M); no overhead resistance above the 52-week high",
+  "fundamentals: quality = high",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: valuation = fair",
+  "fundamentals: notes = cash 410,216,000 vs debt 1,413,000; free cash flow 130,803,376; operating margin 0.21118; forward P/E 16.44 vs trailing 36.28; short interest 9.82% of float, below the 15% threshold",
+  "fundamentals: notes = latest quarter revenue 250,300,000 (YoY 0.2506), net income 74,543,000 (YoY 1.5157)",
+  "news: catalysts = Q3 2026 earnings 8-K and 10-Q filed 2026-11-03/04, direction positive; gap from 19.15 to 21.81 on about 6.2M shares",
+  "news: event_risks = no S-3 or 424B5 in the last 10 days; no known scheduled events in the next 20 business days; binary_event = false",
+  "regime_view: evidence = IWM above 50- and 200-day and XLY 21-day +7.23% above both averages, so breadth outside mega-cap tech and semiconductors is intact (FLYW is not a semiconductor name)"
+ ],
+ "upside_case": {"target": 24.7, "probability": 0.3},
+ "rebuttal_to_bear": null}

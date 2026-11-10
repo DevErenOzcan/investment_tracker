@@ -1,0 +1,16 @@
+{"ticker": "EXEL", "rating": "Overweight", "confidence": 0.45,
+ "entry": 70.45, "entry_zone": [69.6, 71.3], "stop": 67.8, "target": 76.0, "horizon_days": 10,
+ "expected_return": {"low": -0.0376, "high": 0.0788},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "EXEL is a high-quality, cash-generative biotech (operating margin 0.41, FCF 759M vs debt 162M) in a strong uptrend (close 71.74 above SMA20/50/200, 63-day +39.8%, RS +0.45) and sits in the leading health care group (XLV 21-day +10.26%) during a risk-off tape concentrated in tech and semis. Post-earnings accumulation on Oct 30 supports continuation, but the stock is extended (RSI 70.5, 8.3% above SMA20) and was rejected at 73.69 on Nov 5, so the call is only for a dip entry in 69.60-71.30 with reward/risk of about 2.1 to 76.0. Rated Overweight rather than Buy because the news and SEC feeds were unavailable, price is above the mean analyst target of 61.57, and the regime is risk-off.",
+ "invalidation": "Daily close below 67.80, under the 2026-11-06 swing low of 68.01, or a failed break above 73.69 on heavy volume followed by a close back under 68.",
+ "key_risks": [
+  "News feed and SEC filings unavailable this run; the cause of the 2026-11-05 reversal from 73.69 to 68.71 on 4.4M shares is unknown",
+  "Extended: RSI14 70.5 and price 8.3% above SMA20 66.23; a stop failure opens a move toward 66.23",
+  "Supply at the 73.69 high; only about 1.2 reward/risk to that level before the 76.0 target",
+  "Close 71.74 above the mean analyst target 61.57 (14 opinions), limiting fundamental upside",
+  "Short interest 15.3% of float adds two-way volatility",
+  "Risk-off regime (confidence 0.8, QQQ 21-day -9.57%, VIX percentile 0.833)",
+  "Entry is conditional on a dip into 69.60-71.30; no position if price does not trade there"
+ ],
+ "debate_winner": "draw"}

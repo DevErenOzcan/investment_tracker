@@ -1,0 +1,14 @@
+{"ticker": "LFST", "rating": "Overweight", "confidence": 0.40,
+ "entry": 14.2, "entry_zone": [14.0, 14.4], "stop": 12.85, "target": 17.0, "horizon_days": 15,
+ "expected_return": {"low": -0.095, "high": 0.197},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "LFST is in a confirmed uptrend (close 14.60 above SMA20 13.00, SMA50 12.66, SMA200 9.53) backed by real operating improvement: revenue +25.3% YoY with three sequential increases, positive net income and free cash flow, and low dilution risk. Taking the card's levels (entry 14.20 midpoint, stop 12.85, target 17.0) gives reward/risk of 2.07. The edge is modest: every card scores +1, the regime is risk-off, 15.66 is proven overhead supply and the 11/09 volume driver is unverified, so this rates Overweight on a pullback fill only, not Buy and not a chase at 14.60.",
+ "invalidation": "A daily close below 12.94 (the 10-day swing low), or a heavy-volume close back under the 13.20 Nov 9 low, invalidates the setup.",
+ "key_risks": [
+  "The 11/09 move (+6% on 29.5M shares, about 6x average) has no verified driver because the news feed was down. A secondary sale, offering or other event cannot be ruled out.",
+  "Overhead supply at 15.66: the Nov 5 earnings spike reversed to a 13.43 close. Reward/risk to 15.66 alone is only about 1.1, and the 17.0 target needs a breakout.",
+  "The regime is risk-off (confidence 0.8): QQQ is below its 50- and 200-day averages, 21-day -9.57%, and VIX is rising +37.08%.",
+  "The price is extended (RSI 68.6, 12.3% above SMA20), so it may not pull back cleanly into 14.00-14.40, or may fall through it.",
+  "Valuation is rich (trailing P/E 81.1, EV/EBITDA 35.5), total debt 475.5M exceeds cash 218.8M, and the profit margin is only 4.3%."
+ ],
+ "debate_winner": "draw"}

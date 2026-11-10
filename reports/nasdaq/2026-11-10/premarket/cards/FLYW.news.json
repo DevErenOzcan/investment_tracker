@@ -1,0 +1,18 @@
+{"ticker": "FLYW",
+ "catalysts": [
+  {"what": "Q3 2026 earnings 8-K (items 2.02, 7.01, 9.01) filed 2026-11-03 with 10-Q the next day. Stock gapped from 19.15 to 21.81 on 2026-11-04 on about 6.2M shares (roughly 4x average volume). The 10-Q data in the packet shows Q3 revenue of 250.3M (+25.1% YoY) and net income of 74.5M (vs 29.6M a year earlier). The 8-K text was not available, so the guidance and the drivers of net income are unverified.", "date": "2026-11-04", "direction": "positive", "source": "https://www.sec.gov/Archives/edgar/data/1580560/000162828026069439/flyw-20261103.htm"},
+  {"what": "10-Q for the quarter ended 2026-09-30 filed. It confirms the revenue and net income figures above. The packet does not include the text.", "date": "2026-11-04", "direction": "positive", "source": "https://www.sec.gov/Archives/edgar/data/1580560/000162828026069661/flyw-20260930.htm"}
+ ],
+ "event_risks": [
+  "News feed unavailable in this run (news_7d is empty because of a network block). This is a data gap, not evidence of no events. Analyst actions, price-target changes and M&A rumors are unchecked.",
+  "The 8-K filed 2026-11-03 includes item 5.02 (director or officer departure, appointment or compensation change). The details were not readable from the packet. Check whether it is a CFO or CEO change.",
+  "No S-3 or 424B5 in the last 10 days, so no offering filing is visible. The company holds about 410M in cash and almost no debt, which lowers the need to raise capital.",
+  "Post-earnings drift has the stock at its 52-week high (22.18), 13.7% above its 20-day average, with RSI 71. The earnings catalyst is now 5 sessions old, so the pullback risk is technical.",
+  "Pre-market indication is 21.82 vs the 22.13 close (about -1.4%).",
+  "No known scheduled events in the next 20 business days from the packet. The next earnings report is likely around February, outside the window. This is an inference, not a sourced date."
+ ],
+ "binary_event": false,
+ "news_available": false,
+ "score": 1,
+ "notes": "News headlines were unavailable (empty news_7d), so the assessment rests only on the SEC filings and price data in the packet. The 2026-11-04 gap (+13.9% on about 6.2M shares) followed the Q3 earnings 8-K and 10-Q. Reported revenue grew about 25% YoY and net income rose sharply, which suggests a fundamental beat that may persist, though it is unverified because guidance and any one-off items in net income were not seen. Item 5.02 on the earnings 8-K is an unresolved management-change flag. There is no offering or M&A filing, and no binary event is visible. The score is capped at +1 because the news feed is missing and the stock is extended after the move."
+}

@@ -1,0 +1,17 @@
+{"ticker": "LFST",
+ "thesis": "The tape is risk-off (QQQ below its 50- and 200-day, VIX percentile 0.833 and rising), and LFST is an extended, richly valued name bought into that regime. It closed 12.3% above its SMA20 with RSI 68.6 after an earnings spike to 15.66 was sold hard to a 13.43 close, which marks supply just 6.8% above the price. The Nov 9 move on about 6x average volume has no verified driver because the news feed was down, so an offering, holder sale or M&A cannot be ruled out. Valuation is rich (trailing P/E 81, EV/EBITDA 35) with debt above cash, and the mean analyst target of 16.3 offers little upside from 14.6. Chasing here gives poor reward/risk; the only defensible entry is a pullback toward 14.0-14.4, which is not the current price.",
+ "evidence": [
+  "regime_view: regime = risk-off, confidence = 0.8; QQQ 21-day return -9.57%, VIX 21-day change +37.08%",
+  "technical: close 14.60, ext above SMA20 12.3%, RSI 68.6; setup = pullback, entry_zone = [14.0, 14.4], so current price is above the entry zone",
+  "technical: 52-week high 15.66 reversed to a 13.43 close on Nov 5; reward/risk to 15.66 alone is only about 1.1; target 17.0 is breakout-dependent",
+  "technical: invalidation = close below 12.94, stop 12.85, with the 13.20 Nov 9 low as the failure marker for the earnings-gap rally",
+  "news: news_available = false; Nov 9 volume 29.5M, about 6x the 4.7M average, cause unexplained",
+  "news: earnings reaction direction = mixed; spike to 15.66 faded to 13.43",
+  "fundamentals: valuation = rich; trailing P/E 81.11, EV/EBITDA 35.456, forward P/E 33.89",
+  "fundamentals: net income YoY 19.78x is a low-base effect (Q3 2025 net income 1,077,000); profit margin 0.04288",
+  "fundamentals: total debt 475,520,992 vs cash 218,818,000; SEC net income series has a duplicate value and gaps",
+  "fundamentals: mean analyst target 16.3 vs close 14.6, modest upside"
+ ],
+ "downside_case": {"level": 12.85, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}
