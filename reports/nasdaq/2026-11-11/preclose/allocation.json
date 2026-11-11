@@ -1,0 +1,60 @@
+{
+  "as_of": "2026-11-11",
+  "session": "preclose",
+  "exchange": "NASDAQ",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "regime": "risk-off",
+  "positions": [
+    {
+      "ticker": "PLMR",
+      "status": "new",
+      "sector": "Financial Services",
+      "price": 158.34,
+      "weight": 0.0096,
+      "engine_weight": 0.0096,
+      "amount_units": 9.6,
+      "entry_zone": [154.5, 158.3],
+      "stop": 150.9,
+      "target": 173.0,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "action": "buy-confirm",
+      "rationale": "Engine weight kept unchanged (after the risk officer's x0.6 cut): the pullback from 161.08 to 158.34 on light volume cooled RSI to 69.9 with the trend intact, reward/risk is 3.0 from the 156.4 midpoint and about 2.0 at the last price, but last is 0.04 above the zone so fill only at or below 158.3."
+    },
+    {
+      "ticker": "SIBN",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 24.76,
+      "weight": 0.0027,
+      "engine_weight": 0.0027,
+      "amount_units": 2.7,
+      "entry_zone": [24.0, 24.9],
+      "stop": 23.3,
+      "target": 28.39,
+      "rating": "Overweight",
+      "confidence": 0.35,
+      "action": "buy-confirm",
+      "rationale": "Engine weight kept unchanged (after the risk officer's x0.5 cut): last 24.76 is inside the 24.0-24.9 zone with the uptrend intact, reward/risk about 2.5 at the last price and about 3.4 near 24.45, so a limit in the lower half is preferred; lowest confidence of the three and a second failure below the 25.92 high."
+    },
+    {
+      "ticker": "COLM",
+      "status": "new",
+      "sector": "Consumer Cyclical",
+      "price": 72.44,
+      "weight": 0.002,
+      "engine_weight": 0.002,
+      "amount_units": 2.0,
+      "entry_zone": [70.0, 71.6],
+      "stop": 66.9,
+      "target": 77.5,
+      "rating": "Overweight",
+      "confidence": 0.41,
+      "action": "buy-confirm",
+      "rationale": "Engine weight kept unchanged (after the risk officer's x0.5 cut): post-earnings uptrend intact, but last 72.44 is above the 70.0-71.6 zone where reward/risk is about 0.9, so limit-only in the zone (reward/risk 1.72 from the midpoint) and no chase."
+    }
+  ],
+  "cash_weight": 0.9857,
+  "vetoed": []
+}

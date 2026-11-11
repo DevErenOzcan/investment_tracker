@@ -1,0 +1,75 @@
+{
+  "as_of": "2026-11-11",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "peak_value_units": 1000,
+  "drawdown": 0.0,
+  "regime": "risk-off",
+  "regime_mult": 0.4,
+  "risk_per_trade": 0.0075,
+  "portfolio_vol": 0.0034135588537806886,
+  "positions": [
+    {
+      "ticker": "PLMR",
+      "status": "new",
+      "sector": "Financial Services",
+      "price": 156.4,
+      "stop": 150.9,
+      "target": 173.0,
+      "rr": 3.02,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "kelly": 0.2678,
+      "stop_pct": 0.0352,
+      "binding": "kelly",
+      "engine_weight": 0.0096,
+      "priority": 0.16066265060240958,
+      "flags": [
+        "risk-officer reduction x0.6: Property-catastrophe insurer with overnight gap-down risk through the 150.9 stop toward the 144.04 pre-gap close, plus a possible offering after a ~19% one-month run, and neither can be checked because the afternoon news refresh failed; the 158.34 last price is just above the 154.5-158.3 zone and only ~2.5% below the 162.33 mean analyst target, so the morning 0.6 factor stays."
+      ],
+      "amount_units": 9.6
+    },
+    {
+      "ticker": "SIBN",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 24.76,
+      "stop": 23.3,
+      "target": 28.39,
+      "rr": 2.49,
+      "rating": "Overweight",
+      "confidence": 0.35,
+      "kelly": 0.0886,
+      "stop_pct": 0.059,
+      "binding": "kelly",
+      "engine_weight": 0.0027,
+      "priority": 0.05314049586776842,
+      "flags": [
+        "risk-officer reduction x0.5: A loss-making company with 11.68% short interest that has failed twice below the 25.92 52-week high carries unchecked equity-raise and headline risk with no news feed all day, and the lowest confidence of the three (0.35, debate a draw) with a stop only ~1.2 ATR away does not support full engine size."
+      ],
+      "amount_units": 2.7
+    },
+    {
+      "ticker": "COLM",
+      "status": "new",
+      "sector": "Consumer Cyclical",
+      "price": 70.8,
+      "stop": 66.9,
+      "target": 77.5,
+      "rr": 1.72,
+      "rating": "Overweight",
+      "confidence": 0.41,
+      "kelly": 0.0666,
+      "stop_pct": 0.0551,
+      "binding": "kelly",
+      "engine_weight": 0.002,
+      "priority": 0.039940298507463175,
+      "flags": [
+        "risk-officer reduction x0.5: The 72.44 last price is above the 70.0-71.6 zone where reward/risk is below 1, reward/risk from the zone midpoint has slipped to 1.72, the stock sits at the 73.0 mean analyst target with RSI 73 and ~19% short interest, the beat is margin-only on 2% revenue growth, and it is a consumer cyclical in a risk-off tape with guidance and events unverified because news is morning-only."
+      ],
+      "amount_units": 2.0
+    }
+  ],
+  "cash_weight": 0.9857,
+  "rejected": []
+}

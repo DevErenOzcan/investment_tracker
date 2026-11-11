@@ -1,0 +1,23 @@
+{
+  "vetoes": [],
+  "reductions": [
+    {
+      "ticker": "PLMR",
+      "factor": 0.6,
+      "reason": "Property-catastrophe insurer with overnight gap-down risk through the 150.9 stop toward the 144.04 pre-gap close, plus a possible offering after a ~19% one-month run, and neither can be checked because the afternoon news refresh failed; the 158.34 last price is just above the 154.5-158.3 zone and only ~2.5% below the 162.33 mean analyst target, so the morning 0.6 factor stays."
+    },
+    {
+      "ticker": "SIBN",
+      "factor": 0.5,
+      "reason": "A loss-making company with 11.68% short interest that has failed twice below the 25.92 52-week high carries unchecked equity-raise and headline risk with no news feed all day, and the lowest confidence of the three (0.35, debate a draw) with a stop only ~1.2 ATR away does not support full engine size."
+    },
+    {
+      "ticker": "COLM",
+      "factor": 0.5,
+      "reason": "The 72.44 last price is above the 70.0-71.6 zone where reward/risk is below 1, reward/risk from the zone midpoint has slipped to 1.72, the stock sits at the 73.0 mean analyst target with RSI 73 and ~19% short interest, the beat is margin-only on 2% revenue growth, and it is a consumer cyclical in a risk-off tape with guidance and events unverified because news is morning-only."
+    }
+  ],
+  "portfolio_notes": "Sector labels are diverse (insurance, spine medical devices, apparel) with no hidden theme overlap, but all three are the same trade: extended post-earnings breakouts near their mean analyst targets, so one momentum unwind in a risk-off regime (confidence 0.85) could hit them together. Entries made this close would be held overnight with news unchecked since the morning (afternoon refresh failed with proxy 403, and the morning feed was also empty), which is the main reason for keeping reductions rather than staying silent. Fill only inside the entry zones (PLMR at or below 158.3, SIBN at or below 24.9 and preferably near 24.45, COLM only on a pullback to 70.0-71.6); COLM is currently above its zone and should not be chased. Total new exposure after reductions is about 1.4% of the notional portfolio; cards/ could not be listed or read with the available tools, so this review rests on research/, proposals.json, regime_view.json and the morning review."
+  ,
+  "held_alerts": []
+}
