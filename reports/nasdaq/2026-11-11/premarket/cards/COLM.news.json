@@ -1,0 +1,22 @@
+{
+  "ticker": "COLM",
+  "catalysts": [
+    {
+      "what": "Q3 FY26 results (earnings date 2026-10-29 per profile; 10-Q filed 2026-11-05): quarterly revenue 962.6M vs 943.4M a year earlier (+2%), net income 84.7M vs 52.0M (+63%). Stock rallied from about 60.9 (10/28) to 72.26 (11/10) on heavy volume. Cause of the rally is inferred from timing only; no news article confirms it.",
+      "date": "2026-11-05",
+      "direction": "positive",
+      "source": "https://www.sec.gov/Archives/edgar/data/1050797/000105079726000162/colm-20260930.htm"
+    }
+  ],
+  "event_risks": [
+    "News feed unavailable today (news_7d empty): guidance, analyst actions, M&A or litigation news cannot be ruled in or out.",
+    "No S-3/424B5/8-K in the last 10 days; the only filing is the 10-Q (no offering risk visible in the packet).",
+    "Short interest is about 19% of float: squeeze-driven moves can reverse sharply.",
+    "Price is extended (RSI14 73, 11.8% above SMA20, 1% below the 52-week high) and near the mean analyst target of 73.0, so there is pullback risk after the post-earnings run.",
+    "Next earnings are expected around Feb 2027, outside the 20-business-day window. No known scheduled company events in that window (not confirmed by the feed)."
+  ],
+  "binary_event": false,
+  "news_available": false,
+  "score": 1,
+  "notes": "News unavailable: news_7d is empty because the feed was unreachable, which is missing data and not evidence of no events. The price breakout began 10/29 and ran through 11/2 on 1.2-1.5M volume (about 2x average), which coincides with the 10/29 earnings date. The 10-Q shows Q3 net income up 63% on revenue up 2%, so the earnings beat looks like margin-driven and fairly durable, but the specific drivers (guidance, tariffs, etc.) are unknown. No offering or other event-risk filings are in the packet. Score is a modest +1 because the fundamental catalyst is positive and still being digested, held back by the missing news and the extended price."
+}

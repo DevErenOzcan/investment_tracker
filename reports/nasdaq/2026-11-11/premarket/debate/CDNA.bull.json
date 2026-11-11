@@ -1,0 +1,15 @@
+{"ticker": "CDNA",
+ "thesis": "CDNA is a post-earnings-gap pullback inside a strong uptrend: price sits above SMA20, SMA50 and SMA200, and it has held above the 10-30 gap low. Fundamentals back the move with 39% YoY revenue growth, three straight quarters of sequential growth, positive net income for four quarters, cash far above debt and low dilution risk. The technical card offers about 3.0 R/R into the 90.87 high, and the analyst mean target sits above the last close. Healthcare is a leading sector in the regime view, which helps against a risk-off tape. This is a moderate setup, not a high-conviction one. The news feed was down, valuation is rich, beta is very high, the stop is tight for the stock's volatility, and the regime is risk-off.",
+ "evidence": [
+  "technical: trend = up (close 80.77 above SMA20 74.59, SMA50 64.53, SMA200 35.82)",
+  "technical: setup = pullback, entry_zone = [77.5, 80.8], stop = 75.3, target = 90.87, reward_risk = 3.0",
+  "technical: notes = 10-30 earnings gap on about 2.7x average volume set the 52-week high; the pullback to 76.33 was bought and the last close came on light volume (vol ratio 0.98)",
+  "technical: invalidation = daily close below 75.3, or back below 72.13, which would fill the gap",
+  "fundamentals: notes = revenue YoY 0.3929, rising each quarter (117.7M to 131.9M to 139.4M)",
+  "fundamentals: dilution_risk = low (cash 250480000 vs debt 29001000, free cash flow 130446872)",
+  "fundamentals: notes = analyst mean target 93.5 (6 opinions) vs last close 80.77; short interest 0.1393 of float, below the 15% threshold",
+  "news: event_risks = no known scheduled event in the next 20 business days (not confirmed); binary_event = false",
+  "regime_view: leading_sectors = XLV, XLP, XLF, XLY (CDNA is Healthcare per packet profile.sector)"
+ ],
+ "upside_case": {"target": 90.87, "probability": 0.3},
+ "rebuttal_to_bear": null}

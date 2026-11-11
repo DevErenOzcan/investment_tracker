@@ -1,0 +1,8 @@
+{"ticker": "CDNA", "rating": "Hold", "confidence": 0.33,
+ "entry": 79.15, "entry_zone": [77.5, 80.8], "stop": 75.3, "target": 90.87, "horizon_days": 10,
+ "expected_return": {"low": -0.049, "high": 0.148},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "CDNA is in a strong uptrend (close 80.77 above SMA20 74.59, SMA50 64.53, SMA200 35.82). Revenue is growing fast (+39% YoY) and the balance sheet is clean, and healthcare leads in a risk-off tape. But the paper 3.0 R/R depends on a 75.3 stop that is only about 0.7 ATR (5.50) below the 79.15 midpoint entry. On a beta-2.5, 6.8%-ATR stock in risk-off, normal noise is likely to stop it out before it reaches 90.87, about 2.1 ATR away. The news and SEC-filing feeds are empty, so the cause of the gap and any post-rally offering risk are unverified. Wait for a re-test of the 72.13 to 69.0 gap/structure area or a reclaim of 84.42+ with news confirmed before committing.",
+ "invalidation": "A daily close below 72.13 fills the 10-30 earnings gap and ends the post-earnings continuation thesis.",
+ "key_risks": ["Stop 75.3 is about 0.7 ATR from entry, so it is likely to be hit by noise; the wider structural stop at 69.0 cuts R/R to about 1.1", "Pre-market 81.31 is above the entry zone; from there R/R to 90.87 with a 75.3 stop is about 1.6", "News and SEC-filing feeds unavailable: gap cause unverified and S-3/424B5 offering risk after a 22% gap cannot be ruled out", "Risk-off regime (confidence 0.85, QQQ 21-day -9.55%) with beta 2.487", "Rich valuation (forward PE 51.17, EV/EBITDA 156.98) and thin 1.6% operating margin; the 110.6M Q2 net income looks non-recurring", "Short interest 13.9% of float plus a 5-day return of -8.7% after a heavy-volume reversal on 11-05"],
+ "debate_winner": "bear"}

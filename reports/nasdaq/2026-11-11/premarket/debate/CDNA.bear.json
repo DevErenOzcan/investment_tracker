@@ -1,0 +1,21 @@
+{"ticker": "CDNA",
+ "thesis": "CDNA is a beta-2.5 stock that has already run +71% in 63 days and gapped 22% on earnings, and it is now rolling over from the 90.87 high (5-day -8.7%) in a confirmed risk-off tape where QQQ is below its 50- and 200-day averages. Valuation is rich (forward PE 51, EV/EBITDA 157) and the earnings quality is poor: operating margin is 1.6% and the 110.6M quarter looks non-recurring, so the headline earnings growth is not a clean signal. The proposed stop (75.3) is only about 0.7 ATR from entry on a stock with 6.8% daily ATR, so normal noise is likely to stop it out, and the 3.0 R/R is a paper number. The news and SEC-filing feeds are empty, so a post-rally S-3/424B5 raise cannot be ruled out and nobody can see what drove the gap. Waiting costs little: a re-test of the 72 to 69 area would give a better entry.",
+ "evidence": [
+  "technical: stop = 75.3 vs atr = 5.4969 (about 0.7 ATR from midpoint entry; card itself calls it tight)",
+  "technical: ret_5 = -0.087, dist_high = -0.1111, close 80.77 on 2026-11-10 after 84.42 (-4.3%)",
+  "technical: ret_63 = 0.7072, ret_126 = 2.7743, sma200 = 35.82 vs close 80.77 (very extended from long-term base)",
+  "technical: wider structural low 69.0 gives only about 1.1 R/R; invalidation 72.13 would fill the 10-30 gap",
+  "technical: 2026-11-05 range 83.6 to 75.81, close 76.33 on 2.06M shares (heavy-volume reversal day from 85.86)",
+  "fundamentals: valuation = rich; forwardPE = 51.17, P/S = 8.53, EV/EBITDA = 156.98",
+  "fundamentals: operatingMargins = 0.01574 vs profitMargins = 0.2586; red flag: Q2 net income 110636000 looks non-recurring",
+  "fundamentals: growth = stable; revenue increments shrinking (117.7M to 131.9M to 139.4M)",
+  "fundamentals: shortPercentOfFloat = 0.1393 (just under the 15% threshold), beta = 2.487",
+  "news: news_available = false; sec_filings_10d = [] so S-3/424B5 offering risk cannot be ruled out",
+  "news: gap cause unverified; score = 0 (neutral only because of missing data)",
+  "regime: risk-off, confidence 0.85; QQQ 21-day return -9.55%, below 50- and 200-day",
+  "regime: ^TNX 4.998 at 1y percentile 0.88; VIX 21-day change +20.43%",
+  "fundamentals: score = 1 and technical: score = 1 (only marginally positive)"
+ ],
+ "downside_case": {"level": 69.0, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

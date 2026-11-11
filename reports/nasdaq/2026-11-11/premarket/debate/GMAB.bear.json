@@ -1,0 +1,18 @@
+{"ticker": "GMAB",
+ "thesis": "GMAB is a post-gap, extended, richly valued name bought on an unexplained catalyst, in a risk-off tape. The +28% gap on 10/28 (29.3M shares) and the spikes on 10/05 and 10/23 have no identified driver because the news feed was down, so the trade rests on a catalyst nobody has verified. Price has faded from the 59.97 high, and the pre-market indication of 52.77 (about -2.4%) is unexplained and already sits near the 52.6 floor of the entry zone, close to the 50.8 stop. Valuation is rich (trailing P/E 46.2, forward 34.2) while earnings growth is negative against positive revenue growth, and growth acceleration cannot be verified because the SEC series is empty. If the catalyst was a one-off, the 44.67 pre-gap level and the SMA20 at 47.73 are within reach, and the stock is 13% above that SMA20. The news leg is unverified rather than benign, so this is not a dealbreaker on current evidence but needs a manual headline check before any sizing.",
+ "evidence": [
+  "technical: ext_20 = 0.1328, ret_21 = 0.4469, ret_63 = 0.7209, rsi14 = 67.7473 (extended after a vertical re-rating)",
+  "technical: 10/28 gap from 44.67 to 57.29 on 29,281,100 shares; close 54.07 vs high 59.97; ret_5 = -0.0261 (post-gap fade underway)",
+  "technical: sma20 = 47.7318 and pre-gap close 44.67 sit well below the 50.8 stop, so a break risks a gap-through loss beyond the planned stop (atr = 2.4708)",
+  "news: news_available = false; event_risks = driver of +28% gap unknown, earnings reaction on 2026-11-05 unchecked, sec_filings_10d empty but not proof of no offering",
+  "news: score = 0 (neutral only because of missing data, not because the news is benign)",
+  "fundamentals: valuation = rich; trailingPE = 46.2137, forwardPE = 34.2215, priceToSalesTrailing12Months = 7.7605",
+  "fundamentals: earningsGrowth = -0.147 vs revenueGrowth = 0.161; sec_fundamentals revenue_q = [] and net_income_q = [] (growth unverifiable)",
+  "fundamentals: totalDebt = 5198000128 vs totalCash = 1871000064; debtToEquity = 82.078",
+  "packet: preMarketPrice = 52.77 vs close 54.07, unexplained gap-down at the open",
+  "regime: regime = risk-off, confidence = 0.85; QQQ below 50- and 200-day averages, ^TNX near 5.0%, and the regime view also had no headline check",
+  "technical: score = 1 only; setup is a pullback inside a post-gap consolidation, with a failed retest below 52.6 listed as invalidation"
+ ],
+ "downside_case": {"level": 44.67, "probability": 0.25},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

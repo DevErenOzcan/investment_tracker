@@ -1,0 +1,32 @@
+{
+  "finalists": [
+    {"ticker": "EXEL", "why": "Large-cap biotech in a Healthcare sector that leads the regime (XLV above SMA50/200), trend 4, RSI 65.5, ext_20 5.7%, ATR 3.3%, earnings already reported.", "watch": "Biotech pipeline or trial-readout gaps; ret_5 is slightly negative so the pullback could extend."},
+    {"ticker": "GMAB", "why": "Strong relative strength (rs_63 0.79) and trend 4, RSI 67.7, 9.8% below the 52-week high, earnings already out on 2026-11-05.", "watch": "ret_21 of +44.7% is a big run with ext_20 13.3% near the 15% cap; ATR 4.6% makes pullbacks sharp."},
+    {"ticker": "CDNA", "why": "Orderly pullback within an uptrend (ret_5 -8.7%, RSI 59, ext_20 8.3%) after a strong 63-day run, earnings already reported on 2026-10-29.", "watch": "Volume ratio is below 1 on the dip and ATR is 6.8%; a break of the recent range would invalidate the setup."},
+    {"ticker": "APPN", "why": "Trend 4 with RSI 63.5, ext_20 7.7% and volume ratio 1.36, so a measured post-earnings continuation.", "watch": "Software and tech are weak in the regime (XLK, QQQ below SMA200), and ATR is 5.9%."},
+    {"ticker": "PLMR", "why": "Financials lead the regime (XLF above SMA50/200); price is 0.6% from its high on volume ratio 2.1, with earnings out on 2026-11-04.", "watch": "RSI 75 is near the 78 limit, so a short-term pullback is likely."},
+    {"ticker": "GO", "why": "Consumer Defensive is a regime leader (XLP); ext_20 is only 6.7%, RSI 63, and earnings were released 2026-11-10.", "watch": "The post-earnings reaction is not yet confirmed in the data; low ATR-adjusted upside and revenue growth of only 0.9%."},
+    {"ticker": "COLM", "why": "Consumer Cyclical is a leading sector (XLY); trend 4, 1% from its high, ext_20 11.8%, earnings out on 2026-10-29.", "watch": "RSI 73 and a 28% 21-day run leave it somewhat extended; revenue growth is only 2%."},
+    {"ticker": "SIBN", "why": "Medical device name in a leading sector, trend 4, RSI 67.7, 3.2% below its high, volume ratio 1.64, earnings out on 2026-11-02.", "watch": "ext_20 14.2% is near the cap, and dollar volume of about 21M is thin, so slippage risk is higher."}
+  ],
+  "dropped": [
+    {"ticker": "HTFL", "why": "Earnings on 2026-11-12, inside the 3-business-day window."},
+    {"ticker": "KOD", "why": "Earnings on 2026-11-12, plus ext_20 15.1% and a volume ratio of 0.47."},
+    {"ticker": "SLN", "why": "Earnings on 2026-11-12 and RSI 78.3, above the limit."},
+    {"ticker": "BRZE", "why": "RSI 82.2, over-extended."},
+    {"ticker": "CERT", "why": "Passes the filters but ranked below the picks; ext_20 12.9%, ATR 4.8% and thin dollar volume (about 28M); a Healthcare slot went to better-ranked names."},
+    {"ticker": "CYRX", "why": "ext_20 16.7%, over-extended after a 26% 5-day jump."},
+    {"ticker": "VERX", "why": "ext_20 17.1% and RSI 74.7, over-extended."},
+    {"ticker": "ASO", "why": "RSI 75.7 and ext_20 13.8% are both near the limits, and the diversification slots went to cleaner setups."},
+    {"ticker": "ARHS", "why": "ext_20 24.5% and RSI 77.8, over-extended."},
+    {"ticker": "XERS", "why": "RSI 83.6 and ext_20 39%, parabolic."},
+    {"ticker": "SGRY", "why": "RSI 90.9 and ext_20 31%, extreme extension."},
+    {"ticker": "FLYW", "why": "ext_20 13.6% and RSI 72 after a 17% 5-day move, in the weak Technology sector; lower priority than the picks."},
+    {"ticker": "VIR", "why": "ext_20 16.9%, over-extended, and thin dollar volume."},
+    {"ticker": "AMPH", "why": "Dollar volume of about 12M is too thin for a clean swing entry."},
+    {"ticker": "SDGR", "why": "ext_20 21%, over-extended."},
+    {"ticker": "BSY", "why": "RSI 80.2, over-extended."},
+    {"ticker": "GDYN", "why": "RSI 81.2 and ext_20 34.5%, over-extended."}
+  ],
+  "notes": "regime_view.json was missing, so regime.json was used. Leading sectors were inferred from sector ETF data (XLV, XLP, XLF, XLY above SMA50/200; XLK and QQQ below). The news feed was unreachable, so no headline or event-risk check was possible; all headlines are empty. GMAB and CDNA have null sector/industry, so the sub-industry cap could not be verified (both treated as Healthcare). Portfolio is empty, so there are no overlaps."
+}

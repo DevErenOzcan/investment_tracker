@@ -1,0 +1,30 @@
+{
+  "ticker": "GO",
+  "catalysts": [
+    {
+      "what": "Q3 FY2026 earnings released (8-K Item 2.02/9.01) and 10-Q filed. Packet financials: quarter ended 2026-10-03 revenue 1,178.3M (+0.9% YoY, down from 1,192.8M prior quarter), net income 13.3M (+14.5% YoY). Press-release text, guidance and call commentary are not in the packet. Profile shows preMarketPrice 12.98 vs prior close 14.02 (about -7.4%), which suggests a negative reaction, but the cause is unverified.",
+      "date": "2026-11-10",
+      "direction": "mixed",
+      "source": "https://www.sec.gov/Archives/edgar/data/1771515/000177151526000073/go-20261110.htm"
+    },
+    {
+      "what": "10-Q for the quarter ended 2026-10-03 filed alongside earnings. The filing also re-filed prior-period net income figures (several periods show a filed date of 2026-11-10), including a -180.3M loss in the quarter ended 2026-04-04. This may indicate a restatement or late filings, but the packet does not confirm that.",
+      "date": "2026-11-10",
+      "direction": "mixed",
+      "source": "https://www.sec.gov/Archives/edgar/data/1771515/000177151526000074/go-20261003.htm"
+    }
+  ],
+  "event_risks": [
+    "News unavailable: news_7d is empty because the feed was unreachable. This is missing data, not evidence of no events. The cause of the pre-market drop (guidance, comps, margins, a downgrade) is unknown.",
+    "Post-earnings gap risk: pre-market 12.98 vs close 14.02, after a close just under the 52-week high of 14.325. The setup of a gap down after a run-up (+38% over 63 days) is vulnerable to follow-through selling and analyst target changes.",
+    "Possible restatement or accounting issue: prior-period results were re-filed on 2026-11-10 (see the 10-Q catalyst). Not verified, so check the 10-Q for any non-reliance (8-K Item 4.02) language.",
+    "Balance sheet: total debt about 1.82B against cash of about 60M, debt/equity 218, negative free cash flow. This leaves the stock exposed to financing news, and an equity or debt raise is possible. No S-3 or 424B5 appears in the 10-day filings.",
+    "Short interest is 28.5% of float. This raises the chance of squeezes and sharp moves in both directions.",
+    "Mean analyst target (11.08) is below the price (14.02), so downgrade or target-cut risk is skewed negative.",
+    "No known scheduled events in the next 20 business days. Earnings were just reported, so the next report is outside the window. The packet contains no calendar of other events."
+  ],
+  "binary_event": false,
+  "news_available": false,
+  "score": -1,
+  "notes": "News feed unavailable, so no headline-level view of the earnings reaction. The packet shows an 8-K Item 2.02 and 10-Q filed 2026-11-10. Reported revenue growth was only +0.9% YoY and net income was 13.3M. Pre-market indication of 12.98 against a 14.02 close points to a negative earnings reaction of about -7%, but the cause cannot be confirmed from the packet. There is no offering filing (S-3/424B5) in the last 10 days, but leverage is high and short interest is 28.5%. Score is -1 on the likely gap-down after a run to the 52-week high and the missing news. Re-check once news is available."
+}

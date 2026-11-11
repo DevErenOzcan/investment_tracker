@@ -1,0 +1,19 @@
+{"ticker": "GO",
+ "thesis": "GO reported earnings after a run to the 52-week high and is indicated about 7% lower pre-market (12.98 vs 14.02 close), with the cause unknown because the news feed was down. Fundamentals are weak: revenue is flat (+0.9% YoY, down sequentially), the balance sheet is highly levered with little cash and negative FCF, and the mean analyst target (11.08) sits below even the gapped price. The 10-Q re-filed several prior-period results on the same day, which could mean a restatement and is unverified. The regime is risk-off with QQQ below its 50- and 200-day averages, so a small-cap, low-quality grocer that just spiked 38% in 63 days has little cushion. The technical card's own entry (13.30-13.75) is above the pre-market price, so the setup is already broken or unconfirmed, and buying a gap-down on unseen news is catching a falling knife.",
+ "evidence": [
+  "profile: preMarketPrice = 12.98 vs regularMarketPrice = 14.02 (gap down about 7%)",
+  "news: news_available = false; cause of the drop is unknown",
+  "news: 10-Q re-filed prior-period net income on 2026-11-10 (possible restatement, unverified; check for Item 4.02)",
+  "fundamentals: score = -1, quality = low, valuation = rich, dilution_risk = medium",
+  "fundamentals: totalDebt = 1,822,046,976 vs totalCash = 59,832,000; debtToEquity = 218.458; freeCashflow = -19,166,876",
+  "fundamentals: revenue_yoy = 0.0087; latest quarter 1,178,288,000 below prior quarter 1,192,764,000",
+  "fundamentals: targetMeanPrice = 11.07692, below the close of 14.02 and the pre-market 12.98; forward P/E = 21.288551, EV/EBITDA = 16.04",
+  "profile: shortPercentOfFloat = 0.2847 (volatile both ways, gap risk)",
+  "technical: ext_20 = 0.0667, ret_63 = 0.3786, ret_126 = 0.7613 (extended after a big run); entry_zone = [13.3, 13.75] is above the pre-market price",
+  "technical: invalidation = daily close below 12.22, or a gap down that fails to reclaim SMA20 (13.14); the pre-market 12.98 is already below SMA20",
+  "technical: vol_ratio = 1.21 on 2026-11-10 with a failed push to 14.32 high; dist_high = -0.0213 (resistance near 14.325)",
+  "regime_view: regime = risk-off, confidence = 0.85; QQQ 21-day return -9.55%, below 50- and 200-day"
+ ],
+ "downside_case": {"level": 12.15, "probability": 0.5},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}
