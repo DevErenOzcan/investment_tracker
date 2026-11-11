@@ -1,0 +1,21 @@
+{"regime": "risk-off",
+ "confidence": 0.85,
+ "leading_sectors": ["XLV", "XLP", "XLF", "XLY"],
+ "lagging_sectors": ["SMH", "XLK", "XLE"],
+ "evidence": [
+  "QQQ below both 50- and 200-day averages (last 674.76)",
+  "QQQ 21-day return -9.55%, beyond the -8% risk-off threshold",
+  "SMH 21-day return -18.17% and XLK -13.98%, both below 50/200-day: tech and semis leadership is broken",
+  "VIX 18.39 with 1-year percentile 0.619 (below the 0.85 risk-off trigger), but 21-day change +20.43% and 63-day +29.05%",
+  "SPY 21-day return -3.62%, below 50-day but above 200-day; IWM 21-day +0.96%, below 50-day, above 200-day",
+  "Defensive and rate-insensitive sectors strong: XLV 21-day +9.82% (1y pct 0.99), XLP +7.84% (0.986), XLF +5.89% (0.986)",
+  "^TNX at 4.998 with 1-year percentile 0.88 and 63-day change +7.69%"
+ ],
+ "watch": [
+  "Whether QQQ can reclaim its 200-day average",
+  "Whether VIX 1-year percentile (0.619) moves toward 0.85",
+  "^TNX near 5.0% (1y percentile 0.88)",
+  "News feed was unreachable today, so no headline or event check was done"
+ ],
+ "summary": "QQQ is below its 50- and 200-day averages and down 9.55% over 21 days, which meets the risk-off criteria. The weakness is concentrated in semis and tech (SMH -18.17%, XLK -13.98% over 21 days), while healthcare, staples and financials hold near 1-year highs. VIX is elevated but not extreme (percentile 0.619), so conviction is high but not maximal. News was not available, so this view rests on price data only."
+}

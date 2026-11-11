@@ -1,0 +1,14 @@
+{"ticker": "GMAB", "rating": "Hold", "confidence": 0.40,
+ "entry": 53.34, "entry_zone": [52.6, 54.07], "stop": 50.8, "target": 59.97, "horizon_days": 10,
+ "expected_return": {"low": -0.048, "high": 0.124},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "GMAB is in a strong uptrend (close 54.07 above SMA20 47.73, SMA50 40.05 and SMA200 31.26, rs_63 0.79) and Healthcare leads a risk-off tape, and the card geometry is good (entry 53.34, stop 50.80, target 59.97, about 2.6R). The edge does not justify a new position today. The whole re-rating rests on a +28% gap (44.67 to 57.29 on 29.3M shares) whose cause is unknown because the news feed was down. The 11/05 earnings reaction is unchecked, price has faded from 59.97 (ret_5 -2.6%), and there is an unexplained pre-market indication of 52.77, so the realistic probability of reaching 59.97 before 50.80 in 10 days is only about 0.40 (the bull's own estimate is 0.35). Upgrade to Overweight only if a manual headline check confirms a durable catalyst and price holds above 52.6.",
+ "invalidation": "A daily close below 50.80 (under the 11/06 swing low of 51.22) breaks the post-gap base and voids the long case; a close back under 52.6 on rising volume is the early warning.",
+ "key_risks": [
+  "Driver of the 10/28 gap and the 10/05 and 10/23 spikes is unverified (news_available=false), so a one-off catalyst could unwind toward the 44.67 pre-gap close or the SMA20 at 47.73",
+  "Gap-through risk beyond the 50.80 stop: the stock is 13% above its SMA20 and the next structural support (swing_low_10 44.35) is far below",
+  "Earnings reaction from 2026-11-05 and guidance are unchecked; earningsGrowth -0.147 against revenueGrowth 0.161, and the SEC quarterly series is empty",
+  "Rich valuation (trailing P/E 46.2, forward P/E 34.2, P/S 7.76) with debt 5198000128 above cash 1871000064",
+  "Risk-off regime (confidence 0.85) and the pre-market indication of 52.77 vs the 54.07 close have no explanation"
+ ],
+ "debate_winner": "bear"}

@@ -1,0 +1,16 @@
+{"ticker": "GO",
+ "thesis": "GO is a strong relative-strength trend name in a defensive sector (grocery, Consumer Defensive) while the regime is risk-off and staples lead. The stock closed above SMA20, SMA50 and SMA200 near its 52-week high, and a pullback entry with a defined stop offers about 2.1 reward/risk. Short interest is very high, so any stabilisation after earnings can squeeze shorts. The honest caveat is that this is a weak, conditional setup. The ~7% pre-market gap down on unexplained earnings news, the missing news feed, a levered balance sheet and fundamentals scored -1 mean the bull case only works if price holds the SMA20 area and reclaims it, not by buying the open.",
+ "evidence": [
+  "technical: trend = up (close 14.02 above SMA20 13.14, SMA50 12.21, SMA200 9.69)",
+  "technical: notes = 63-day RS +0.445, RSI 63 (not overbought), 2.1% below the 52-week high of 14.325",
+  "technical: setup = pullback, entry_zone = [13.3, 13.75], stop = 12.15, target = 16.4, reward_risk = 2.1",
+  "technical: invalidation = daily close below 12.22, or a gap-down that fails to reclaim SMA20 (13.14)",
+  "fundamentals: red_flags = short interest 28.47% of float, squeeze potential in both directions",
+  "fundamentals: notes = net income positive in the last two quarters (5,626,000 and 13,289,000), net_income_yoy 0.1451",
+  "fundamentals: growth = stable (revenue_yoy 0.0087)",
+  "news: catalysts = Q3 earnings direction is 'mixed', cause of pre-market drop unverified",
+  "news: event_risks = no S-3 or 424B5 offering filing in the last 10 days",
+  "regime_view: leading_sectors = XLP among the leaders (defensive staples strong in a risk-off regime)"
+ ],
+ "upside_case": {"target": 16.4, "probability": 0.2},
+ "rebuttal_to_bear": null}

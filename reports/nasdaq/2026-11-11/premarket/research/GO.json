@@ -1,0 +1,8 @@
+{"ticker": "GO", "rating": "Hold", "confidence": 0.3,
+ "entry": 13.53, "entry_zone": [13.3, 13.75], "stop": 12.15, "target": 16.4, "horizon_days": 10,
+ "expected_return": {"low": -0.102, "high": 0.212},
+ "sector": "Consumer Defensive", "earnings_date": "2026-11-10",
+ "thesis": "The bear wins. Earnings came out 2026-11-10 and GO is indicated at 12.98 pre-market against a 14.02 close (about -7.4%). The cause is unknown because the news feed was down, and prior-period results were re-filed the same day, which may be a restatement (unverified). The pre-market price is already below SMA20 (13.14) and below the technical entry zone (13.30-13.75), so the pullback setup is unconfirmed. Fundamentals (-1: flat revenue, debt/equity 218, negative FCF, mean analyst target 11.08 below price) and a risk-off regime outweigh the staples tailwind and 63-day RS of +0.445.",
+ "invalidation": "A daily close back above SMA20 (13.14) that then holds in the 13.30-13.75 zone, with news confirming the drop was not an accounting or guidance problem, would justify re-evaluating for Buy; a daily close below 12.22 ends the setup.",
+ "key_risks": ["Unexplained ~7% post-earnings gap down with no news feed to check it", "Possible restatement: prior-period net income re-filed 2026-11-10 (check the 10-Q for Item 4.02 language)", "Leverage: total debt 1,822,046,976 vs cash 59,832,000, negative FCF of -19,166,876", "Short interest 28.47% of float means sharp moves both ways; a squeeze is the main upside risk to this Hold", "Mean analyst target 11.08 is below the pre-market price, so the risk of target cuts is skewed negative", "Risk-off regime (confidence 0.85): QQQ is below its 50- and 200-day averages"],
+ "debate_winner": "bear"}

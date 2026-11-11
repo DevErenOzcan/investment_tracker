@@ -1,0 +1,67 @@
+{
+  "as_of": "2026-11-11",
+  "session": "premarket",
+  "exchange": "NASDAQ",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "regime": "risk-off",
+  "positions": [
+    {
+      "ticker": "PLMR",
+      "status": "new",
+      "sector": "Financial Services",
+      "price": 157.35,
+      "weight": 0.0085,
+      "engine_weight": 0.0085,
+      "amount_units": 8.5,
+      "entry_zone": [155.7, 159.0],
+      "stop": 150.9,
+      "target": 174.0,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "action": "buy",
+      "rationale": "Engine weight kept unchanged (already cut x0.6 by the risk officer); strong earnings fundamentals in a leading sector, but valid only on a pullback into 155.7-159.0 because the 161.08 close gives reward/risk of about 1.3."
+    },
+    {
+      "ticker": "SIBN",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 24.45,
+      "weight": 0.0048,
+      "engine_weight": 0.0048,
+      "amount_units": 4.8,
+      "entry_zone": [24.0, 24.9],
+      "stop": 23.3,
+      "target": 28.4,
+      "rating": "Overweight",
+      "confidence": 0.35,
+      "action": "buy",
+      "rationale": "Engine weight kept unchanged (already halved by the risk officer); post-earnings uptrend in the leading Healthcare sector, pullback-only entry into 24.0-24.9 with a tight stop about 0.9 ATR away and thin liquidity."
+    },
+    {
+      "ticker": "COLM",
+      "status": "new",
+      "sector": "Consumer Cyclical",
+      "price": 70.65,
+      "weight": 0.0032,
+      "engine_weight": 0.0032,
+      "amount_units": 3.2,
+      "entry_zone": [69.8, 71.12],
+      "stop": 66.9,
+      "target": 77.6,
+      "rating": "Overweight",
+      "confidence": 0.42,
+      "action": "buy",
+      "rationale": "Engine weight kept unchanged (already halved by the risk officer); margin-driven breakout to the 52-week high, pullback-only entry into 69.8-71.12, with the weakest reward/risk of the three (1.85) and about 19% short interest."
+    }
+  ],
+  "cash_weight": 0.9835,
+  "vetoed": [],
+  "rejected": [
+    {"ticker": "APPN", "reason": "rating Hold: reward/risk about 1.04, below the 1.5 minimum, in the lagging tech sector"},
+    {"ticker": "CDNA", "reason": "rating Hold: stop only about 0.7 ATR away on a beta-2.5 stock, gap cause unverified"},
+    {"ticker": "EXEL", "reason": "rating Hold: distribution near highs, reward/risk about 1.3 at the close, price above the mean analyst target"},
+    {"ticker": "GMAB", "reason": "rating Hold: +28% gap cause unknown with news down, unexplained weak pre-market indication"},
+    {"ticker": "GO", "reason": "rating Hold: about -7% pre-market after earnings, possible restatement, below the entry zone"}
+  ]
+}

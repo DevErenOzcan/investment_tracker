@@ -1,0 +1,23 @@
+{
+  "vetoes": [],
+  "reductions": [
+    {
+      "ticker": "PLMR",
+      "factor": 0.6,
+      "reason": "Property-catastrophe insurer with unscheduled gap-down risk through the 150.9 stop, plus a possible offering after a 20% one-month run, and neither can be checked with the news feed down; the 161.08 close is above the 155.7-159.0 entry zone, where reward/risk is about 1.3, below the 1.5 minimum."
+    },
+    {
+      "ticker": "SIBN",
+      "factor": 0.5,
+      "reason": "A loss-making company near its 52-week high carries equity-raise risk that cannot be checked without news, and the lowest confidence of the three (0.35, debate a draw) with a stop only about 0.9 ATR away and 11.68% short interest does not support full engine size."
+    },
+    {
+      "ticker": "COLM",
+      "factor": 0.5,
+      "reason": "It has the weakest reward/risk of the three (1.85), short interest of about 19% of float suggests squeeze-driven gains that can reverse sharply, the beat is margin-only on 2% revenue growth, it is a consumer cyclical in a risk-off tape with ^TNX near 5.0%, and guidance and events are unverified because the news feed was down."
+    }
+  ],
+  "portfolio_notes": "Sector labels are diverse (insurance, spine medical devices, apparel) with no hidden theme overlap, but all three are the same trade: extended post-earnings breakouts (RSI 67-75, 11-14% above SMA20, priced at or near the mean analyst target) bought on a pullback-only basis, so a single momentum unwind in a risk-off regime could hit all of them together. All three entries are sized at entry-zone midpoints, but the last closes (PLMR 161.08, SIBN 25.10, COLM 72.26) sit above their zones; these should be filled only inside the zones and not chased at the open. The news feed was unavailable for every name, so binary events (offerings, catastrophe losses, guidance, litigation) are unchecked; this is the main reason for the reductions instead of silence. Cards in cards/ could not be read with the tools available, so this review rests on research/, proposals.json and regime_view.json."
+  ,
+  "held_alerts": []
+}

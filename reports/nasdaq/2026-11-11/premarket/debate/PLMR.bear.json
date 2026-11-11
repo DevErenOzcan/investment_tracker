@@ -1,0 +1,23 @@
+{"ticker": "PLMR",
+ "thesis": "PLMR closed at 161.08, 0.6% under the 52-week high, with RSI14 at 75.0 and price 12.4% above SMA20. The good news from the earnings gap is already priced in. The price is essentially at the 6-analyst mean target of 162.33, so consensus offers almost no upside. The card's own entry zone (155.7-159.0) is below the last close, so buying now means chasing outside the plan. The market is risk-off with high confidence and QQQ is below both its 50- and 200-day averages. Financials are one of the few strong sectors, which makes this a crowded defensive-rotation trade. The news feed was down, so offering, analyst-action, litigation and catastrophe-loss risk is unchecked after a one-month run of 20%. A property catastrophe insurer can gap down with no scheduled date. A full retrace to the pre-gap close of 144.04 would be a large loss against a stop that is only about 1.2 ATR from the zone.",
+ "evidence": [
+  "technical: rsi14 = 75.0454, ext_20 = 0.1235, dist_high = -0.0062",
+  "technical: entry_zone = [155.7, 159.0] versus last close 161.08, so the close is above the zone",
+  "technical: score = 1, held down because of the overbought RSI and extension; the card says chasing the 161 close is not advised",
+  "technical: invalidation = close below 150.9 or below the pre-gap close 144.04",
+  "fundamentals: red_flags = price 161.08 is essentially at the analyst mean target 162.33 (6 opinions)",
+  "fundamentals: red_flags = Q1 2026 net income 42.947M was below Q3 2025 51.455M; quarterly series has gaps (Q4 2024, Q4 2025 missing)",
+  "fundamentals: red_flags = no sector P/E benchmark, so 'fair' valuation is unverified",
+  "fundamentals: net income growth 27.0% YoY versus revenue growth 58.0% YoY, so earnings are growing much more slowly than revenue",
+  "news: news_available = false; catalysts are inferred from numbers only and guidance text is unseen",
+  "news: event_risks = catastrophe losses can cause sudden gaps with no scheduled date; an offering after a 20%+ run is unchecked",
+  "packet: ret_21 = 0.2, ret_5 = 0.1327",
+  "packet: Nov 5 high 162.08 against close 155.67, an intraday reversal on the 714,800-share gap day",
+  "packet: totalCash = 55.6M against totalDebt = 315.0M, debtToEquity = 31.984",
+  "regime_view: regime = risk-off, confidence = 0.85; QQQ 21-day return -9.55%, below 50- and 200-day averages",
+  "regime_view: financials (XLF) at a 1-year percentile of 0.986, so the sector is stretched",
+  "regime_view: ^TNX near 5.0% at a 1-year percentile of 0.88, a rate headwind for insurer valuations"
+ ],
+ "downside_case": {"level": 144.04, "probability": 0.3},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

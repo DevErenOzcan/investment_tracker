@@ -1,0 +1,17 @@
+{"ticker": "GMAB",
+ "thesis": "GMAB is in a strong uptrend that re-rated on a roughly 7x-volume gap and is now consolidating, with a pullback entry zone that sits around the pre-market quote. Trend, relative strength and the healthcare tailwind in a risk-off tape are supportive, the company is profitable and cash generative, and the analyst mean target sits well above price. The setup is only moderate. The news leg is unverified because the feed was down, valuation is rich, and the cause of the gap is unknown, so this is a conditional long on the pullback entry with the card stop, not a high-conviction one.",
+ "evidence": [
+  "technical: setup = pullback, trend = up",
+  "technical: entry_zone = [52.6, 54.07], stop = 50.8, target = 59.97, reward_risk = 2.6",
+  "technical: notes = close above SMA20 47.73, SMA50 40.05 and SMA200 31.26, 63-day relative strength 0.79, RSI 67.7",
+  "technical: notes = 10/28 gap on 29.3M shares (about 7x normal volume) set the 52-week high of 59.97; price has held a 51.22-59.97 range since",
+  "technical: notes = pre-market quote 52.77 is inside the entry zone, so no chasing",
+  "fundamentals: quality = medium, growth = stable, dilution_risk = low",
+  "fundamentals: notes = profit margin 0.16969, operating margin 0.30633, free cash flow 854875008",
+  "fundamentals: notes = mean analyst target 65.11 vs close 54.07 (10 opinions, mean rating 1.41667), short interest 0.0159 of float",
+  "fundamentals: notes = revenueGrowth 0.161 YoY",
+  "news: catalysts = [] and news_available = false (neutral, unverified, not negative); sec_filings_10d empty so no offering seen",
+  "regime_view: leading_sectors = XLV, XLP, XLF, XLY; XLV 21-day +9.82% (1y pct 0.99), so GMAB's Healthcare sector is a regime leader despite the risk-off call"
+ ],
+ "upside_case": {"target": 59.97, "probability": 0.35},
+ "rebuttal_to_bear": null}

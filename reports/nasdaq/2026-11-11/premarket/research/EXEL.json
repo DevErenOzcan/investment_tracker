@@ -1,0 +1,13 @@
+{"ticker": "EXEL", "rating": "Hold", "confidence": 0.42,
+ "entry": 69.65, "entry_zone": [68.7, 70.6], "stop": 64.5, "target": 78.3, "horizon_days": 10,
+ "expected_return": {"low": -0.074, "high": 0.124},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "EXEL is a high-quality, cash-generative biotech in a strong uptrend (close 70.58 above SMA20 66.78, SMA50 61.59 and SMA200 51.84, ret_63 +40%) in healthcare, the leading sector of a risk-off tape. The reward/risk only clears 1.5 at the zone midpoint 69.65 (1.66), while at the last close 70.58 and premarket 70.5 it is about 1.27-1.30. Heavy-volume reversals at 73.69 (11/5) and 72.14 (11/10), a price above the mean analyst target 61.57, 14.4% short interest and no news check leave the edge too thin to open a position today.",
+ "invalidation": "A daily close below 64.5 (under the 10-day swing low 64.75) breaks the pullback structure; the Hold would become Overweight only after a hold in the lower zone (68.7-69.65) with a clean news check.",
+ "key_risks": ["News feed unavailable: offering, M&A, litigation or regulatory headlines cannot be ruled out, and the cause of the 10/30 post-earnings gap is not confirmed",
+  "Distribution signs near the 52-week high: 11/5 reversal 73.69 to 68.71 on 4.4M shares and 11/10 close 70.58 off a 72.14 high on 5.6M shares (vol_ratio 1.55)",
+  "Price 70.58 above the mean analyst target 61.57, so downgrade or target-reset risk exists",
+  "Short interest 14.42% of float raises gap risk in both directions",
+  "Risk-off regime (QQQ below 50/200-day averages) with XLV at a 1-year percentile of 0.99, so the sector tailwind is itself stretched",
+  "Target 78.3 is 6.3% above the 52-week high and needs about 3.7 ATR (2.33) in 10 days"],
+ "debate_winner": "bear"}

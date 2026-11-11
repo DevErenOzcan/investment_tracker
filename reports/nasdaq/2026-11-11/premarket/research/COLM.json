@@ -1,0 +1,8 @@
+{"ticker": "COLM", "rating": "Overweight", "confidence": 0.42,
+ "entry": 70.65, "entry_zone": [69.8, 71.12], "stop": 66.9, "target": 77.6, "horizon_days": 10,
+ "expected_return": {"low": -0.053, "high": 0.098},
+ "sector": "Consumer Cyclical", "earnings_date": null,
+ "thesis": "A margin-driven Q3 beat (net income +63% on revenue +2%) produced a high-volume breakout to the 52-week high above rising SMA20/50/200, with strong relative strength (rs_63 0.36) in a consumer name that is holding up while the risk-off selling is concentrated in tech and semis. The bear is right that 72.26 is extended (RSI 73, 11.8% above SMA20, at the 73.0 mean analyst target), so this is a pullback-only entry into the Nov 3-6 consolidation, where reward/risk to 77.6 against the 66.9 stop is about 1.85 from the 70.65 midpoint. Conviction is modest because the news feed was down and the target sits above both the 52-week high and consensus.",
+ "invalidation": "A daily close below 66.9 (under the 2026-11-06 low of 67.18 that holds the post-earnings gap base), or a close back under the SMA20 at 64.66.",
+ "key_risks": ["Extended after a 28% 21-day run (RSI14 73.07); a pullback may go straight through the zone toward SMA20 64.66", "Price is already at the 73.0 mean analyst target; the 77.6 target requires a breakout above the 73.03 52-week high", "Risk-off regime (QQQ below 50/200-day, -9.55% over 21 days) could spill into consumer cyclicals", "News feed unavailable: guidance, analyst actions or other events could not be checked, and the rally's cause is inferred from timing only", "Short interest about 19% of float: squeeze-driven gains can reverse sharply", "Earnings jump is margin-driven on only 2% revenue growth"],
+ "debate_winner": "draw"}
