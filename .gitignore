@@ -4,4 +4,3 @@ __pycache__/
 .pytest_cache/
 .venv/
 reports/**/ohlcv.pkl
-special_analyses/**/ohlcv.pkl

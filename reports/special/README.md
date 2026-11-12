@@ -3,7 +3,7 @@
 On-demand, single-stock analyses that sit outside the twice-daily scan
 (`/deep-dive <TICKER>` or an ad-hoc request from the owner).
 
-Layout: `special_analyses/<exchange>/<YYYY-MM-DD>/<TICKER>/`
+Layout: `reports/special/<exchange>/<YYYY-MM-DD>/<TICKER>/`
 
 | File | Content |
 |------|---------|

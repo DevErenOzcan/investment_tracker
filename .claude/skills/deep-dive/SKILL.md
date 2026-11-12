@@ -4,7 +4,7 @@ description: Full TradingAgents-style analysis of one stock (analysts, bull/bear
 ---
 # Single-stock deep dive
 
-Argument: a ticker (e.g. `NVDA`). `$RUN = special_analyses/nasdaq/<today>/<TICKER>` (see `special_analyses/README.md`). Output in English.
+Argument: a ticker (e.g. `NVDA`). `$RUN = reports/special/nasdaq/<today>/<TICKER>` (see `reports/special/README.md`). Output in English.
 
 > If the project agents are not available as subagent types, call `general-purpose` and pass the
 > content of `.claude/agents/<name>.md` as its instructions.
