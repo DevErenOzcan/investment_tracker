@@ -75,8 +75,10 @@ def build(run_dir: Path, tickers: list[str], exchange_code: str = "nasdaq",
             "profile": data.info(t, ex["symbol_suffix"]),
             "sec_fundamentals": sec.fundamentals(t) if ex["code"] in ("NASDAQ", "NYSE") else None,
             "sec_filings_10d": sec.recent_filings(t) if ex["code"] in ("NASDAQ", "NYSE") else [],
-            "news_7d": data.news(t, ex["symbol_suffix"]),
         }
+        nw = data.news_with_status(t, ex["symbol_suffix"])
+        pkt["news_status"] = {k: nw[k] for k in ("status", "source", "errors")}
+        pkt["news_7d"] = nw["items"]
         if intraday:
             prev = float(g.sort_values("date")["close"].iloc[-1])
             pkt["intraday"] = {"last": live.get(t), "prev_close_in_history": prev,

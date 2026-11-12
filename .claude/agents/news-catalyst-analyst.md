@@ -16,7 +16,10 @@ in `<run-dir>/packets/<TICKER>.json`.
 - **Event risk:** S-3 / 424B5 = share offering risk; interpret 8-K items such as 1.01/2.02/5.02;
   litigation, regulatory probes, a takeover bid (price gets pinned, bad for a swing trade).
 - Known events in the next 20 business days.
-If `news_7d` is empty, say "news unavailable" explicitly; it does not mean "no events".
+Read `news_status` first: `status` is "ok", "empty" (sources answered, nothing found) or
+"unavailable" (every source failed); `source` is "yahoo" or "google_rss" (RSS items carry titles
+only, no summary). If the status is "unavailable" or `news_7d` is empty, say "news unavailable"
+explicitly; it does not mean "no events".
 
 ## Output
 `<run-dir>/cards/<TICKER>.news.json`:

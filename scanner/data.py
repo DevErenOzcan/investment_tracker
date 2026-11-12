@@ -140,12 +140,72 @@ def info(symbol: str, suffix: str = "") -> dict:
 
 
 def news(symbol: str, suffix: str = "", max_items: int = 12, days: int = 7) -> list[dict]:
-    yf = _yf()
+    """Recent news items; see news_with_status for where they came from."""
+    return news_with_status(symbol, suffix, max_items, days)["items"]
+
+
+def news_with_status(symbol: str, suffix: str = "", max_items: int = 12, days: int = 7) -> dict:
+    """Yahoo Finance news, falling back to the Google News RSS search when Yahoo fails or is empty.
+
+    Returns {"status": "ok"|"empty"|"unavailable", "source": "yahoo"|"google_rss"|None,
+    "errors": [...], "items": [...]}. "unavailable" means every source failed, which is not the
+    same as "no news".
+    """
+    errors: list[str] = []
     try:
-        items = yf.Ticker(symbol + suffix).news or []
+        items = _yahoo_news(symbol, suffix, max_items, days)
+        if items:
+            return {"status": "ok", "source": "yahoo", "errors": errors, "items": items}
     except Exception as e:  # noqa: BLE001
-        log.warning("news %s: %s", symbol, e)
-        return []
+        log.warning("news %s (yahoo): %s", symbol, e)
+        errors.append(f"yahoo: {e}"[:200])
+    try:
+        items = _google_rss_news(symbol, max_items, days)
+        if items:
+            return {"status": "ok", "source": "google_rss", "errors": errors, "items": items}
+    except Exception as e:  # noqa: BLE001
+        log.warning("news %s (google rss): %s", symbol, e)
+        errors.append(f"google_rss: {e}"[:200])
+    status = "unavailable" if len(errors) == 2 else "empty"
+    return {"status": status, "source": None, "errors": errors, "items": []}
+
+
+def _google_rss_news(symbol: str, max_items: int = 12, days: int = 7) -> list[dict]:
+    r = requests.get("https://news.google.com/rss/search",
+                     params={"q": f"{symbol} stock when:{days}d", "hl": "en-US", "gl": "US",
+                             "ceid": "US:en"}, headers=UA, timeout=20)
+    r.raise_for_status()
+    return parse_google_rss(r.text, max_items, days)
+
+
+def parse_google_rss(xml_text: str, max_items: int = 12, days: int = 7) -> list[dict]:
+    import xml.etree.ElementTree as ET
+    from email.utils import parsedate_to_datetime
+
+    cutoff = datetime.now(timezone.utc) - timedelta(days=days)
+    out = []
+    for it in ET.fromstring(xml_text).iter("item"):
+        try:
+            when = parsedate_to_datetime(it.findtext("pubDate") or "")
+        except (TypeError, ValueError):
+            when = None
+        if when and when < cutoff:
+            continue
+        src = it.find("source")
+        out.append({
+            "title": it.findtext("title"),
+            "publisher": src.text if src is not None else None,
+            "published": when.isoformat() if when else None,
+            "summary": "",
+            "url": it.findtext("link"),
+        })
+    out.sort(key=lambda x: x["published"] or "", reverse=True)
+    return out[:max_items]
+
+
+def _yahoo_news(symbol: str, suffix: str = "", max_items: int = 12, days: int = 7) -> list[dict]:
+    yf = _yf()
+    items = yf.Ticker(symbol + suffix).news or []
     cutoff = datetime.now(timezone.utc) - timedelta(days=days)
     out = []
     for it in items:
