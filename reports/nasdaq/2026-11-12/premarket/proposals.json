@@ -1,0 +1,110 @@
+{
+  "as_of": "2026-11-12",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "peak_value_units": 1000,
+  "drawdown": 0.0,
+  "regime": "neutral",
+  "regime_mult": 0.7,
+  "risk_per_trade": 0.0075,
+  "portfolio_vol": 0.015090241123605942,
+  "positions": [
+    {
+      "ticker": "GMAB",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 52.7,
+      "stop": 50.9,
+      "target": 59.97,
+      "rr": 4.04,
+      "rating": "Overweight",
+      "confidence": 0.38,
+      "kelly": 0.2265,
+      "stop_pct": 0.0342,
+      "binding": "kelly",
+      "engine_weight": 0.0119,
+      "priority": 0.1358954607977989,
+      "flags": [
+        "risk-officer reduction x0.5: The lowest-confidence name (0.38, bull odds put at or below 0.35) gets the largest engine weight only because the 50.9 stop sits less than 1 ATR (2.42) below entry, which inflates the 4.04 R/R, and the unexplained pre-market gap to 51.66 (0.76 above the stop) plus undetailed litigation risk on the Q3 call mean event risk cannot be checked."
+      ],
+      "amount_units": 11.9
+    },
+    {
+      "ticker": "VTRS",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 20.63,
+      "stop": 19.25,
+      "target": 23.5,
+      "rr": 2.08,
+      "rating": "Overweight",
+      "confidence": 0.47,
+      "kelly": 0.2152,
+      "stop_pct": 0.0669,
+      "binding": "kelly",
+      "engine_weight": 0.0181,
+      "priority": 0.1290940766550524,
+      "flags": [
+        "risk-officer reduction x0.8: The pending Pacira acquisition (about $1.65B) brings closing and financing risk, possibly debt or equity issuance, on a balance sheet with 13.58B debt vs 2.01B cash, and the entry is overbought (RSI 75.4) with price already at the 21.0 mean analyst target."
+      ],
+      "amount_units": 18.1
+    },
+    {
+      "ticker": "CERT",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 11.55,
+      "stop": 10.4,
+      "target": 13.55,
+      "rr": 1.74,
+      "rating": "Overweight",
+      "confidence": 0.47,
+      "kelly": 0.1652,
+      "stop_pct": 0.0996,
+      "binding": "kelly",
+      "engine_weight": 0.013,
+      "priority": 0.09914999999999993,
+      "flags": [
+        "risk-officer reduction x0.75: Short interest of 26.2% of float and a bearish post-earnings reversal raise the risk of gapping through the 10.40 stop, and first resistance at 12.61 gives only about 0.9 R/R, so the thin 1.74 R/R overstates the edge."
+      ],
+      "amount_units": 13.0
+    },
+    {
+      "ticker": "APPN",
+      "status": "new",
+      "sector": "Technology",
+      "price": 52.7,
+      "stop": 46.4,
+      "target": 62.4,
+      "rr": 1.54,
+      "rating": "Overweight",
+      "confidence": 0.42,
+      "kelly": 0.0433,
+      "stop_pct": 0.1195,
+      "binding": "kelly",
+      "engine_weight": 0.0045,
+      "priority": 0.025979381443298675,
+      "flags": [],
+      "amount_units": 4.5
+    }
+  ],
+  "cash_weight": 0.9525,
+  "rejected": [
+    {
+      "ticker": "AMPH",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "ASO",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "CDNA",
+      "reason": "reward/risk 1.31 < 1.5"
+    },
+    {
+      "ticker": "TGTX",
+      "reason": "reward/risk 1.48 < 1.5"
+    }
+  ]
+}

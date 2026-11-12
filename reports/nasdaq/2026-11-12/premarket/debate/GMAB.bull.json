@@ -1,0 +1,19 @@
+{"ticker": "GMAB",
+ "thesis": "GMAB is in a strong uptrend (close above SMA20, SMA50 and SMA200) and is digesting a catalyst-driven gap-up on lower volume while holding its structural swing low. Fundamentals are supportive: profitable, positive free cash flow, low dilution risk, guidance held toward the upper end, and Moody's moved the outlook to positive. Healthcare is the leading sector in a neutral regime, which fits a selective, defensive-tilted long. The setup is a dip-buy only, not a chase: the pre-market gap-down is unexplained and the stock is extended, so entry should wait for stabilisation inside the zone. The thesis is modest because the score is only +1 and valuation is unknown.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = pullback",
+  "technical: entry_zone = [52.0, 53.4]",
+  "technical: stop = 50.9",
+  "technical: target = 59.97",
+  "technical: reward_risk = 4.0",
+  "technical: notes = pulled back on lower volume and holding above the 51.22 swing low, RS63 +0.77",
+  "fundamentals: quality = medium",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: notes = profitable with positive free cash flow 854875008, guidance held",
+  "news: catalysts = positive Phase 3 results for petosemtamab; Moody's outlook revised to positive",
+  "news: event_risks = no SEC filings in last 10 days, so no offering risk visible; binary_event = false",
+  "regime_view: leading_sectors = XLV, XLP, XLF"
+ ],
+ "upside_case": {"target": 59.97, "probability": 0.3},
+ "rebuttal_to_bear": null}

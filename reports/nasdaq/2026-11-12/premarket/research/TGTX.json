@@ -1,0 +1,8 @@
+{"ticker": "TGTX", "rating": "Overweight", "confidence": 0.45,
+ "entry": 64.3, "entry_zone": [63.4, 64.3], "stop": 57.4, "target": 74.5, "horizon_days": 10,
+ "expected_return": {"low": -0.107, "high": 0.159},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "Q3 revenue grew 61% y/y with FY2026 guidance raised to about 1B, the company is profitable with positive FCF and low dilution risk, and healthcare (XLV) leads a defensive-tilted neutral regime. The stock is extended (RSI 69.8, 13% over SMA20) and reward/risk at the card mid of 64.3 is only about 1.48, under the 1.5 Buy threshold, so this is Overweight rather than Buy. Stop 57.4 and target 74.5 are kept from the technical card; the entry zone is narrowed to its lower half (63.4-64.3) to avoid chasing, which gives about 1.48-1.85 reward/risk.",
+ "invalidation": "Daily close below 57.4 (base of the post-earnings gap at the 11/5-11/6 swing lows), or a close back below SMA20 (~58.0) on rising volume.",
+ "key_risks": ["Extended after the earnings gap (RSI 69.8, 13% over SMA20) with no scheduled catalyst to extend the move", "Short interest of 27.7% of float and beta 1.8 mean sharp two-way moves; ATR is about 5% of price", "Rich trailing valuation (P/E about 98) and rising opex leave little room for error", "Possible follow-on offering near the 52-week high after a 37% 63-day run (none filed)", "Regime is neutral with QQQ near the -8% risk-off trigger and the 10-year yield at 5.05"],
+ "debate_winner": "draw"}

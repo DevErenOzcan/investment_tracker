@@ -1,0 +1,758 @@
+{
+  "ticker": "AMPH",
+  "exchange": "NASDAQ",
+  "as_of": "2026-11-12T13:49:58.287191+00:00",
+  "data_note": "In the pre-market session the last price is the previous close; in the pre-close session it is ~15 min delayed.",
+  "technical": {
+    "indicators": {
+      "symbol": "AMPH",
+      "date": "2026-11-11",
+      "close": 28.6,
+      "ret_5": 0.0207,
+      "ret_21": 0.0979,
+      "ret_63": 0.4172,
+      "ret_126": 0.5611,
+      "rs_63": 0.4732,
+      "sma20": 26.9565,
+      "sma50": 25.7416,
+      "sma200": 22.3281,
+      "trend": 4,
+      "atr": 1.0903,
+      "atr_pct": 0.0381,
+      "rsi14": 63.1502,
+      "dist_high": -0.0774,
+      "vol_ratio": 1.2288,
+      "ext_20": 0.061,
+      "vol_20": 0.3304,
+      "dollar_volume_20": 12640943.8605,
+      "low_20": 24.62,
+      "high_20": 31.0
+    },
+    "levels": {
+      "swing_low_10": 26.450000762939453,
+      "swing_low_20": 24.6200008392334,
+      "swing_high_20": 31.0,
+      "high_52w": 31.0,
+      "low_52w": 16.649999618530273
+    },
+    "last_60_days": [
+      {
+        "d": "2026-08-19",
+        "o": 21.64,
+        "h": 21.99,
+        "l": 21.15,
+        "c": 21.74,
+        "v": 410800
+      },
+      {
+        "d": "2026-08-20",
+        "o": 21.38,
+        "h": 21.76,
+        "l": 21.24,
+        "c": 21.68,
+        "v": 338700
+      },
+      {
+        "d": "2026-08-21",
+        "o": 21.64,
+        "h": 22.2,
+        "l": 21.44,
+        "c": 21.6,
+        "v": 376600
+      },
+      {
+        "d": "2026-08-24",
+        "o": 21.6,
+        "h": 21.81,
+        "l": 21.26,
+        "c": 21.52,
+        "v": 210300
+      },
+      {
+        "d": "2026-08-25",
+        "o": 21.5,
+        "h": 22.07,
+        "l": 21.41,
+        "c": 21.98,
+        "v": 283800
+      },
+      {
+        "d": "2026-08-26",
+        "o": 21.86,
+        "h": 22.44,
+        "l": 21.72,
+        "c": 22.02,
+        "v": 395600
+      },
+      {
+        "d": "2026-08-27",
+        "o": 21.69,
+        "h": 21.97,
+        "l": 21.63,
+        "c": 21.88,
+        "v": 259800
+      },
+      {
+        "d": "2026-08-28",
+        "o": 21.88,
+        "h": 22.15,
+        "l": 21.69,
+        "c": 22.01,
+        "v": 224500
+      },
+      {
+        "d": "2026-08-31",
+        "o": 21.86,
+        "h": 22.65,
+        "l": 21.52,
+        "c": 22.53,
+        "v": 274000
+      },
+      {
+        "d": "2026-09-01",
+        "o": 22.59,
+        "h": 23.05,
+        "l": 22.59,
+        "c": 22.96,
+        "v": 551000
+      },
+      {
+        "d": "2026-09-02",
+        "o": 23.05,
+        "h": 23.83,
+        "l": 23.03,
+        "c": 23.74,
+        "v": 456700
+      },
+      {
+        "d": "2026-09-03",
+        "o": 23.88,
+        "h": 23.92,
+        "l": 23.04,
+        "c": 23.84,
+        "v": 469800
+      },
+      {
+        "d": "2026-09-04",
+        "o": 23.47,
+        "h": 23.74,
+        "l": 23.07,
+        "c": 23.18,
+        "v": 650100
+      },
+      {
+        "d": "2026-09-08",
+        "o": 22.82,
+        "h": 23.14,
+        "l": 22.3,
+        "c": 22.93,
+        "v": 460000
+      },
+      {
+        "d": "2026-09-09",
+        "o": 22.84,
+        "h": 23.07,
+        "l": 22.57,
+        "c": 23.04,
+        "v": 351600
+      },
+      {
+        "d": "2026-09-10",
+        "o": 23.0,
+        "h": 23.69,
+        "l": 22.76,
+        "c": 23.54,
+        "v": 515000
+      },
+      {
+        "d": "2026-09-11",
+        "o": 23.65,
+        "h": 23.8,
+        "l": 23.24,
+        "c": 23.78,
+        "v": 410900
+      },
+      {
+        "d": "2026-09-14",
+        "o": 23.84,
+        "h": 24.28,
+        "l": 23.56,
+        "c": 23.91,
+        "v": 474900
+      },
+      {
+        "d": "2026-09-15",
+        "o": 23.75,
+        "h": 23.94,
+        "l": 23.56,
+        "c": 23.64,
+        "v": 354400
+      },
+      {
+        "d": "2026-09-16",
+        "o": 23.64,
+        "h": 24.39,
+        "l": 23.49,
+        "c": 23.95,
+        "v": 503900
+      },
+      {
+        "d": "2026-09-17",
+        "o": 24.08,
+        "h": 24.18,
+        "l": 23.5,
+        "c": 23.82,
+        "v": 465600
+      },
+      {
+        "d": "2026-09-18",
+        "o": 23.69,
+        "h": 23.99,
+        "l": 23.51,
+        "c": 23.62,
+        "v": 1453800
+      },
+      {
+        "d": "2026-09-21",
+        "o": 23.54,
+        "h": 25.41,
+        "l": 23.45,
+        "c": 24.48,
+        "v": 595800
+      },
+      {
+        "d": "2026-09-22",
+        "o": 24.6,
+        "h": 24.83,
+        "l": 24.0,
+        "c": 24.32,
+        "v": 522400
+      },
+      {
+        "d": "2026-09-23",
+        "o": 24.39,
+        "h": 25.12,
+        "l": 24.2,
+        "c": 24.96,
+        "v": 508100
+      },
+      {
+        "d": "2026-09-24",
+        "o": 24.81,
+        "h": 26.31,
+        "l": 24.65,
+        "c": 26.27,
+        "v": 572100
+      },
+      {
+        "d": "2026-09-25",
+        "o": 26.25,
+        "h": 26.63,
+        "l": 25.66,
+        "c": 26.13,
+        "v": 376900
+      },
+      {
+        "d": "2026-09-28",
+        "o": 25.99,
+        "h": 27.8,
+        "l": 25.96,
+        "c": 27.39,
+        "v": 747900
+      },
+      {
+        "d": "2026-09-29",
+        "o": 27.59,
+        "h": 27.64,
+        "l": 26.52,
+        "c": 26.68,
+        "v": 632000
+      },
+      {
+        "d": "2026-09-30",
+        "o": 26.73,
+        "h": 26.79,
+        "l": 25.77,
+        "c": 25.81,
+        "v": 509400
+      },
+      {
+        "d": "2026-10-01",
+        "o": 25.6,
+        "h": 26.02,
+        "l": 25.3,
+        "c": 25.35,
+        "v": 531000
+      },
+      {
+        "d": "2026-10-02",
+        "o": 25.46,
+        "h": 25.55,
+        "l": 25.06,
+        "c": 25.43,
+        "v": 374200
+      },
+      {
+        "d": "2026-10-05",
+        "o": 25.43,
+        "h": 25.7,
+        "l": 25.17,
+        "c": 25.37,
+        "v": 454500
+      },
+      {
+        "d": "2026-10-06",
+        "o": 25.54,
+        "h": 26.13,
+        "l": 25.03,
+        "c": 25.91,
+        "v": 469100
+      },
+      {
+        "d": "2026-10-07",
+        "o": 25.91,
+        "h": 26.17,
+        "l": 25.29,
+        "c": 25.54,
+        "v": 776300
+      },
+      {
+        "d": "2026-10-08",
+        "o": 25.39,
+        "h": 26.14,
+        "l": 25.1,
+        "c": 25.81,
+        "v": 423500
+      },
+      {
+        "d": "2026-10-09",
+        "o": 25.73,
+        "h": 26.79,
+        "l": 25.65,
+        "c": 26.62,
+        "v": 437700
+      },
+      {
+        "d": "2026-10-12",
+        "o": 26.62,
+        "h": 26.86,
+        "l": 26.51,
+        "c": 26.76,
+        "v": 362800
+      },
+      {
+        "d": "2026-10-13",
+        "o": 26.91,
+        "h": 27.0,
+        "l": 26.03,
+        "c": 26.05,
+        "v": 326500
+      },
+      {
+        "d": "2026-10-14",
+        "o": 25.89,
+        "h": 26.57,
+        "l": 25.89,
+        "c": 26.08,
+        "v": 364700
+      },
+      {
+        "d": "2026-10-15",
+        "o": 26.38,
+        "h": 27.1,
+        "l": 26.13,
+        "c": 26.42,
+        "v": 352300
+      },
+      {
+        "d": "2026-10-16",
+        "o": 26.61,
+        "h": 26.61,
+        "l": 25.52,
+        "c": 25.87,
+        "v": 352100
+      },
+      {
+        "d": "2026-10-19",
+        "o": 25.63,
+        "h": 26.31,
+        "l": 25.63,
+        "c": 26.14,
+        "v": 299500
+      },
+      {
+        "d": "2026-10-20",
+        "o": 26.24,
+        "h": 26.61,
+        "l": 25.82,
+        "c": 25.94,
+        "v": 360200
+      },
+      {
+        "d": "2026-10-21",
+        "o": 25.69,
+        "h": 26.35,
+        "l": 25.51,
+        "c": 26.2,
+        "v": 390200
+      },
+      {
+        "d": "2026-10-22",
+        "o": 26.25,
+        "h": 26.5,
+        "l": 25.92,
+        "c": 26.04,
+        "v": 315000
+      },
+      {
+        "d": "2026-10-23",
+        "o": 25.91,
+        "h": 25.91,
+        "l": 24.62,
+        "c": 25.14,
+        "v": 483100
+      },
+      {
+        "d": "2026-10-26",
+        "o": 25.27,
+        "h": 25.65,
+        "l": 25.22,
+        "c": 25.47,
+        "v": 225200
+      },
+      {
+        "d": "2026-10-27",
+        "o": 25.38,
+        "h": 25.7,
+        "l": 25.29,
+        "c": 25.57,
+        "v": 323900
+      },
+      {
+        "d": "2026-10-28",
+        "o": 25.36,
+        "h": 26.36,
+        "l": 25.36,
+        "c": 26.33,
+        "v": 397300
+      },
+      {
+        "d": "2026-10-29",
+        "o": 26.84,
+        "h": 27.0,
+        "l": 26.45,
+        "c": 26.93,
+        "v": 371400
+      },
+      {
+        "d": "2026-10-30",
+        "o": 27.12,
+        "h": 27.8,
+        "l": 26.76,
+        "c": 27.72,
+        "v": 664500
+      },
+      {
+        "d": "2026-11-02",
+        "o": 27.72,
+        "h": 27.8,
+        "l": 26.69,
+        "c": 27.03,
+        "v": 497700
+      },
+      {
+        "d": "2026-11-03",
+        "o": 27.04,
+        "h": 27.39,
+        "l": 26.85,
+        "c": 27.12,
+        "v": 550200
+      },
+      {
+        "d": "2026-11-04",
+        "o": 27.37,
+        "h": 28.57,
+        "l": 27.09,
+        "c": 28.02,
+        "v": 644800
+      },
+      {
+        "d": "2026-11-05",
+        "o": 28.31,
+        "h": 29.21,
+        "l": 27.43,
+        "c": 27.66,
+        "v": 606400
+      },
+      {
+        "d": "2026-11-06",
+        "o": 29.44,
+        "h": 31.0,
+        "l": 27.8,
+        "c": 28.49,
+        "v": 826300
+      },
+      {
+        "d": "2026-11-09",
+        "o": 28.74,
+        "h": 29.7,
+        "l": 28.5,
+        "c": 29.38,
+        "v": 635800
+      },
+      {
+        "d": "2026-11-10",
+        "o": 28.75,
+        "h": 29.4,
+        "l": 28.51,
+        "c": 29.06,
+        "v": 484800
+      },
+      {
+        "d": "2026-11-11",
+        "o": 28.87,
+        "h": 29.3,
+        "l": 28.5,
+        "c": 28.6,
+        "v": 497700
+      }
+    ],
+    "weekly_closes_26": [
+      18.41,
+      18.85,
+      19.74,
+      20.09,
+      18.81,
+      21.78,
+      19.64,
+      18.72,
+      19.75,
+      18.72,
+      19.94,
+      20.78,
+      20.91,
+      21.6,
+      22.01,
+      23.18,
+      23.78,
+      23.62,
+      26.13,
+      25.43,
+      26.62,
+      25.87,
+      25.14,
+      27.72,
+      28.49,
+      28.6
+    ]
+  },
+  "profile": {
+    "symbol": "AMPH",
+    "shortName": "Amphastar Pharmaceuticals, Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "marketCap": 1219742080,
+    "trailingPE": 13.119266,
+    "forwardPE": 8.600469,
+    "priceToSalesTrailing12Months": 1.63551,
+    "enterpriseToEbitda": 8.476,
+    "profitMargins": 0.13269,
+    "operatingMargins": 0.18737,
+    "grossMargins": 0.46807998,
+    "revenueGrowth": 0.082,
+    "earningsGrowth": 1.351,
+    "returnOnEquity": 0.12438,
+    "debtToEquity": 84.916,
+    "freeCashflow": 9201000,
+    "totalCash": 230634000,
+    "totalDebt": 691689024,
+    "beta": 0.938,
+    "shortPercentOfFloat": 0.2171,
+    "heldPercentInstitutions": 0.67917,
+    "recommendationMean": 3.14286,
+    "numberOfAnalystOpinions": 6,
+    "targetMeanPrice": 24.5,
+    "fiftyTwoWeekHigh": 31.0,
+    "fiftyTwoWeekLow": 16.65,
+    "averageVolume": 467690,
+    "preMarketPrice": null,
+    "regularMarketPrice": 28.6,
+    "regularMarketPreviousClose": 29.06,
+    "earnings_date": "2026-11-05"
+  },
+  "sec_fundamentals": {
+    "available": true,
+    "cik": 1297184,
+    "revenue_q": [
+      {
+        "end": "2024-06-30",
+        "val": 182394000,
+        "filed": "2025-08-07"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 191214000,
+        "filed": "2025-11-06"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 170528000,
+        "filed": "2026-05-07"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 174414000,
+        "filed": "2026-08-06"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 191840000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 171171000,
+        "filed": "2026-05-07"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 183903000,
+        "filed": "2026-08-06"
+      },
+      {
+        "end": "2026-09-30",
+        "val": 207608000,
+        "filed": "2026-11-05"
+      }
+    ],
+    "net_income_q": [
+      {
+        "end": "2024-06-30",
+        "val": 37949000,
+        "filed": "2025-11-06"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 40429000,
+        "filed": "2025-11-06"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 25285000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 31030000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 17350000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 6420000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 30348000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2026-09-30",
+        "val": 37763000,
+        "filed": "2026-11-05"
+      }
+    ],
+    "stale_warning": null,
+    "revenue_yoy": 0.0822,
+    "net_income_yoy": 1.1765
+  },
+  "sec_filings_10d": [
+    {
+      "form": "10-Q",
+      "filed": "2026-11-05",
+      "items": "",
+      "url": "https://www.sec.gov/Archives/edgar/data/1297184/000129718426000053/amph-20260930x10q.htm"
+    },
+    {
+      "form": "8-K",
+      "filed": "2026-11-05",
+      "items": "2.02,9.01",
+      "url": "https://www.sec.gov/Archives/edgar/data/1297184/000129718426000051/amph-20261105x8k.htm"
+    }
+  ],
+  "news_status": {
+    "status": "ok",
+    "source": "yahoo",
+    "errors": []
+  },
+  "news_7d": [
+    {
+      "title": "AMPH Q3 2026 deep dive: pipeline progress and manufacturing challenges shape outlook",
+      "publisher": "StockStory",
+      "published": "2026-11-10T09:25:36+00:00",
+      "summary": "Pharmaceutical company Amphastar Pharmaceuticals (NASDAQAMPH) reported Q3 2026 results exceeding the market’s revenue expectations, with sales up 8.2% year on year to $207.6 million. Its non-GAAP profit of $1.14 per share was 32.8% above analysts’ consensus estimates.",
+      "url": "https://finance.yahoo.com/healthcare/articles/amph-q3-2026-deep-dive-092536237.html"
+    },
+    {
+      "title": "Should Earnings Beat Require Action From Amphastar Pharmaceuticals (AMPH) Investors?",
+      "publisher": "Simply Wall St.",
+      "published": "2026-11-07T16:12:41+00:00",
+      "summary": "Amphastar Pharmaceuticals reported third quarter 2026 revenue of US$207.61 million and net income of US$37.76 million, with adjusted earnings per share and sales both coming in ahead of consensus expectations. Record contributions from BAQSIMI and Primatene Mist, together with expanded authorization for the share repurchase program, highlighted management’s focus on higher margin products and capi",
+      "url": "https://finance.yahoo.com/healthcare/articles/earnings-beat-require-action-amphastar-161241582.html"
+    },
+    {
+      "title": "Amphastar (AMPH) Q3 2026 Earnings Call Transcript",
+      "publisher": "Motley Fool",
+      "published": "2026-11-06T16:28:44+00:00",
+      "summary": "Record sales offset pricing pressure as IMS remediation costs climb.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/amphastar-amph-q3-2026-earnings-call-transcript/"
+    },
+    {
+      "title": "Amphastar Pharmaceuticals Inc (AMPH) Q3 2026 Earnings Call Highlights: Record Revenue of $207. ...",
+      "publisher": "GuruFocus.com",
+      "published": "2026-11-06T07:20:47+00:00",
+      "summary": "Amphastar Pharmaceuticals Inc (AMPH) posts record quarterly sales driven by Baximi and Primatene Mist, but gross margin slips to 48% as IMS remediation costs and pricing headwinds weigh on results.",
+      "url": "https://finance.yahoo.com/healthcare/articles/amphastar-pharmaceuticals-inc-amph-q3-072047403.html"
+    },
+    {
+      "title": "Amphastar Pharmaceuticals Q3 Earnings Call Highlights",
+      "publisher": "MarketBeat",
+      "published": "2026-11-06T00:14:31+00:00",
+      "summary": "Amphastar Pharmaceuticals (NASDAQ:AMPH) reported record third-quarter revenue of $207.6 million, up 8% from a year earlier, as sales of BAQSIMI and Primatene MIST and contributions from newer products offset manufacturing disruptions and lower pricing on some established medicines. The company expe",
+      "url": "https://www.marketbeat.com/instant-alerts/transcript-amphastar-pharmaceuticals-q3-earnings-call-highlights-2026-11-05/?utm_source=yahoofinance&utm_medium=yahoofinance"
+    },
+    {
+      "title": "Amphastar (AMPH) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+      "publisher": "Zacks",
+      "published": "2026-11-05T22:30:01+00:00",
+      "summary": "The headline numbers for Amphastar (AMPH) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amphastar-amph-q3-earnings-taking-223001385.html"
+    },
+    {
+      "title": "Amphastar Pharmaceuticals (NASDAQ:AMPH) reports bullish Q3 2026, stock soars",
+      "publisher": "StockStory",
+      "published": "2026-11-05T22:16:18+00:00",
+      "summary": "Pharmaceutical company Amphastar Pharmaceuticals (NASDAQAMPH) announced better-than-expected revenue in Q3 2026, with revenue up 8.2% year on year to $207.6 million. Its non-GAAP profit of $1.14 per share was 32.8% above analysts’ consensus estimates.",
+      "url": "https://finance.yahoo.com/healthcare/articles/amphastar-pharmaceuticals-nasdaq-amph-reports-221618377.html"
+    },
+    {
+      "title": "Amphastar Pharmaceuticals (AMPH) Tops Q3 Earnings and Revenue Estimates",
+      "publisher": "Zacks",
+      "published": "2026-11-05T21:45:05+00:00",
+      "summary": "Amphastar (AMPH) delivered earnings and revenue surprises of +46.15% and +6.72%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+      "url": "https://finance.yahoo.com/healthcare/articles/amphastar-pharmaceuticals-amph-tops-q3-214505260.html"
+    },
+    {
+      "title": "Amphastar: Q3 Earnings Snapshot",
+      "publisher": "Associated Press",
+      "published": "2026-11-05T21:39:37+00:00",
+      "summary": "(AP) — RANCHO CUCAMONGA, Calif. (AP) — Amphastar Pharmaceuticals Inc.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amphastar-q3-earnings-snapshot-213937996.html"
+    }
+  ]
+}

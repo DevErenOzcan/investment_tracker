@@ -1,0 +1,8 @@
+{"ticker": "GMAB", "rating": "Overweight", "confidence": 0.38,
+ "entry": 52.7, "entry_zone": [52.0, 53.4], "stop": 50.9, "target": 59.97, "horizon_days": 10,
+ "expected_return": {"low": -0.034, "high": 0.138},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "GMAB is in a strong uptrend (close 53.87 > SMA20 48.58 > SMA50 40.46 > SMA200 31.36) and is digesting a catalyst-driven gap-up on lower volume above the 51.22 swing low, with supportive fundamentals (positive FCF, guidance held, Moody's outlook positive) in the leading healthcare sector. Reward/risk from the 52.7 zone midpoint to the 59.97 high against the 50.9 stop is about 4.0, which carries positive expectancy even at a modest hit rate. Conviction is held below Buy because the unexplained pre-market gap to 51.66 sits below the zone and only 0.76 above the stop, and both debaters put the odds of the bull case at or below 0.35. Entry is conditional: only if price stabilises back inside 52.0-53.4; do not buy at 51.66.",
+ "invalidation": "Daily close below 51.22 (Nov 6 swing low) or a break of the 50.9 stop.",
+ "key_risks": ["Unexplained pre-market gap to 51.66, below the entry zone and near the stop", "Mean reversion after a ~47% 21-day run and one-day +28% spike; RSI 67, 10.9% above SMA20", "Q3 slight revenue miss with opex +35%; earningsGrowth -0.147", "Litigation risk flagged on the Q3 call, details not in packet", "Debt 5198000128 vs cash 1871000064; valuation unknown vs peers"],
+ "debate_winner": "draw"}

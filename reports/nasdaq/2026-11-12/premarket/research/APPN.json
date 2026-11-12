@@ -1,0 +1,8 @@
+{"ticker": "APPN", "rating": "Overweight", "confidence": 0.42,
+ "entry": 52.7, "entry_zone": [51.8, 52.7], "stop": 46.4, "target": 62.4, "horizon_days": 10,
+ "expected_return": {"low": -0.12, "high": 0.184},
+ "sector": "Technology", "earnings_date": null,
+ "thesis": "The 2026-11-05 beat-and-raise (revenue +25.5% YoY, accelerating, FY guide raised) plus the 2026-11-09 William Blair upgrade re-rated APPN, and price has held the 49-54 range above SMA20 since the gap. The edge is modest: reward/risk is only 1.54 at the 52.7 zone midpoint, the stock is 38% up in 21 days, the consensus target (54.8) is near price, and tech is lagging in a neutral regime, so this is a small, pullback-only long. The entry zone is narrowed from the technical card's [51.8, 53.6] to [51.8, 52.7] because at 53.6 reward/risk falls to about 1.2; with pre-market at 54.57 the order fills only on a pullback, and stop 46.4 and target 62.4 are unchanged from the card.",
+ "invalidation": "A daily close below 46.4 (under the 46.63 swing low), or a close back under the SMA20 (~49.3) on rising volume.",
+ "key_risks": ["First resistance at the 56.38 52-week high is only about 7% above entry and may cap the move before the 62.4 target", "Tech weakness (XLK ret_21 -11.17%, QQQ ret_21 -7.15% near the -8% risk-off line) and a 10-year yield of 5.048 pressure software multiples", "High volatility (ATR 3.01, 5.6% of price) and 11.7% short interest make moves sharp in both directions", "Operating cash outflow concern, net debt (debt 256.9M vs cash 88.9M) and rich valuation (forward P/E 33.6, EV/EBITDA 79.5)", "The catalyst is already in the past and no scheduled catalyst falls within 20 business days"],
+ "debate_winner": "draw"}

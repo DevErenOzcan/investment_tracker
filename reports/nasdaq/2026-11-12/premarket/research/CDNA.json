@@ -1,0 +1,8 @@
+{"ticker": "CDNA", "rating": "Overweight", "confidence": 0.47,
+ "entry": 78.75, "entry_zone": [77.0, 80.5], "stop": 69.5, "target": 90.87, "horizon_days": 10,
+ "expected_return": {"low": -0.1175, "high": 0.1539},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "CDNA is in a strong uptrend (close 81.17 above SMA20 75.4, SMA50 65.2, SMA200 36.1) and is consolidating in an orderly way on fading volume after a guidance-raising Q3 beat, a Medicare coverage tailwind and a Zacks #1 upgrade, and healthcare (XLV) leads the current rotation. Reward/risk at the zone midpoint is only about 1.31 (target 90.87, stop 69.5), and growth is decelerating with a rich valuation, so this is a starter-size pullback entry in 77.0-80.5. It is not a Buy, and the stock should not be chased at 81.17.",
+ "invalidation": "Daily close below 69.5 (under the 69.95 swing low and pre-gap base), or a close below the SMA20 (75.4) on rising volume that is not reclaimed within 2 sessions.",
+ "key_risks": ["Reward/risk about 1.31 at the zone midpoint (below the 1.5 Buy threshold); about 0.94 if filled at 80.5", "High volatility: beta 2.487, ATR 5.38 (6.6% of price), so a normal swing can reach the stop", "Growth decelerating (YoY about 52% to 39.3%) with rich valuation (forward P/E 51.9, P/S 8.6)", "Officer Form 144 sale (58,713 shares) after a roughly 71% 63-day run", "Neutral regime with 10-year yield at 5.048 pressuring high-beta growth; QQQ ret_21 -7.15% near the -8% risk-off line"],
+ "debate_winner": "draw"}

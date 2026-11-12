@@ -1,0 +1,14 @@
+{"ticker": "VTRS", "catalysts": [
+{"what": "Q3 2026 adj. EPS $0.71, 11.3% above consensus; revenue $3.75B flat y/y and slightly light; FY guidance midpoints raised (revenue about $14.8B); dividend confirmed", "date": "2026-11-05", "direction": "positive", "source": "https://finance.yahoo.com/healthcare/articles/vtrs-q3-2026-deep-dive-084536703.html"},
+{"what": "Call flagged about $100M Q4 supply hit tied to the Nashik facility", "date": "2026-11-05", "direction": "negative", "source": "https://finance.yahoo.com/markets/stocks/articles/viatris-inc-vtrs-q3-2026-231551866.html"},
+{"what": "Pending Pacira acquisition (about $1.65B deal) plus new product launches shape outlook", "date": "2026-11-08", "direction": "mixed", "source": "https://finance.yahoo.com/markets/stocks/articles/viatris-vtrs-stock-may-below-011550367.html"},
+{"what": "Stock at 52-week high after post-earnings run; consensus target about equal to price", "date": "2026-11-10", "direction": "mixed", "source": "https://finance.yahoo.com/markets/stocks/articles/viatris-inc-vtrs-hit-52-131502734.html"}
+],
+"event_risks": [
+"Pending Pacira acquisition: closing/financing risk and possible debt or equity issuance; no S-3/424B5 in the 10-day filings",
+"Nashik facility supply disruption (about $100M Q4 hit) could cause guidance or execution misses",
+"Technically extended (RSI about 75, about 10% above SMA20) with mean target about 21.0 at price, so limited analyst upside",
+"8-K filed 2026-11-05 items 2.02/8.01/9.01 (earnings plus other events); no 5.02 or 1.01 seen"
+],
+"binary_event": false, "news_available": true, "score": 1,
+"notes": "Price move is driven by the Nov 5 Q3 EPS beat and raised guidance, followed by a steady run to a 52-week high on rising volume. The earnings effect should persist moderately, but the Pacira deal and the Nashik supply hit are overhangs. No offering filings (S-3/424B5), litigation or takeover-bid pinning appear in the packet. The Q3 report is out, so no known scheduled catalyst in the next 20 business days beyond possible Pacira deal updates. Chasing strength carries pullback risk, so the score is modestly positive."}

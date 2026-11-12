@@ -1,0 +1,19 @@
+{"ticker": "ASO",
+ "thesis": "ASO is in a powerful uptrend with relative strength while the regime rotates away from tech toward defensive and broad leadership, and it is not a tech name. The stock sits just under its 52-week high and the two pullback sessions came on fading volume, which looks like a normal pause. Profitability is solid with positive free cash flow, low dilution risk and undemanding multiples. The honest caveat is that the setup is only marginal: it is extended, reward/risk is about 1.1, and a downgrade and earnings gap risk are in play, so the right play is a patient entry in the pullback zone or a volume breakout, not a chase.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = pullback",
+  "technical: entry_zone = [66.8, 68.6]",
+  "technical: notes = close 69.32 above SMA20 62.51, SMA50 55.04, SMA200 52.95; 63-day return +42%; relative strength +0.48",
+  "technical: notes = two sessions since the 52-week high closed lower on fading volume (1.30M, then 0.92M)",
+  "technical: reward_risk = 1.1 (weak, supports waiting for a better entry)",
+  "fundamentals: quality = medium",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: valuation = fair",
+  "fundamentals: notes = trailing P/E 11.63, forward P/E 9.79, EV/EBITDA 8.5, positive free cash flow",
+  "fundamentals: red_flags = short interest 19.92% of float, squeeze potential",
+  "news: notes = no offering, M&A or litigation signal",
+  "regime_view: leading_sectors = XLV, XLP, XLF; lagging_sectors = XLK, XLC, XLE"
+ ],
+ "upside_case": {"target": 74.5, "probability": 0.35},
+ "rebuttal_to_bear": null}

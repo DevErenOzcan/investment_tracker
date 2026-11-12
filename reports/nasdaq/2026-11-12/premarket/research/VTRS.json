@@ -1,0 +1,8 @@
+{"ticker": "VTRS", "rating": "Overweight", "confidence": 0.47,
+ "entry": 20.63, "entry_zone": [20.4, 20.85], "stop": 19.25, "target": 23.5, "horizon_days": 15,
+ "expected_return": {"low": -0.067, "high": 0.139},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "Post-earnings uptrend (close 21.06 > SMA20 19.04 > SMA50 17.96 > SMA200 16.02) after a Q3 adj. EPS beat and raised guidance, in a regime where XLV leads (ret_21 +11.37%), with cheap valuation (forward P/E 7.73) and strong free cash flow. The bear's main point (RSI 75.4, about 3.5 ATR above SMA20, price at the 21.0 mean analyst target) argues against chasing rather than against the trend, so this is a pullback-only entry in 20.40-20.85 with R/R about 2.1 to the 23.5 measured-move target. Conviction is moderate given flat revenue, heavy debt and the Pacira and Nashik overhangs.",
+ "invalidation": "Daily close below 19.25 or back under SMA20 (~19.04); no entry if price never retraces into 20.40-20.85.",
+ "key_risks": ["Overbought (RSI14 75.4, price 10.6% above SMA20) so the pullback may extend through the zone toward the stop", "Price already at the mean analyst target 21.0, limiting re-rating support", "Pending Pacira acquisition financing risk on a balance sheet with 13.58B debt vs 2.01B cash", "About $100M Q4 Nashik supply hit could weigh on execution", "Rising 10-year yield (5.048) and QQQ near the -8% risk-off line"],
+ "debate_winner": "bull"}

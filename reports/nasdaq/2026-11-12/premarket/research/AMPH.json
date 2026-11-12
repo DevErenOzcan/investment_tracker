@@ -1,0 +1,8 @@
+{"ticker": "AMPH", "rating": "Hold", "confidence": 0.45,
+ "entry": 28.25, "entry_zone": [27.8, 28.6], "stop": 26.3, "target": 31.0, "horizon_days": 10,
+ "expected_return": {"low": -0.069, "high": 0.097},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "The Q3 beat (revenue 207.6M, net income 37.8M vs 17.4M) and healthcare sector leadership support the uptrend, but the 31.00 post-earnings high was rejected with a long upper wick and price 28.60 already sits above the 24.5 mean analyst target. Reward/risk from the 28.25 mid entry to the 31.00 target over a 26.30 stop is only 1.41, below the 1.5 Buy threshold, and the technical card calls the setup mediocre. Thin liquidity (about 12.6M average daily dollar volume) and 21.7% short interest add volatility without improving the edge, so no new position.",
+ "invalidation": "A daily close below 26.45 breaks the setup; a close above 31.0 on volume would turn it into a breakout worth re-rating.",
+ "key_risks": ["31.00 rejection candle and only 1.41R to target", "Price above analyst mean target 24.5 (downgrade/target-lag risk)", "Gross margin slipping to ~48% on IMS remediation costs and pricing pressure", "Short interest ~21.7% of float makes moves violent", "Thin liquidity (~12.6M ADV)", "Neutral regime with QQQ near the -8% risk-off line and ^TNX at 5.048"],
+ "debate_winner": "bear"}

@@ -1,0 +1,779 @@
+{
+  "ticker": "APPN",
+  "exchange": "NASDAQ",
+  "as_of": "2026-11-12T13:49:44.503719+00:00",
+  "data_note": "In the pre-market session the last price is the previous close; in the pre-close session it is ~15 min delayed.",
+  "technical": {
+    "indicators": {
+      "symbol": "APPN",
+      "date": "2026-11-11",
+      "close": 53.6,
+      "ret_5": 0.0759,
+      "ret_21": 0.3847,
+      "ret_63": 0.4483,
+      "ret_126": 1.8632,
+      "rs_63": 0.5042,
+      "sma20": 49.3495,
+      "sma50": 42.1664,
+      "sma200": 29.8139,
+      "trend": 4,
+      "atr": 3.0119,
+      "atr_pct": 0.0562,
+      "rsi14": 65.6264,
+      "dist_high": -0.0493,
+      "vol_ratio": 1.2852,
+      "ext_20": 0.0861,
+      "vol_20": 0.7953,
+      "dollar_volume_20": 58821001.7955,
+      "low_20": 38.323,
+      "high_20": 56.38
+    },
+    "levels": {
+      "swing_low_10": 46.63199996948242,
+      "swing_low_20": 38.323001861572266,
+      "swing_high_20": 56.380001068115234,
+      "high_52w": 56.380001068115234,
+      "low_52w": 18.6299991607666
+    },
+    "last_60_days": [
+      {
+        "d": "2026-08-19",
+        "o": 36.43,
+        "h": 38.17,
+        "l": 36.21,
+        "c": 37.53,
+        "v": 496400
+      },
+      {
+        "d": "2026-08-20",
+        "o": 37.25,
+        "h": 37.83,
+        "l": 36.92,
+        "c": 37.28,
+        "v": 467600
+      },
+      {
+        "d": "2026-08-21",
+        "o": 37.3,
+        "h": 38.46,
+        "l": 36.94,
+        "c": 38.3,
+        "v": 520200
+      },
+      {
+        "d": "2026-08-24",
+        "o": 38.3,
+        "h": 39.6,
+        "l": 38.05,
+        "c": 39.17,
+        "v": 992600
+      },
+      {
+        "d": "2026-08-25",
+        "o": 38.55,
+        "h": 39.76,
+        "l": 37.73,
+        "c": 39.58,
+        "v": 1003100
+      },
+      {
+        "d": "2026-08-26",
+        "o": 38.7,
+        "h": 40.1,
+        "l": 38.12,
+        "c": 38.45,
+        "v": 1319800
+      },
+      {
+        "d": "2026-08-27",
+        "o": 38.82,
+        "h": 41.66,
+        "l": 38.73,
+        "c": 41.4,
+        "v": 819400
+      },
+      {
+        "d": "2026-08-28",
+        "o": 41.38,
+        "h": 43.15,
+        "l": 41.33,
+        "c": 42.51,
+        "v": 1115800
+      },
+      {
+        "d": "2026-08-31",
+        "o": 41.62,
+        "h": 44.06,
+        "l": 41.62,
+        "c": 42.95,
+        "v": 925500
+      },
+      {
+        "d": "2026-09-01",
+        "o": 42.07,
+        "h": 42.54,
+        "l": 39.7,
+        "c": 40.39,
+        "v": 760500
+      },
+      {
+        "d": "2026-09-02",
+        "o": 40.32,
+        "h": 40.93,
+        "l": 39.49,
+        "c": 39.89,
+        "v": 641000
+      },
+      {
+        "d": "2026-09-03",
+        "o": 40.99,
+        "h": 41.79,
+        "l": 40.38,
+        "c": 40.82,
+        "v": 639900
+      },
+      {
+        "d": "2026-09-04",
+        "o": 40.08,
+        "h": 40.4,
+        "l": 38.28,
+        "c": 38.37,
+        "v": 1087400
+      },
+      {
+        "d": "2026-09-08",
+        "o": 37.4,
+        "h": 37.5,
+        "l": 34.11,
+        "c": 34.58,
+        "v": 1823000
+      },
+      {
+        "d": "2026-09-09",
+        "o": 34.73,
+        "h": 34.73,
+        "l": 33.33,
+        "c": 34.24,
+        "v": 971300
+      },
+      {
+        "d": "2026-09-10",
+        "o": 34.0,
+        "h": 34.4,
+        "l": 33.28,
+        "c": 34.07,
+        "v": 772900
+      },
+      {
+        "d": "2026-09-11",
+        "o": 33.99,
+        "h": 34.84,
+        "l": 33.63,
+        "c": 34.76,
+        "v": 1478800
+      },
+      {
+        "d": "2026-09-14",
+        "o": 35.35,
+        "h": 38.41,
+        "l": 35.22,
+        "c": 38.31,
+        "v": 1207100
+      },
+      {
+        "d": "2026-09-15",
+        "o": 38.03,
+        "h": 39.26,
+        "l": 37.36,
+        "c": 37.92,
+        "v": 738100
+      },
+      {
+        "d": "2026-09-16",
+        "o": 36.5,
+        "h": 37.89,
+        "l": 36.5,
+        "c": 37.5,
+        "v": 586200
+      },
+      {
+        "d": "2026-09-17",
+        "o": 37.41,
+        "h": 38.75,
+        "l": 36.24,
+        "c": 38.11,
+        "v": 626700
+      },
+      {
+        "d": "2026-09-18",
+        "o": 37.88,
+        "h": 37.97,
+        "l": 36.8,
+        "c": 37.52,
+        "v": 1401000
+      },
+      {
+        "d": "2026-09-21",
+        "o": 37.75,
+        "h": 38.76,
+        "l": 37.73,
+        "c": 38.62,
+        "v": 552700
+      },
+      {
+        "d": "2026-09-22",
+        "o": 39.62,
+        "h": 39.67,
+        "l": 36.27,
+        "c": 36.9,
+        "v": 1012400
+      },
+      {
+        "d": "2026-09-23",
+        "o": 36.95,
+        "h": 38.21,
+        "l": 36.28,
+        "c": 37.96,
+        "v": 673800
+      },
+      {
+        "d": "2026-09-24",
+        "o": 38.53,
+        "h": 38.79,
+        "l": 37.29,
+        "c": 37.61,
+        "v": 500600
+      },
+      {
+        "d": "2026-09-25",
+        "o": 37.62,
+        "h": 38.12,
+        "l": 35.96,
+        "c": 36.01,
+        "v": 641300
+      },
+      {
+        "d": "2026-09-28",
+        "o": 35.58,
+        "h": 35.67,
+        "l": 33.35,
+        "c": 35.02,
+        "v": 948800
+      },
+      {
+        "d": "2026-09-29",
+        "o": 34.67,
+        "h": 35.72,
+        "l": 34.49,
+        "c": 35.33,
+        "v": 523400
+      },
+      {
+        "d": "2026-09-30",
+        "o": 35.45,
+        "h": 35.99,
+        "l": 35.17,
+        "c": 35.27,
+        "v": 1083500
+      },
+      {
+        "d": "2026-10-01",
+        "o": 36.47,
+        "h": 38.46,
+        "l": 36.35,
+        "c": 37.77,
+        "v": 886400
+      },
+      {
+        "d": "2026-10-02",
+        "o": 38.38,
+        "h": 38.6,
+        "l": 36.42,
+        "c": 36.68,
+        "v": 531300
+      },
+      {
+        "d": "2026-10-05",
+        "o": 36.62,
+        "h": 38.21,
+        "l": 36.57,
+        "c": 38.21,
+        "v": 541500
+      },
+      {
+        "d": "2026-10-06",
+        "o": 38.65,
+        "h": 38.9,
+        "l": 36.86,
+        "c": 37.25,
+        "v": 793700
+      },
+      {
+        "d": "2026-10-07",
+        "o": 37.12,
+        "h": 38.23,
+        "l": 36.7,
+        "c": 37.76,
+        "v": 1520300
+      },
+      {
+        "d": "2026-10-08",
+        "o": 37.84,
+        "h": 38.81,
+        "l": 37.06,
+        "c": 38.66,
+        "v": 1108200
+      },
+      {
+        "d": "2026-10-09",
+        "o": 38.91,
+        "h": 40.17,
+        "l": 38.55,
+        "c": 40.1,
+        "v": 783700
+      },
+      {
+        "d": "2026-10-12",
+        "o": 40.25,
+        "h": 40.98,
+        "l": 38.75,
+        "c": 38.93,
+        "v": 600800
+      },
+      {
+        "d": "2026-10-13",
+        "o": 38.75,
+        "h": 40.49,
+        "l": 38.34,
+        "c": 38.71,
+        "v": 454300
+      },
+      {
+        "d": "2026-10-14",
+        "o": 38.47,
+        "h": 39.31,
+        "l": 37.92,
+        "c": 38.45,
+        "v": 490900
+      },
+      {
+        "d": "2026-10-15",
+        "o": 38.79,
+        "h": 44.04,
+        "l": 38.32,
+        "c": 43.82,
+        "v": 1319700
+      },
+      {
+        "d": "2026-10-16",
+        "o": 44.33,
+        "h": 45.0,
+        "l": 40.18,
+        "c": 41.17,
+        "v": 1884600
+      },
+      {
+        "d": "2026-10-19",
+        "o": 40.66,
+        "h": 42.77,
+        "l": 40.39,
+        "c": 42.28,
+        "v": 644200
+      },
+      {
+        "d": "2026-10-20",
+        "o": 42.93,
+        "h": 45.32,
+        "l": 42.54,
+        "c": 44.51,
+        "v": 1090600
+      },
+      {
+        "d": "2026-10-21",
+        "o": 44.4,
+        "h": 49.31,
+        "l": 44.31,
+        "c": 48.73,
+        "v": 1706100
+      },
+      {
+        "d": "2026-10-22",
+        "o": 48.81,
+        "h": 51.38,
+        "l": 48.59,
+        "c": 51.15,
+        "v": 1844100
+      },
+      {
+        "d": "2026-10-23",
+        "o": 50.66,
+        "h": 54.12,
+        "l": 50.66,
+        "c": 52.35,
+        "v": 1488000
+      },
+      {
+        "d": "2026-10-26",
+        "o": 52.4,
+        "h": 52.7,
+        "l": 50.12,
+        "c": 51.57,
+        "v": 1028200
+      },
+      {
+        "d": "2026-10-27",
+        "o": 50.93,
+        "h": 51.58,
+        "l": 49.35,
+        "c": 49.94,
+        "v": 783700
+      },
+      {
+        "d": "2026-10-28",
+        "o": 49.52,
+        "h": 51.98,
+        "l": 49.18,
+        "c": 51.96,
+        "v": 1015700
+      },
+      {
+        "d": "2026-10-29",
+        "o": 49.51,
+        "h": 51.65,
+        "l": 47.65,
+        "c": 50.47,
+        "v": 1185600
+      },
+      {
+        "d": "2026-10-30",
+        "o": 50.01,
+        "h": 50.75,
+        "l": 48.23,
+        "c": 49.1,
+        "v": 749700
+      },
+      {
+        "d": "2026-11-02",
+        "o": 49.61,
+        "h": 50.85,
+        "l": 48.5,
+        "c": 48.75,
+        "v": 889500
+      },
+      {
+        "d": "2026-11-03",
+        "o": 47.91,
+        "h": 48.96,
+        "l": 46.63,
+        "c": 48.64,
+        "v": 604300
+      },
+      {
+        "d": "2026-11-04",
+        "o": 48.66,
+        "h": 50.85,
+        "l": 48.12,
+        "c": 49.82,
+        "v": 1226700
+      },
+      {
+        "d": "2026-11-05",
+        "o": 54.59,
+        "h": 56.38,
+        "l": 51.27,
+        "c": 54.03,
+        "v": 2007900
+      },
+      {
+        "d": "2026-11-06",
+        "o": 53.91,
+        "h": 54.3,
+        "l": 50.87,
+        "c": 51.6,
+        "v": 1187600
+      },
+      {
+        "d": "2026-11-09",
+        "o": 51.46,
+        "h": 54.2,
+        "l": 50.68,
+        "c": 51.15,
+        "v": 1461500
+      },
+      {
+        "d": "2026-11-10",
+        "o": 50.61,
+        "h": 52.51,
+        "l": 49.27,
+        "c": 52.35,
+        "v": 826700
+      },
+      {
+        "d": "2026-11-11",
+        "o": 52.5,
+        "h": 54.7,
+        "l": 52.5,
+        "c": 53.6,
+        "v": 869500
+      }
+    ],
+    "weekly_closes_26": [
+      21.37,
+      23.4,
+      24.73,
+      24.01,
+      20.95,
+      21.97,
+      24.4,
+      25.36,
+      26.11,
+      23.75,
+      26.96,
+      34.64,
+      35.41,
+      38.3,
+      42.51,
+      38.37,
+      34.76,
+      37.52,
+      36.01,
+      36.68,
+      40.1,
+      41.17,
+      52.35,
+      49.1,
+      51.6,
+      53.6
+    ]
+  },
+  "profile": {
+    "symbol": "APPN",
+    "shortName": "Appian Corporation",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "marketCap": 3826149632,
+    "trailingPE": null,
+    "forwardPE": 33.567974,
+    "priceToSalesTrailing12Months": 4.5390806,
+    "enterpriseToEbitda": 79.482,
+    "profitMargins": -0.0072399997,
+    "operatingMargins": 0.04783,
+    "grossMargins": 0.72441,
+    "revenueGrowth": 0.255,
+    "earningsGrowth": 0.7,
+    "returnOnEquity": null,
+    "debtToEquity": null,
+    "freeCashflow": 78323248,
+    "totalCash": 88946000,
+    "totalDebt": 256922000,
+    "beta": 0.805,
+    "shortPercentOfFloat": 0.1169,
+    "heldPercentInstitutions": 0.99166,
+    "recommendationMean": 2.57143,
+    "numberOfAnalystOpinions": 5,
+    "targetMeanPrice": 54.8,
+    "fiftyTwoWeekHigh": 56.38,
+    "fiftyTwoWeekLow": 18.63,
+    "averageVolume": 942776,
+    "preMarketPrice": 54.57,
+    "regularMarketPrice": 53.6,
+    "regularMarketPreviousClose": 52.35,
+    "earnings_date": "2026-11-05"
+  },
+  "sec_fundamentals": {
+    "available": true,
+    "cik": 1441683,
+    "revenue_q": [
+      {
+        "end": "2024-06-30",
+        "val": 146450000,
+        "filed": "2025-08-07"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 154052000,
+        "filed": "2025-11-06"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 166426000,
+        "filed": "2026-05-07"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 170640000,
+        "filed": "2026-08-06"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 187004000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 202180000,
+        "filed": "2026-05-07"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 203256000,
+        "filed": "2026-08-06"
+      },
+      {
+        "end": "2026-09-30",
+        "val": 234632000,
+        "filed": "2026-11-05"
+      }
+    ],
+    "net_income_q": [
+      {
+        "end": "2024-06-30",
+        "val": -43592000,
+        "filed": "2025-11-06"
+      },
+      {
+        "end": "2024-09-30",
+        "val": -2100000,
+        "filed": "2025-11-06"
+      },
+      {
+        "end": "2025-03-31",
+        "val": -1177000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2025-06-30",
+        "val": -312000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 7825000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2026-03-31",
+        "val": -1525000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2026-06-30",
+        "val": -11817000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2026-09-30",
+        "val": 12341000,
+        "filed": "2026-11-05"
+      }
+    ],
+    "stale_warning": null,
+    "revenue_yoy": 0.2547,
+    "net_income_yoy": 0.5771
+  },
+  "sec_filings_10d": [
+    {
+      "form": "10-Q",
+      "filed": "2026-11-05",
+      "items": "",
+      "url": "https://www.sec.gov/Archives/edgar/data/1441683/000144168326000061/appn-20260930.htm"
+    },
+    {
+      "form": "8-K",
+      "filed": "2026-11-05",
+      "items": "2.02,9.01",
+      "url": "https://www.sec.gov/Archives/edgar/data/1441683/000144168326000056/appn-20261105.htm"
+    }
+  ],
+  "news_status": {
+    "status": "ok",
+    "source": "yahoo+google_rss",
+    "errors": []
+  },
+  "news_7d": [
+    {
+      "title": "Here’s Why William Blair Upgraded Appian (APPN) Stock",
+      "publisher": "Insider Monkey",
+      "published": "2026-11-09T17:15:22+00:00",
+      "summary": "We just published a list of the Don’t Miss Out: 10 Stocks Getting Major Upgrades From Top Analysts and Appian (NASDAQ:APPN) ranked 9th on this list. Wall Street ended a punishing week on Friday with a partial recovery. The Nasdaq Composite rose 1.09% to 24,579.42 and the S&P 500 gained 0.31% to 7,376.86, while the […]",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-william-blair-upgraded-appian-171522406.html"
+    },
+    {
+      "title": "APPN Q3 2026 deep dive: AI adoption and platform modernization drive outperformance",
+      "publisher": "StockStory",
+      "published": "2026-11-09T06:13:36+00:00",
+      "summary": "Low-code automation software company Appian (NASDAQ:APPN) reported Q3 2026 results topping the market’s revenue expectations, with sales up 25.5% year on year to $234.6 million. On top of that, next quarter’s revenue guidance ($235 million at the midpoint) was surprisingly good and 3% above what analysts were expecting. Its non-GAAP profit of $0.51 per share was 53.5% above analysts’ consensus est",
+      "url": "https://finance.yahoo.com/technology/ai/articles/appn-q3-2026-deep-dive-061336213.html"
+    },
+    {
+      "title": "Why Wall Street Still Thinks Appian Stock Can Gain 50% from Here",
+      "publisher": "Barchart",
+      "published": "2026-11-06T16:15:03+00:00",
+      "summary": "Appian (APPN) exhibits robust price momentum, recently hitting a new 3-year high. Shares are up nearly 40% over the past year. Technical indicators are overwhelmingly bullish, with a 100% “Buy” opinion from Barchart. Despite overvaluation concerns, analyst price targets go as high as $75. Today’s Featured Stock Valued at $3.87...",
+      "url": "https://www.barchart.com/story/news/8703500/why-wall-street-still-thinks-appian-stock-can-gain-50-from-here"
+    },
+    {
+      "title": "Appian Q3 Earnings Beat Estimates, Revenues Increase Y/Y",
+      "publisher": "Zacks",
+      "published": "2026-11-06T15:21:00+00:00",
+      "summary": "APPN's Q3'26 earnings and revenues beat estimates, fueled by strong subscription growth and AI adoption, prompting a higher 2026 outlook despite cash flow weakness.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/appian-q3-earnings-beat-estimates-152100382.html"
+    },
+    {
+      "title": "APPN Q3 Earnings Call Highlights AI Demand and Higher Outlook",
+      "publisher": "Zacks",
+      "published": "2026-11-06T14:00:00+00:00",
+      "summary": "Appian beats Q3 revenue and earnings estimates, raises its 2026 outlook as AI adoption accelerates, but operating cash outflows remain a concern.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/appn-q3-earnings-call-highlights-140000513.html"
+    },
+    {
+      "title": "Appian Stock What Changed After Its Earnings Beat",
+      "publisher": "Simply Wall St.",
+      "published": "2026-11-06T11:12:39+00:00",
+      "summary": "Appian reported Q3 2026 revenue of US$234.63 million and net income of US$12.34 million, raised full year 2026 guidance, and highlighted sharp growth in AI usage on its platform and cloud subscriptions. The firm coupled stronger earnings with fresh validation of its AI and government focused offerings, including Impact Level 5 authorization for Appian Defense Cloud and rapid adoption of the Army’s",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/appian-stock-changed-earnings-beat-111239438.html"
+    },
+    {
+      "title": "Is Appian a Buy After Its Latest Earnings Report?",
+      "publisher": "Motley Fool",
+      "published": "2026-11-06T00:50:01+00:00",
+      "summary": "Appian's AI momentum accelerated in the third quarter.",
+      "url": "https://www.fool.com/investing/2026/11/05/is-appian-a-buy-after-its-latest-earnings-report/"
+    },
+    {
+      "title": "Appian Corp (APPN) Q3 2026 Earnings Call Highlights: Cloud Growth Accelerates as Net ARR ...",
+      "publisher": "GuruFocus.com",
+      "published": "2026-11-05T23:16:40+00:00",
+      "summary": "Appian Corp (APPN) posted 25% total revenue growth and a 120% cloud net ARR expansion rate, beating adjusted EBITDA guidance as AI adoption and legacy modernization fuel demand.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/appian-corp-appn-q3-2026-231640766.html"
+    },
+    {
+      "title": "Is Appian (APPN) Below Fair Value On Strong Q3 Earnings And Raised Guidance?",
+      "publisher": "Simply Wall St.",
+      "published": "2026-11-05T20:12:03+00:00",
+      "summary": "Appian (APPN) just delivered third quarter earnings that beat analyst expectations, raised its full year revenue and EPS guidance, and highlighted growing AI driven demand, especially from government and defense clients. The share price reaction has been sharp rather than steady, with Appian now at US$49.82 after a 30.38% 1 month share price return and a 63.83% 3 month share price return. The 69.8",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/appian-appn-below-fair-value-201203104.html"
+    },
+    {
+      "title": "Appian Corp (APPN) Q3 2026 Earnings Call Transcript",
+      "publisher": "Motley Fool",
+      "published": "2026-11-05T19:16:22+00:00",
+      "summary": "Federal deals and AI demand lifted results above guidance.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/05/appian-corp-appn-q3-2026-earnings-call-transcript/"
+    },
+    {
+      "title": "Here's What Key Metrics Tell Us About Appian (APPN) Q3 Earnings - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-05T18:30:01+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaktNNGNGRGp3VWpZTWlTMHVYNnlITEZQa3dCT2dFUE9GVXRvUmlhTG5HWmpRYzl3TU1KMk5IaHRHdUgxZUhZby1WeDd5anQxLWFFRUkxUlREXzlWMmxaZmNoaW9ZYVJSSnBxZmRHQnltZU5tdGM0VmRzRVJocXRIWG05LTEyWV9MTVJyNWpUTmFteWpa?oc=5"
+    },
+    {
+      "title": "Why Is Appian Stock Gaining Thursday? - Appian (NASDAQ:APPN) - Benzinga",
+      "publisher": "Benzinga",
+      "published": "2026-11-05T17:17:41+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa3BIUzgxbWlCQzk4T3RwY2tlbl9zYm9ORndtSEZUeEM1QlFrMWhwZjB3Q29EOW4zb0VLQndMRFFyNUdMRVdtdWJzc3M3ZzlZMDNfb1BHZjhSaVB3S0VkSXlTTTUxT05OSDQtNDRKV1ljNzB3dExSNDdxdGkzZjlXX1BMM0QyMURNbTJfa3AyS0Z1Z1BRQ0VzT1A5cWk2bmtwRWE1VmphVGJuT3hHY0lJNDJpeVVsV0F0TFotdVBnVWl2U21KbzlTdXpLUDNEVEg5?oc=5"
+    }
+  ]
+}

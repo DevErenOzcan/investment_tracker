@@ -1,0 +1,15 @@
+{"ticker": "TGTX",
+ "thesis": "The post-earnings gap has already repriced the good news: the stock sits well above SMA20 with RSI near 70, 3% off a 52-week high, and with reward/risk of only about 1.4 at high ATR. Trailing P/E near 98, net income down 86% y/y, and rising opex leave little room for error, with no scheduled catalyst to extend the move. Short interest near 28% of float cuts both ways, and a failed squeeze would retrace toward the gap base. The regime is neutral with tech and growth under pressure from a high 10-year yield, so a stretched high-beta name is a poor fit for selective, defensive-tilted exposure. A follow-on offering near highs after a 37% run is a live risk even though none is filed.",
+ "evidence": [
+  "technical: setup = pullback, entry_zone = [63.4, 65.2], close 65.76 vs SMA20 57.99 (about 13% extension)",
+  "technical: reward_risk = 1.44, atr = 3.26 (about 5% of price)",
+  "technical: RSI 69.8, 52-week high 68.03 on 11/10 then closed 3.3% below it",
+  "technical: stop = 57.4, invalidation = daily close below 57.4 or back below SMA20 on rising volume",
+  "news: event_risks = trailing P/E about 98, net income down 86% y/y, operating expenses rising",
+  "news: event_risks = short interest 27.7% of float, two-way squeeze risk",
+  "news: event_risks = follow-on possible near 52-week high after 37% 63-day run; no scheduled catalyst in next 20 business days",
+  "regime_view: regime = neutral, XLK ret_21 -11.17%, ^TNX 5.048 at 1-year percentile 0.894"
+ ],
+ "downside_case": {"level": 57.4, "probability": 0.3},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

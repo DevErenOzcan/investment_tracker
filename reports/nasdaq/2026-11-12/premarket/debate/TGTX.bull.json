@@ -1,0 +1,19 @@
+{"ticker": "TGTX", "thesis": "TGTX is in a strong post-earnings uptrend driven by durable product sales rather than a one-off. Q3 revenue grew about 61% y/y, FY2026 guidance was raised to about 1B, and the company is profitable with positive free cash flow and low dilution risk. Forward P/E is far below trailing, and the analyst mean target sits well above the last close. In a neutral, defensive-tilted regime, healthcare is a leading sector, which supports a pullback entry near 63.4-65.2. Reward/risk is modest and the stock is extended, so this is a selective, not aggressive, long.",
+"evidence": [
+"technical: setup = pullback",
+"technical: trend = up",
+"technical: entry_zone = [63.4, 65.2]",
+"technical: stop = 57.4",
+"technical: target = 74.5",
+"technical: reward_risk = 1.44",
+"technical: notes = close 65.76 above SMA20 57.99, SMA50 56.39 and SMA200 45.03, ret_63 +37%, rs_63 +0.43",
+"fundamentals: notes = revenue 259.9M, up 60.7% YoY; FY2026 revenue guidance raised to about 1B",
+"fundamentals: notes = net income 55.5M, operating margin 21.5%, free cash flow 85.5M",
+"fundamentals: dilution_risk = low",
+"fundamentals: notes = forward P/E 22.47 vs trailing 98.15; mean analyst target 77.5 vs close 65.76",
+"news: catalysts = Q3 beat and guidance raise on 2026-11-09; TD Cowen raised forecast",
+"news: binary_event = false",
+"news: event_risks = no S-3/424B5 in the last 10 days, so no offering signal",
+"regime_view: leading_sectors = XLV, XLP, XLF"
+],
+"upside_case": {"target": 74.5, "probability": 0.4}, "rebuttal_to_bear": null}

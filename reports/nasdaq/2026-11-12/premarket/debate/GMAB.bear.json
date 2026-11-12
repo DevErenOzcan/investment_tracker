@@ -1,0 +1,16 @@
+{"ticker": "GMAB",
+ "thesis": "The stock is up about 47% in 21 days on a one-day +28% gap, and the pullback so far is only about 10%, so mean reversion and profit-taking risk is large. Pre-market is already about 4% lower with no headline to explain it, which puts price (51.66) near the 50.9 stop before any entry. RSI is 67 and price sits 10.9% above SMA20, so it is still stretched. The Q3 print was a slight revenue miss with opex up 35%, and litigation risk was flagged but not detailed. The regime is neutral with tech and growth under pressure from a 10-year yield at 5.05, although healthcare is the leading sector.",
+ "evidence": [
+  "technical: setup = pullback, close 53.87 vs SMA20 48.58, RSI 67, 10.9% above SMA20, still extended",
+  "technical: pre-market 51.66 vs entry_zone [52.0, 53.4] and stop 50.9, so price is already below the zone and near the stop",
+  "technical: invalidation = daily close below 51.22 (Nov 6 swing low), only about 0.9% below the pre-market quote",
+  "technical: score = 1, the weakest positive score",
+  "news: event_risks = stock up about 47% in 21 days after a one-day +28% spike on 2026-10-28",
+  "news: event_risks = pre-market about -4% gap with no explanatory news in packet",
+  "news: Q3 revenue marginally below consensus, opex +35%, shares fell about 3%",
+  "news: litigation risk cited on Q3 call, details not in packet",
+  "news: score = 0, net catalyst effect neutral because the big move has already happened",
+  "regime_view: neutral, QQQ ret_21 -7.15% vs the -8% risk-off line, ^TNX 5.048 at 0.894 percentile"],
+ "downside_case": {"level": 48.58, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

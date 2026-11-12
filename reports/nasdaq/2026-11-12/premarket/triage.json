@@ -1,0 +1,31 @@
+{
+  "finalists": [
+    {"ticker": "GMAB", "why": "Healthcare leader in the regime, trend 4, RSI 67 and ext_20 10.9% with earnings already out on 2026-11-05.", "watch": "ret_21 of +47% is a sharp run and the stock is 10% below its high, so a pullback is likely; headlines question whether it is fully priced."},
+    {"ticker": "CDNA", "why": "Trend 4 with RSI 60 and ext_20 7.6%, a calm setup helped by a favorable Medicare coverage ruling after Q3.", "watch": "ATR is 6.6% and the stock is 10.7% off its high with ret_5 of -5.5%, so it needs to hold support."},
+    {"ticker": "APPN", "why": "Post-earnings beat with an analyst upgrade, trend 4, RSI 66, ext_20 8.6% and 5% below the high on 1.3x volume.", "watch": "It is software, a lagging area (XLK weak, 10-year yield rising), and ret_21 is +38%."},
+    {"ticker": "CERT", "why": "Orderly uptrend with RSI 64, ext_20 8.1% and 1.5x volume after software growth accelerated in Q3.", "watch": "EPS came in slightly below estimates and market cap is small, with $29M average daily dollar volume."},
+    {"ticker": "TGTX", "why": "Healthcare leader that raised revenue guidance after earnings, with trend 4, RSI 70, ext_20 13.4% and 1.8x volume.", "watch": "Ext_20 is near the 15% limit and headlines call the valuation hard to justify, so avoid chasing."},
+    {"ticker": "ASO", "why": "Consumer retail name 2.8% from its high with trend 4, ext_20 10.9% and next earnings not until 2026-12-08.", "watch": "RSI 72 is elevated and Loop Capital cut it to Hold; retail is exposed to the rising yield backdrop."},
+    {"ticker": "VTRS", "why": "Large-cap healthcare name at its 52-week high (0.2% below) with low ATR of 2.7%, ext_20 10.6% and 1.4x volume.", "watch": "RSI 75 is close to the 78 cap and the stock is extended after a large rebound, so a short-term pause is possible."},
+    {"ticker": "AMPH", "why": "Cleanest setup on the list with RSI 63, ext_20 6.1% and a new 52-week high after an earnings beat.", "watch": "Thin liquidity ($12.6M average daily dollar volume) and a same-sub-industry pairing with VTRS, which uses the 2-name limit."}
+  ],
+  "dropped": [
+    {"ticker": "HTFL", "why": "Earnings are today (2026-11-12), so it is excluded for event risk."},
+    {"ticker": "KOD", "why": "Earnings are today, ext_20 is 14.7% and volume is only 0.44x after a +173% 63-day run."},
+    {"ticker": "SLN", "why": "Earnings are today and RSI is 78.0, which does not meet the below-78 requirement."},
+    {"ticker": "BRZE", "why": "RSI 82.7 and ret_21 +61% make it over-extended."},
+    {"ticker": "XERS", "why": "RSI 85 and ext_20 41% after a +58% five-day spike make it badly over-extended."},
+    {"ticker": "SGRY", "why": "RSI 90 and ext_20 27%, and revenue missed with a net loss."},
+    {"ticker": "GDYN", "why": "Ext_20 is 28.5% and RSI 77.9, so it is over-extended."},
+    {"ticker": "ETON", "why": "Trend is only 3, ext_20 is 28%, and a director sold $5.35M of stock."},
+    {"ticker": "CRCT", "why": "Ext_20 is 25.7% and RSI 74 after a roughly 49% weekly jump."},
+    {"ticker": "ARHS", "why": "Ext_20 is 19.1%, RSI 73 and Q3 earnings missed estimates."},
+    {"ticker": "SDGR", "why": "Ext_20 is 16.3%, above the 15% limit."},
+    {"ticker": "VERX", "why": "Ext_20 is 15.1% and RSI 74.6, with a Seeking Alpha downgrade."},
+    {"ticker": "VIR", "why": "Ext_20 is 15.3%, and the stock is trading on a binary Phase 3 and AASLD data event."},
+    {"ticker": "EXEL", "why": "An FDA decision on zanzalintinib is pending, which is binary event risk."},
+    {"ticker": "CYRX", "why": "Ext_20 is 14.4% after a +23% five-day spike and a 100% gain, and a freight/logistics name is not a regime-leading sector."},
+    {"ticker": "PRCH", "why": "Ext_20 is 14.7%, just under the limit, and the CEO is selling shares, so it ranks below the chosen names."},
+    {"ticker": "SIBN", "why": "The headlines are unrelated noise (ticker-collision hits), so the news screen for event risk cannot be done."}
+  ]
+}

@@ -1,0 +1,17 @@
+{"ticker": "VTRS",
+ "thesis": "VTRS is a post-earnings spike that has already used up its upside: price sits at the 52-week high and equals the mean analyst target, RSI14 is about 75 and price is roughly 3.5 ATR above SMA20, so a mean-reversion pullback is more likely than continuation. The business underneath is flat (revenue -0.3% y/y, missed consensus), GAAP loss widened, and debt is heavy (13.58B vs 2.01B cash) with a pending Pacira acquisition that raises financing and execution risk. A roughly $100M Q4 supply hit from Nashik is an unpriced overhang. The regime is neutral with tech weak and rising yields (10-year at 5.048), so a leveraged, rate-sensitive name has little macro tailwind. The technical card itself says chasing is poor, so buying now at the high is the wrong entry.",
+ "evidence": [
+  "technical: setup = pullback, entry_zone = [20.4, 20.85] vs close 21.06 (price is above the zone)",
+  "technical: RSI14 = 75.4, price 10.6% above SMA20 (about 3.5 ATR)",
+  "technical: reward_risk = 2.04 only if entered in the pullback zone; stop 19.25 is well below the current close",
+  "fundamentals: red_flags = Price at 52-week high and equals mean analyst target 21.0, upside to target is gone",
+  "fundamentals: red_flags = GAAP profit margin -0.04127, revenue -0.0028 y/y and missed Q3 consensus",
+  "fundamentals: red_flags = total debt 13.58B vs cash 2.01B, debtToEquity 99.224",
+  "fundamentals: red_flags = $100 million Q4 supply hit tied to Nashik facility",
+  "news: event_risks = Pending Pacira acquisition, closing/financing risk and possible debt or equity issuance",
+  "news: notes = Chasing strength carries pullback risk, score only modestly positive (1)",
+  "regime_view: regime = neutral, ^TNX 5.048 at 1-year percentile 0.894, QQQ ret_21 -7.15% near risk-off line"
+ ],
+ "downside_case": {"level": 19.25, "probability": 0.3},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

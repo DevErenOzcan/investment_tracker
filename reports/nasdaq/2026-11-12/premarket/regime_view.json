@@ -1,0 +1,19 @@
+{"regime": "neutral",
+ "confidence": 0.65,
+ "leading_sectors": ["XLV", "XLP", "XLF"],
+ "lagging_sectors": ["XLK", "XLC", "XLE"],
+ "evidence": [
+  "QQQ below 50-day but above 200-day (ret_21 -7.15%, ret_63 -5.6%), close to but not past the -8% risk-off line",
+  "SPY below 50-day, above 200-day (ret_21 -2.34%)",
+  "VIX 18.86 at 1-year percentile 0.69 (below 0.85 risk-off threshold, above 0.6 risk-on threshold); ret_5 -33.07% after a spike",
+  "Tech weak: XLK ret_21 -11.17% and below 50-day; SMH ret_21 -13.8% and below 50/200-day",
+  "Defensive and broad leadership: XLV ret_21 +11.37%, XLP +8.62%, XLF +6.95%; 8 of 11 sector SPDRs above 50-day",
+  "10-year yield ^TNX 5.048, ret_5 +4.36%, 1-year percentile 0.894"
+ ],
+ "watch": [
+  "QQQ ret_21 at -7.15% versus the -8% risk-off trigger",
+  "QQQ holding its 200-day average",
+  "Rising ^TNX (5.048, percentile 0.894) pressuring growth/tech",
+  "VIX percentile (0.69) versus the 0.85 risk-off threshold"
+ ],
+ "summary": "Mixed signals: QQQ is below its 50-day but above its 200-day with a 21-day drawdown of -7.15%, and VIX is elevated but not extreme (percentile 0.69). Leadership is rotating from tech and semis into healthcare, staples and financials, so keep long exposure selective and defensive-tilted."}

@@ -1,0 +1,772 @@
+{
+  "ticker": "CERT",
+  "exchange": "NASDAQ",
+  "as_of": "2026-11-12T13:49:46.858560+00:00",
+  "data_note": "In the pre-market session the last price is the previous close; in the pre-close session it is ~15 min delayed.",
+  "technical": {
+    "indicators": {
+      "symbol": "CERT",
+      "date": "2026-11-11",
+      "close": 11.73,
+      "ret_5": 0.0577,
+      "ret_21": 0.2219,
+      "ret_63": 0.4393,
+      "ret_126": 1.4489,
+      "rs_63": 0.4952,
+      "sma20": 10.855,
+      "sma50": 9.5574,
+      "sma200": 7.3424,
+      "trend": 4,
+      "atr": 0.5944,
+      "atr_pct": 0.0507,
+      "rsi14": 63.7819,
+      "dist_high": -0.0698,
+      "vol_ratio": 1.503,
+      "ext_20": 0.0806,
+      "vol_20": 0.5177,
+      "dollar_volume_20": 29429302.2961,
+      "low_20": 9.215,
+      "high_20": 12.61
+    },
+    "levels": {
+      "swing_low_10": 10.460000038146973,
+      "swing_low_20": 9.21500015258789,
+      "swing_high_20": 12.609999656677246,
+      "high_52w": 12.609999656677246,
+      "low_52w": 4.449999809265137
+    },
+    "last_60_days": [
+      {
+        "d": "2026-08-19",
+        "o": 8.11,
+        "h": 8.37,
+        "l": 8.08,
+        "c": 8.36,
+        "v": 2026300
+      },
+      {
+        "d": "2026-08-20",
+        "o": 8.4,
+        "h": 8.89,
+        "l": 8.36,
+        "c": 8.73,
+        "v": 2704900
+      },
+      {
+        "d": "2026-08-21",
+        "o": 8.83,
+        "h": 8.83,
+        "l": 8.39,
+        "c": 8.43,
+        "v": 2044500
+      },
+      {
+        "d": "2026-08-24",
+        "o": 8.43,
+        "h": 8.46,
+        "l": 7.88,
+        "c": 7.96,
+        "v": 2304600
+      },
+      {
+        "d": "2026-08-25",
+        "o": 7.99,
+        "h": 8.27,
+        "l": 7.95,
+        "c": 8.14,
+        "v": 2558900
+      },
+      {
+        "d": "2026-08-26",
+        "o": 8.12,
+        "h": 8.24,
+        "l": 8.05,
+        "c": 8.22,
+        "v": 1150200
+      },
+      {
+        "d": "2026-08-27",
+        "o": 8.23,
+        "h": 8.49,
+        "l": 8.2,
+        "c": 8.41,
+        "v": 1402000
+      },
+      {
+        "d": "2026-08-28",
+        "o": 8.38,
+        "h": 8.48,
+        "l": 8.31,
+        "c": 8.35,
+        "v": 2060400
+      },
+      {
+        "d": "2026-08-31",
+        "o": 8.22,
+        "h": 8.31,
+        "l": 8.03,
+        "c": 8.29,
+        "v": 1712500
+      },
+      {
+        "d": "2026-09-01",
+        "o": 8.22,
+        "h": 8.28,
+        "l": 8.06,
+        "c": 8.1,
+        "v": 2480100
+      },
+      {
+        "d": "2026-09-02",
+        "o": 8.1,
+        "h": 8.41,
+        "l": 8.1,
+        "c": 8.28,
+        "v": 1525400
+      },
+      {
+        "d": "2026-09-03",
+        "o": 8.35,
+        "h": 8.43,
+        "l": 7.99,
+        "c": 8.13,
+        "v": 2125100
+      },
+      {
+        "d": "2026-09-04",
+        "o": 8.02,
+        "h": 8.05,
+        "l": 7.91,
+        "c": 7.94,
+        "v": 1271300
+      },
+      {
+        "d": "2026-09-08",
+        "o": 7.8,
+        "h": 7.84,
+        "l": 7.61,
+        "c": 7.74,
+        "v": 2879900
+      },
+      {
+        "d": "2026-09-09",
+        "o": 7.71,
+        "h": 7.72,
+        "l": 7.49,
+        "c": 7.63,
+        "v": 1462900
+      },
+      {
+        "d": "2026-09-10",
+        "o": 7.52,
+        "h": 7.61,
+        "l": 7.31,
+        "c": 7.42,
+        "v": 2255200
+      },
+      {
+        "d": "2026-09-11",
+        "o": 7.51,
+        "h": 7.57,
+        "l": 7.39,
+        "c": 7.55,
+        "v": 1486100
+      },
+      {
+        "d": "2026-09-14",
+        "o": 7.61,
+        "h": 8.09,
+        "l": 7.58,
+        "c": 8.0,
+        "v": 1695800
+      },
+      {
+        "d": "2026-09-15",
+        "o": 7.97,
+        "h": 8.4,
+        "l": 7.95,
+        "c": 8.4,
+        "v": 2121300
+      },
+      {
+        "d": "2026-09-16",
+        "o": 8.34,
+        "h": 8.4,
+        "l": 8.04,
+        "c": 8.13,
+        "v": 3914600
+      },
+      {
+        "d": "2026-09-17",
+        "o": 8.25,
+        "h": 8.61,
+        "l": 8.16,
+        "c": 8.58,
+        "v": 2259900
+      },
+      {
+        "d": "2026-09-18",
+        "o": 8.58,
+        "h": 8.65,
+        "l": 8.16,
+        "c": 8.42,
+        "v": 6720300
+      },
+      {
+        "d": "2026-09-21",
+        "o": 8.49,
+        "h": 8.64,
+        "l": 8.43,
+        "c": 8.52,
+        "v": 1894300
+      },
+      {
+        "d": "2026-09-22",
+        "o": 8.51,
+        "h": 8.85,
+        "l": 8.51,
+        "c": 8.83,
+        "v": 2321000
+      },
+      {
+        "d": "2026-09-23",
+        "o": 8.82,
+        "h": 9.12,
+        "l": 8.59,
+        "c": 8.64,
+        "v": 2586000
+      },
+      {
+        "d": "2026-09-24",
+        "o": 8.52,
+        "h": 8.93,
+        "l": 8.52,
+        "c": 8.89,
+        "v": 2314500
+      },
+      {
+        "d": "2026-09-25",
+        "o": 8.95,
+        "h": 9.2,
+        "l": 8.73,
+        "c": 9.11,
+        "v": 2915600
+      },
+      {
+        "d": "2026-09-28",
+        "o": 9.0,
+        "h": 9.34,
+        "l": 8.92,
+        "c": 9.13,
+        "v": 2943600
+      },
+      {
+        "d": "2026-09-29",
+        "o": 9.17,
+        "h": 9.43,
+        "l": 9.02,
+        "c": 9.26,
+        "v": 2936300
+      },
+      {
+        "d": "2026-09-30",
+        "o": 9.16,
+        "h": 9.35,
+        "l": 9.14,
+        "c": 9.2,
+        "v": 3417700
+      },
+      {
+        "d": "2026-10-01",
+        "o": 9.28,
+        "h": 9.51,
+        "l": 9.19,
+        "c": 9.34,
+        "v": 3855700
+      },
+      {
+        "d": "2026-10-02",
+        "o": 9.41,
+        "h": 9.45,
+        "l": 9.05,
+        "c": 9.36,
+        "v": 2646000
+      },
+      {
+        "d": "2026-10-05",
+        "o": 9.36,
+        "h": 10.07,
+        "l": 9.28,
+        "c": 10.07,
+        "v": 2939900
+      },
+      {
+        "d": "2026-10-06",
+        "o": 10.07,
+        "h": 10.19,
+        "l": 9.19,
+        "c": 9.27,
+        "v": 3946100
+      },
+      {
+        "d": "2026-10-07",
+        "o": 9.17,
+        "h": 9.31,
+        "l": 8.93,
+        "c": 8.96,
+        "v": 3426600
+      },
+      {
+        "d": "2026-10-08",
+        "o": 8.9,
+        "h": 8.95,
+        "l": 8.58,
+        "c": 8.64,
+        "v": 4125000
+      },
+      {
+        "d": "2026-10-09",
+        "o": 8.85,
+        "h": 9.27,
+        "l": 8.64,
+        "c": 9.13,
+        "v": 5034900
+      },
+      {
+        "d": "2026-10-12",
+        "o": 9.12,
+        "h": 9.25,
+        "l": 9.0,
+        "c": 9.24,
+        "v": 1514400
+      },
+      {
+        "d": "2026-10-13",
+        "o": 9.3,
+        "h": 9.9,
+        "l": 9.26,
+        "c": 9.6,
+        "v": 2905600
+      },
+      {
+        "d": "2026-10-14",
+        "o": 9.54,
+        "h": 9.63,
+        "l": 9.28,
+        "c": 9.36,
+        "v": 1821200
+      },
+      {
+        "d": "2026-10-15",
+        "o": 9.39,
+        "h": 9.7,
+        "l": 9.25,
+        "c": 9.66,
+        "v": 1658200
+      },
+      {
+        "d": "2026-10-16",
+        "o": 9.74,
+        "h": 9.94,
+        "l": 9.22,
+        "c": 9.37,
+        "v": 2359200
+      },
+      {
+        "d": "2026-10-19",
+        "o": 9.37,
+        "h": 9.5,
+        "l": 9.26,
+        "c": 9.45,
+        "v": 1501100
+      },
+      {
+        "d": "2026-10-20",
+        "o": 9.5,
+        "h": 9.85,
+        "l": 9.37,
+        "c": 9.78,
+        "v": 2784500
+      },
+      {
+        "d": "2026-10-21",
+        "o": 9.67,
+        "h": 10.29,
+        "l": 9.47,
+        "c": 10.18,
+        "v": 1717500
+      },
+      {
+        "d": "2026-10-22",
+        "o": 10.14,
+        "h": 10.31,
+        "l": 9.86,
+        "c": 10.09,
+        "v": 2365300
+      },
+      {
+        "d": "2026-10-23",
+        "o": 9.95,
+        "h": 10.37,
+        "l": 9.84,
+        "c": 10.33,
+        "v": 2058100
+      },
+      {
+        "d": "2026-10-26",
+        "o": 10.2,
+        "h": 10.62,
+        "l": 10.08,
+        "c": 10.61,
+        "v": 2347900
+      },
+      {
+        "d": "2026-10-27",
+        "o": 10.5,
+        "h": 10.98,
+        "l": 10.44,
+        "c": 10.95,
+        "v": 2416900
+      },
+      {
+        "d": "2026-10-28",
+        "o": 10.84,
+        "h": 11.73,
+        "l": 10.84,
+        "c": 11.48,
+        "v": 2370500
+      },
+      {
+        "d": "2026-10-29",
+        "o": 11.46,
+        "h": 11.57,
+        "l": 11.08,
+        "c": 11.2,
+        "v": 2749200
+      },
+      {
+        "d": "2026-10-30",
+        "o": 11.07,
+        "h": 11.19,
+        "l": 10.65,
+        "c": 11.02,
+        "v": 1946400
+      },
+      {
+        "d": "2026-11-02",
+        "o": 11.08,
+        "h": 11.09,
+        "l": 10.65,
+        "c": 10.71,
+        "v": 1952000
+      },
+      {
+        "d": "2026-11-03",
+        "o": 10.58,
+        "h": 11.02,
+        "l": 10.46,
+        "c": 10.87,
+        "v": 1869800
+      },
+      {
+        "d": "2026-11-04",
+        "o": 11.08,
+        "h": 11.27,
+        "l": 10.78,
+        "c": 11.09,
+        "v": 2424900
+      },
+      {
+        "d": "2026-11-05",
+        "o": 11.21,
+        "h": 12.25,
+        "l": 10.82,
+        "c": 12.18,
+        "v": 3731700
+      },
+      {
+        "d": "2026-11-06",
+        "o": 12.03,
+        "h": 12.61,
+        "l": 11.79,
+        "c": 12.05,
+        "v": 4871100
+      },
+      {
+        "d": "2026-11-09",
+        "o": 12.06,
+        "h": 12.6,
+        "l": 11.98,
+        "c": 12.22,
+        "v": 5842100
+      },
+      {
+        "d": "2026-11-10",
+        "o": 12.0,
+        "h": 12.27,
+        "l": 11.85,
+        "c": 12.12,
+        "v": 2879900
+      },
+      {
+        "d": "2026-11-11",
+        "o": 12.25,
+        "h": 12.38,
+        "l": 11.67,
+        "c": 11.73,
+        "v": 3155100
+      }
+    ],
+    "weekly_closes_26": [
+      5.24,
+      5.82,
+      5.37,
+      5.2,
+      5.54,
+      5.84,
+      6.97,
+      6.77,
+      6.93,
+      7.51,
+      8.1,
+      8.2,
+      8.0,
+      8.43,
+      8.35,
+      7.94,
+      7.55,
+      8.42,
+      9.11,
+      9.36,
+      9.13,
+      9.37,
+      10.33,
+      11.02,
+      12.05,
+      11.73
+    ]
+  },
+  "profile": {
+    "symbol": "CERT",
+    "shortName": "Certara, Inc.",
+    "sector": "Healthcare",
+    "industry": "Health Information Services",
+    "marketCap": 1789334144,
+    "trailingPE": null,
+    "forwardPE": 29.629442,
+    "priceToSalesTrailing12Months": 4.2026825,
+    "enterpriseToEbitda": 18.462,
+    "profitMargins": -0.15111,
+    "operatingMargins": 0.05751,
+    "grossMargins": 0.6243,
+    "revenueGrowth": 0.044,
+    "earningsGrowth": 2.852,
+    "returnOnEquity": -0.0208,
+    "debtToEquity": 30.8,
+    "freeCashflow": 66073000,
+    "totalCash": 216762000,
+    "totalDebt": 301193984,
+    "beta": 1.253,
+    "shortPercentOfFloat": 0.26209998,
+    "heldPercentInstitutions": 1.10227,
+    "recommendationMean": 2.38462,
+    "numberOfAnalystOpinions": 11,
+    "targetMeanPrice": 12.68182,
+    "fiftyTwoWeekHigh": 12.61,
+    "fiftyTwoWeekLow": 4.45,
+    "averageVolume": 2658581,
+    "preMarketPrice": 11.5735,
+    "regularMarketPrice": 11.73,
+    "regularMarketPreviousClose": 12.125,
+    "earnings_date": "2026-11-05"
+  },
+  "sec_fundamentals": {
+    "available": true,
+    "cik": 1827090,
+    "revenue_q": [
+      {
+        "end": "2024-06-30",
+        "val": 93313000,
+        "filed": "2025-08-06"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 94820000,
+        "filed": "2025-11-06"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 106004000,
+        "filed": "2026-05-11"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 92356000,
+        "filed": "2026-08-04"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 90887000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 106915000,
+        "filed": "2026-05-11"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 93271000,
+        "filed": "2026-08-04"
+      },
+      {
+        "end": "2026-09-30",
+        "val": 94901000,
+        "filed": "2026-11-05"
+      }
+    ],
+    "net_income_q": [
+      {
+        "end": "2024-06-30",
+        "val": -12574000,
+        "filed": "2025-08-06"
+      },
+      {
+        "end": "2024-09-30",
+        "val": -1371000,
+        "filed": "2025-11-06"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 4743000,
+        "filed": "2026-05-11"
+      },
+      {
+        "end": "2025-06-30",
+        "val": -1968000,
+        "filed": "2026-08-04"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 1525000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2026-03-31",
+        "val": -8763000,
+        "filed": "2026-05-11"
+      },
+      {
+        "end": "2026-06-30",
+        "val": -55270000,
+        "filed": "2026-08-04"
+      },
+      {
+        "end": "2026-09-30",
+        "val": 5592000,
+        "filed": "2026-11-05"
+      }
+    ],
+    "stale_warning": null,
+    "revenue_yoy": 0.0442,
+    "net_income_yoy": 2.6669
+  },
+  "sec_filings_10d": [
+    {
+      "form": "10-Q",
+      "filed": "2026-11-05",
+      "items": "",
+      "url": "https://www.sec.gov/Archives/edgar/data/1827090/000182709026000035/cert-20260930.htm"
+    },
+    {
+      "form": "8-K",
+      "filed": "2026-11-05",
+      "items": "2.02,9.01",
+      "url": "https://www.sec.gov/Archives/edgar/data/1827090/000182709026000034/certara-20261105.htm"
+    }
+  ],
+  "news_status": {
+    "status": "ok",
+    "source": "yahoo+google_rss",
+    "errors": []
+  },
+  "news_7d": [
+    {
+      "title": "Why Did Certara (CERT) Shares Climb After Its Latest Update?",
+      "publisher": "Simply Wall St.",
+      "published": "2026-11-06T09:19:37+00:00",
+      "summary": "How Certara’s Q3 earnings changed the conversation Certara (CERT) put fresh numbers on the table with its Q3 2026 report, giving investors new data on profitability, software momentum, and the trade off between quarterly strength and year to date losses. Sales for the quarter reached US$94.9 million compared with US$90.89 million a year earlier, while net income was US$5.59 million compared with U",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-certara-cert-shares-091937051.html"
+    },
+    {
+      "title": "Certara Inc (CERT) Q3 2026 Earnings Call Highlights: Software Growth Accelerates as Margins Expand",
+      "publisher": "GuruFocus.com",
+      "published": "2026-11-05T23:16:12+00:00",
+      "summary": "Certara Inc (CERT) posts 11% software revenue growth and a 31.8% adjusted EBITDA margin, even as services softness narrows full-year revenue guidance to 2%-3%.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/certara-inc-cert-q3-2026-231612419.html"
+    },
+    {
+      "title": "Certara, Inc. Q3 2026 Earnings Call Summary",
+      "publisher": "Moby",
+      "published": "2026-11-05T21:49:45+00:00",
+      "summary": "Moby summary of Certara, Inc.'s Q3 2026 earnings call",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-certara-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss"
+    },
+    {
+      "title": "Certara (CERT) Q3 2026 Earnings Call Transcript",
+      "publisher": "Motley Fool",
+      "published": "2026-11-05T19:49:22+00:00",
+      "summary": "Software momentum and cloud migration progress lifted margins despite a services slowdown.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/05/certara-cert-q3-2026-earnings-call-transcript/"
+    },
+    {
+      "title": "Certara Q3 Earnings Call Highlights",
+      "publisher": "MarketBeat",
+      "published": "2026-11-05T19:14:39+00:00",
+      "summary": "Certara (NASDAQ:CERT) reported 4% revenue growth in the third quarter of 2026 as double-digit software growth offset a decline in services, while cost reductions and a favorable sales mix helped lift profitability. Revenue from continuing operations rose to $94.9 million for the quarter ended Sept.",
+      "url": "https://www.marketbeat.com/instant-alerts/transcript-certara-q3-earnings-call-highlights-2026-11-05/?utm_source=yahoofinance&utm_medium=yahoofinance"
+    },
+    {
+      "title": "CERT Q3 2026 Earnings: EPS Edges Just Below Estimate as Shares Rise 3.07% - EPS Growth Rate - https://www.dars.gov.et/",
+      "publisher": "https://www.dars.gov.et/",
+      "published": "2026-11-05T18:47:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbnpTV3ctb0t5Qi15VVM0cVIxbUF6ZmFnX21icHJ2N01qYVNUc09BZGVPRnBtUWZnYnVZbTBBcmJsVjZsS0lxSlFuUFI3bU9vbXNGWGN4dDhPVkR5Yll3d2E4TkVCTnFPVGUta1QzSUpVbWpIRjlLd3pZZnExMDdDM3NSRGN0bjl1aGlTQ0hIU3VDVzdIRGg4cnJKYVcwc0hxVkpPaXRjUW5DbjZ4c2Y3ME00Q0lvdw?oc=5"
+    },
+    {
+      "title": "CERT Q3 2026 Earnings: EPS Edges Just Below Estimate as Shares Rise 3.07% - Revenue Guidance Range - www.siam.in",
+      "publisher": "www.siam.in",
+      "published": "2026-11-05T18:44:12+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa0VUem1LSFdHN0J3TjJsWVhIQlBfcDFHSm56MzVuZjJYVEUzS1VXYWw2aHp1dWRWUXRiWGFjZ0wxY3pQUjhDVzhJb3lGZjdTVkQtd0t3Rm9UbDRHNFhTT0Rqc2NZTE0zWWVNVnNQaTAtaF9KRHF4XzVwYkUxWGM1WkNjM1F0eUVWRVRhVzVwWHNFYUQzSER1V1AxOThWWTExaFE5SFN0V3hsSzNsVzJQc1o0am8?oc=5"
+    },
+    {
+      "title": "Certara Q3 2026 Earnings Call Transcript - Benzinga",
+      "publisher": "Benzinga",
+      "published": "2026-11-05T14:51:35+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWlpLV2tOdmhrNEM4U2xoSzRaN05sRm02SEZWdFQtZ0JSckR3ZWZzcGpCN0x2dzhoZnVrRVNObC1ZMkRxWFlyVjdqaTdMRmpxRVVqaWlvSVpiME4xUzQ0bnBUMVlIVlYwbUNqSXVUay02b1BXRHVycGZJWGczY1JVVVI5NDNBdjBwazRfUjdB?oc=5"
+    },
+    {
+      "title": "Earnings Flash (CERT) Certara Posts Q3 Revenue $94.9M, vs. FactSet Est of $92M - marketscreener.com",
+      "publisher": "marketscreener.com",
+      "published": "2026-11-05T14:48:14+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW90VGNUZVFZUi04NG9YTXYxRkpqak8xQmxHcWJrRnpTMlp5RmVaX3BNdmh5ZThMbWphRGZxV3BXWklyUE54V01Fd1Q3dDliMmt5bS0yWTJGWE9fTUJXSUxfR1EyY0xSV1I5S3BXMUJ1RFhCbWhXX2o4cF80cVlwaUVIRUdIODlqX3B4NGcxMmVoNmdOSGlvV0FMcVpZTmxRS1ByTjVSRk5NTGQxcGRaMFN2TEI1UjlCQmpreTdOOFdOSjg?oc=5"
+    },
+    {
+      "title": "Certara stock hits 52-week high at $12.0 despite annual decline - Investing.com",
+      "publisher": "Investing.com",
+      "published": "2026-11-05T14:42:02+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPckp6aFhTR1VDa1BRRVRSRm0tYjVpVF8yQm93aWJucElMQmVxZGtkLU0xbEdvaDNMbW5pOXFBd2JjZWFEOXZBZnBQRkY3bWNNMTJZcG1WNi04d0JOT2Vma2sxYTZtNmxVQ0cwUkxySGhlSjN2a1FQS2dXOTdJMXZfUWQyaXpPaFNIOFVvQXNrbmNtOEptdDRORDVaYUNnakQwcjdZTGhvV0pWME4wd2pzaGdvZVJzZUpQ?oc=5"
+    },
+    {
+      "title": "Certara, Inc. Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - marketscreener.com",
+      "publisher": "marketscreener.com",
+      "published": "2026-11-05T14:05:59+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQjhXVzd0aUZCZ0ZDRzhqY1ZrT0k5bi15SDJpdlZfaXcyelFvbmY3ZGNueHZaTFVDdDB5eGdHQWZVdkFVdWNCc3JEanV1RjZGT2tZdWZxNnVFck5QNkd6WnRuWG00WW52LWgtTTBCY0RjVW01N1RrUlpLM05UTzNCeldqMHcteldBQWFYNGZrMXRJblgzSUlfWDFTZUx5a3QzQlJMbkVYcmtVNTJYaG1HUmVyZnRWdHNUb2FOaUJBbDlRVkFCdXVQcnFXSlFuLW92R0hkbkNIT2xCa3ZONUlGck9CcXY?oc=5"
+    }
+  ]
+}

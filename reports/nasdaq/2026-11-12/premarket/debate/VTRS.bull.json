@@ -1,0 +1,16 @@
+{"ticker": "VTRS",
+ "thesis": "VTRS is in a clean uptrend after a Q3 adjusted EPS beat and raised guidance, in a regime that is rotating toward healthcare. Valuation is cheap and free cash flow is positive, so dilution risk is low. The stock is extended, so this is a pullback-entry long and not a chase. Entering in the retrace zone gives roughly 2:1 reward-to-risk with a defined stop. The setup is modest, not high conviction, because of debt, the Nashik hit and RSI near 75.",
+ "evidence": [
+  "technical: setup = pullback",
+  "technical: trend = up (close 21.06 > SMA20 19.04 > SMA50 17.96 > SMA200 16.02)",
+  "technical: entry_zone = [20.4, 20.85]; stop = 19.25; target = 23.5; reward_risk = 2.04",
+  "technical: notes = 4-day higher-high streak on post-earnings volume (vol ratio 1.4), no overhead resistance above the 52-week high",
+  "fundamentals: valuation = cheap (forward P/E 7.73, EV/EBITDA 8.16)",
+  "fundamentals: dilution_risk = low (free cash flow 3.16B positive)",
+  "fundamentals: notes = Q3 adjusted EPS $0.71 beat consensus and FY guidance was raised",
+  "news: catalysts[2026-11-05] = adj. EPS 11.3% above consensus, FY guidance midpoints raised, direction positive",
+  "news: binary_event = false; no S-3/424B5 offering filings in the 10-day filings",
+  "regime_view: leading_sectors = XLV, XLP, XLF (XLV ret_21 +11.37%)"
+ ],
+ "upside_case": {"target": 23.5, "probability": 0.35},
+ "rebuttal_to_bear": null}

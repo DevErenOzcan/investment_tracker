@@ -1,0 +1,18 @@
+{"ticker": "CDNA",
+ "thesis": "CDNA is extended after a roughly 71% 63-day run and a gap to the 52-week high, with growth decelerating both YoY and sequentially while valuation is rich (forward P/E about 52, P/S 8.6). Reward/risk is only about 1.3 into a 90.87 target, with a structural stop 14% below the close and ATR of 6.6%, so a normal swing can hit the stop. The regime is neutral with tech and growth under pressure from a 5.05% 10-year yield, and high-beta names tend to be sold first in that rotation. An officer Form 144 sale after the run, fading post-gap volume, and the Zacks #1 upgrade (a crowded, backward-looking signal) all argue for waiting for a pullback to the entry zone rather than buying now.",
+ "evidence": [
+  "technical card: reward_risk = 1.31",
+  "technical card: close 81.17 vs entry_zone [77.0, 80.5], stop 69.5, atr = 5.38 (6.6% of price)",
+  "technical card: volume ratio 0.89, last session 770k, fading since the 10/30 gap",
+  "fundamentals card: growth = decelerating (YoY about 52% to 39.3%, sequential 12% to about 6%)",
+  "fundamentals card: valuation = rich; forward P/E 51.89, P/S 8.57, EV/EBITDA 157.8",
+  "fundamentals card: quality = medium; operating margin 0.01574, so GAAP profit is not a clean run-rate",
+  "fundamentals card: beta 2.487, 126-day return +293.84%; short interest 13.9% of float",
+  "news card: Form 144 officer sale of 58,713 shares; stock fell from 85.9 to 76.3 on 11/5",
+  "news card: no scheduled catalyst in next 20 business days, so the earnings catalyst is already priced in",
+  "regime_view: neutral, QQQ ret_21 -7.15% vs -8% risk-off line; ^TNX 5.048 at percentile 0.894",
+  "regime_view: lagging sectors include XLK; leadership is XLV, XLP, XLF"
+ ],
+ "downside_case": {"level": 69.5, "probability": 0.3},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

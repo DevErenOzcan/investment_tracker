@@ -1,0 +1,8 @@
+{"ticker": "ASO", "rating": "Hold", "confidence": 0.42,
+ "entry": 67.7, "entry_zone": [66.8, 68.6], "stop": 61.3, "target": 74.5, "horizon_days": 10,
+ "expected_return": {"low": -0.0945, "high": 0.1004},
+ "sector": "Consumer Cyclical", "earnings_date": "2026-12-08",
+ "thesis": "ASO is in a strong uptrend (close 69.32 above SMA20 62.51, SMA50 55.04 and SMA200 52.95; 63-day return +42%) with undemanding multiples (forward P/E 9.79) and is outside the lagging tech sectors. But it is extended (10.9% above SMA20, RSI 71.8), trades above the mean analyst target 62.37 after a Loop Capital downgrade, and reward/risk from the entry mid 67.7 to stop 61.3 and target 74.5 is only about 1.06, below the 1.5 minimum. The bull concedes the setup is marginal, so the bear wins on risk/reward: wait for a deeper pullback or a volume breakout above 71.29 before re-rating.",
+ "invalidation": "A daily close below 60.74 (Nov 3 low), or back below the SMA20 (about 62.5) on rising volume, ends the uptrend thesis.",
+ "key_risks": ["Reward/risk about 1.06 at entry mid 67.7 with stop 61.3 and target 74.5", "Extended: 10.9% above SMA20, RSI 71.8, possible distribution after the 3.6M-share high day on 2026-11-09", "Earnings 2026-12-08 (binary event) if the hold runs long", "Short interest 19.92% of float adds two-way volatility", "Neutral regime with QQQ ret_21 -7.15% near the -8% risk-off line and ^TNX 5.048 near a 1-year high", "Decelerating revenue growth (2.97% YoY) and price above mean analyst target 62.37"],
+ "debate_winner": "bear"}

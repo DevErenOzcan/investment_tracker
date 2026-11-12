@@ -1,0 +1,8 @@
+{"ticker": "CERT", "rating": "Overweight", "confidence": 0.47,
+ "entry": 11.55, "entry_zone": [11.3, 11.75], "stop": 10.4, "target": 13.55, "horizon_days": 10,
+ "expected_return": {"low": -0.10, "high": 0.17},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "CERT is in a confirmed uptrend (close 11.73 above SMA20 10.86, SMA50 9.56 and SMA200 7.34) and is pulling back into the 11.30-11.75 zone after a Q3 beat with accelerating software revenue, positive quarterly net income and solid free cash flow, with no binary event or offering risk before the next earnings in about Feb 2027. Reward/risk from the 11.55 midpoint to the card's 13.55 measured-move target and 10.40 stop is 1.74, which clears the bar but is thin, and the bearish reversal (12.25 open, 11.73 close, pre-market 11.57) argues for a patient fill inside the zone rather than chasing. Both sides put the outcome near a coin flip, so this is a small Overweight and not a Buy.",
+ "invalidation": "A daily close below 10.46 (10-day swing low near the post-earnings gap base) invalidates the setup, and the 10.40 stop is hard.",
+ "key_risks": ["Post-earnings momentum fade: bearish reversal on 1.5x volume and weaker pre-market at 11.57", "First resistance at the 12.61 52-week high gives only about 0.9 reward/risk before the 13.55 target", "Short interest of 26.2% of float means violent reversals in both directions", "Services softness and full-year growth guidance narrowed to 2%-3%", "Neutral regime with rising 10-year yield (5.048) pressuring growth names; QQQ ret_21 -7.15% near the -8% risk-off trigger"],
+ "debate_winner": "draw"}
