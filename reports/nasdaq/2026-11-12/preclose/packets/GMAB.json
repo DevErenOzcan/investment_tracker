@@ -1,0 +1,647 @@
+{
+  "ticker": "GMAB",
+  "exchange": "NASDAQ",
+  "as_of": "2026-11-12T19:53:36.949673+00:00",
+  "data_note": "In the pre-market session the last price is the previous close; in the pre-close session it is ~15 min delayed.",
+  "technical": {
+    "indicators": {
+      "symbol": "GMAB",
+      "date": "2026-11-12",
+      "close": 51.93,
+      "ret_5": -0.0154,
+      "ret_21": 0.4077,
+      "ret_63": 0.6259,
+      "ret_126": 0.9305,
+      "rs_63": 0.6833,
+      "sma20": 49.2863,
+      "sma50": 40.8179,
+      "sma200": 31.4509,
+      "trend": 4,
+      "atr": 2.4146,
+      "atr_pct": 0.0465,
+      "rsi14": 60.7562,
+      "dist_high": -0.1341,
+      "vol_ratio": 1.0502,
+      "ext_20": 0.0536,
+      "vol_20": 1.1122,
+      "dollar_volume_20": 328102582.7999,
+      "low_20": 36.74,
+      "high_20": 59.97
+    },
+    "levels": {
+      "swing_low_10": 51.2239990234375,
+      "swing_low_20": 36.7400016784668,
+      "swing_high_20": 59.970001220703125,
+      "high_52w": 59.970001220703125,
+      "low_52w": 23.6200008392334
+    },
+    "last_60_days": [
+      {
+        "d": "2026-08-20",
+        "o": 33.6,
+        "h": 33.77,
+        "l": 33.2,
+        "c": 33.41,
+        "v": 6348500
+      },
+      {
+        "d": "2026-08-21",
+        "o": 33.36,
+        "h": 33.98,
+        "l": 33.28,
+        "c": 33.45,
+        "v": 2535300
+      },
+      {
+        "d": "2026-08-24",
+        "o": 32.82,
+        "h": 33.32,
+        "l": 32.74,
+        "c": 33.02,
+        "v": 3246500
+      },
+      {
+        "d": "2026-08-25",
+        "o": 33.81,
+        "h": 34.47,
+        "l": 33.72,
+        "c": 34.36,
+        "v": 2026300
+      },
+      {
+        "d": "2026-08-26",
+        "o": 33.78,
+        "h": 33.9,
+        "l": 33.36,
+        "c": 33.75,
+        "v": 3086700
+      },
+      {
+        "d": "2026-08-27",
+        "o": 33.91,
+        "h": 34.17,
+        "l": 33.67,
+        "c": 34.1,
+        "v": 1866300
+      },
+      {
+        "d": "2026-08-28",
+        "o": 33.78,
+        "h": 33.93,
+        "l": 33.12,
+        "c": 33.23,
+        "v": 1514300
+      },
+      {
+        "d": "2026-08-31",
+        "o": 32.76,
+        "h": 33.26,
+        "l": 32.54,
+        "c": 33.16,
+        "v": 1733000
+      },
+      {
+        "d": "2026-09-01",
+        "o": 33.33,
+        "h": 33.67,
+        "l": 33.15,
+        "c": 33.29,
+        "v": 1563200
+      },
+      {
+        "d": "2026-09-02",
+        "o": 34.04,
+        "h": 34.5,
+        "l": 33.74,
+        "c": 34.22,
+        "v": 2079400
+      },
+      {
+        "d": "2026-09-03",
+        "o": 34.63,
+        "h": 34.66,
+        "l": 34.08,
+        "c": 34.41,
+        "v": 890900
+      },
+      {
+        "d": "2026-09-04",
+        "o": 33.96,
+        "h": 34.19,
+        "l": 33.54,
+        "c": 33.6,
+        "v": 1002600
+      },
+      {
+        "d": "2026-09-08",
+        "o": 33.71,
+        "h": 33.84,
+        "l": 33.36,
+        "c": 33.53,
+        "v": 1550700
+      },
+      {
+        "d": "2026-09-09",
+        "o": 33.47,
+        "h": 33.75,
+        "l": 32.98,
+        "c": 33.04,
+        "v": 2125100
+      },
+      {
+        "d": "2026-09-10",
+        "o": 32.46,
+        "h": 32.68,
+        "l": 32.21,
+        "c": 32.23,
+        "v": 1015800
+      },
+      {
+        "d": "2026-09-11",
+        "o": 32.45,
+        "h": 32.7,
+        "l": 32.27,
+        "c": 32.47,
+        "v": 1393800
+      },
+      {
+        "d": "2026-09-14",
+        "o": 32.79,
+        "h": 32.96,
+        "l": 32.52,
+        "c": 32.65,
+        "v": 1411700
+      },
+      {
+        "d": "2026-09-15",
+        "o": 32.34,
+        "h": 34.19,
+        "l": 32.34,
+        "c": 34.15,
+        "v": 3085300
+      },
+      {
+        "d": "2026-09-16",
+        "o": 34.36,
+        "h": 34.63,
+        "l": 34.05,
+        "c": 34.4,
+        "v": 2885800
+      },
+      {
+        "d": "2026-09-17",
+        "o": 34.28,
+        "h": 34.77,
+        "l": 34.22,
+        "c": 34.53,
+        "v": 2703000
+      },
+      {
+        "d": "2026-09-18",
+        "o": 34.92,
+        "h": 35.15,
+        "l": 34.72,
+        "c": 34.74,
+        "v": 2711600
+      },
+      {
+        "d": "2026-09-21",
+        "o": 34.7,
+        "h": 34.87,
+        "l": 34.36,
+        "c": 34.69,
+        "v": 1577500
+      },
+      {
+        "d": "2026-09-22",
+        "o": 34.46,
+        "h": 35.29,
+        "l": 34.37,
+        "c": 35.22,
+        "v": 2297600
+      },
+      {
+        "d": "2026-09-23",
+        "o": 35.39,
+        "h": 35.66,
+        "l": 34.6,
+        "c": 34.75,
+        "v": 2509700
+      },
+      {
+        "d": "2026-09-24",
+        "o": 34.69,
+        "h": 35.03,
+        "l": 34.36,
+        "c": 34.83,
+        "v": 2514900
+      },
+      {
+        "d": "2026-09-25",
+        "o": 34.95,
+        "h": 35.47,
+        "l": 34.7,
+        "c": 35.32,
+        "v": 3583100
+      },
+      {
+        "d": "2026-09-28",
+        "o": 34.76,
+        "h": 35.7,
+        "l": 34.63,
+        "c": 35.36,
+        "v": 2794600
+      },
+      {
+        "d": "2026-09-29",
+        "o": 34.94,
+        "h": 35.64,
+        "l": 34.89,
+        "c": 35.57,
+        "v": 3827500
+      },
+      {
+        "d": "2026-09-30",
+        "o": 35.72,
+        "h": 35.9,
+        "l": 35.37,
+        "c": 35.67,
+        "v": 5154400
+      },
+      {
+        "d": "2026-10-01",
+        "o": 35.25,
+        "h": 35.8,
+        "l": 34.51,
+        "c": 34.55,
+        "v": 6377000
+      },
+      {
+        "d": "2026-10-02",
+        "o": 34.39,
+        "h": 35.02,
+        "l": 33.72,
+        "c": 34.75,
+        "v": 5436400
+      },
+      {
+        "d": "2026-10-05",
+        "o": 35.09,
+        "h": 40.17,
+        "l": 35.02,
+        "c": 38.48,
+        "v": 12401300
+      },
+      {
+        "d": "2026-10-06",
+        "o": 39.11,
+        "h": 39.15,
+        "l": 37.07,
+        "c": 37.8,
+        "v": 6595900
+      },
+      {
+        "d": "2026-10-07",
+        "o": 37.28,
+        "h": 37.87,
+        "l": 36.27,
+        "c": 36.65,
+        "v": 4253700
+      },
+      {
+        "d": "2026-10-08",
+        "o": 36.17,
+        "h": 36.28,
+        "l": 35.09,
+        "c": 36.05,
+        "v": 4299800
+      },
+      {
+        "d": "2026-10-09",
+        "o": 36.55,
+        "h": 37.15,
+        "l": 36.33,
+        "c": 37.07,
+        "v": 2333400
+      },
+      {
+        "d": "2026-10-12",
+        "o": 37.18,
+        "h": 37.71,
+        "l": 36.94,
+        "c": 37.37,
+        "v": 3126400
+      },
+      {
+        "d": "2026-10-13",
+        "o": 37.23,
+        "h": 37.35,
+        "l": 36.34,
+        "c": 36.57,
+        "v": 3736900
+      },
+      {
+        "d": "2026-10-14",
+        "o": 36.38,
+        "h": 37.24,
+        "l": 36.12,
+        "c": 36.89,
+        "v": 2687500
+      },
+      {
+        "d": "2026-10-15",
+        "o": 37.2,
+        "h": 38.33,
+        "l": 37.04,
+        "c": 37.82,
+        "v": 4083500
+      },
+      {
+        "d": "2026-10-16",
+        "o": 38.15,
+        "h": 38.2,
+        "l": 36.74,
+        "c": 37.0,
+        "v": 2684700
+      },
+      {
+        "d": "2026-10-19",
+        "o": 37.89,
+        "h": 39.0,
+        "l": 37.76,
+        "c": 38.5,
+        "v": 4775900
+      },
+      {
+        "d": "2026-10-20",
+        "o": 38.6,
+        "h": 39.4,
+        "l": 38.42,
+        "c": 39.07,
+        "v": 3779200
+      },
+      {
+        "d": "2026-10-21",
+        "o": 39.08,
+        "h": 39.66,
+        "l": 39.05,
+        "c": 39.57,
+        "v": 2972900
+      },
+      {
+        "d": "2026-10-22",
+        "o": 39.67,
+        "h": 40.17,
+        "l": 39.5,
+        "c": 40.0,
+        "v": 4685500
+      },
+      {
+        "d": "2026-10-23",
+        "o": 39.84,
+        "h": 44.34,
+        "l": 39.63,
+        "c": 43.79,
+        "v": 12999000
+      },
+      {
+        "d": "2026-10-26",
+        "o": 44.79,
+        "h": 45.44,
+        "l": 44.08,
+        "c": 44.69,
+        "v": 7473300
+      },
+      {
+        "d": "2026-10-27",
+        "o": 44.41,
+        "h": 44.99,
+        "l": 43.98,
+        "c": 44.67,
+        "v": 4929000
+      },
+      {
+        "d": "2026-10-28",
+        "o": 44.63,
+        "h": 59.97,
+        "l": 44.35,
+        "c": 57.29,
+        "v": 29281100
+      },
+      {
+        "d": "2026-10-29",
+        "o": 56.56,
+        "h": 58.19,
+        "l": 55.68,
+        "c": 56.49,
+        "v": 6252400
+      },
+      {
+        "d": "2026-10-30",
+        "o": 57.4,
+        "h": 59.02,
+        "l": 56.53,
+        "c": 57.06,
+        "v": 8648200
+      },
+      {
+        "d": "2026-11-02",
+        "o": 56.21,
+        "h": 56.84,
+        "l": 54.65,
+        "c": 54.92,
+        "v": 4424100
+      },
+      {
+        "d": "2026-11-03",
+        "o": 55.46,
+        "h": 56.5,
+        "l": 55.1,
+        "c": 55.52,
+        "v": 3060800
+      },
+      {
+        "d": "2026-11-04",
+        "o": 56.01,
+        "h": 56.2,
+        "l": 53.76,
+        "c": 55.12,
+        "v": 4298800
+      },
+      {
+        "d": "2026-11-05",
+        "o": 55.07,
+        "h": 55.27,
+        "l": 52.62,
+        "c": 52.74,
+        "v": 4398900
+      },
+      {
+        "d": "2026-11-06",
+        "o": 52.36,
+        "h": 54.15,
+        "l": 51.22,
+        "c": 53.63,
+        "v": 7827800
+      },
+      {
+        "d": "2026-11-09",
+        "o": 54.36,
+        "h": 55.91,
+        "l": 53.31,
+        "c": 55.8,
+        "v": 5136900
+      },
+      {
+        "d": "2026-11-10",
+        "o": 54.87,
+        "h": 55.23,
+        "l": 53.15,
+        "c": 54.07,
+        "v": 3093300
+      },
+      {
+        "d": "2026-11-11",
+        "o": 52.89,
+        "h": 54.09,
+        "l": 52.32,
+        "c": 53.87,
+        "v": 3917300
+      },
+      {
+        "d": "2026-11-12",
+        "o": 52.22,
+        "h": 53.03,
+        "l": 51.53,
+        "c": 51.93,
+        "v": 4082963
+      }
+    ],
+    "weekly_closes_26": [
+      26.87,
+      26.33,
+      25.15,
+      25.08,
+      25.27,
+      26.12,
+      28.51,
+      29.0,
+      28.72,
+      28.87,
+      28.87,
+      31.25,
+      31.94,
+      33.45,
+      33.23,
+      33.6,
+      32.47,
+      34.74,
+      35.32,
+      34.75,
+      37.07,
+      37.0,
+      43.79,
+      57.06,
+      53.63,
+      51.93
+    ]
+  },
+  "profile": {
+    "symbol": "GMAB",
+    "shortName": "Genmab A/S",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "marketCap": 32013541376,
+    "trailingPE": 44.37607,
+    "forwardPE": 32.860756,
+    "priceToSalesTrailing12Months": 7.4519415,
+    "enterpriseToEbitda": 27.599,
+    "profitMargins": 0.16969,
+    "operatingMargins": 0.30633,
+    "grossMargins": 0.92667997,
+    "revenueGrowth": 0.161,
+    "earningsGrowth": -0.147,
+    "returnOnEquity": 0.12066,
+    "debtToEquity": 82.078,
+    "freeCashflow": 854875008,
+    "totalCash": 1871000064,
+    "totalDebt": 5198000128,
+    "beta": 0.518,
+    "shortPercentOfFloat": 0.0159,
+    "heldPercentInstitutions": 0.20565,
+    "recommendationMean": 1.41667,
+    "numberOfAnalystOpinions": 10,
+    "targetMeanPrice": 65.11,
+    "fiftyTwoWeekHigh": 59.97,
+    "fiftyTwoWeekLow": 23.62,
+    "averageVolume": 4185875,
+    "preMarketPrice": null,
+    "regularMarketPrice": 51.92,
+    "regularMarketPreviousClose": 53.87,
+    "earnings_date": "2026-11-05"
+  },
+  "sec_fundamentals": {
+    "available": true,
+    "cik": 1434265,
+    "revenue_q": [],
+    "net_income_q": [],
+    "stale_warning": null,
+    "revenue_yoy": null,
+    "net_income_yoy": null
+  },
+  "sec_filings_10d": [],
+  "news_status": {
+    "status": "ok",
+    "source": "yahoo",
+    "errors": []
+  },
+  "news_7d": [
+    {
+      "title": "Is Genmab (CPSE:GMAB) Fully Priced After Holding 2026 Guidance Steady?",
+      "publisher": "Simply Wall St.",
+      "published": "2026-11-08T13:13:52+00:00",
+      "summary": "Genmab (CPSE:GMAB) kept its 2026 earnings guidance intact after third quarter results, still projecting US$4.325b to US$4.525b in revenue and indicating performance is tracking toward the upper end of that range. Recent price action has been volatile, with the share price falling 2.97% on the day and 9.84% over the past week, while posting a 30 day share price return of 44.25% and a 1 year total s",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/genmab-cpse-gmab-fully-priced-131352220.html"
+    },
+    {
+      "title": "What Is Genmab (CPSE:GMAB) Signaling With New Cancer Trial Data?",
+      "publisher": "Simply Wall St.",
+      "published": "2026-11-08T12:13:11+00:00",
+      "summary": "Genmab (CPSE:GMAB) reported positive Phase 3 results for petosemtamab in head and neck squamous cell carcinoma and metastatic colorectal cancer. Updated Phase 2 data for petosemtamab in difficult to treat solid tumors were recently presented to clinicians and researchers. Genmab plans to showcase extensive new clinical and real world data for epcoritamab at an upcoming leading hematology conferenc",
+      "url": "https://finance.yahoo.com/healthcare/articles/genmab-cpse-gmab-signaling-cancer-121311617.html"
+    },
+    {
+      "title": "Genmab (GMAB) Q3 2026 Earnings Call Transcript",
+      "publisher": "Motley Fool",
+      "published": "2026-11-06T16:16:23+00:00",
+      "summary": "Strong royalties and pipeline progress, but litigation risks remain in focus.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/genmab-gmab-q3-2026-earnings-call-transcript/"
+    },
+    {
+      "title": "Moody’s lifts Genmab outlook to positive on pipeline progress, debt reduction",
+      "publisher": "Investing.com",
+      "published": "2026-11-06T16:02:17+00:00",
+      "summary": "Investing.com -- Moody’s Ratings affirmed Genmab AS (NASDAQ:GMAB) corporate family rating at Ba2 on Friday while revising its outlook to positive from stable, signaling potential upward momentum as the Danish biotechnology company prepares for a crucial pipeline transition. The action reflects expectations that accelerating double-digit revenue expansion and steady balance sheet repair will streng",
+      "url": "https://finance.yahoo.com/healthcare/articles/moody-lifts-genmab-outlook-positive-160217292.html"
+    },
+    {
+      "title": "Genmab AS (GMAB) (Q3 2026) Earnings Call Highlights: Revenue Jumps 22% as Epkinly and Pipeline ...",
+      "publisher": "GuruFocus.com",
+      "published": "2026-11-06T07:15:48+00:00",
+      "summary": "Genmab AS (GMAB) posts broad-based 22% revenue growth, maintains full-year guidance toward the upper end, and touts three positive Phase 3 readouts with multibillion-dollar peak sales potential.",
+      "url": "https://finance.yahoo.com/healthcare/articles/genmab-gmab-q3-2026-earnings-071548251.html"
+    },
+    {
+      "title": "What Genmab A/S (GMAB) Said on Its Q3 Earnings Call",
+      "publisher": "MarketBeat",
+      "published": "2026-11-05T20:14:39+00:00",
+      "summary": "Genmab A/S (NASDAQ:GMAB) reported 22% revenue growth for the first nine months of 2026 and said it expects full-year revenue to land in the upper part of its existing guidance range, as sales of EPKINLY and royalty income supported growth. The biotechnology company also highlighted positive Phase I",
+      "url": "https://www.marketbeat.com/instant-alerts/transcript-what-genmab-as-gmab-said-on-its-q3-earnings-call-2026-11-05/?utm_source=yahoofinance&utm_medium=yahoofinance"
+    }
+  ],
+  "intraday": {
+    "last": 51.93000030517578,
+    "prev_close_in_history": 51.93000030517578,
+    "note": "about 15 min delayed"
+  }
+}

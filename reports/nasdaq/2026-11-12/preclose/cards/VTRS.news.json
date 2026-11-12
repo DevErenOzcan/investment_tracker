@@ -1,0 +1,15 @@
+{"ticker": "VTRS", "catalysts": [
+{"what": "Q3 2026 adj. EPS $0.71, 11.3% above consensus; revenue $3.75B flat y/y and slightly light; FY guidance midpoints raised (revenue about $14.8B); dividend confirmed", "date": "2026-11-05", "direction": "positive", "source": "https://finance.yahoo.com/healthcare/articles/vtrs-q3-2026-deep-dive-084536703.html"},
+{"what": "Call flagged about $100M Q4 supply hit tied to the Nashik facility", "date": "2026-11-05", "direction": "negative", "source": "https://finance.yahoo.com/markets/stocks/articles/viatris-inc-vtrs-q3-2026-231551866.html"},
+{"what": "Pending Pacira acquisition (about $1.65B deal) plus new product launches shape outlook", "date": "2026-11-08", "direction": "mixed", "source": "https://finance.yahoo.com/markets/stocks/articles/viatris-vtrs-stock-may-below-011550367.html"},
+{"what": "Stock at 52-week high after post-earnings run; consensus target about equal to price", "date": "2026-11-10", "direction": "mixed", "source": "https://finance.yahoo.com/markets/stocks/articles/viatris-inc-vtrs-hit-52-131502734.html"},
+{"what": "NEW since morning (inference, not VTRS news): S&P says Pacira (PCRX) will be replaced in the S&P SmallCap 600 before the open on 2026-11-17, which usually signals the Pacira deal is closing around then", "date": "2026-11-11", "direction": "mixed", "source": "https://finance.yahoo.com/markets/stocks/articles/ingram-micro-jumps-securing-spot-231424658.html"}
+],
+"event_risks": [
+"Pacira acquisition likely closing on or near 2026-11-17 (inferred from the S&P index swap); closing, financing and integration risk, possible debt or equity issuance; no S-3/424B5 in the 10-day filings",
+"Nashik facility supply disruption (about $100M Q4 hit) could cause guidance or execution misses",
+"Technically extended (RSI about 73, about 9% above SMA20) with mean target about 21.0 at price (20.915), so limited analyst upside",
+"8-K filed 2026-11-05 items 2.02/8.01/9.01 (earnings plus other events); no 5.02 or 1.01 seen"
+],
+"binary_event": false, "news_available": true, "score": 1,
+"notes": "No new VTRS-specific news or SEC filings since the morning card; the latest VTRS items are Nov 10 Zacks pieces and the filings are still the Nov 5 10-Q and 8-K. The one new item is the S&P SmallCap 600 notice (Nov 11, after hours) that replaces Pacira on Nov 17, which suggests the Pacira closing is near. This is inference only, and the packet does not confirm a closing date. Price is 20.915, about 0.7% below the prior close of 21.06 after touching a 52-week high of 21.20 intraday, so this looks like mild consolidation with no news driver. The earnings beat and raised guidance keep the effect moderately persistent, and the score stays at +1 because of extension, the target sitting at price, and the Pacira and Nashik overhangs. No offering, litigation or takeover-pinning risk appears in the packet."}

@@ -1,0 +1,8 @@
+{"ticker": "CERT", "rating": "Overweight", "confidence": 0.47,
+ "entry": 11.55, "entry_zone": [11.3, 11.8], "stop": 10.4, "target": 13.55, "horizon_days": 10,
+ "expected_return": {"low": -0.10, "high": 0.17},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "The morning pullback thesis is intact: CERT remains in an uptrend (last 11.855 above SMA20 10.96, SMA50 9.63 and SMA200 7.35), and today it tested the bottom of the entry zone at an 11.29 low and bounced, holding well above the 10.46 swing low with no new news or filings since the Q3 beat. Reward/risk from the 11.55 zone midpoint to the 13.55 measured-move target and 10.40 stop is still 1.74. At the current 11.855 it falls to about 1.17, so this stays a small, patient Overweight that should fill inside the zone, not a chase and not a Buy.",
+ "invalidation": "A daily close below 10.46 (10-day swing low near the post-earnings gap base) invalidates the setup, and the 10.40 stop is hard.",
+ "key_risks": ["Last 11.855 is above the 11.80 top of the entry zone; buying here cuts reward/risk to about 1.17", "Today's rebound came on light volume (1.4M partial day vs a 2.66M average) after the 11/11 bearish reversal, so the post-earnings fade is not yet resolved", "First resistance at the 12.61 52-week high gives only about 0.9 reward/risk before the 13.55 target", "Short interest of 26.2% of float means violent reversals in both directions", "Services softness and full-year growth guidance narrowed to 2%-3%", "Neutral regime with 10-year yield at 5.048 and QQQ ret_21 -7.15% near the -8% risk-off trigger"],
+ "debate_winner": "draw"}

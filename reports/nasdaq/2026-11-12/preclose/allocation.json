@@ -1,0 +1,53 @@
+{
+  "as_of": "2026-11-12",
+  "session": "preclose",
+  "exchange": "NASDAQ",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "regime": "neutral",
+  "positions": [
+    {
+      "ticker": "VTRS",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 20.915,
+      "weight": 0.0172,
+      "engine_weight": 0.0172,
+      "amount_units": 17.2,
+      "entry_zone": [20.4, 20.8],
+      "stop": 19.2,
+      "target": 23.4,
+      "rating": "Overweight",
+      "confidence": 0.47,
+      "action": "buy-confirm",
+      "rationale": "Post-earnings uptrend intact after a light-volume dip from the 21.20 high, but price 20.915 is above the 20.40-20.80 zone (R/R about 1.45 here vs 2.0 at mid), so this remains a pullback-only limit entry; engine weight kept unchanged after the risk-officer x0.8 cut for Pacira closing/financing risk."
+    },
+    {
+      "ticker": "CERT",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 11.855,
+      "weight": 0.013,
+      "engine_weight": 0.013,
+      "amount_units": 13.0,
+      "entry_zone": [11.3, 11.8],
+      "stop": 10.4,
+      "target": 13.55,
+      "rating": "Overweight",
+      "confidence": 0.47,
+      "action": "buy-confirm",
+      "rationale": "Uptrend intact after testing the zone bottom (11.29 low) and bouncing, but price 11.855 is above the 11.30-11.80 zone (R/R about 1.17 here vs 1.74 at mid), so this remains a pullback-only limit entry; engine weight kept unchanged after the risk-officer x0.75 cut for 26.2% short interest and the unresolved 11/11 reversal."
+    }
+  ],
+  "cash_weight": 0.9698,
+  "vetoed": [
+    {
+      "ticker": "GMAB",
+      "reason": "Cancelled: downgraded from Overweight to Hold (confidence 0.28) after failing to hold the 52.0-53.4 entry zone (fourth straight lower close at 51.93); engine rejected it as Hold, no new buy. Re-assess only on a daily reclaim above 53.03."
+    },
+    {
+      "ticker": "APPN",
+      "reason": "Cancelled: risk-officer veto; the technical card's zone gives R/R 1.35 (below the 1.5 minimum), the narrowed 52.28-52.7 zone sits well under the 54.93 last price, and 0.42 confidence in a lagging-tech, high-volatility name does not support even a minimal position."
+    }
+  ]
+}

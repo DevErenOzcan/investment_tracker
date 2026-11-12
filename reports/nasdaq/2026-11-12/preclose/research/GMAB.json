@@ -1,0 +1,8 @@
+{"ticker": "GMAB", "rating": "Hold", "confidence": 0.28,
+ "entry": 51.93, "entry_zone": [51.5, 52.6], "stop": 50.7, "target": 59.97, "horizon_days": 10,
+ "expected_return": {"low": -0.024, "high": 0.155},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "The morning Overweight required price to recover into 52.0-53.4. It did not hold there: GMAB opened at 52.22 and reached 53.03, but faded to 51.93 near the day's low of 51.53, a fourth straight lower close (55.80, 54.07, 53.87, 51.93). The structural thesis is not broken, because the low stayed above the 51.22 swing low and the uptrend holds (51.93 > SMA20 49.29 > SMA50 40.82 > SMA200 31.45) with no negative news. Still, the entry condition failed and the technical score fell from +1 to 0, so this is downgraded to Hold. Re-assess only after a daily reclaim above 53.03 (today's high), which would re-enter the morning zone. Stop 50.7, entry_zone 51.5-52.6 and target 59.97 come from the pre-close technical card; the stop is 0.2 lower than the morning's 50.9.",
+ "invalidation": "Daily close below 51.22 (Nov 6 swing low) or an intraday break under 50.7.",
+ "key_risks": ["Entry condition failed: price faded from 53.03 to 51.93, below the 52.0-53.4 zone, closing near the 51.53 low", "Stop risk of 1.23 is only about 0.5 ATR (2.41), inside normal daily noise, so a whipsaw stop-out is likely", "Unexplained decline: no news item or SEC filing in the packet is dated after 2026-11-08", "Mean reversion after a +41% 21-day run and the one-day spike to 59.97 on 2026-10-28", "Litigation risk flagged on the Q3 call, details not in packet; debt 5198000128 vs cash 1871000064"],
+ "debate_winner": "bear"}

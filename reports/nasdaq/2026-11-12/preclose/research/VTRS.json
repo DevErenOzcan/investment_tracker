@@ -1,0 +1,8 @@
+{"ticker": "VTRS", "rating": "Overweight", "confidence": 0.47,
+ "entry": 20.6, "entry_zone": [20.4, 20.8], "stop": 19.2, "target": 23.4, "horizon_days": 15,
+ "expected_return": {"low": -0.068, "high": 0.136},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "The morning thesis is intact: the post-earnings uptrend holds (last 20.915 > SMA20 19.18 > SMA50 18.04 > SMA200 16.06) after the Q3 adj. EPS beat and raised guidance, with XLV still leading in a neutral regime. Today's dip from the 21.20 52-week high to 20.915 on light volume (4.2M) is mild consolidation with no news driver, the start of the retrace the bear's overbought point called for, not a breakdown. Entry stays pullback-only in 20.40-20.80 (mid 20.60), with R/R 2.0 to the 23.4 measured-move target. At the current 20.915 the R/R is only about 1.45, so do not enter above the zone.",
+ "invalidation": "Daily close below 19.20 or back under SMA20 (~19.18); no entry if price never retraces into 20.40-20.80, and do not chase above 21.20.",
+ "key_risks": ["Still overbought (RSI14 72.9, price 9.1% above SMA20, about 3 ATR), so the pullback could run through the zone toward the stop", "Price is at the 21.0 mean analyst target, which limits re-rating support", "Pacira acquisition likely closes on or near 2026-11-17 (inferred from the S&P SmallCap 600 swap), bringing financing or issuance risk with 13.58B debt vs 2.01B cash", "About $100M Q4 Nashik supply hit could weigh on execution", "Rising 10-year yield (5.048) and QQQ ret_21 -7.15% near the -8% risk-off line"],
+ "debate_winner": "bull"}
