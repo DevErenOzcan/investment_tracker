@@ -1,0 +1,8 @@
+{"ticker": "NVDA", "rating": "Hold", "confidence": 0.2,
+ "entry": 172.0, "entry_zone": [170.0, 174.0], "stop": 163.4, "target": 194.9, "horizon_days": 10,
+ "expected_return": {"low": -0.066, "high": 0.133},
+ "sector": "Technology", "earnings_date": "2026-11-17",
+ "thesis": "Fundamentals are high quality and cheap: revenue YoY +105.85%, operating margin 65.2%, forward P/E 10.91. RSI14 28.7 on 2.6x volume suggests the stock is oversold. But the technical card declares no setup in a confirmed downtrend below SMA20, SMA50 and SMA200. The pre-market quote of 160.70 is already below the 163.4 stop and the 165.89 swing low. The cause of the 24% 21-day selloff is unknown because the news feed failed, and earnings on 2026-11-17 fall inside the holding window. The bull concedes there is no entry before a reclaim and the print, so this is a watchlist name, not a new position.",
+ "invalidation": "The Hold-not-Buy view is void only if price reclaims and closes above 165.89 and the 2026-11-17 earnings print removes the binary event; in that case re-anchor levels to the new tape instead of reusing these.",
+ "key_risks": ["Pre-market 160.70 is about 7.5% below the 173.73 close and already below the 163.4 stop, so the card's long levels are stale", "Binary earnings gap on 2026-11-17 with beta 2.25 and ATR 5.0%", "Selloff driver is unknown (news feed unavailable, proxy 403)", "Semiconductor regime headwind: SMH below 50- and 200-day, ret_21 -13.8%, XLK lagging, 10-year yield 4.998 at the 0.879 percentile", "Upside path: an oversold bounce or strong print could gap price toward 194.90 without a confirmed entry"],
+ "debate_winner": "bear"}

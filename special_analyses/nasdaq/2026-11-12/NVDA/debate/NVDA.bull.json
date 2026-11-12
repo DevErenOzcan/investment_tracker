@@ -1,0 +1,22 @@
+{"ticker": "NVDA",
+ "thesis": "The bull case is a valuation and oversold-bounce argument, not a trend argument, and the setup is weak. Fundamentals are high quality and accelerating (revenue YoY +105.85%, operating margin 65.2%, forward P/E 10.91) while the price has fallen about 24% in 21 days to an RSI of 28.7 on capitulation-style volume, with sell-side consensus still strongly bullish. A reclaim of 165.89 followed by a gap-fill toward 194.90 would give R/R of about 2.7. However, the technical card declares no setup, the pre-market quote of 160.70 is below the stop, the cause of the selloff is unknown (news feed failed), and earnings on 2026-11-17 is a binary event. This is at best a watchlist candidate that needs a confirmed reclaim, not an entry before the print.",
+ "evidence": [
+  "fundamentals: quality = high",
+  "fundamentals: growth = accelerating",
+  "fundamentals: valuation = cheap (trailing P/E 21.96, forward P/E 10.91 in notes)",
+  "fundamentals: notes = revenue 96.221B, YoY +105.85%; operating margin 65.2%; FCF 41.81B; cash 62.47B vs debt 38.86B",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: red_flags = SEC series has gaps (quarters ending Jan 2025 and Jan 2026 absent), so the 8-quarter trend is only partly reliable",
+  "technical: notes = RSI14 28.7 oversold, volume ratio 2.6x on capitulation-style selloff hints at possible bounce",
+  "technical: entry_zone = [170.0, 174.0], stop = 163.4, target = 194.9, reward_risk = 2.66",
+  "technical: setup = none (no confirmed base; thesis depends on reclaim of 165.89)",
+  "technical: invalidation = void below 165.89 and 163.4; pre-market 160.70 is already below both",
+  "sentiment: notes = recommendationMean 1.39 across 56 opinions; short interest 1.21% of float",
+  "sentiment: crowded = false; contrarian_risk = medium",
+  "news: binary_event = true (earnings 2026-11-17); direction of catalyst = mixed",
+  "news: news_available = false, so the selloff cause is unknown (access gap, not evidence of no events)",
+  "regime_view: SMH ret_21 -13.8% and XLK lagging; regime neutral, so tech longs need a stronger setup than usual"
+ ],
+ "upside_case": {"target": 194.9, "probability": 0.2},
+ "rebuttal_to_bear": "Conceded: the trend is down with setup = none, the long levels in the technical card are stale because pre-market 160.70 is below the 163.4 stop and the 165.89 swing low, the selloff driver is unknown, and the regime is a headwind. I do not argue for an entry before the print, and I have lowered my upside probability from 0.25 to 0.20 because the gap has made the original path harder. Where I disagree: (1) The bear's downside_case of 160.7 at probability 0.5 is the current pre-market quote, not a forecast, so it does not measure risk from here. (2) Trend and SMA evidence is backward-looking, and the technical card itself notes RSI14 28.7 and 2.6x volume on a capitulation-style selloff that hints at a bounce, so a confirmed reclaim of 165.89 is a valid trigger rather than a falling-knife entry. (3) The flat sequential net income point (58.321B to 59.688B) is weak: the fundamentals card marks the SEC series as having gaps and partly reliable, while net income YoY is +125.9% and operating margin is 65.2%, so quality is not in question. (4) Consensus is not a floor, as the bear says, but the fundamentals card shows low dilution risk, cash 62.47B vs debt 38.86B and FCF 41.81B, which limits balance-sheet-driven downside. (5) Earnings is two-sided: the news card lists direction as mixed, and a clean print could be the catalyst for the gap-fill, though that is a reason to watch, not to pre-position. Net: I agree with the bear on action (no entry now, wait for reclaim and the print) but not that the dealbreaker is permanent; it is a timing block, not a thesis break."
+}

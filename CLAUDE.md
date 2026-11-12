@@ -19,7 +19,7 @@ the repo, reports or messages.
   research-manager → sizing → risk-officer → sizing → portfolio-manager → validate → commit.
 - `/review-preclose` (14:52 ET): holdings and the morning's recommendations re-assessed with intraday prices.
 - `/weekly-review` (Saturday): decisions scored against QQQ, `state/lessons.md` updated.
-- `/deep-dive <TICKER>`: single-stock analysis (manual).
+- `/deep-dive <TICKER>`: single-stock analysis (manual), written to `special_analyses/`.
 
 ## Layout
 - `config/` — exchange, risk and portfolio settings. **Agents must not edit `config/risk.yaml`.**
@@ -28,6 +28,7 @@ the repo, reports or messages.
 - `state/portfolio.json` — notional holdings in units; **only the owner edits it.**
 - `state/decisions.jsonl`, `state/scorecard.csv`, `state/lessons.md` — decision log and lessons.
 - `reports/<exchange>/<date>/<session>/` — output of each run; the file to read is `report.md`.
+- `special_analyses/<exchange>/<date>/<TICKER>/` — on-demand single-stock analyses (`/deep-dive`).
 
 ## Safety
 - The system **never places orders**; a PreToolUse hook blocks broker/order-like commands.

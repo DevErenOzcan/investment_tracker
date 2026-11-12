@@ -1,0 +1,19 @@
+{"regime": "neutral",
+ "confidence": 0.65,
+ "leading_sectors": ["XLV", "XLP", "XLY", "XLF"],
+ "lagging_sectors": ["XLK", "XLE"],
+ "evidence": [
+  "QQQ is above its 200-day but below its 50-day (ret_21 -7.15%, ret_63 -5.6%), close to but not past the -8% risk-off line",
+  "SMH (semiconductors) is below both its 50- and 200-day (ret_21 -13.8%, ret_63 -13.95%), a direct headwind for NVDA",
+  "XLK is below its 50-day (ret_21 -11.17%) while XLV (ret_21 +11.37%), XLP (+8.62%), XLY (+7.68%) and XLF (+6.95%) are leading",
+  "Breadth is decent but defensive: 8 of 11 sector ETFs are above their 50-day, yet SPY is below its 50-day (ret_21 -2.34%)",
+  "VIX is 18.33 with a 1-year percentile of 0.61, just above the 0.6 risk-on bar and well below the 0.85 risk-off bar; its ret_5 is -34.95% after a ret_63 of +20.67%",
+  "^TNX is 4.998 with a 1-year percentile of 0.879 (ret_63 +7.69%), a rate headwind for growth stocks"
+ ],
+ "watch": [
+  "Whether QQQ (690.38) reclaims its 50-day or breaks below its 200-day, which would move the regime to risk-off",
+  "Whether SMH stabilises: it is below both averages and weighs on NASDAQ leadership",
+  "^TNX near 5% (percentile 0.879)"
+ ],
+ "summary": "Mixed signals, so neutral. QQQ holds its 200-day but sits below its 50-day after a -7.15% 21-day drop led by semiconductors (SMH -13.8%) and XLK (-11.17%), while VIX has eased to 18.33 (percentile 0.61). Leadership has rotated to defensives and cyclicals (XLV, XLP, XLY, XLF), so long entries in tech and semis need a stronger setup than usual."
+}
