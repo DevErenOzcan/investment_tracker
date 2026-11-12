@@ -152,22 +152,47 @@ def news_with_status(symbol: str, suffix: str = "", max_items: int = 12, days: i
     same as "no news".
     """
     errors: list[str] = []
+    yahoo: list[dict] = []
     try:
-        items = _yahoo_news(symbol, suffix, max_items, days)
-        if items:
-            return {"status": "ok", "source": "yahoo", "errors": errors, "items": items}
+        yahoo = _yahoo_news(symbol, suffix, max_items, days)
     except Exception as e:  # noqa: BLE001
         log.warning("news %s (yahoo): %s", symbol, e)
         errors.append(f"yahoo: {e}"[:200])
+    rss: list[dict] = []
     try:
-        items = _google_rss_news(symbol, max_items, days)
-        if items:
-            return {"status": "ok", "source": "google_rss", "errors": errors, "items": items}
+        rss = _google_rss_news(symbol, 100, days)
     except Exception as e:  # noqa: BLE001
         log.warning("news %s (google rss): %s", symbol, e)
         errors.append(f"google_rss: {e}"[:200])
+    # Yahoo returns only the latest ~10 stories (often a single day); RSS items older than
+    # Yahoo's oldest fill in the rest of the window.
+    oldest = min((x["published"] for x in yahoo if x.get("published")), default=None)
+    seen = {(x.get("title") or "").lower() for x in yahoo}
+    extra = [x for x in rss if (x.get("title") or "").lower() not in seen
+             and (oldest is None or (x.get("published") or "") < oldest)]
+    items = yahoo + _spread_by_day(extra, max(max_items, 2 * max_items - len(yahoo)))
+    if items:
+        source = "+".join(n for n, part in (("yahoo", yahoo), ("google_rss", extra)) if part)
+        return {"status": "ok", "source": source, "errors": errors, "items": items}
     status = "unavailable" if len(errors) == 2 else "empty"
     return {"status": status, "source": None, "errors": errors, "items": []}
+
+
+def _spread_by_day(items: list[dict], budget: int) -> list[dict]:
+    """Take items round-robin across publication days (newest day first) so a news-heavy
+    day does not crowd out the earlier days of the window."""
+    by_day: dict[str, list[dict]] = {}
+    for x in items:
+        by_day.setdefault((x.get("published") or "")[:10], []).append(x)
+    days_sorted = sorted(by_day, reverse=True)
+    out: list[dict] = []
+    i = 0
+    while len(out) < budget and any(i < len(by_day[d]) for d in days_sorted):
+        for d in days_sorted:
+            if i < len(by_day[d]) and len(out) < budget:
+                out.append(by_day[d][i])
+        i += 1
+    return sorted(out, key=lambda x: x.get("published") or "", reverse=True)
 
 
 def _google_rss_news(symbol: str, max_items: int = 12, days: int = 7) -> list[dict]:

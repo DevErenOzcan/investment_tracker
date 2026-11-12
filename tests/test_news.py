@@ -38,3 +38,21 @@ def test_news_unavailable_when_every_source_fails(monkeypatch):
     monkeypatch.setattr(data, "_google_rss_news", boom)
     r = data.news_with_status("NVDA")
     assert r["status"] == "unavailable" and r["items"] == []
+
+
+def test_rss_fills_days_older_than_yahoo(monkeypatch):
+    y = [{"title": "Today", "published": "2026-11-12T10:00:00+00:00"}]
+    r_ = [{"title": "today", "published": "2026-11-12T09:00:00+00:00"},
+          {"title": "Earlier", "published": "2026-11-09T09:00:00+00:00"}]
+    monkeypatch.setattr(data, "_yahoo_news", lambda *a, **k: y)
+    monkeypatch.setattr(data, "_google_rss_news", lambda *a, **k: r_)
+    r = data.news_with_status("NVDA")
+    assert [x["title"] for x in r["items"]] == ["Today", "Earlier"]
+    assert r["source"] == "yahoo+google_rss"
+
+
+def test_spread_by_day_keeps_earlier_days():
+    items = [{"title": f"t{i}", "published": "2026-11-12T10:00:00"} for i in range(10)]
+    items += [{"title": "old", "published": "2026-11-06T10:00:00"}]
+    out = data._spread_by_day(items, 3)
+    assert "old" in [x["title"] for x in out] and len(out) == 3

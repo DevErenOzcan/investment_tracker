@@ -17,7 +17,7 @@ in `<run-dir>/packets/<TICKER>.json`.
   litigation, regulatory probes, a takeover bid (price gets pinned, bad for a swing trade).
 - Known events in the next 20 business days.
 Read `news_status` first: `status` is "ok", "empty" (sources answered, nothing found) or
-"unavailable" (every source failed); `source` is "yahoo" or "google_rss" (RSS items carry titles
+"unavailable" (every source failed); `source` is "yahoo", "google_rss" or "yahoo+google_rss" (RSS items carry titles
 only, no summary). If the status is "unavailable" or `news_7d` is empty, say "news unavailable"
 explicitly; it does not mean "no events".
 
