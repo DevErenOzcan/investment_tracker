@@ -1,7 +1,7 @@
 {
   "ticker": "NVDA",
   "exchange": "NASDAQ",
-  "as_of": "2026-11-12T12:20:29.904658+00:00",
+  "as_of": "2026-11-12T13:06:04.801337+00:00",
   "data_note": "In the pre-market session the last price is the previous close; in the pre-close session it is ~15 min delayed.",
   "technical": {
     "indicators": {
@@ -575,7 +575,7 @@
     "fiftyTwoWeekHigh": 243.37,
     "fiftyTwoWeekLow": 164.27,
     "averageVolume": 131091271,
-    "preMarketPrice": 160.6999,
+    "preMarketPrice": 160.3846,
     "regularMarketPrice": 173.73,
     "regularMarketPreviousClose": 168.796,
     "earnings_date": "2026-11-17"
@@ -672,5 +672,179 @@
     "net_income_yoy": 1.259
   },
   "sec_filings_10d": [],
-  "news_7d": []
+  "news_status": {
+    "status": "ok",
+    "source": "yahoo+google_rss",
+    "errors": []
+  },
+  "news_7d": [
+    {
+      "title": "3 challenges for Nvidia if Jensen Huang is removed as CEO",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-12T12:58:54+00:00",
+      "summary": "The challenges for Nvidia don't stop with Jensen leaving.",
+      "url": "https://finance.yahoo.com/markets/article/3-challenges-for-nvidia-if-jensen-huang-is-removed-as-ceo-125854580.html"
+    },
+    {
+      "title": "Stock market today: S&P 500, Nasdaq futures sink as Nvidia CEO turmoil jolts confidence",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-12T11:00:27+00:00",
+      "summary": "Stocks wobbled as tech investors assessed the fallout from reports of Nvidia CEO Jensen Huang's second affair and the potential for his ouster.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
+    },
+    {
+      "title": "Wall Street backs away from Nvidia as Jensen Huang uncertainty unfolds: What analysts are saying",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-12T12:26:00+00:00",
+      "summary": "Nvidia is in one of its toughest fights in some time.",
+      "url": "https://finance.yahoo.com/markets/article/wall-street-backs-away-from-nvidia-as-jensen-huang-uncertainty-unfolds-what-analysts-are-saying-122600606.html"
+    },
+    {
+      "title": "Nvidia may oust Jensen Huang. The AI economy isn't ready",
+      "publisher": "Yahoo Finance Video",
+      "published": "2026-11-12T12:00:00+00:00",
+      "summary": "Nvidia's board is reportedly preparing to oust Jensen Huang after a second reported affair, on top of his alleged ties to a suspected Chinese spy. Host Ejaaz Ahamadeen walks through the evidence, who could replace him and why the whole AI economy runs on Jensen, plus Anthropic's IPO roadshow and CoreWeave's earnings.",
+      "url": "https://finance.yahoo.com/video/nvidia-may-oust-jensen-huang-120000795.html"
+    },
+    {
+      "title": "How Jensen Huang's position on China has shifted over the years",
+      "publisher": "Yahoo Finance Video",
+      "published": "2026-11-12T11:00:00+00:00",
+      "summary": "Semafor tech reporter and newsroom AI lead J.D. Capelouto joins Deirdre Bosa to take a closer look at where Nvidia (NVDA) CEO Jensen Huang has historically stood on China.",
+      "url": "https://finance.yahoo.com/video/jensen-huangs-position-china-shifted-110000969.html"
+    },
+    {
+      "title": "Nvidia's boardroom bombshell hits a fragile chip rally: Chart of the Day",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-12T11:00:00+00:00",
+      "summary": "The S&P 500 has recovered most of its slide, while tech still has old floors overhead.",
+      "url": "https://finance.yahoo.com/markets/article/nvidias-boardroom-bombshell-hits-a-fragile-chip-rally-chart-of-the-day-110000355.html"
+    },
+    {
+      "title": "Nvidia's future, AI's road forward, and an inflation-battered economy: Welcome to Yahoo Finance Invest 2026!",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-12T11:00:00+00:00",
+      "summary": "Some of the biggest questions facing investors will be answered by a full day of newsmakers at Yahoo Finance's annual Invest event!",
+      "url": "https://finance.yahoo.com/markets/article/nvidias-future-ais-road-forward-and-an-inflation-battered-economy-welcome-to-yahoo-finance-invest-2026-110000138.html"
+    },
+    {
+      "title": "Musk Says it Would be an 'Honor' to Hire Jensen Huang as Nvidia's Board Reportedly Gears up to Remove Him",
+      "publisher": "International Business Times",
+      "published": "2026-11-12T13:02:35+00:00",
+      "summary": "Musk made the remark when replying to a social media post asking him to \"hire Jensen.\"",
+      "url": "https://www.ibtimes.com/elon-musk-hire-nvidia-ceo-jensen-huang-3809671"
+    },
+    {
+      "title": "Wall Street set to dip as Nvidia storm continues, Treasury yields bob at 5%",
+      "publisher": "Reuters",
+      "published": "2026-11-12T12:57:53+00:00",
+      "summary": "By Marc Jones LONDON, Nov 12 (Reuters) - Fresh turbulence hit global stocks on Thursday as a spy scandal threatened to oust chip giant Nvidia’s CEO, while US Treasury yields touched 5% again and the",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-fragile-nvidia-plummets-015524144.html"
+    },
+    {
+      "title": "Dow Jones Futures: Techs Fall As Nvidia Board Mulls Ousting CEO Jensen Huang; CoreWeave Rival Nebius Dives On Results",
+      "publisher": "Investor's Business Daily",
+      "published": "2026-11-12T12:54:44+00:00",
+      "summary": "Techs fell as Nvidia dived on news that it may oust CEO Jensen Huang. AMD extended gains. Will the Nvidia woes sink the new market rally?",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "‘A dark day for Nvidia’: Here’s what analysts are saying as markets brace for news on Huang's fate - CNBC",
+      "publisher": "CNBC",
+      "published": "2026-11-12T10:13:26+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxLU9jb01xdkc4UWhvS1hJMzlxRllmeGt2NkxxTG5jb2NQUHltZFpqVEdPOFZEYXpRSll2YXlXUFVKc1U1WHUzWGkydzBPZC1uT3d5QVZydGhrdGRGcFN3WFVDeUJOZWxKckU1SXNRRFhMMXA5RkE?oc=5"
+    },
+    {
+      "title": "Nvidia Stock Is Tumbling. What Happens Next If Huang Gets Ousted. - Barron's",
+      "publisher": "Barron's",
+      "published": "2026-11-12T10:11:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTmY5c05oNmptS3d1Z1B6aUtOaEkwMGxxbjBkendjRzNqU2lrclhPNlkxWEdlU2c5NnhUVVQ4a09vSVFOX3ZhNnNpUy1VeHo3aFlHdlAzZVdSLXQyWml3VE0xMnNNUnU5T2NCM2pHNjE2end6NjlRNVBYbkxKOGZOSTR3MU1aYk9IaWtMLQ?oc=5"
+    },
+    {
+      "title": "NVDA Stock Rout: Another Analyst Slashes Rating, Beijing Warns US Against Tech Curbs - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-12T09:16:25+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNVc4amE3bzV1cWF4SGlwOVd4UnNZVTZ6c09GZE42VDZiMGRkTXhiMDN6MS1lYzlfRzVHWlF2eVA4R0VlVlBBakREZ3hzSy1PVjBXWFdhSzEzbkVqdUtOc2tMUUN1eXJLNmhlNnJhSWE1Yk9PS2FhemlWalE2clE4aHB4T1NGcEJyeFVKNUdSbUY0UmMtMTh6aEIyR18?oc=5"
+    },
+    {
+      "title": "Nvidia's stock dives as board weighs move to oust Jensen Huang - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-11T23:42:15+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM3V6b0VlNWlnYlE5aTlJNUVKeU9WUXQyVFBxUGIwYldCd3EzczdrbFdXazVxUi1KblpZM1NTaFlmM29WWl9yV0ZSaWdGcHlVWGdyMmlnVVR4WEZVQ2pKRldibDlrTWhWVGZwbEppeEJfbmNxOENGOU00dXJVQU1xSFdGMlp2V21LYXJEZzhPRG5JeF9lZjVkbkxWMG1wQQ?oc=5"
+    },
+    {
+      "title": "Nvidia’s Board Is Reportedly Preparing to Oust Jensen Huang. When Intel and McDonald’s Pushed Out CEOs Over Workplace Relationships, Shareholders Got Opposite Results - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-11T23:34:19+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM2w3ckhfTVpKeVQxOFQ3bzh3TmZ1WUtacUpya2EwVzMtc19JLVAzRnNkS0NYVmtOak9EdzVva3d2QjVCWWd5Q0NnNWpSUzNtbFNUNzFYZTR6aDdRdkJxODd2TERReGFKX08zY2xuZHpqY0xQMWcxTFNLSFVkU2VyaW11WXZZZk8xZlZGVU54emJid3pUYUlFSWlTcFNJUHVuVW9BRE1B?oc=5"
+    },
+    {
+      "title": "Nvidia Stock Just Lost 10% in 1 Day. Should You Buy It Before It Reports Earnings on Nov. 17? - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-10T22:28:02+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLUVvTFBYdncwRE5SVUxHSmtBdkMySDRMQ1M0NUUwRnBQcURnQ2xsZ3Y0TU1wMTVKRElJSWJvMHBoNGUxSFdOSi1QY3hhQ3QtWXJkRENRWUMzNVpxMkJPQ1VGUWNxWFRneTI4TmxZSzdtUlpnenpkTWt3S2hIZ2dwWW9ySTZxRmVRck1neUFkWEtPc1NZ?oc=5"
+    },
+    {
+      "title": "Why Nvidia Stock Just Fell Again - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-10T21:55:02+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmtybzdycmQ0VmZnWUU4OXBtbUs3ZUNsM1BzZG9FNi1Temw4enFfN09LQXhHS3VvSF9oSkNkLWZwaWxDeHRnU0lQTVNPbWJUSGtYTmlqaHBlVUN2bW9zTzl5VWVfNUd0Z3AxQ1pIbGxtRHJ5M2h4MFk0WldqbXVvM2dWQ2NaYVNiRFJQb0Njd2RpZ2RlLWc?oc=5"
+    },
+    {
+      "title": "Why Nvidia Stock Was Down Today - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-09T23:30:02+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVEpYdmpLay1McEtHNGlrWWFMWVVnN29oaFhoWDczcGJ6R0lGcnNyUGVVV3h1YkhqVThCOG5KWWo3cDZlcWcwY0Uzem1NUlVPdmRid2d1Wi1wMWo2T3dCTU41RW1RRDBic19Ud2N2bjJrVHl4bjhIT2V5dXEtS1BNNlFNZGVUOWJBcXpNSE80c19mTnA4cVVN?oc=5"
+    },
+    {
+      "title": "Nvidia Stock: Our Take on Whether to Buy, Sell, or Hold After the Jensen Huang Affair - Barron's",
+      "publisher": "Barron's",
+      "published": "2026-11-09T21:26:36+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6TE5LVmNYWkM2QTV2RWJXOHgxdUtkTHhhUHdjZTJ3dFBLdUhpcXFiWFYyMFNJMFVYZkIybmpJQUpQOU82SmdsWFZFQTBHYXFJMXBVanVfbHh4QzdDek5pRm9zbDg5bmVvVTNrWlc0WUM0VU93SXM4?oc=5"
+    },
+    {
+      "title": "Nvidia Stock Faces New Pressure as Board Investigates Huang’s Links to Alleged Spy - Barron's",
+      "publisher": "Barron's",
+      "published": "2026-11-08T23:30:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMEREMjktUzJTVXRKWjNfaHNNUXJGOXd1SXo3R19qMm90NkNoSkI2UHU5X2hmZ3ZXUFJWSk5GOWxQaFBRdi11OXRZVHRpbGZjLTFWLXoteGJ1NmxxdVM4MWw0cF9CdExMWDF5Y0FDcnIxR0FuQzRjd2hjYzJZcVF4eUk0ZzMydzRVbW9UNl9pdmlmTTZ2RnpWemZn?oc=5"
+    },
+    {
+      "title": "Jim Cramer sends a strong signal to Nvidia stock investors - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-07T17:17:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUU5amxLMHVfMmZTYkttNmpPMWtLaGdJX3pldTVQU3ZWX1JzUVJsOVZScTNrS0dJMThJcWkyeHNveFBXOEIzNFJLcUlHSi1QTFpNdGo4UEJEckRxTnYzdGhaQ01UUGVPbV91MTFkMG5hZHkxSGhQcGR0dEV6LURUVUNYYUlBTGtiZVVKX0VrSzI2SVFLR1NuV0lDSQ?oc=5"
+    },
+    {
+      "title": "Nvidia Stock Rises on Dip-Buying: 3 Reasons to Be Optimistic - Barron's",
+      "publisher": "Barron's",
+      "published": "2026-11-06T15:12:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpbHc0aG5OM2dVRUpBUEFXeVRDZnB3WWpwemtTYU44MGx0MHNRUkRlUFgzUFZyaV9UTFZWSG1GekFBSktPLTl3ZzFSeEVaYnpEUUpWMkxmN3lyanNXTVhYbDNDVU1kOEh5RVdaemdOekM0Z3NMZGVZ?oc=5"
+    },
+    {
+      "title": "Nvidia stock oversold setup: Key levels after a 9% drop - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-06T15:09:36+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjhTc0JFcEFDRDdXX3N3VDROUHZWS25HV0loYWVGV2tYaC05U3Vvc3hxdW91UERlREdKQVIxS2Y0c1M1UmE5LXUtdU9WT0pqVFJBRWZzRU0zS1hPWTByX2QtRUp3SFN2dGRyekZPSV9VdVY2NHBkSEJjdnc4T2JaRU9RdVhiaDdRY1VUR2NYWUI5cnVVMHJVaE1faGE?oc=5"
+    },
+    {
+      "title": "What Is Going On With Nvidia Stock on Thursday? - Benzinga",
+      "publisher": "Benzinga",
+      "published": "2026-11-05T13:07:06+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeWQzWjJ3QVVxa3M5eGtQemMyZm51aFZ4bXVmZGhiOXlfN0VtR2tWSmhsd0lsUjRjdW9lTW9vczQzd3ZSNFFqTHBwMjlSUnJGOGxUcElGRW1xbzFNRDZxNk1kcURqMUJBVkpqZ2xUSUEwSC1adVZDaFkzclB5RzJXczN5OGZJQ0paM3FzTEMtM2thcVl1c3ZRNzRXRFM3Tm5hYlBPOUF2eHNibVE?oc=5"
+    }
+  ]
 }

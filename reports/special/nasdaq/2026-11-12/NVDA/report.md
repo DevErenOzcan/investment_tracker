@@ -1,63 +1,87 @@
-# NVDA special analysis — 2026-11-12 (pre-market)
+# NVDA special analysis — 2026-11-12 (pre-market, v2 with news)
 
 > Analysis only, not a portfolio decision and not investment advice. No `allocation.json` written;
 > `state/portfolio.json` untouched. Sizing base: notional 1,000 units.
+>
+> **v2** replaces the morning version, which ran without news (feed blocked). News access was
+> enabled and the news, sentiment, debate and research steps were re-run.
 
 ## Verdict
-**Rating: Hold (watchlist) · confidence 0.20 · debate winner: bear · engine-proposed weight: 0%**
+**Rating: Hold (watchlist) · confidence 0.30 · debate winner: bear (dealbreaker) · engine-proposed weight: 0%**
 (`scanner.sizing`: 0 positions, cash weight 1.0 — Hold ratings do not open positions.)
 
-NVIDIA's fundamentals are strong and cheap on the packet's ratios, but there is no technical setup,
-the reference long levels are already broken in the pre-market, the selloff's cause is unknown, and
-earnings land inside the holding window. Wait.
+The selloff is governance-driven, not fundamental. Reports (unconfirmed by the company) say NVIDIA's
+board is weighing removing CEO Jensen Huang over alleged ties to a suspected Chinese spy and a second
+reported affair. That is a binary event, and earnings on 2026-11-17 land in the same window. The
+bear's dealbreaker caps the rating at Hold. Fundamentals remain strong.
 
-## Data used / not available
+## What drove the selloff (news card, score -2, binary_event = true)
+| Date | Event | Status |
+|---|---|---|
+| Nov 5 | -9.3% on 306M shares (vs ~131M avg) | **Trigger not identified** in the packet (title-only items) |
+| Nov 8 | Board investigating Huang's links to an alleged spy (Barron's) | Reported |
+| Nov 9-10 | Gap down (open 173.07 vs 186.64), "the Jensen Huang affair"; low 165.89 on 429M shares | Reported |
+| Nov 11 (late) | Board reportedly preparing to oust Huang; second reported affair | Reported, unconfirmed |
+| Nov 12 | Futures fall; analysts cut ratings / "back away"; Beijing warns US on tech curbs; 10-year yield touches 5% | Headlines |
+
+No company statement and no 8-K (Item 5.02) in the SEC filings for the last 10 days. Most items are
+headline-only (Google News RSS), so analyst names and new targets are not available. The profile's
+consensus (mean 1.39, target 309.72) is probably stale.
+
+## Data used
 | Source | Status |
 |---|---|
-| Prices, indicators (yfinance, close 2026-11-11) | OK |
-| Profile / valuation (yfinance) | OK — pre-market quote 160.70 |
-| SEC EDGAR quarterly revenue / net income | OK, but series has gaps (Jan-2025, Jan-2026 quarters missing) |
-| SEC filings, last 10 days | none in packet (coverage not independently confirmed) |
-| **News, last 7 days** | **UNAVAILABLE — fetch failed (proxy 403).** The cause of the selloff could not be identified. |
+| Prices, indicators (yfinance, close 2026-11-11) | OK — pre-market quote ~160.4 |
+| Profile / valuation (yfinance) | OK |
+| SEC EDGAR quarterly revenue / net income | OK, series has gaps (Jan-2025, Jan-2026 quarters missing) |
+| SEC filings, last 10 days | none |
+| News, last 7 days | **OK** — Yahoo Finance (Nov 12) + Google News RSS (Nov 5-12, titles only) |
 | Social sentiment | not collected |
 
 ## Market regime — neutral (0.65)
-QQQ below its 50-day but above its 200-day; 21-day return -7.15% (just short of the -8% risk-off line).
-VIX 18.33 (1y percentile 0.61). **Semis are the weak spot:** SMH below 50- and 200-day, 21-day -13.8%;
-XLK 21-day -11.2%. 10-year yield 4.998 (0.879 percentile). Leaders: XLV, XLP, XLY, XLF.
+QQQ below its 50-day, above its 200-day; 21-day -7.15%. VIX 18.33 (0.61 percentile).
+Semis weak: SMH below 50- and 200-day, 21-day -13.8%; XLK 21-day -11.2%. 10-year yield 4.998.
 
 ## Analyst cards
 | Card | Score | Summary |
 |---|---|---|
-| Technical | -1 | Downtrend, setup **none**. Close 173.73 < SMA20 203.80 / SMA50 217.10 / SMA200 204.19. 21-day -24.0%, RSI14 28.7 (oversold), volume 2.6x average (463M and 429M shares on Nov 9-10). |
-| Fundamentals | +1 | High quality, accelerating: last-quarter revenue YoY +105.9%, net income YoY +125.9%, operating margin 65.2%, FCF 41.8B vs cash 62.5B / debt 38.9B. Trailing P/E 21.96, forward P/E 10.91. Short interest 1.2%. |
-| News | 0 | News unavailable. Only known catalyst: **earnings 2026-11-17** (3 business days) — binary event. |
-| Sentiment | -1 | Price-driven bearish tape; analyst consensus still very bullish (mean 1.39, 56 analysts), so no analyst capitulation. |
+| Technical | -1 | Downtrend, setup none. Close 173.73 < SMA20/50/200. 21-day -24%, RSI14 28.7, volume 2.6x. |
+| Fundamentals | +1 | Revenue YoY +105.9%, net income YoY +125.9%, operating margin 65.2%, forward P/E 10.91, cash > debt. |
+| News | **-2** | CEO-ouster reports (unconfirmed) + earnings 2026-11-17 = binary event. |
+| Sentiment | -1 | Bearish, not crowded (short interest 1.2%); medium contrarian risk — sharp rebound possible if the CEO question resolves. |
 
-## Reference levels (from the technical card — stale at today's open)
-| | Level |
-|---|---|
-| Entry zone | 170.0 – 174.0 (ref. 172.0) |
-| Stop | 163.4 (below 165.89 swing low; 52-week low ~163.90) |
-| Target | 194.9 (Nov 6 high / gap fill) |
-| Reward/risk | ~2.66 |
-| Pre-market quote | **160.70 — about 7.5% below the close and already below the stop** |
+## Conditional levels (only if price reclaims 165.89)
+The technical card's original levels (entry 170-174, stop 163.4) are void: the pre-market quote is
+below the stop, the 165.89 swing low and the 52-week low (~163.9). The research manager reset them:
+
+| | Level | Derivation |
+|---|---|---|
+| Entry zone | 165.89 – 170.0 (ref. 167.95) | reclaim of the swing low |
+| Stop | 156.03 | pre-market 160.38 − 0.5 × ATR (8.70) |
+| Target | 194.9 | Nov 6 high / gap fill |
+| Reward/risk | ~2.3 | expected return -7.1% / +16.0% |
 
 ## Debate
 **Strongest bull points**
-1. Quality at a low multiple: revenue +105.9% YoY, 65% operating margin, forward P/E 10.91, low dilution risk.
-2. Capitulation-style volume with RSI 28.7: a reclaim of 165.89 would be a valid bounce trigger toward 194.9.
+1. The business is not the problem: +106% revenue growth, 65% operating margin, forward P/E 10.9, low dilution risk.
+2. The trigger is reported, not confirmed (no 8-K, no company statement); a denial or quick resolution could reverse a headline-driven, oversold move (RSI 28.7, 2.6x volume).
 
-**Strongest bear points**
-1. No setup, confirmed downtrend, and the pre-market quote has already broken the stop and swing low — the long levels are void at the open.
-2. Earnings on 2026-11-17 (beta 2.25, ATR 5.0%) plus an unexplained ~24% drawdown in a weak semis tape: any entry now is a gap bet with missing information.
+**Strongest bear points (won)**
+1. A pending, binary governance outcome (ouster or not) plus earnings in the same window — with beta 2.25 any entry is a gap bet.
+2. The chart is broken: price below all averages and below the swing low, 52-week low and stop; semis and tech lag; analysts are cutting.
 
-The bull conceded the timing (upside probability cut to 0.20); the bear dropped its dealbreaker and argued on timing only.
+The bull conceded there is no entry today; its case needs a reclaim of 165.89 **and** a confirmed resolution of the CEO question.
 
 ## What would change the call
-A close back above **165.89** after the **2026-11-17** earnings print. At that point the levels should
-be rebuilt from new prices (`/deep-dive NVDA` again) rather than reusing these. A successful news pull
-explaining the selloff would also be needed.
+1. A company statement / 8-K resolving Huang's status (either way removes the binary risk).
+2. The 2026-11-17 earnings print.
+3. A close back above 165.89.
+Then re-run `/deep-dive NVDA` with fresh prices.
+
+## Data discrepancies noted
+- Pre-market quote varied during the morning (160.70 → 160.38); the packet's last value was used.
+- 52-week low: 163.90 (price history) vs 164.27 (profile).
+- Profile `regularMarketPreviousClose` 168.796 does not match the 2026-11-11 close of 173.73.
 
 ## Files
 `regime_view.json`, `packets/NVDA.json`, `cards/`, `debate/`, `research/NVDA.json`, `proposals.json`.

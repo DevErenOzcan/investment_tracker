@@ -1,3 +1,60 @@
-{"ticker": "NVDA", "catalysts": [{"what": "Q3 FY earnings release scheduled (packet profile.earnings_date); within the 20-business-day window and only 3 business days away", "date": "2026-11-17", "direction": "mixed", "source": "reports/special/nasdaq/2026-11-12/NVDA/packets/NVDA.json#profile.earnings_date"}],
- "event_risks": ["News unavailable: news feed fetch failed (proxy 403), so the cause of the roughly 24% 21-day drawdown is unknown and cannot be attributed to any event from this packet", "Earnings on 2026-11-17 is a binary gap event; ATR is 5.0% and beta 2.25, so a stop-based swing entry before the print can gap through its stop", "Unexplained heavy-volume selloff on 2026-11-05, 11-09 and 11-10 (volume 306M, 463M, 429M vs 131M average); the pre-market price of 160.70 against a prior close of 173.73 (about -7.5%) shows another large down move is under way", "sec_filings_10d is empty, so no S-3/424B5/8-K was observed in the last 10 days; this reflects the packet only, and filing coverage was not independently confirmed"],
- "binary_event": true, "news_available": false, "score": 0, "notes": "News is unavailable because the fetch failed (proxy 403). This is an access gap, not evidence that no events occurred, so no catalyst for the price drop is asserted. The tape shows a sharp, high-volume decline (RSI 28.7, close 173.73 against a 20-day SMA of 203.80), and the pre-market quote of 160.70 points to further weakness, with the driver unknown. Earnings on 2026-11-17 fall inside the holding window and make this a binary event; treat any entry before the print as high gap risk. Score is neutral (0) because the information is missing, and the missing news itself is a reason for caution."}
+{
+  "ticker": "NVDA",
+  "catalysts": [
+    {
+      "what": "Nov 5 drop (close 181.60 vs 200.13, about -9.3%, volume 306M vs ~131M average). The packet has only a title-only Benzinga item ('What Is Going On With Nvidia Stock on Thursday?'), so the specific trigger on this day cannot be confirmed from the packet. A Nov 6 Yahoo headline calls it 'a 9% drop' and an 'oversold setup'.",
+      "date": "2026-11-05",
+      "direction": "negative",
+      "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeWQzWjJ3QVVxa3M5eGtQemMyZm51aFZ4bXVmZGhiOXlfN0VtR2tWSmhsd0lsUjRjdW9lTW9vczQzd3ZSNFFqTHBwMjlSUnJGOGxUcElGRW1xbzFNRDZxNk1kcURqMUJBVkpqZ2xUSUEwSC1adVZDaFkzclB5RzJXczN5OGZJQ0paM3FzTEMtM2thcVl1c3ZRNzRXRFM3Tm5hYlBPOUF2eHNibVE?oc=5"
+    },
+    {
+      "what": "REPORTED (Barron's, title only): Nvidia's board is investigating CEO Jensen Huang's links to an alleged (suspected Chinese) spy. Allegation and board probe not confirmed by the company in the packet. Leadership and governance overhang that coincides with the Nov 9 gap down (open 173.07 vs prior close 186.64, volume 463M).",
+      "date": "2026-11-08",
+      "direction": "negative",
+      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMEREMjktUzJTVXRKWjNfaHNNUXJGOXd1SXo3R19qMm90NkNoSkI2UHU5X2hmZ3ZXUFJWSk5GOWxQaFBRdi11OXRZVHRpbGZjLTFWLXoteGJ1NmxxdVM4MWw0cF9CdExMWDF5Y0FDcnIxR0FuQzRjd2hjYzJZcVF4eUk0ZzMydzRVbW9UNl9pdmlmTTZ2RnpWemZn?oc=5"
+    },
+    {
+      "what": "Nov 9-10 continued selloff: Nov 9 close 178.67, Nov 10 close 168.89 (intraday low 165.89, volume 429M). Headlines tie it to 'the Jensen Huang affair' (Barron's, Nov 9) and say the stock 'lost 10% in 1 day' ahead of Nov 17 earnings (Yahoo, Nov 10). The 10% figure is the headline's claim; the packet's daily closes show about -5.5% on Nov 10. The affair is a REPORTED allegation, not confirmed by the company in the packet.",
+      "date": "2026-11-10",
+      "direction": "negative",
+      "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLUVvTFBYdncwRE5SVUxHSmtBdkMySDRMQ1M0NUUwRnBQcURnQ2xsZ3Y0TU1wMTVKRElJSWJvMHBoNGUxSFdOSi1QY3hhQ3QtWXJkRENRWUMzNVpxMkJPQ1VGUWNxWFRneTI4TmxZSzdtUlpnenpkTWt3S2hIZ2dwWW9ySTZxRmVRck1neUFkWEtPc1NZ?oc=5"
+    },
+    {
+      "what": "REPORTED / UNCONFIRMED: Nvidia's board is reportedly weighing or preparing to oust CEO Huang (Yahoo Finance headline, Nov 11 late). Nov 12 coverage says this follows a second reported affair on top of the alleged spy ties (Yahoo Finance video summary). Reuters headline calls it a 'spy scandal' threatening to oust the CEO. Nasdaq and S&P futures fell and NVDA indicated about 160.4 pre-market (profile.preMarketPrice) vs 173.73 close, about -7.7%. No company statement or 8-K is in the packet.",
+      "date": "2026-11-11",
+      "direction": "negative",
+      "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM3V6b0VlNWlnYlE5aTlJNUVKeU9WUXQyVFBxUGIwYldCd3EzczdrbFdXazVxUi1KblpZM1NTaFlmM29WWl9yV0ZSaWdGcHlVWGdyMmlnVVR4WEZVQ2pKRldibDlrTWhWVGZwbEppeEJfbmNxOENGOU00dXJVQU1xSFdGMlp2V21LYXJEZzhPRG5JeF9lZjVkbkxWMG1wQQ?oc=5"
+    },
+    {
+      "what": "Analyst reaction (headline only): 'Another analyst slashes rating'; 'Wall Street backs away from Nvidia'; CNBC quotes 'A dark day for Nvidia'. Same NVDA Rout headline says Beijing warned the US against tech curbs, a China export-policy risk. Details (which firms, new targets) are not in the packet. Profile still shows consensus recommendationMean 1.39 and mean target 309.72, which may be stale.",
+      "date": "2026-11-12",
+      "direction": "negative",
+      "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNVc4amE3bzV1cWF4SGlwOVd4UnNZVTZ6c09GZE42VDZiMGRkTXhiMDN6MS1lYzlfRzVHWlF2eVA4R0VlVlBBakREZ3hzSy1PVjBXWFdhSzEzbkVqdUtOc2tMUUN1eXJLNmhlNnJhSWE1Yk9PS2FhemlWalE2clE4aHB4T1NGcEJyeFVKNUdSbUY0UmMtMTh6aEIyR18?oc=5"
+    },
+    {
+      "what": "Macro backdrop (Reuters headline): US Treasury yields touched 5% again; global stocks hit by fresh turbulence. A secondary pressure on high-beta tech (NVDA beta 2.25). Elon Musk saying it would be an 'honor' to hire Huang (IBTimes) is social-media chatter, not a fact about Nvidia's board.",
+      "date": "2026-11-12",
+      "direction": "negative",
+      "source": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-fragile-nvidia-plummets-015524144.html"
+    },
+    {
+      "what": "Known event: Q3 FY27 earnings on 2026-11-17 (profile.earnings_date), 3 trading days away. The last reported quarter (Jul 2026) had revenue of 96.2B, up about 106% YoY. Results will land in the middle of the CEO uncertainty, and any CEO commentary or guidance will be read through that lens.",
+      "date": "2026-11-17",
+      "direction": "mixed",
+      "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLUVvTFBYdncwRE5SVUxHSmtBdkMySDRMQ1M0NUUwRnBQcURnQ2xsZ3Y0TU1wMTVKRElJSWJvMHBoNGUxSFdOSi1QY3hhQ3QtWXJkRENRWUMzNVpxMkJPQ1VGUWNxWFRneTI4TmxZSzdtUlpnenpkTWt3S2hIZ2dwWW9ySTZxRmVRck1neUFkWEtPc1NZ?oc=5"
+    }
+  ],
+  "event_risks": [
+    "CEO removal risk: board reportedly preparing to oust Jensen Huang. Unconfirmed, but a binary governance outcome. An 8-K Item 5.02 would be the confirmation; none is in sec_filings_10d (empty).",
+    "Board investigation of Huang's reported links to an alleged Chinese spy (reported; possible regulatory, government or litigation follow-ons, not confirmed).",
+    "Earnings on 2026-11-17 inside the CEO uncertainty window. Gap risk both ways.",
+    "US-China tech curb escalation (Beijing warning, headline only).",
+    "Treasury yields near 5% and a fragile chip rally (macro pressure on high-beta names).",
+    "No S-3 or 424B5 or other filings in the last 10 days, so no offering risk shows in the packet. 'No filings' does not rule out an unfiled 8-K.",
+    "Pre-market indication about 160 is below the 20-day low of 165.89, so a downside gap through support is possible at the open. Sentiment-driven headline whipsaw (Nov 6 dip-buying bounce, Nov 11 +2.9%) is likely."
+  ],
+  "binary_event": true,
+  "news_available": true,
+  "score": -2,
+  "notes": "The packet shows NVDA fell about 13% over 5 sessions (200.13 on Nov 4 to 173.73 on Nov 11, with 300-460M volume days), and was indicated about -7.7% pre-market on Nov 12. The Nov 5 trigger is not stated in the title-only RSS items, so it is unknown. From Nov 8 the headlines point to a reported board probe of Huang's alleged links to a suspected spy, a reported affair, and on Nov 11-12 reports that the board may oust him. All of this is reported and unconfirmed; the packet has no company statement and no 8-K. The event is governance and headline driven rather than fundamental (last quarter revenue was up about 106% YoY), so it could reverse on a denial or persist if the CEO exits. With earnings on Nov 17 and a possible removal decision pending, this is a binary, headline-pinned setup that is unfavorable for a swing entry until clarity arrives. Most items are title-only RSS, so details like analyst names and targets are unavailable."
+}
