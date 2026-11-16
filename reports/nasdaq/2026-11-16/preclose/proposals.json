@@ -1,0 +1,88 @@
+{
+  "as_of": "2026-11-16",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "peak_value_units": 1000,
+  "drawdown": 0.0,
+  "regime": "risk-off",
+  "regime_mult": 0.4,
+  "risk_per_trade": 0.0075,
+  "portfolio_vol": 0.006142274198134252,
+  "positions": [
+    {
+      "ticker": "HAS",
+      "status": "new",
+      "sector": "Consumer Cyclical",
+      "price": 119.945,
+      "stop": 116.85,
+      "target": 127.77,
+      "rr": 2.53,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "kelly": 0.2325,
+      "stop_pct": 0.0258,
+      "binding": "kelly",
+      "engine_weight": 0.0105,
+      "priority": 0.13947603833865824,
+      "flags": [
+        "risk-officer reduction x0.75: News coverage was partial (Google RSS rate-limited), the name is Consumer Cyclical in a risk-off tape after four lower closes, reward/risk to the twice-rejected 124.62 high is only about 1.5, and the 109.5-114 gap-fill zone below the 116.85 stop leaves gap-through risk."
+      ],
+      "amount_units": 10.5
+    },
+    {
+      "ticker": "PLMR",
+      "status": "new",
+      "sector": "Financial Services",
+      "price": 157.25,
+      "stop": 150.9,
+      "target": 175.0,
+      "rr": 2.8,
+      "rating": "Overweight",
+      "confidence": 0.4,
+      "kelly": 0.1854,
+      "stop_pct": 0.0404,
+      "binding": "kelly",
+      "engine_weight": 0.0083,
+      "priority": 0.11121126760563393,
+      "flags": [
+        "risk-officer reduction x0.75: The content of the 2026-11-12 8-K Item 7.01 filing is unverified (possible capital-raise or deal disclosure), the stock is extended (RSI 71, 8.3% above SMA20) with last price 159.82 above the entry zone (R/R about 1.7 at last), and it carries property-catastrophe exposure."
+      ],
+      "amount_units": 8.3
+    },
+    {
+      "ticker": "GMAB",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 51.875,
+      "stop": 49.6,
+      "target": 59.5,
+      "rr": 3.35,
+      "rating": "Overweight",
+      "confidence": 0.37,
+      "kelly": 0.182,
+      "stop_pct": 0.0439,
+      "binding": "kelly",
+      "engine_weight": 0.0055,
+      "priority": 0.10921967213114761,
+      "flags": [
+        "risk-officer reduction x0.5: The driver of the Oct 28 gap (44.67 to 57.29 on 29.3M shares) is unexplained, news has nothing after 2026-11-13, the SEC quarterly series is empty and insiders are selling, so binary biotech event risk cannot be checked, and a gap-down toward the 44.7-45.4 retrace zone would slip well past a stop only about 1.0 ATR away."
+      ],
+      "amount_units": 5.5
+    }
+  ],
+  "cash_weight": 0.9757,
+  "rejected": [
+    {
+      "ticker": "ASO",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "CDNA",
+      "reason": "rating Underweight: no new buy"
+    },
+    {
+      "ticker": "EXEL",
+      "reason": "rating Hold: no new buy"
+    }
+  ]
+}

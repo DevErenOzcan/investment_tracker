@@ -1,0 +1,20 @@
+{"regime": "risk-off",
+ "confidence": 0.65,
+ "leading_sectors": ["XLV", "XLP", "XLF"],
+ "lagging_sectors": ["SMH", "XLK", "XLC"],
+ "evidence": [
+  "QQQ below both 50- and 200-day averages (last 679.89, ret_21 -6.6%, ret_63 -6.8%)",
+  "SMH ret_21 -12.9% and XLK ret_21 -10.0%, both below 50/200-day: tech leadership is broken",
+  "VIX at 20.64, 1-year percentile 0.82 (just under the 0.85 risk-off line), ret_63 +38.6%",
+  "^TNX at 5.141, 1-year percentile 0.914, ret_63 +9.2%: rising yields pressure growth stocks",
+  "IWM below 50/200-day (ret_63 -8.5%); SPY below 50-day but above 200-day (ret_21 -2.3%)",
+  "Defensive sectors lead: XLV ret_21 +6.6%, XLP ret_21 +6.5%, XLF ret_21 +6.2%",
+  "Short-term bounce: QQQ ret_5 +3.6%, SMH ret_5 +4.9%, but the trend is still below the averages"
+ ],
+ "watch": [
+  "QQQ reclaiming its 50-day average would argue for neutral",
+  "VIX percentile (0.82) crossing 0.85",
+  "^TNX staying elevated (5.141, percentile 0.914)"
+ ],
+ "summary": "QQQ is below its 50- and 200-day averages with a 21-day return of -6.6%, which meets the risk-off criterion. Semis and tech are the weak spots, while healthcare, staples and financials lead. VIX (percentile 0.82) is not yet extreme and the 5-day bounce is notable, so confidence is moderate."
+}

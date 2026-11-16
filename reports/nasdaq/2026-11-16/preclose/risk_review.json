@@ -1,0 +1,22 @@
+{
+  "vetoes": [],
+  "reductions": [
+    {
+      "ticker": "GMAB",
+      "factor": 0.5,
+      "reason": "The driver of the Oct 28 gap (44.67 to 57.29 on 29.3M shares) is unexplained, news has nothing after 2026-11-13, the SEC quarterly series is empty and insiders are selling, so binary biotech event risk cannot be checked, and a gap-down toward the 44.7-45.4 retrace zone would slip well past a stop only about 1.0 ATR away."
+    },
+    {
+      "ticker": "HAS",
+      "factor": 0.75,
+      "reason": "News coverage was partial (Google RSS rate-limited), the name is Consumer Cyclical in a risk-off tape after four lower closes, reward/risk to the twice-rejected 124.62 high is only about 1.5, and the 109.5-114 gap-fill zone below the 116.85 stop leaves gap-through risk."
+    },
+    {
+      "ticker": "PLMR",
+      "factor": 0.75,
+      "reason": "The content of the 2026-11-12 8-K Item 7.01 filing is unverified (possible capital-raise or deal disclosure), the stock is extended (RSI 71, 8.3% above SMA20) with last price 159.82 above the entry zone (R/R about 1.7 at last), and it carries property-catastrophe exposure."
+    }
+  ],
+  "portfolio_notes": "The book is all cash and the three proposals sit in three different sectors and themes (toys/consumer, specialty P&C insurance, oncology biotech), so there is no hidden thematic concentration and none of them is a high-beta tech name fighting the risk-off regime. Engine gross is about 3.6% and falls to about 2.5% after these reductions. All three entries are pullback-only and confidence is 0.37 to 0.45, which lessons item 4 treats as uncalibrated, so the main risk is event or gap risk, not the size of the losses at the stops. earnings_date is null for all three, so the engine's earnings blackout was not actually checked: HAS (reported 2026-10-20) and PLMR (reported 2026-11-05) are probably clear, but GMAB's next report date should be confirmed before any fill. No cards/*.json files could be found under the expected names, so this review relies only on research/*.json; also, the healthcare-concentration risk listed in GMAB's research refers to the decision log, not to actual holdings.",
+  "held_alerts": []
+}

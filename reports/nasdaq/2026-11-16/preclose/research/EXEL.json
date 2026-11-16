@@ -1,0 +1,16 @@
+{"ticker": "EXEL", "rating": "Hold", "confidence": 0.32,
+ "entry": 67.605, "entry_zone": [67.3, 68.2], "stop": 66.8, "target": 73.69, "horizon_days": 10,
+ "expected_return": {"low": -0.012, "high": 0.09},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "The morning thesis is bent but not broken. EXEL (intraday last 67.605) is still above the 66.8 stop and the 10/30 gap low of 67.05, and the trend is intact (SMA50 62.46, SMA200 52.38, rs_63 +0.35, quality and balance sheet unchanged, no new news or filings). However, the part of the thesis that said price was holding above SMA20 has failed: price lost SMA20 (68.20), is down 5.8% over 5 days from the 73.69 high, and is trading near the day low of 67.48, only 0.43 above the gap low. The technical score was cut from +1 to +0.5 and no debate was held this session, so this is downgraded from Overweight to Hold: keep any existing position on the 66.8 stop, but open no new position into the close. The nominal R/R at 67.605 is about 7.6 ((73.69-67.605)/(67.605-66.8)), but the stop is only about 0.37 ATR (2.1439) away, so the real chance of reaching the target before the stop is low.",
+ "invalidation": "Daily close below 66.8, which fills the 10/30 earnings gap (low 67.05) and breaks the post-earnings base. An exit is warranted then.",
+ "key_risks": [
+  "The stop at 66.8 is about 0.37 ATR below the last price, and price is near the session low of 67.48. A routine overnight or next-day move could trigger it.",
+  "An undated, binary FDA decision on zanzalintinib could land inside the window. A gap down could jump past 66.8, so the realized loss could exceed -1.2%.",
+  "Price lost SMA20 (68.20) for the first time since the earnings gap. Today's volume (922k) is a partial-day figure, so whether this is distribution is not confirmed.",
+  "Price is above the 61.57 mean analyst target. Short interest is 14.42% of float, and a news item cites 11.19%, so the figures conflict.",
+  "Supply sits overhead at 73.69: the 11/5 reversal came on 4.38M shares and the 11/10 down day on 5.58M shares.",
+  "The regime is risk-off (QQQ below its 50- and 200-day averages). Healthcare leads, but the book is healthcare-heavy and behaves like one correlated bet (lessons.md item 6).",
+  "No debate this session (pre-close re-assessment only), so conviction rests on the cards and the morning debate."
+ ],
+ "debate_winner": "skipped"}

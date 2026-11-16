@@ -1,0 +1,20 @@
+{"ticker": "CDNA",
+ "thesis": "The morning pullback-long premise has failed: last 74.36 is below the 74.9 invalidation and below the SMA20 (77.13), after a run of lower closes from the 90.87 post-earnings spike. The stock is priced for perfection (forward P/E about 47.5, EV/EBITDA about 151, operating margin about 1.6%) while growth is decelerating and the Q2 net income looks like a one-off. The tape is risk-off with 10-year yields at 5.141 (91st percentile), and beta of 2.49 means a broken support level can slide quickly toward the gap-fill zone near the 65.89 20-day low. No fresh catalyst exists, insiders are selling under a plan, and the next earnings report is outside the window, so there is nothing to stop the fade. Buying a failed setup because the long-term trend is up is a bet on a bounce that has not been confirmed.",
+ "evidence": [
+  "technical card: setup = none",
+  "technical card: invalidation = morning close-below-74.9 effectively triggered; close below 73.39 confirms failure",
+  "packet technical.indicators: close = 74.36 vs sma20 = 77.1255; ret_5 = -0.1192; dist_high = -0.1817",
+  "packet technical.levels: swing_low_10 = 73.39; swing_low_20 = 65.89 (gap-fill zone)",
+  "packet profile: forwardPE = 47.535942; enterpriseToEbitda = 151.058; operatingMargins = 0.01574; priceToSalesTrailing12Months = 7.855",
+  "fundamentals card: growth = decelerating (YoY about 52% to 39.3%; QoQ 12.1% to 5.6%)",
+  "fundamentals card: valuation = rich",
+  "fundamentals card: red_flags = Q2 2026 net income of 110.6M likely one-off; earnings quality uncertain",
+  "news card: score = 0 (lowered from +1); no fresh positive catalyst; CFO sale under trading plan",
+  "news card: event_risks = today's drop has no identified news cause, so there is no catalyst to reverse it",
+  "regime_view: regime = risk-off, confidence 0.65; QQQ below 50- and 200-day; ^TNX 5.141 at 0.914 percentile",
+  "packet profile: beta = 2.487; shortPercentOfFloat = 0.1393; atr_pct = 0.0696",
+  "research draft: rating = Underweight; confidence = 0.3; key_risks include a late recovery above 74.9 leaving the invalidation untriggered"
+ ],
+ "downside_case": {"level": 65.89, "probability": 0.35},
+ "rebuttal_to_bull": "Expected bull points and answers. (1) Long-term trend intact (74.36 > SMA50 66.81 > SMA200 36.98): true, but the trade was a short-horizon pullback long with a stated stop, and that stop is broken; a rising 200-day average far below price offers no near-term support. (2) Strong balance sheet, cash 250M vs debt 29M, low dilution risk: this removes tail risk but does not justify a rich multiple, and it is unrelated to timing. (3) Analyst mean target 94.43 and a Medicare coverage ruling: the target is above the 90.87 high that already failed, and the ruling is retrospective and was priced into the 10-30 gap. (4) Light volume (vol_ratio 0.56) means an orderly fade: the ratio is from a partial day, and a fade with no buyers is not support. (5) Short interest 13.9% sets up a squeeze: it is under the 15% threshold, and squeezes need a catalyst, which the news card says is missing. The downgrade stays a stop-discipline call, not a Sell, and re-entry needs a hold of 73.39 plus an SMA20 reclaim on rising volume. Caveat: the last price is about 15 minutes delayed and the close is not final, so a late reclaim of 74.9 would weaken this case.",
+ "dealbreaker": false}

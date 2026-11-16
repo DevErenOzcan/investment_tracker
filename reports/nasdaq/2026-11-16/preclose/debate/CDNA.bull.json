@@ -1,0 +1,18 @@
+{"ticker": "CDNA",
+ "thesis": "Weak setup, so a weak bull case. The long-term structure and business are intact. Price is above SMA50 and SMA200, revenue is growing about 39% YoY, the balance sheet is net cash with strong free cash flow, and the analyst mean target sits above the 90.87 high. Today's drop looks like an orderly post-earnings fade on light volume with no news cause and RSI near 50, not distribution. A bull can only argue for watching, not for a new long: the morning 74.9 stop is breached, the technical setup is none, and the only real path back is a hold of 73.39 plus an SMA20 reclaim on rising volume. Short interest of 13.9% adds squeeze convexity if that happens. Until then the evidence supports at most a neutral stance, and I do not contest Underweight on the stop-discipline basis.",
+ "evidence": [
+  "technical: trend = up; close 74.36 > sma50 66.81 > sma200 36.98 (research card thesis; packet technical.indicators.sma50, sma200, trend = 3)",
+  "technical: packet technical.indicators.rsi14 = 49.8759 and vol_ratio = 0.5613, so an orderly fade on light volume, not a distribution spike (technical card notes)",
+  "technical: reward_risk = 2.0 to target 90.87 from the 65.4 structural stop, conditional on a hold of 73.39 and an SMA20 reclaim",
+  "technical: setup = none, score = 0; the 74.9 morning invalidation is effectively triggered (counter-evidence, stated honestly)",
+  "fundamentals: packet sec_fundamentals.revenue_yoy = 0.3929; Q3 2026 revenue 139362000, net income 19292000",
+  "fundamentals: dilution_risk = low; profile.totalCash = 250480000 vs totalDebt = 29001000; freeCashflow = 130446872",
+  "fundamentals: profile.targetMeanPrice = 94.42857 with recommendationMean = 1.625 across 7 analyst opinions",
+  "news: Baron Capital letter cites a favorable Medicare coverage ruling as a Q3 driver, direction = positive (supportive but retrospective)",
+  "news: sec_filings_10d = [] and no S-3/424B5/8-K, so no offering risk; the CFO sale is under a trading plan (pre-planned, mild)",
+  "news: binary_event = false; no scheduled event in the next 20 business days",
+  "technical: profile.shortPercentOfFloat = 0.1393, so a reclaim of the SMA20 could squeeze (two-way risk per news card event_risks)",
+  "regime_view: XLV ret_21 +6.6% and healthcare is a leading sector, a sector tailwind within a risk-off regime (regime = risk-off, confidence 0.65)"
+ ],
+ "upside_case": {"target": 90.87, "probability": 0.2},
+ "rebuttal_to_bear": "Anticipated bear points and my answers. (1) The stop is broken, so the thesis failed. Correct, and I concede it. I only argue it is not a Sell, because structure above SMA50 and SMA200 holds and today's low of 73.39 is untested as a close. (2) Growth is decelerating and valuation is rich (forward P/E 47.5, EV/EBITDA 151). Fair, but revenue is still up about 39% YoY with net cash and about 130M free cash flow, and the Q2 net income one-off does not change that. (3) Risk-off regime with ^TNX at 5.141. True, but healthcare leads the regime (XLV ret_21 +6.6%), so the sector is on the right side of the tape. (4) The CFO sale is a negative signal. It is under a trading plan, so it carries little information. Net: the bear wins on timing and stop discipline. The bull case only revives on a hold of 73.39 and an SMA20 reclaim (77.13) on rising volume. I make no claim for a new entry before then."}
