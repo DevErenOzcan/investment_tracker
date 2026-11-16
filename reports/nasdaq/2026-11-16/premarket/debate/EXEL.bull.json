@@ -1,0 +1,19 @@
+{"ticker": "EXEL", "thesis": "EXEL is a high-quality, highly profitable biotech in a confirmed uptrend, pulling back on fading volume toward SMA20 after a post-earnings breakout to a 52-week high. The dip entry zone sits close to a tight stop under the earnings gap low, giving a favorable reward/risk to a prior-high target. Healthcare is a leading sector in a risk-off tape, which suits a defensive-growth name with strong cash flow and low dilution risk. The zanzalintinib FDA decision is a pipeline catalyst that could land in the window. Risks are real: price is above the mean analyst target, short interest is elevated, and the FDA event is binary, so this is a moderate-conviction pullback setup, not a high-conviction one.",
+"evidence": [
+"technical: setup = pullback",
+"technical: trend = up",
+"technical: entry_zone = [67.9, 69.0]",
+"technical: stop = 66.8",
+"technical: target = 73.69",
+"technical: reward_risk = 3.2",
+"technical: notes = close 69.0 above SMA20 67.96, SMA50 62.29, SMA200 52.24; 63-day relative strength +0.39; pullback on fading volume (1.5M on 11/13), RSI 58.6",
+"fundamentals: quality = high",
+"fundamentals: dilution_risk = low",
+"fundamentals: notes = profit margin 35.45%, operating margin 40.2%, free cash flow 759.4M, cash 892.0M vs debt 162.2M; forward P/E 16.14",
+"fundamentals: growth = stable (revenue 597.8M, 610.8M, 628.7M, 658.7M over last four quarters)",
+"news: catalysts[0] = FDA decision on zanzalintinib approaching, direction positive (2026-11-11)",
+"news: event_risks = no S-3/424B5 or other SEC filings in last 10 days; no offering signal",
+"regime_view: leading_sectors = XLV, XLP, XLF (healthcare leads in risk-off regime)"
+],
+"upside_case": {"target": 73.69, "probability": 0.4},
+"rebuttal_to_bear": null}

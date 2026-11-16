@@ -1,0 +1,31 @@
+{
+  "finalists": [
+    {"ticker": "GMAB", "why": "Healthcare (regime-leading sector) biotech in a trend-4 uptrend, ext_20 only 2.7% and RSI 59, a clean non-extended setup with high liquidity.", "watch": "Still 14.3% below its 52-week high, with upcoming put/call option activity and employee warrant issuance as minor noise; biotech headline gap risk."},
+    {"ticker": "EXEL", "why": "Healthcare biotech with trend 4, ext_20 1.5%, RSI 58.6 and volume ratio 1.26, a low-extension pullback-style setup.", "watch": "Headlines flag an FDA decision and key kidney cancer data for zanzalintinib as upcoming binary catalysts."},
+    {"ticker": "VTRS", "why": "Large-cap defensive healthcare name near its 52-week high (1.8% below), ext_20 8.0%, RSI 70.1, with solid volume ratio of 1.17.", "watch": "RSI is above 70 and revenue growth is flat (-0.3%), so a pullback is possible; headlines mention a Pacira acquisition."},
+    {"ticker": "PLMR", "why": "Financials (regime-leading sector) insurer in a trend-4 uptrend, ext_20 8.7%, 1.8% below its high, with rising guidance and a raised KBW target.", "watch": "RSI 70.5 is elevated and the stock is close to its high, so a breakout could fail on a risk-off tape."},
+    {"ticker": "CDNA", "why": "Diagnostics name with trend 4, RSI 54.7 and ext_20 1.5%, a digested base after a strong 63-day run, with a Medicare coverage tailwind.", "watch": "High ATR (6.7%) and low volume ratio (0.63) mean wide stops and weak confirmation; still 14.3% below its high."},
+    {"ticker": "HAS", "why": "Large-cap, highly liquid name with ext_20 only 2.4%, RSI 68 and 3.3% below its high, so not over-extended.", "watch": "Consumer cyclical in a risk-off, rising-yield regime; the headlines are generic and not specific to the company."},
+    {"ticker": "ASO", "why": "Specialty retailer with trend 4, ext_20 6.6%, RSI 65, low ATR (3.7%) and the next earnings date well clear (2026-12-08).", "watch": "Volume ratio is under 1 (0.91) and recent headlines include analyst downgrade lists; cyclical exposure in a risk-off regime."},
+    {"ticker": "APPN", "why": "Software name 3.3% below its 52-week high with ext_20 7.8%, RSI 66 and a William Blair upgrade; adds sector diversification.", "watch": "Technology is a lagging sector in the regime and ATR is 5.5%, so it is sensitive to rising yields."}
+  ],
+  "dropped": [
+    {"ticker": "SLN", "why": "Headline shows Merck KGaA agreed to buy the company, so price is pinned to the deal and is not a swing setup (RSI 78.3, volume ratio 0.26)."},
+    {"ticker": "PGNY", "why": "Over-extended: RSI 79.6 (above 78) and ext_20 16.0% (above 15%), with a CEO stock sale in the headlines."},
+    {"ticker": "GDYN", "why": "Over-extended: ext_20 16.9% after a 65% 21-day run."},
+    {"ticker": "XMTR", "why": "ext_20 is 15.0%, at the limit, with ATR 7.1% and a forward PE of 87; too stretched and volatile."},
+    {"ticker": "CHA", "why": "ext_20 14.5% and RSI 71.5 after a 15.6% 5-day jump driven by a special dividend announcement; chasing risk, and earnings are due 2026-11-27."},
+    {"ticker": "KOD", "why": "Pre-revenue biotech with a 171% 63-day run, ext_20 13.9%, volume ratio of only 0.38 and a wider-than-expected loss; binary pipeline risk."},
+    {"ticker": "ACHC", "why": "RSI 72.7 and ext_20 14.2% make it near over-extended, with a healthcare slot better used on cleaner setups."},
+    {"ticker": "TGTX", "why": "Clean setup, but the biotech sub-industry cap of 2 is already filled by GMAB and EXEL."},
+    {"ticker": "ARHS", "why": "Specialty retail sub-industry already represented by ASO, and ret_21 of 36% with ATR 5.3% is more volatile."},
+    {"ticker": "VERX", "why": "RSI 74.6 and ext_20 12.8% are elevated, and technology is a lagging sector in this regime."},
+    {"ticker": "CERT", "why": "Narrowed guidance and ret_5 of -4% with a weaker setup than the healthcare names selected; healthcare is already well represented."},
+    {"ticker": "AMPH", "why": "Thin liquidity (about 12.8M 20-day dollar volume) compared with VTRS in the same sub-industry."},
+    {"ticker": "COLM", "why": "RSI 73.5 and ext_20 10.3% at a fresh 52-week high with weak underlying growth (2%), and consumer cyclical is not a leading sector."},
+    {"ticker": "GCT", "why": "Overbought rally flagged in headlines, ret_5 of 14% and technology lagging; the ticker is also confused with GCT Semiconductor in headlines."},
+    {"ticker": "CYRX", "why": "Negative forward earnings, a 129% rebound described as fully priced and a rating downgrade in the headlines."},
+    {"ticker": "STGW", "why": "RSI 69.5 with a negative 5-day return, in the lagging communication services sector."},
+    {"ticker": "AMPL", "why": "Forward PE of 103 and technology is a lagging sector, with software already represented by APPN."}
+  ]
+}

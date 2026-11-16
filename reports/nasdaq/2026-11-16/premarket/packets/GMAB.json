@@ -1,0 +1,705 @@
+{
+  "ticker": "GMAB",
+  "exchange": "NASDAQ",
+  "as_of": "2026-11-16T13:50:17.651576+00:00",
+  "data_note": "In the pre-market session the last price is the previous close; in the pre-close session it is ~15 min delayed.",
+  "technical": {
+    "indicators": {
+      "symbol": "GMAB",
+      "date": "2026-11-13",
+      "close": 51.37,
+      "ret_5": -0.0421,
+      "ret_21": 0.3583,
+      "ret_63": 0.5643,
+      "ret_126": 0.9356,
+      "rs_63": 0.6318,
+      "sma20": 49.9953,
+      "sma50": 41.1533,
+      "sma200": 31.5401,
+      "trend": 4,
+      "atr": 2.3179,
+      "atr_pct": 0.0451,
+      "rsi14": 59.0688,
+      "dist_high": -0.1434,
+      "vol_ratio": 0.9212,
+      "ext_20": 0.0275,
+      "vol_20": 1.1089,
+      "dollar_volume_20": 336682832.9311,
+      "low_20": 37.76,
+      "high_20": 59.97
+    },
+    "levels": {
+      "swing_low_10": 50.68000030517578,
+      "swing_low_20": 37.7599983215332,
+      "swing_high_20": 59.970001220703125,
+      "high_52w": 59.970001220703125,
+      "low_52w": 23.6200008392334
+    },
+    "last_60_days": [
+      {
+        "d": "2026-08-21",
+        "o": 33.36,
+        "h": 33.98,
+        "l": 33.28,
+        "c": 33.45,
+        "v": 2535300
+      },
+      {
+        "d": "2026-08-24",
+        "o": 32.82,
+        "h": 33.32,
+        "l": 32.74,
+        "c": 33.02,
+        "v": 3246500
+      },
+      {
+        "d": "2026-08-25",
+        "o": 33.81,
+        "h": 34.47,
+        "l": 33.72,
+        "c": 34.36,
+        "v": 2026300
+      },
+      {
+        "d": "2026-08-26",
+        "o": 33.78,
+        "h": 33.9,
+        "l": 33.36,
+        "c": 33.75,
+        "v": 3086700
+      },
+      {
+        "d": "2026-08-27",
+        "o": 33.91,
+        "h": 34.17,
+        "l": 33.67,
+        "c": 34.1,
+        "v": 1866300
+      },
+      {
+        "d": "2026-08-28",
+        "o": 33.78,
+        "h": 33.93,
+        "l": 33.12,
+        "c": 33.23,
+        "v": 1514300
+      },
+      {
+        "d": "2026-08-31",
+        "o": 32.76,
+        "h": 33.26,
+        "l": 32.54,
+        "c": 33.16,
+        "v": 1733000
+      },
+      {
+        "d": "2026-09-01",
+        "o": 33.33,
+        "h": 33.67,
+        "l": 33.15,
+        "c": 33.29,
+        "v": 1563200
+      },
+      {
+        "d": "2026-09-02",
+        "o": 34.04,
+        "h": 34.5,
+        "l": 33.74,
+        "c": 34.22,
+        "v": 2079400
+      },
+      {
+        "d": "2026-09-03",
+        "o": 34.63,
+        "h": 34.66,
+        "l": 34.08,
+        "c": 34.41,
+        "v": 890900
+      },
+      {
+        "d": "2026-09-04",
+        "o": 33.96,
+        "h": 34.19,
+        "l": 33.54,
+        "c": 33.6,
+        "v": 1002600
+      },
+      {
+        "d": "2026-09-08",
+        "o": 33.71,
+        "h": 33.84,
+        "l": 33.36,
+        "c": 33.53,
+        "v": 1550700
+      },
+      {
+        "d": "2026-09-09",
+        "o": 33.47,
+        "h": 33.75,
+        "l": 32.98,
+        "c": 33.04,
+        "v": 2125100
+      },
+      {
+        "d": "2026-09-10",
+        "o": 32.46,
+        "h": 32.68,
+        "l": 32.21,
+        "c": 32.23,
+        "v": 1015800
+      },
+      {
+        "d": "2026-09-11",
+        "o": 32.45,
+        "h": 32.7,
+        "l": 32.27,
+        "c": 32.47,
+        "v": 1393800
+      },
+      {
+        "d": "2026-09-14",
+        "o": 32.79,
+        "h": 32.96,
+        "l": 32.52,
+        "c": 32.65,
+        "v": 1411700
+      },
+      {
+        "d": "2026-09-15",
+        "o": 32.34,
+        "h": 34.19,
+        "l": 32.34,
+        "c": 34.15,
+        "v": 3085300
+      },
+      {
+        "d": "2026-09-16",
+        "o": 34.36,
+        "h": 34.63,
+        "l": 34.05,
+        "c": 34.4,
+        "v": 2885800
+      },
+      {
+        "d": "2026-09-17",
+        "o": 34.28,
+        "h": 34.77,
+        "l": 34.22,
+        "c": 34.53,
+        "v": 2703000
+      },
+      {
+        "d": "2026-09-18",
+        "o": 34.92,
+        "h": 35.15,
+        "l": 34.72,
+        "c": 34.74,
+        "v": 2711600
+      },
+      {
+        "d": "2026-09-21",
+        "o": 34.7,
+        "h": 34.87,
+        "l": 34.36,
+        "c": 34.69,
+        "v": 1577500
+      },
+      {
+        "d": "2026-09-22",
+        "o": 34.46,
+        "h": 35.29,
+        "l": 34.37,
+        "c": 35.22,
+        "v": 2297600
+      },
+      {
+        "d": "2026-09-23",
+        "o": 35.39,
+        "h": 35.66,
+        "l": 34.6,
+        "c": 34.75,
+        "v": 2509700
+      },
+      {
+        "d": "2026-09-24",
+        "o": 34.69,
+        "h": 35.03,
+        "l": 34.36,
+        "c": 34.83,
+        "v": 2514900
+      },
+      {
+        "d": "2026-09-25",
+        "o": 34.95,
+        "h": 35.47,
+        "l": 34.7,
+        "c": 35.32,
+        "v": 3583100
+      },
+      {
+        "d": "2026-09-28",
+        "o": 34.76,
+        "h": 35.7,
+        "l": 34.63,
+        "c": 35.36,
+        "v": 2794600
+      },
+      {
+        "d": "2026-09-29",
+        "o": 34.94,
+        "h": 35.64,
+        "l": 34.89,
+        "c": 35.57,
+        "v": 3827500
+      },
+      {
+        "d": "2026-09-30",
+        "o": 35.72,
+        "h": 35.9,
+        "l": 35.37,
+        "c": 35.67,
+        "v": 5154400
+      },
+      {
+        "d": "2026-10-01",
+        "o": 35.25,
+        "h": 35.8,
+        "l": 34.51,
+        "c": 34.55,
+        "v": 6377000
+      },
+      {
+        "d": "2026-10-02",
+        "o": 34.39,
+        "h": 35.02,
+        "l": 33.72,
+        "c": 34.75,
+        "v": 5436400
+      },
+      {
+        "d": "2026-10-05",
+        "o": 35.09,
+        "h": 40.17,
+        "l": 35.02,
+        "c": 38.48,
+        "v": 12401300
+      },
+      {
+        "d": "2026-10-06",
+        "o": 39.11,
+        "h": 39.15,
+        "l": 37.07,
+        "c": 37.8,
+        "v": 6595900
+      },
+      {
+        "d": "2026-10-07",
+        "o": 37.28,
+        "h": 37.87,
+        "l": 36.27,
+        "c": 36.65,
+        "v": 4253700
+      },
+      {
+        "d": "2026-10-08",
+        "o": 36.17,
+        "h": 36.28,
+        "l": 35.09,
+        "c": 36.05,
+        "v": 4299800
+      },
+      {
+        "d": "2026-10-09",
+        "o": 36.55,
+        "h": 37.15,
+        "l": 36.33,
+        "c": 37.07,
+        "v": 2333400
+      },
+      {
+        "d": "2026-10-12",
+        "o": 37.18,
+        "h": 37.71,
+        "l": 36.94,
+        "c": 37.37,
+        "v": 3126400
+      },
+      {
+        "d": "2026-10-13",
+        "o": 37.23,
+        "h": 37.35,
+        "l": 36.34,
+        "c": 36.57,
+        "v": 3736900
+      },
+      {
+        "d": "2026-10-14",
+        "o": 36.38,
+        "h": 37.24,
+        "l": 36.12,
+        "c": 36.89,
+        "v": 2687500
+      },
+      {
+        "d": "2026-10-15",
+        "o": 37.2,
+        "h": 38.33,
+        "l": 37.04,
+        "c": 37.82,
+        "v": 4083500
+      },
+      {
+        "d": "2026-10-16",
+        "o": 38.15,
+        "h": 38.2,
+        "l": 36.74,
+        "c": 37.0,
+        "v": 2684700
+      },
+      {
+        "d": "2026-10-19",
+        "o": 37.89,
+        "h": 39.0,
+        "l": 37.76,
+        "c": 38.5,
+        "v": 4775900
+      },
+      {
+        "d": "2026-10-20",
+        "o": 38.6,
+        "h": 39.4,
+        "l": 38.42,
+        "c": 39.07,
+        "v": 3779200
+      },
+      {
+        "d": "2026-10-21",
+        "o": 39.08,
+        "h": 39.66,
+        "l": 39.05,
+        "c": 39.57,
+        "v": 2972900
+      },
+      {
+        "d": "2026-10-22",
+        "o": 39.67,
+        "h": 40.17,
+        "l": 39.5,
+        "c": 40.0,
+        "v": 4685500
+      },
+      {
+        "d": "2026-10-23",
+        "o": 39.84,
+        "h": 44.34,
+        "l": 39.63,
+        "c": 43.79,
+        "v": 12999000
+      },
+      {
+        "d": "2026-10-26",
+        "o": 44.79,
+        "h": 45.44,
+        "l": 44.08,
+        "c": 44.69,
+        "v": 7473300
+      },
+      {
+        "d": "2026-10-27",
+        "o": 44.41,
+        "h": 44.99,
+        "l": 43.98,
+        "c": 44.67,
+        "v": 4929000
+      },
+      {
+        "d": "2026-10-28",
+        "o": 44.63,
+        "h": 59.97,
+        "l": 44.35,
+        "c": 57.29,
+        "v": 29281100
+      },
+      {
+        "d": "2026-10-29",
+        "o": 56.56,
+        "h": 58.19,
+        "l": 55.68,
+        "c": 56.49,
+        "v": 6252400
+      },
+      {
+        "d": "2026-10-30",
+        "o": 57.4,
+        "h": 59.02,
+        "l": 56.53,
+        "c": 57.06,
+        "v": 8648200
+      },
+      {
+        "d": "2026-11-02",
+        "o": 56.21,
+        "h": 56.84,
+        "l": 54.65,
+        "c": 54.92,
+        "v": 4424100
+      },
+      {
+        "d": "2026-11-03",
+        "o": 55.46,
+        "h": 56.5,
+        "l": 55.1,
+        "c": 55.52,
+        "v": 3060800
+      },
+      {
+        "d": "2026-11-04",
+        "o": 56.01,
+        "h": 56.2,
+        "l": 53.76,
+        "c": 55.12,
+        "v": 4298800
+      },
+      {
+        "d": "2026-11-05",
+        "o": 55.07,
+        "h": 55.27,
+        "l": 52.62,
+        "c": 52.74,
+        "v": 4398900
+      },
+      {
+        "d": "2026-11-06",
+        "o": 52.36,
+        "h": 54.15,
+        "l": 51.22,
+        "c": 53.63,
+        "v": 7827800
+      },
+      {
+        "d": "2026-11-09",
+        "o": 54.36,
+        "h": 55.91,
+        "l": 53.31,
+        "c": 55.8,
+        "v": 5136900
+      },
+      {
+        "d": "2026-11-10",
+        "o": 54.87,
+        "h": 55.23,
+        "l": 53.15,
+        "c": 54.07,
+        "v": 3093300
+      },
+      {
+        "d": "2026-11-11",
+        "o": 52.89,
+        "h": 54.09,
+        "l": 52.32,
+        "c": 53.87,
+        "v": 3917300
+      },
+      {
+        "d": "2026-11-12",
+        "o": 52.2,
+        "h": 53.03,
+        "l": 51.53,
+        "c": 51.74,
+        "v": 5627900
+      },
+      {
+        "d": "2026-11-13",
+        "o": 51.22,
+        "h": 51.62,
+        "l": 50.68,
+        "c": 51.37,
+        "v": 3733300
+      }
+    ],
+    "weekly_closes_26": [
+      26.87,
+      26.33,
+      25.15,
+      25.08,
+      25.27,
+      26.12,
+      28.51,
+      29.0,
+      28.72,
+      28.87,
+      28.87,
+      31.25,
+      31.94,
+      33.45,
+      33.23,
+      33.6,
+      32.47,
+      34.74,
+      35.32,
+      34.75,
+      37.07,
+      37.0,
+      43.79,
+      57.06,
+      53.63,
+      51.37
+    ]
+  },
+  "profile": {
+    "symbol": "GMAB",
+    "shortName": "Genmab A/S",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "marketCap": 31674415104,
+    "trailingPE": 43.905983,
+    "forwardPE": 32.512657,
+    "priceToSalesTrailing12Months": 7.3730016,
+    "enterpriseToEbitda": 26.432,
+    "profitMargins": 0.16969,
+    "operatingMargins": 0.30633,
+    "grossMargins": 0.92667997,
+    "revenueGrowth": 0.161,
+    "earningsGrowth": -0.147,
+    "returnOnEquity": 0.12066,
+    "debtToEquity": 82.078,
+    "freeCashflow": 854875008,
+    "totalCash": 1871000064,
+    "totalDebt": 5198000128,
+    "beta": 0.518,
+    "shortPercentOfFloat": 0.0159,
+    "heldPercentInstitutions": 0.20898001,
+    "recommendationMean": 1.41667,
+    "numberOfAnalystOpinions": 11,
+    "targetMeanPrice": 65.00909,
+    "fiftyTwoWeekHigh": 59.97,
+    "fiftyTwoWeekLow": 23.62,
+    "averageVolume": 4214614,
+    "preMarketPrice": 52.52,
+    "regularMarketPrice": 51.37,
+    "regularMarketPreviousClose": 51.74,
+    "earnings_date": "2026-11-05"
+  },
+  "sec_fundamentals": {
+    "available": true,
+    "cik": 1434265,
+    "revenue_q": [],
+    "net_income_q": [],
+    "stale_warning": null,
+    "revenue_yoy": null,
+    "net_income_yoy": null
+  },
+  "sec_filings_10d": [],
+  "news_status": {
+    "status": "ok",
+    "source": "yahoo+google_rss",
+    "errors": []
+  },
+  "news_7d": [
+    {
+      "title": "Genmab (CPSE:GMAB) Stock Could Be 47% Undervalued As Epcoritamab Approvals Expand",
+      "publisher": "Simply Wall St.",
+      "published": "2026-11-13T13:13:40+00:00",
+      "summary": "Genmab has delivered a sharp rerating over the past year, and the question now is whether the current share price is properly supported by the cash flows investors can reasonably expect from the business. With the Discounted Cash Flow (DCF) intrinsic value estimate pointing squarely at those cash flows, the recent surge puts that framework under the spotlight. Over the past 12 months the stock has",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/genmab-cpse-gmab-stock-could-131340843.html"
+    },
+    {
+      "title": "GMAB Nov 2026 45.000 put (GMAB261120P00045000) interactive stock chart - Yahoo Finance UK",
+      "publisher": "Yahoo Finance UK",
+      "published": "2026-11-12T17:31:04+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MeFJvcTFEZWJ0X2FqY2E4OE9ranVzTHVQYmFXY2RZZ0Via0VoZTVRT0RsZktTd1hQTjRTbnJXWFVaTWpBNDFSeXBXRXZISUI4akJ2aHVDa1JDQUdFQVFIMjUxd1JhVkRNNUJrOFFn?oc=5"
+    },
+    {
+      "title": "Genmab Discloses Executive Bradley Bailey’s Sale of 1,071 Shares - TipRanks",
+      "publisher": "TipRanks",
+      "published": "2026-11-12T15:31:13+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS19kejRxU2JERU0tT3l6WEJZQ2k5ZzVSRWdUX2hMckd4WkJYempkaUlCdlBna01zWXpXNTNyQzlzdmlHcXExbjk2S05SNkxRcnVLemN2cEZGOTktWl9WTEF4cnplcDVJd3NPNnBEOEVNdjE0aFRmZS1COWFwakhmLU9DMEVrd3F1RnA0b2twVHRlNnBfTkRoSS1taS1xYkFlUGtlOVpNcWMwT19OckViaTRyZno?oc=5"
+    },
+    {
+      "title": "Genmab Reports November 10 Executive Share Sales - TipRanks",
+      "publisher": "TipRanks",
+      "published": "2026-11-12T14:54:17+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW54RHE1b3hsWkEyeWRpWWlGYzMwUWZHSU9icDZERzBxQzdFU2hfdXFXcDI4ekgzTDdYZjNpd3RDbW13N1QtVktyeXJLQ2o2MFJWTDFTcl9HdHk4MjRBM3VqMGQ0dE5xc3pqTldVdzZzVFdSQ2ZmeEZYUkE2NkxpNHl4ZkhtOWV2YlpTVl90LTcxdEU1VENJdkZaM1Z4WVVpNXc?oc=5"
+    },
+    {
+      "title": "Commercial chief Bradley Bailey sold 1,071 Genmab (GMAB) shares on November 11. - Stock Titan",
+      "publisher": "Stock Titan",
+      "published": "2026-11-12T14:25:38+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEtYT1l4Q2NPakZqbXBoMjlONHU4cl8yejRTVVB5TWxwN05ESWdSMzladHVVYmpfWVR2VlhQMVF2NFBoQ2JWMVdHWjJkS3hwUzRKWE5RRXhCa3hFOE5CUFNUcDdiLV9EMHoxcDZqWEMzdFpIV0ZiLUtpUkFHb3dKTUJ2cXlrbDF3VW5xcUY2SzRHRWFONDEtNnZ0d2Z3c09DQkRYYVowYTZ5dw?oc=5"
+    },
+    {
+      "title": "GENMAB A/S Current Report (Foreign Issuer) - Stock Titan",
+      "publisher": "Stock Titan",
+      "published": "2026-11-12T14:25:14+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaS1GR0szWXNTVXdKOUlXT292NkV6dEp1U1hDLUNBNmVBM0FRM0RKb1NfWVhtS1VZU3Y4WWx3NDNYcGxFNjRYdnJOZzNtaUhPSGFIOHA1WUs1VDk0ZXRzdmxkXzJRS2pBbW1US3R2elcyWl9ncTZmWjh3cXhGUWFZTlJtbDNlODdiaWJGYWgzSno3Ui1sRlkzdEdOeURRblN0SFQ5UEFTTzJZdw?oc=5"
+    },
+    {
+      "title": "CEO sells 22,000 shares as Genmab (GMAB) board members sell shares and exercise warrants. - Stock Titan",
+      "publisher": "Stock Titan",
+      "published": "2026-11-12T13:46:34+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdFVlQk10OWVVdWhwX3FVNkt5eFRFMlluWlAyZV9XSFlkSHpmRlJzRElqRmpIUkVDS3JwUHFhcl9DY0NMTkJLUHk3OVRnRm5pS29ndU9UOVFkVTkzNDlneVduQTFVdGhucFdqWmp4MS0wWXFMdkJraHc5YjZaeXJPMmpxdVphcG0ycXFJb1hnR3VKMkZDb1BoeU0tcnFtNkNDdGF2MFlHNWpHUQ?oc=5"
+    },
+    {
+      "title": "Genmab A/S (GMAB) options chain – Yahoo Finance - Yahoo Finance Singapore",
+      "publisher": "Yahoo Finance Singapore",
+      "published": "2026-11-12T08:18:37+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUDdfSE1yc0pwMnNRa05zWGpURlNLN090SFdvVWdLZDJLVnJ1Z0FPUUxReGFFRGo1X2pZXzFQWWhWUDhZcGJISmdONVJXWk9PaF81NTZSVkY1dFJ3ZkF2VkVEazVsUFdDejVOVXgxX05PRzdfbmtEUFdPV09MQTFZSjVZVWNzRE96NUFjeHBZZGdldw?oc=5"
+    },
+    {
+      "title": "GMAB 6-K & SEC Filings - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-12T08:00:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4YTZMczZSaWtFaHlWT0xSMEVVMGFYQU8zLTQ3YjgybldrYVdFYlcyUGFNTnhid2t1SEppcVdLYTg4RU5ENFRFOXR0cklmX0NiSVlHbFVVQTZYQkI0OGVibzBOSzlFeTFodXUtUkJjN1JwQlVZSUZyWG9B?oc=5"
+    },
+    {
+      "title": "GMAB270521C00060000 interactive stock chart | GMAB May 2027 60.000 call stock - Yahoo Finance UK",
+      "publisher": "Yahoo Finance UK",
+      "published": "2026-11-11T17:17:34+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TeFh5RHJKdjRlaHVwd0xVajUySU5ndmVnWFRFMHRxakR0LTNGRmlJaTd3ZFlLUDBQM3FsVENpLUhNVTN0NEZSVFRkMHEtVmJLd3pxNURUTlZzdV9qSmxJRWc5aDk?oc=5"
+    },
+    {
+      "title": "GMAB May 2027 60.000 call (GMAB270521C00060000) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "publisher": "Yahoo! Finance Canada",
+      "published": "2026-11-11T17:08:39+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtZDY0OWlobHkzUnpkZFowRXVjY0pDY21rZ3hkVWlfaU1wLW5vWmRjanNRS24yU05YZVk1V3FKYTFfS3RNQzFVdE8tVnI5OUgydVJ6aEtlUHVsREJWaTV3NWVGWjc4V2xIUW9LaHFR?oc=5"
+    },
+    {
+      "title": "Avoiding Lag: Real-Time Signals in (GMAB) Movement - Stock Traders Daily",
+      "publisher": "Stock Traders Daily",
+      "published": "2026-11-11T14:08:02+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa25NLTl5NUMzazZORDZ1OUJnbkhiSTdVdEZvUFdYYk5GTFI0R2V3OTk1V1lJYjBacUpyeXFYZGYwT3BQaU1MQjNNeUx4azJ4QVpaNjRXOUIzVTVkc0ZCckMxemN6TEJRd3hnWXJqRXpPd1Q1S05pR0VCT2ViM2pRR09ndnpXZnhVaE96cTBPdnpVcV8zM1AwaTdRLVVPRnhTNTdzSGZQWTc1bDhoLXVUOHk0RF9ERHR6TWMxdkN2YUh5S202WnVn?oc=5"
+    },
+    {
+      "title": "GMAB261120C00065000 Interactive Stock Chart | GMAB Nov 2026 65.000 call Stock - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-11T10:36:56+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iT3JRdzZjS0FhZ3VuWWV3cVN0WlpfZU96YzUyUVEyU2p0Z3haOEdaQWJ6MmRZLS04STRiaGxQd2NTOXdjTkVVYkxGYjFIWHhMcE9lR1o3UlBPQllnUVZYTQ?oc=5"
+    },
+    {
+      "title": "Employee warrant exercises will add 164,828 shares at Genmab (GMAB), about 0.2641% of capital. - Stock Titan",
+      "publisher": "Stock Titan",
+      "published": "2026-11-10T21:55:18+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWRFUTFfeFk5UjI1Q3Z2SXJzMi1xb2ZQZjlLbzFFc1hNR19KcEhTVU94UVVtTTFRUmg1MGJrYXlXbFVKclJQMXZ5SlNOb1NQRGVPS1ZpejBUZWpFWFZxVnJoWGZiNVpmc2d4T1VfaUQ1dEw5VEs5TUl3YUFNcHl0U2lYZ3hLWS1odWw4b0FmZUVQZnJxR3lxYUk3Z2w3YktUTVJXdk9KMHcwQQ?oc=5"
+    },
+    {
+      "title": "1,265 shares are proposed for sale by Genmab (GMAB) officer Judith Klimovsky. - Stock Titan",
+      "publisher": "Stock Titan",
+      "published": "2026-11-10T17:46:13+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWnRwbEYxTDVDRlZhTUxMQmJhZUNZY1RlWXVKcWhoSVNNWkNlQzJnaTFmMFlYbWZpYXRRTU5vRmU0V3Q4Mnhab05XczIza1V1eXAxVktyaXFfZ1FZT2NtcC1xanRRUFNla1EzN3pXbXMxbm1ZZzBSc3hSVU5vWWVLa3hPeHg1ZHFBX0JlQm13SGk?oc=5"
+    }
+  ]
+}

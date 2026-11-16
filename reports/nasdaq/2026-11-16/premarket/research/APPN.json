@@ -1,0 +1,8 @@
+{"ticker": "APPN", "rating": "Hold", "confidence": 0.4,
+ "entry": 53.1, "entry_zone": [52.4, 53.8], "stop": 46.2, "target": 66.1, "horizon_days": 15,
+ "expected_return": {"low": -0.13, "high": 0.245},
+ "sector": "Technology", "earnings_date": null,
+ "thesis": "APPN has real momentum: revenue growth sped up to 25.5% YoY (234.6M), net income turned positive at 12.3M, free cash flow is 78.3M, and the trend sits above SMA20 50.58, SMA50 42.75 and SMA200 30.07. But the last price of 54.51 is above the 52.4-53.8 entry zone and just under a 56.38 high that was rejected twice. At the last price, R/R to the 66.1 target with the 46.2 stop is only about 1.39 (about 1.55 at the 54.0 pre-market price), against 1.88 at the zone midpoint of 53.1. With a risk-off regime, broken tech leadership (XLK ret_21 -10.0%) and the price already at the 54.8 analyst mean target, this is Hold. Upgrade to Overweight only if price pulls back into 52.4-53.8 and the trend holds.",
+ "invalidation": "A daily close below 46.6 (the 2026-11-03 swing low of 46.63) breaks the post-earnings higher-low structure.",
+ "key_risks": ["Risk-off regime: QQQ below its 50- and 200-day averages, SMH ret_21 -12.9%, ^TNX at the 0.914 percentile, which hurts rich growth names", "Price 54.51 is at the 54.8 analyst mean target, with forward P/E 34.1 and EV/EBITDA 80.8", "56.38 high rejected twice (56.38, 56.35), and RSI 66 after +56% in 63 days", "ATR is 5.5% of price and short interest is 11.7% of float, so moves can be sharp both ways", "Debt 256.9M vs cash 88.9M, and GAAP net income has been volatile (-11.8M then +12.3M)", "The 66.1 measured-move target needs about +24% from 53.1 and may not be reached within the horizon"],
+ "debate_winner": "draw"}

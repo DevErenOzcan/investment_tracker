@@ -1,0 +1,18 @@
+{"ticker": "ASO",
+ "thesis": "ASO has run +47% in 63 days and +15.6% in 21 days, trades above the mean analyst target (63.58), and just took a Loop Capital downgrade to Hold, so much of the good news looks priced in. The stock is rolling over from its 71.29 high (Nov 9 reversal on 3.6M shares) in a risk-off tape where QQQ is below its 50/200-day averages, the 10-year yield is at the 91st percentile and October CPI was hot, which hurts a levered consumer-discretionary retailer (debt/equity 90). Q3 earnings on 2026-12-08 fall inside the swing window, with gap risk after the run and about 20% short interest that can cut both ways. The setup only offers about 1.4 reward/risk to the first resistance at 71.29, and the pre-market quote above the entry zone invites chasing. A close back under SMA20 (63.4) would turn this into a failed breakout.",
+ "evidence": [
+  "technical: ret_63 = 0.4705, ret_21 = 0.156, rsi14 = 65.32, close 67.59 vs sma50 55.9961",
+  "technical: dist_high = -0.0519; high 71.29 on Nov 9 reversed to close 67.59 over the next four sessions (lower highs, Nov 12 close 67.29)",
+  "technical: first resistance 71.29 gives only about 1.4 reward/risk per the card notes; entry zone 66.2-67.6, pre-market 68.03 is above it",
+  "profile: targetMeanPrice = 63.58 vs regularMarketPrice = 67.59",
+  "news: Loop Capital cut ASO to Hold (2026-11-10, negative)",
+  "news: event_risks = Q3 earnings 2026-12-08 inside the window; binary_event = true",
+  "news: shortPercentOfFloat = 0.1992, squeeze-prone but volatile both ways",
+  "news: the +11% move on 2026-11-04 and the new high have no explained cause in the packet",
+  "profile: debtToEquity = 90.381, totalDebt about 1.97B vs totalCash about 0.30B",
+  "profile: revenueGrowth = 0.03, so the rally is not backed by top-line acceleration",
+  "regime_view: risk-off, confidence 0.65; QQQ below 50/200-day, ^TNX percentile 0.914, hot CPI"
+ ],
+ "downside_case": {"level": 63.4, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

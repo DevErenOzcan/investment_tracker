@@ -1,0 +1,17 @@
+{"ticker": "HAS",
+ "thesis": "HAS is a stretched, post-earnings-gap stock priced at the consensus target, in a risk-off tape. It is up 22.5% in 21 days with RSI 68, has been rejected twice at the 52-week high (124.0 on Nov 5, 124.62 on Nov 11), and has closed lower three sessions in a row. Upside to the mean analyst target is zero, so the next analyst move is more likely a valuation downgrade than an upgrade. Leverage is high (debt/equity 410) and earnings are lumpy. Holiday toy price inflation at a 49-year high may hurt demand, and Zacks Rank #1 coverage is a crowded, late-stage sentiment signal. A rising-yield, tech-led selloff (QQQ below 50/200-day, TNX percentile 0.91) raises the chance that gap-fill selling takes the stock back toward 117 and then the 101-110 gap area.",
+ "evidence": [
+  "technical: close = 120.55, ret_21 = +22.5%, rsi14 = 68.25, dist_high = -3.3%",
+  "technical: 52-week high 124.62 rejected twice (Nov 5, Nov 11); last three closes 124.02, 121.48, 120.55",
+  "technical: gap base ~117.13 (Nov 6 low); post-gap gap-fill zone 109.5-114 sits well below the stop at 116.5",
+  "fundamentals: targetMeanPrice = 120.69 vs last close 120.55, no upside to consensus",
+  "fundamentals: debtToEquity = 410.35, totalDebt 3.85B vs cash 1.43B; net loss -855.8M in quarter ended 2025-06-29",
+  "fundamentals: valuation = fair, trailing P/E 17.97 after the re-rating, so growth is already priced in",
+  "news: post-earnings drift is largely priced in; no scheduled catalyst in the next 20 business days, next earnings date unconfirmed",
+  "news: toy prices rising at the fastest pace in 49 years may dampen demand; Zacks flags rising costs",
+  "regime_view: regime = risk-off (confidence 0.65), QQQ below 50/200-day, ^TNX percentile 0.914",
+  "regime_view: Consumer Cyclical is not among the leading sectors (XLV, XLP, XLF)"
+ ],
+ "downside_case": {"level": 109.5, "probability": 0.25},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

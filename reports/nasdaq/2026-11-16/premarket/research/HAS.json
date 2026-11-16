@@ -1,0 +1,8 @@
+{"ticker": "HAS", "rating": "Overweight", "confidence": 0.45,
+ "entry": 119.0, "entry_zone": [118.0, 120.0], "stop": 116.5, "target": 127.87, "horizon_days": 10,
+ "expected_return": {"low": -0.021, "high": 0.075},
+ "sector": "Consumer Cyclical", "earnings_date": null,
+ "thesis": "HAS is a pullback in a strong uptrend after a volume-backed Q3 gap (8.0M shares) on a beat and raised 2026 guidance (revenue +15% YoY, net income +69% YoY, FCF 804M). Price has held a 117-124.6 range on light volume above SMA20 117.77, and a dip into 118-120 gives a tight stop under the 117.13 swing low, with 3.5 reward/risk from the 119 mid-entry (1.8 at the 120.55 last close). Size stays modest because the target needs a break of the 124.62 52-week high, which has been rejected twice. The stock also trades at the 120.69 consensus target in a risk-off tape, though low beta (0.36) and no tech exposure soften that.",
+ "invalidation": "A daily close below 117.13 (Nov 6 low and post-earnings gap base) invalidates the setup; 116.5 is the hard stop.",
+ "key_risks": ["Third rejection at the 124.62 52-week high would cap the move below the 127.87 target", "Price equals the mean analyst target 120.69, so a valuation downgrade is plausible", "Risk-off regime (QQQ below 50/200-day, TNX percentile 0.91); Consumer Cyclical is not a leading sector", "Gap-fill zone 109.5-114 sits below the stop, so a gap-down could slip past 116.5", "Holiday toy price inflation at a 49-year high may dampen demand; high leverage (debt/equity 410)", "Entry zone may not fill: last close 120.55 is above the 118-120 zone"],
+ "debate_winner": "draw"}

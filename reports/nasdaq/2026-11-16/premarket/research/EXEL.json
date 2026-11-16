@@ -1,0 +1,15 @@
+{"ticker": "EXEL", "rating": "Overweight", "confidence": 0.42,
+ "entry": 68.45, "entry_zone": [67.9, 69.0], "stop": 66.8, "target": 73.69, "horizon_days": 10,
+ "expected_return": {"low": -0.024, "high": 0.077},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "EXEL is a highly profitable, low-beta (0.418) biotech in a confirmed uptrend (close 69.0 above SMA20 67.96, SMA50 62.29, SMA200 52.24), pulling back on fading volume (1.52M on 11/13 vs 2.41M average) after the 10/30 post-earnings gap, in a risk-off tape where healthcare (XLV) leads. Entry 68.45 (zone mid) with stop 66.8 under the 10/30 gap low of 67.05 and target at the 73.69 52-week high gives about 3.2 R/R (about 2.1 at the 69.0 last close, about 1.9 at the 69.2 premarket print). The bear's points (price above the 61.57 mean analyst target, 14.4% short interest, undated FDA decision on zanzalintinib, heavy-volume 11/5 reversal at 73.69) are real but not a dealbreaker; together with a stop only about 0.8 ATR away they hold conviction to Overweight rather than Buy.",
+ "invalidation": "Daily close below 66.8, which fills the 10/30 earnings gap (low 67.05) and breaks the post-earnings base.",
+ "key_risks": [
+  "Undated, binary FDA decision on zanzalintinib may land inside the window; a gap could blow through the 66.8 stop, so the realized loss could exceed -2.4%",
+  "Tight stop (1.65 below entry, about 0.8 ATR of 2.1165) makes a stop-out from routine noise likely",
+  "Target 73.69 is the 11/5 heavy-volume reversal high (4.38M shares) and the 11/10 down day came on 5.58M shares, so supply sits overhead",
+  "Price 69.0 is above the 61.57 mean analyst target; short interest is 14.42% of float (a news item cites 11.19%, so the figures conflict); Morningstar is cited as calling it 24% overvalued",
+  "Risk-off regime (QQQ below its 50- and 200-day averages, ^TNX percentile 0.914); healthcare-heavy book concentration per lessons.md item 6",
+  "Do not chase: if the open is above 69.0 (premarket 69.2), wait for the zone; skip if price breaks 73.69 without a pullback"
+ ],
+ "debate_winner": "bull"}

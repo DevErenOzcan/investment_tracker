@@ -1,0 +1,8 @@
+{"ticker": "CDNA", "rating": "Overweight", "confidence": 0.3,
+ "entry": 77.0, "entry_zone": [76.0, 78.0], "stop": 74.9, "target": 90.87, "horizon_days": 10,
+ "expected_return": {"low": -0.027, "high": 0.18},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "CDNA is in a strong uptrend (close 77.88 > SMA20 76.76 > SMA50 66.34 > SMA200 36.71) and is pulling back on fading volume (vol_ratio 0.63) toward the 75.81 post-earnings swing low after a 10/30 gap driven by Q3 revenue growth of 39.3%; pre-market 76.85 is inside the 76-78 zone. Healthcare leads in a risk-off tape, the balance sheet is strong and there is no visible binary or offering risk, so a small long on a hold of 76-78 targeting the 90.87 high gives asymmetric reward/risk (about 6.6 from 77.0). Confidence is low because the 74.9 stop is only about 0.4 ATR (5.19) from entry on a beta-2.49 name, so a stop-out before the target is more likely than not; news and SEC feeds were available.",
+ "invalidation": "A daily close below 74.9, under the 75.81 swing low, breaks the pullback and opens the gap-fill toward 64.56-70.",
+ "key_risks": ["Stop is about 0.4 ATR from entry on a beta-2.49 stock, so whipsaw risk is high", "Risk-off regime (QQQ below 50/200-day, ^TNX 1-year percentile 0.914) pressures high-multiple names", "Growth is decelerating (YoY about 52% to 39.3%, QoQ 12.1% to 5.6%) with forward P/E 49.8 and EV/EBITDA 151", "Q2 2026 net income of 110.6M looks one-off and the operating margin is 0.016, so earnings quality is uncertain", "Short interest 13.9% of float adds reversal risk in both directions", "Adds to a healthcare-heavy book, which may act as one correlated bet"],
+ "debate_winner": "draw"}

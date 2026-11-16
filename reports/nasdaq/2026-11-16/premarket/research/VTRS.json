@@ -1,0 +1,13 @@
+{"ticker": "VTRS", "rating": "Hold", "confidence": 0.42,
+ "entry": 20.575, "entry_zone": [20.35, 20.8], "stop": 19.75, "target": 22.33, "horizon_days": 10,
+ "expected_return": {"low": -0.04, "high": 0.085},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "VTRS is in a clean uptrend (close 20.82 above SMA20 19.27, SMA50 18.11 and SMA200 16.10, rs_63 +36%) in a sector the risk-off regime favors, and the Q3 EPS beat with guidance held plus a forward P/E of 7.59 support it. Reward/risk from the mid-zone entry of 20.575 is about 2.1, but it falls to about 1.41 at the 20.82 last close and about 1.19 at the 20.93 pre-market print. RSI 70, the close 8% above the SMA20, the price at the 21.3 mean analyst target and the stall after the 11/12 reversal from 21.20 cap the near-term edge. Rated Hold under provisional lesson 1 (downgrade when reward/risk at the last price is below 1.5); revisit as Overweight if price trades into the 20.35-20.80 zone and holds above 19.90.",
+ "invalidation": "A daily close below 19.90 (the 11/09 low) invalidates the setup, and a close under the 20-day SMA (~19.27) confirms the breakout failed.",
+ "key_risks": ["Extended: RSI14 70.1, ext_20 +8.0%, price 1.8% under the 21.20 52-week high and near the 21.3 mean analyst target",
+  "Pending Pacira acquisition (unverified terms, VTRS apparently the acquirer) may bring financing or dilution risk on top of 13.58B debt vs 2.01B cash",
+  "Revenue flat (-0.28% YoY) with a Q3 revenue miss; GAAP margin -4.1%, and the SEC net-income series is stale",
+  "Risk-off tape (QQQ below 50/200-day, ^TNX percentile 0.914); a rotation out of defensives could hit the healthcare leadership",
+  "Correlation: the book is already healthcare-heavy (lesson 6), so this would add to one correlated bet",
+  "Target 22.33 is a measured extension above the 52-week high with no overhead price history to confirm it"],
+ "debate_winner": "draw"}

@@ -1,0 +1,11 @@
+{
+  "vetoes": [],
+  "reductions": [
+    {"ticker": "EXEL", "factor": 0.5, "reason": "The undated, binary FDA decision on zanzalintinib may land inside the 10-day window. A gap on that news would blow through a stop that is only about 0.8 ATR away, so the realized loss could be well above the sized 2.4%."},
+    {"ticker": "GMAB", "factor": 0.5, "reason": "The cause of the late-October +28% spike is unexplained and deal pinning cannot be ruled out. Insiders (CEO, commercial chief, an officer) sold after the spike and the fade shows lower highs, so event risk cannot be checked and does not support even 0.36 confidence at full engine size."},
+    {"ticker": "CDNA", "factor": 0.5, "reason": "A beta-2.49, EV/EBITDA-151 name works against the risk-off regime. Its 6.6 R/R comes only from a stop about 0.4 ATR away, which the thesis itself calls more likely than not to be hit, so the Kelly-driven weight overstates the edge."},
+    {"ticker": "ASO", "factor": 0.75, "reason": "This is levered consumer cyclical in a risk-off, rising-yield tape, with 19.9% short interest and a fresh downgrade. The news card flags the 2026-12-08 earnings as a binary event inside the 20-day window, so the position must be closed before that report."}
+  ],
+  "portfolio_notes": "Three of the six names (EXEL, GMAB, CDNA) are healthcare/biotech post-earnings-gap pullbacks, which lessons item 6 already flags as one correlated bet. Every proposal is the same setup type: a tight stop (0.4-1.2 ATR) under a post-earnings gap. A broad risk-off gap-down could therefore stop out most of the book together, and losses could slip past the stops. Gross exposure is small (about 7.4% before cuts, cash about 93%), so the cuts are about the quality of the risk, not its size. Several names were quoted above their entry zones premarket (HAS, EXEL, GMAB, ASO). Fill only on a dip into the zone and log whether the zone was touched (lessons item 2).",
+  "held_alerts": []
+}

@@ -1,0 +1,16 @@
+{"ticker": "APPN",
+ "thesis": "APPN has run +56% in 63 days and sits 3.3% below a 52-week high that was rejected twice (56.38 and 56.35), while the market is risk-off with QQQ under its 50- and 200-day averages, tech leadership broken and 10-year yields at the 91st percentile. Valuation is stretched against the analyst view: the consensus target (54.8) is about equal to the price, so the upgrade is already priced in. Balance-sheet and profitability are thin (debt above cash, tiny operating margin, history of net losses), and short interest of 11.7% of float means sharp two-way moves. Reward/risk of about 1.9 with a 5.5% ATR is not compelling for a high-beta-to-regime tech name, and the post-earnings gap (open 54.59 versus prior close 49.82) leaves a fill target well below the price.",
+ "evidence": [
+  "technical card: score = 1, setup = pullback, entry_zone = [52.4, 53.8] (price 54.51 is above it), reward_risk = 1.9",
+  "technical card: notes = 56.38 high tested twice and rejected, 'do not chase'",
+  "packet technical: ret_63 = 0.5614, ret_21 = 0.244, rsi14 = 65.99, ext_20 = 0.0776, atr_pct = 0.0555",
+  "packet technical: gap on 2026-11-05 from prior close 49.82 to open 54.59; close 54.51 on 2026-11-13 is below the 55.15 prior close, and pre-market price = 54.0",
+  "news card: event_risks = consensus target 54.8 about equal to price, little analyst upside left",
+  "packet profile: forwardPE = 34.14, enterpriseToEbitda = 80.775, operatingMargins = 0.04783, profitMargins = -0.0072",
+  "packet profile: totalDebt = 256922000 vs totalCash = 88946000; shortPercentOfFloat = 0.1169",
+  "packet sec_fundamentals: net_income_q mixed (2026-06-30 = -11817000, 2026-09-30 = 12341000), so profitability is not yet established",
+  "regime_view: regime = risk-off, confidence = 0.65; SMH ret_21 -12.9%, XLK ret_21 -10.0%, ^TNX 5.141 at percentile 0.914"
+ ],
+ "downside_case": {"level": 46.6, "probability": 0.3},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

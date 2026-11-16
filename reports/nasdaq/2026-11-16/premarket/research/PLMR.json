@@ -1,0 +1,8 @@
+{"ticker": "PLMR", "rating": "Overweight", "confidence": 0.4,
+ "entry": 157.25, "entry_zone": [155.5, 159.0], "stop": 150.9, "target": 175.0, "horizon_days": 10,
+ "expected_return": {"low": -0.04, "high": 0.113},
+ "sector": "Financial Services", "earnings_date": null,
+ "thesis": "Palomar is a profitable specialty P&C insurer with revenue up 58% YoY to 386.6M, net income up 27% with improving earnings growth, and a forward P/E of 13.7. It has held its Nov 5 earnings gap for 6 sessions on fading volume just under the 162.08 52-week high, and as a low-beta (0.24) financials name it sits in a leading sector of a risk-off tape. Price is extended (RSI 70.5, 8.7% above SMA20), so the setup is a pullback-only entry in 155.5-159.0 with zone R/R of about 2.8 (1.9 at the 159.20 last close), not a chase.",
+ "invalidation": "A daily close below 151.5 (the Nov 6 gap-hold low), with a close under the 20-day SMA near 146.5 confirming the post-earnings breakout has failed.",
+ "key_risks": ["Risk-off regime (QQQ below 50/200-day, ^TNX 5.141 at 0.914 percentile) could drag momentum names regardless of sector", "Extended after the earnings run (RSI 70.5, ext_20 8.7%), so mean reversion toward SMA20 ~146.5 is plausible; stop is only ~1.2 ATR (5.19) below mid-zone entry", "Target 175.0 sits above the analyst mean target of 168.83 and requires clearing resistance at 162.08", "Underwriting-discipline and shifting-margin questions (Zacks, StockStory); 8-K Item 7.01 of 2026-11-12 content unverified", "Property catastrophe exposure; next earnings date not in packet"],
+ "debate_winner": "draw"}
