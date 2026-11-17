@@ -1,0 +1,17 @@
+{"ticker": "GMAB", "rating": "Overweight", "confidence": 0.35,
+ "entry": 51.71, "entry_zone": [50.9, 51.71], "stop": 49.5, "target": 59.0, "horizon_days": 10,
+ "expected_return": {"low": -0.043, "high": 0.141},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "The morning thesis held intraday. GMAB opened at 50.99, dipped to 50.86 (above the 50.68 swing low) and recovered to a last of 51.71, above the SMA20 at 51.28, in a strong uptrend (SMA50 41.88, SMA200 31.73) on fading volume (vol_ratio 0.76), with healthcare (XLV) leading a risk-off tape. Reward/risk from 51.71 to the 59.0 target is about 3.3, so expected value stays positive at a low hit rate. Size stays small and conditional because the cause of the 2026-10-28 gap is unknown and insiders are selling.",
+ "invalidation": "Daily close below 49.5, or any daily close below the 50.68 swing low, which would mean the post-earnings gap is being filled.",
+ "key_risks": [
+  "Stop kept at the morning 49.5 (50.68 swing low minus about 0.5 ATR of 2.18), not the technical card's 50.30, which sits only about 0.65 ATR under the last price and would likely be hit by noise; the trade-off is a 2.21 risk per share, or 4.3%",
+  "Target kept at the morning 59.0, below the 59.02 Oct 30 high and the 59.97 52-week high, instead of the card's 59.5 for a more conservative exit under resistance",
+  "The packet does not explain the 2026-10-28 +28% gap on 29.3M shares, so the price could be deal-pinned or the rerating could fade",
+  "Insider selling (CEO 22,000 shares, commercial chief 1,071 shares) plus 164,828 shares of warrant dilution",
+  "Risk-off regime (confidence 0.8, VIX 1y percentile 0.877, ^TNX 5.141); the next real support below 49.5 is the SMA50 near 41.9",
+  "Nov 20 monthly options expiry may add pinning and volatility",
+  "Healthcare concentration in the book (lessons item 6), so this may be correlated with other healthcare holdings",
+  "Last price 51.71 is at the top of the entry zone, so fills are better on a dip toward 50.9 than chasing higher"
+ ],
+ "debate_winner": "skipped"}

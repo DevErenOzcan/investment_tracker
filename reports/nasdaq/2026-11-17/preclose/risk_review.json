@@ -1,0 +1,17 @@
+{
+  "vetoes": [],
+  "reductions": [
+    {
+      "ticker": "GMAB",
+      "factor": 0.5,
+      "reason": "The +28% gap on 2026-10-28 on 29.3M shares came before the 2026-11-05 earnings date and nothing in the packet explains it, so an event risk (deal, trial data or pinning) cannot be checked; the CEO and commercial chief sold shares after the spike, Nov 20 options expiry is close, and the 49.5 stop is only about 1 ATR (2.18) away with the next support near the SMA50 at 41.9."
+    },
+    {
+      "ticker": "CROX",
+      "factor": 0.75,
+      "reason": "The engine sized from the 156.75 zone midpoint, but intraday.last is 159.02 and the zone was not touched (low 158.65), so the real stop distance is about 6.4% rather than 5.07% and R/R is about 1.95; with beta 1.5, about 13% short interest and debt/equity 124 in a risk-off tape, the cut keeps loss-at-stop near the engine's intent, and entry should stay limited to a pullback into 155.0-158.5."
+    }
+  ],
+  "portfolio_notes": "The book is flat, the regime is risk-off (confidence 0.8), and the engine leaves about 97% in cash, so total risk is small. CROX and HAS are both consumer-discretionary names riding post-earnings re-ratings into the holiday season, while CPI ran hot and ^TNX is at 5.141, so they carry the same consumer-spending and rate exposure despite different industries; their combined weight (about 2%) is acceptable but should not grow. HAS (beta 0.36) fits the regime best but has a tight 0.86 ATR stop, a target at twice-rejected resistance (124.62) and debt/equity of 410, so it gets no extra size. GCT stays rejected; with beta 1.6 in a tech-led sell-off, it should be re-checked only if it pulls back into its 61.8-62.0 zone.",
+  "held_alerts": []
+}
