@@ -1,0 +1,22 @@
+{"ticker": "ASO",
+ "thesis": "ASO is in a strong, relative-strength-led uptrend (above SMA20, SMA50 and SMA200) and is cheap on earnings multiples with positive free cash flow and low dilution risk. It is not a chase at 70.49, so the long case rests on a pullback entry in the 67.8-69.5 zone, with a stop at 66.5 below the clustered swing lows and a target of 75.1 for a 2.9 reward/risk. Roughly 20% short interest adds squeeze potential if the dip holds and earnings are good. This is a weak-to-moderate setup, not a high-conviction one. The regime is risk-off with growth lagging, the stock is extended (RSI about 70), the cause of the November breakouts is unknown, and earnings on 12/8 make it a binary event. Size small and only enter on the dip.",
+ "evidence": [
+  "technical: setup = pullback",
+  "technical: trend = up",
+  "technical: entry_zone = [67.8, 69.5]",
+  "technical: stop = 66.5",
+  "technical: target = 75.1",
+  "technical: reward_risk = 2.9",
+  "technical: notes = close 70.49 above SMA20 64.01, SMA50 56.51 and SMA200 53.16; 63-day return +51%, relative strength high",
+  "fundamentals: valuation = cheap (trailing P/E 11.83, forward P/E 9.96, EV/EBITDA 8.6 per notes)",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: notes = profitable, net income +9.9% YoY, ROE 18.6%, positive free cash flow 169,622,880",
+  "fundamentals: red_flags = short interest 19.92% of float (squeeze potential)",
+  "news: event_risks = no S-3/424B5 or 8-K in the last 10 days, so no offering risk visible",
+  "news: binary_event = true (earnings 2026-12-08, reaction could be sharp either way)",
+  "technical: score = 1",
+  "fundamentals: score = 1",
+  "news: score = 0"
+ ],
+ "upside_case": {"target": 75.1, "probability": 0.3},
+ "rebuttal_to_bear": null}

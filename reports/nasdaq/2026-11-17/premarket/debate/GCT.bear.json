@@ -1,0 +1,16 @@
+{"ticker": "GCT",
+ "thesis": "The market is risk-off (QQQ below 50/200-day, VIX 1-year percentile 0.877, 10-year yield at a 1-year high), and GCT is a beta 1.6 name with 11.5% of float short, so any drawdown in growth is likely to be amplified. The post-earnings gap has already been paid for, and the last bar was a bearish rejection from the 52-week high of 67.40, with the close at 64.15 about 6% above the SMA20. Reward/risk is only 1.7 and depends on a breakout, because the move to the 67.40 high alone is about 0.8. A 5.3-point stop (1.5 ATR) sits on a swing low that would only be reached by filling the full earnings gap. An executive retirement 8-K was filed on 11/13, with title-only detail, and commentary already calls the rally overbought. Debt of about 476M with debt/equity of 84 adds balance-sheet sensitivity to rates at 5.1%.",
+ "evidence": [
+  "regime_view: regime = risk-off, confidence 0.8; QQQ below 50- and 200-day, VIX 1y percentile 0.877, ^TNX 5.141 (1y percentile 0.914)",
+  "technical: last bar 11/16 open 66.54 (the high), close 64.15, a bearish rejection from the 67.40 52-week high",
+  "technical: reward_risk = 1.7, score = 1; reward/risk to the 67.40 high alone is about 0.8, so the trade depends on a breakout",
+  "technical: close is about 6% above SMA20 (60.40); stop 57.7 is about 1.5 ATR from the 63.0 mid-entry",
+  "technical: structural swing low 53.87 exceeds the 2.5 ATR cap, so the stop is tightened to 58.3, which makes a stop-out more likely",
+  "news: 8-K Item 5.02 on 2026-11-13, brand leader retirement, detail is title only",
+  "news: Seeking Alpha piece on 2026-11-13 argues the rally is overbought",
+  "news: about 11.5% of float short, beta 1.6, debt about 476M vs cash about 417M, debt/equity 84",
+  "technical: the target of 72.0 is below the 73.67 analyst mean, but it is about 1.3 ATR above the 52-week high"
+ ],
+ "downside_case": {"level": 57.7, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

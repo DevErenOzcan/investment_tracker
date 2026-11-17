@@ -1,0 +1,8 @@
+{"ticker": "GCT", "rating": "Overweight", "confidence": 0.45,
+ "entry": 63.0, "entry_zone": [62.0, 63.0], "stop": 57.7, "target": 72.0, "horizon_days": 10,
+ "expected_return": {"low": -0.0841, "high": 0.1429},
+ "sector": "Consumer Cyclical", "earnings_date": null,
+ "thesis": "GCT is in an intact uptrend (close 64.15 above SMA20 60.40, SMA50 56.67 and SMA200 45.08) and is holding its 11/5 earnings gap after a Q3 beat with revenue up 27% and net income up 36% YoY, at a forward P/E of 10.17 with low dilution risk. This is a pullback-only entry: the last close of 64.15 is above the zone, and R/R at that price is only about 1.2 (7.85/6.45), so the technical zone is narrowed to 62.0-63.0, where R/R is 1.70 to 2.33. The 11/16 rejection from the 67.40 high, the need for a breakout to reach 72.0, beta 1.6 and the risk-off regime (QQQ below its 50/200-day, VIX at the 0.877 percentile) keep this at Overweight with modest confidence, not Buy.",
+ "invalidation": "A daily close below 57.7 (a full fill of the 11/5 earnings gap), or a close below the SMA20 (~60.4) on rising volume before entry.",
+ "key_risks": ["Risk-off regime with beta 1.6 and 11.5% of float short, so market drawdowns are amplified", "Target 72.0 needs a breakout above the 67.40 52-week high; R/R to 67.40 alone is about 0.8", "11/16 bearish rejection from the high, and commentary calls the rally overbought", "8-K Item 5.02 executive (brand leader) retirement, title-only detail", "Debt of about 476M vs cash of about 417M (D/E 83.8) with ^TNX at 5.141", "Entry may never fill if price does not pull back to 63.0 or lower"],
+ "debate_winner": "draw"}

@@ -1,0 +1,20 @@
+{"ticker": "AMPL",
+ "thesis": "AMPL is a stacked-bullish uptrend (close above SMA20, SMA50 and SMA200) with accelerating revenue growth and a cash-rich balance sheet, now pulling back toward a defined entry zone. The risk-off regime and rich valuation cap conviction, and the first resistance at 18.85 offers poor reward/risk, so this is a moderate, patient setup. Enter only on a dip into the entry zone, or on a volume-confirmed close above 18.85, with the structural stop. The measured-move target is 22.0, close to the mean analyst target.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = pullback",
+  "technical: entry_zone = [17.2, 17.75]",
+  "technical: stop = 15.55",
+  "technical: target = 22.0",
+  "technical: reward_risk = 2.3",
+  "technical: notes = close 17.77 > SMA20 17.02 > SMA50 15.25 > SMA200 9.99; RSI 63.8; 63-day return +41%; relative strength strong",
+  "fundamentals: growth = accelerating",
+  "fundamentals: notes = Q3 2026 revenue YoY 24.93% vs 21.2% in Q2; gross margin 70.6%; cash 140,516,000 vs debt 9,329,000",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: notes = short interest 9.39% of float, below the 15% threshold; mean analyst target 21.27273 vs previous close 17.77",
+  "news: binary_event = false",
+  "news: notes = no offering, litigation or M&A items; net news effect mildly positive; earnings effect largely absorbed",
+  "news: event_risks = no SEC filings in the last 10 days (no S-3/424B5 offering signal)"
+ ],
+ "upside_case": {"target": 22.0, "probability": 0.3},
+ "rebuttal_to_bear": null}

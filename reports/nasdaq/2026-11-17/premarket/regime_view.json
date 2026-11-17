@@ -1,0 +1,20 @@
+{"regime": "risk-off",
+ "confidence": 0.8,
+ "leading_sectors": ["XLP", "XLV", "XLF"],
+ "lagging_sectors": ["XLK", "XLC", "XLI"],
+ "evidence": [
+  "QQQ below both 50- and 200-day averages (last 661.75, ret_21 -6.77%, ret_63 -7.68%)",
+  "VIX 1-year percentile 0.877 (above 0.85 threshold), last 22.97, ret_21 +24.57%, ret_5 +18.04%",
+  "SMH ret_21 -14.43% and below 50/200-day; XLK ret_21 -10.2% and below 50/200-day",
+  "Breadth weak for growth: IWM below 50/200-day (ret_63 -8.85%), SPY below 50-day (ret_21 -3.05%)",
+  "Defensives lead: XLP ret_21 +5.68% (1y pct 0.995), XLV ret_21 +6.32% (1y pct 0.971), XLF ret_21 +4.79%",
+  "^TNX at 5.141, ret_63 +10.49%, 1y percentile 0.914, a headwind for long-duration growth"
+ ],
+ "watch": [
+  "VIX 1-year percentile relative to 0.85 (currently 0.877)",
+  "QQQ attempts to reclaim its 50-day average (currently below)",
+  "^TNX direction from 5.141 (ret_5 +3.17%)",
+  "Semiconductor weakness (SMH ret_21 -14.43%) as a drag on QQQ"
+ ],
+ "summary": "QQQ is below both its 50- and 200-day averages with a 21-day return of -6.77%, and the VIX sits at the 0.877 percentile of its 1-year range, so the risk-off conditions are met. Tech, semis and communications lead the decline while defensives (staples, healthcare) and financials hold up, with rising yields (^TNX 5.141) adding pressure. Favor caution in sizing for new long swing positions."
+}

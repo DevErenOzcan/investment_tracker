@@ -1,0 +1,18 @@
+{"ticker": "GMAB",
+ "thesis": "GMAB is a parabolic, unexplained spike (+28% gap on about 7x volume, 63-day return +56%) now unwinding in a confirmed risk-off tape. It has made lower highs and lower closes, is down 7.6% over 5 days, and sits on its SMA20 and the 50.68 swing low, so a break has no nearby support before the far-below SMA50. Insiders (CEO, commercial chief, board) are selling into the rally, and nobody in the packet can say what drove the move, so there is no evidence the rerating is durable. The 49.5 stop is only about 0.75 ATR from entry, so the headline 4.8 R/R is likely to be stopped out by noise before it plays out. Risk-off regime with 10-year yields at 5.14 and a VIX at the 0.877 percentile argues against adding a crowded momentum name now.",
+ "evidence": [
+  "technical card: setup = pullback, 14% off 59.97 high, down 7.6% over 5 days, lower highs and lower closes",
+  "technical card: stop 49.5 is about 0.75 ATR from entry (atr = 2.2559), noise-stop risk acknowledged",
+  "technical card: close 51.57 vs SMA50 41.51, 63-day return +56%, so extended far above the mean and a large air pocket below 49.5",
+  "technical card: notes say wait for support to hold before buying, and support is not yet confirmed",
+  "news card: event_risks = cause of the 10-28 gap (+28%, about 29M shares) not identified",
+  "news card: insider selling by CEO (22,000 shares), commercial chief (1,071 shares) and board members, plus a proposed officer sale",
+  "news card: warrant exercises add 164,828 shares (about 0.26%), minor dilution",
+  "news card: Nov 20 monthly options expiry may add pinning and volatility",
+  "news card: only positive item is a DCF opinion piece, not a new event; score = 0",
+  "regime_view: regime = risk-off, confidence = 0.8, QQQ below 50- and 200-day averages",
+  "regime_view: VIX 1-year percentile 0.877, ^TNX 5.141 at 1y percentile 0.914"
+ ],
+ "downside_case": {"level": 41.5, "probability": 0.25},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

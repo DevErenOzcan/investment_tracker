@@ -1,0 +1,8 @@
+{"ticker": "AMPH", "rating": "Hold", "confidence": 0.42,
+ "entry": 28.7, "entry_zone": [28.4, 29.0], "stop": 26.7, "target": 31.0, "horizon_days": 10,
+ "expected_return": {"low": -0.07, "high": 0.08},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "AMPH is a strong uptrend (close 29.17 above SMA20/50/200, +37% over 63 days) in healthcare, a leading sector in a risk-off tape, backed by improving fundamentals: revenue growth accelerating to 8.2% YoY, net income recovering to 37.8M and cheap ratios (forward P/E 8.7). However the only resistance target is the rejected 31.0 earnings-spike high, giving reward/risk of about 1.15 at the 28.70 mid entry and about 0.74 at the 29.17 last price, below the 1.5 minimum, and the stock already trades above the 24.5 mean analyst target with the earnings catalyst spent. Stop 26.70 and target 31.00 are unchanged from the technical card; no sentiment card was available this run.",
+ "invalidation": "A daily close below 26.85 (10-day swing low, below SMA20 27.41) breaks the post-earnings base; a close above 31.0 on volume above 1.3x average would instead call for re-evaluation as a breakout.",
+ "key_risks": ["Reward/risk about 1.15 at mid entry and below 1 at the last price, capped by 31.0 resistance", "Price 29.17 above mean analyst target 24.5 (mean rating 3.14), downgrade or valuation pushback possible", "Short interest 21.7% of float drives volatile two-way moves", "Risk-off regime (QQQ below 50/200-day, VIX 1y percentile 0.877, TNX 5.141) with debt 691.7M vs cash 230.6M", "Earnings catalyst already spent; no scheduled catalyst in the next 20 business days", "Correlation with an already healthcare-heavy book"],
+ "debate_winner": "bear"}

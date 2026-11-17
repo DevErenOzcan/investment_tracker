@@ -1,0 +1,16 @@
+{"ticker": "GCT",
+ "thesis": "GCT is a high-quality, cheap compounder in an intact uptrend, holding its 11/5 earnings gap after a Q3 beat. Revenue grew 27% YoY and net income 36%, at a forward P/E near 10, with low dilution risk. The 11/16 rejection from the 52-week high gives a pullback entry at 62-64 with a defined stop at 57.7 below the gap. The setup is only moderate. Reward/risk is 1.7 and depends on a breakout above 67.40. The risk-off regime (QQQ below its 50- and 200-day averages, VIX at the 0.877 percentile) argues for small sizing and patience on the entry.",
+ "evidence": [
+  "technical: trend = up; close 64.15 above SMA20 60.40, SMA50 56.67, SMA200 45.08 (notes)",
+  "technical: setup = pullback, entry_zone = [62.0, 64.0], stop = 57.7, target = 72.0, reward_risk = 1.7",
+  "technical: notes = the 11/5 earnings gap (57.88 to 64.92 open) has held; RSI 59.5; relative strength +0.38 over 63 days",
+  "fundamentals: quality = high, valuation = cheap, dilution_risk = low, score = 1",
+  "fundamentals: notes = Q3 revenue 423.6M (+27.33% YoY), net income 50.6M (+36.13% YoY), ROE 33.1%, free cash flow 73.5M, forward P/E 10.17",
+  "fundamentals: notes = analyst mean target 73.67, about 15% above the last close; short interest 11.53% of float, below the 15% threshold",
+  "news: catalysts[0] = Q3 earnings beat on revenue and EPS, driven by European expansion, marketplace growth and logistics services (positive)",
+  "news: event_risks = no S-3 or 424B5 in the last 10 days, no takeover, litigation or probe, and binary_event = false",
+  "news: catalysts[3] = CFO New York investor meetings and online presentation scheduled for November (positive)",
+  "regime_view: regime = risk-off, confidence = 0.8; summary = favor caution in sizing for new long swing positions"
+ ],
+ "upside_case": {"target": 72.0, "probability": 0.35},
+ "rebuttal_to_bear": null}

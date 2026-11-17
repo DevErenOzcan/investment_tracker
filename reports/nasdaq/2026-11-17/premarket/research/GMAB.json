@@ -1,0 +1,15 @@
+{"ticker": "GMAB", "rating": "Overweight", "confidence": 0.33,
+ "entry": 51.15, "entry_zone": [50.7, 51.6], "stop": 49.5, "target": 59.0, "horizon_days": 10,
+ "expected_return": {"low": -0.032, "high": 0.153},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "GMAB is a profitable, high-margin healthcare name (operating margin 30.6%, FCF 855M) in a strong uptrend (close 51.57 vs SMA50 41.51), pulling back on fading volume (ratio 0.80) onto the SMA20 50.65 and the 50.68 swing low, with healthcare (XLV) leading in a risk-off tape. Reward/risk from the 51.15 mid entry to the 59.0 target under the 59.97 high is about 4.8, so the expected value is positive even at a low hit rate. Confidence is low because the stop is only about 0.75 ATR away, the driver of the 2026-10-28 gap is unknown, and insiders are selling, so this should be a small, conditional position: buy only if the 50.68 support holds (pre-market 50.83).",
+ "invalidation": "Daily close below 49.5, or a gap that holds below the 50.68 swing low at the open (entry is then off).",
+ "key_risks": [
+  "Stop at 49.5 is about 0.75 ATR (2.2559) from entry, so a normal-noise stop-out is likely",
+  "Cause of the 2026-10-28 +28% gap on about 29M shares is not identified in the packet, so the rerating may not last",
+  "Insider selling (CEO 22,000 shares, commercial chief, officer proposed sale) plus 164,828-share warrant dilution",
+  "Risk-off regime (confidence 0.8, VIX 1y percentile 0.877, ^TNX 5.141); next support below 49.5 is the SMA50 near 41.5",
+  "Nov 20 monthly options expiry may add pinning and volatility",
+  "Healthcare concentration in the book (lessons item 6): may be a correlated bet with other healthcare holdings"
+ ],
+ "debate_winner": "draw"}

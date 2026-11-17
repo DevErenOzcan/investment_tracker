@@ -1,0 +1,808 @@
+{
+  "ticker": "GCT",
+  "exchange": "NASDAQ",
+  "as_of": "2026-11-17T13:48:29.117653+00:00",
+  "data_note": "In the pre-market session the last price is the previous close; in the pre-close session it is ~15 min delayed.",
+  "technical": {
+    "indicators": {
+      "symbol": "GCT",
+      "date": "2026-11-16",
+      "close": 64.15,
+      "ret_5": 0.0812,
+      "ret_21": 0.1186,
+      "ret_63": 0.3073,
+      "ret_126": 0.7198,
+      "rs_63": 0.3841,
+      "sma20": 60.4045,
+      "sma50": 56.6673,
+      "sma200": 45.0811,
+      "trend": 4,
+      "atr": 3.4853,
+      "atr_pct": 0.0543,
+      "rsi14": 59.5421,
+      "dist_high": -0.0482,
+      "vol_ratio": 1.073,
+      "ext_20": 0.062,
+      "vol_20": 0.6143,
+      "dollar_volume_20": 39538447.9117,
+      "low_20": 53.87,
+      "high_20": 67.4
+    },
+    "levels": {
+      "swing_low_10": 53.869998931884766,
+      "swing_low_20": 53.869998931884766,
+      "swing_high_20": 67.4000015258789,
+      "high_52w": 67.4000015258789,
+      "low_52w": 31.079999923706055
+    },
+    "last_60_days": [
+      {
+        "d": "2026-08-24",
+        "o": 49.65,
+        "h": 50.62,
+        "l": 48.57,
+        "c": 50.51,
+        "v": 375100
+      },
+      {
+        "d": "2026-08-25",
+        "o": 50.84,
+        "h": 53.26,
+        "l": 50.45,
+        "c": 52.22,
+        "v": 421200
+      },
+      {
+        "d": "2026-08-26",
+        "o": 52.07,
+        "h": 52.5,
+        "l": 51.05,
+        "c": 52.08,
+        "v": 260200
+      },
+      {
+        "d": "2026-08-27",
+        "o": 51.76,
+        "h": 52.56,
+        "l": 51.38,
+        "c": 51.58,
+        "v": 307500
+      },
+      {
+        "d": "2026-08-28",
+        "o": 51.83,
+        "h": 53.71,
+        "l": 51.6,
+        "c": 52.95,
+        "v": 896900
+      },
+      {
+        "d": "2026-08-31",
+        "o": 52.15,
+        "h": 52.39,
+        "l": 48.42,
+        "c": 48.53,
+        "v": 820100
+      },
+      {
+        "d": "2026-09-01",
+        "o": 47.59,
+        "h": 48.1,
+        "l": 46.01,
+        "c": 47.37,
+        "v": 622800
+      },
+      {
+        "d": "2026-09-02",
+        "o": 47.5,
+        "h": 50.67,
+        "l": 47.24,
+        "c": 50.5,
+        "v": 452300
+      },
+      {
+        "d": "2026-09-03",
+        "o": 50.96,
+        "h": 52.12,
+        "l": 50.74,
+        "c": 50.87,
+        "v": 574800
+      },
+      {
+        "d": "2026-09-04",
+        "o": 50.16,
+        "h": 52.7,
+        "l": 49.8,
+        "c": 51.75,
+        "v": 520300
+      },
+      {
+        "d": "2026-09-08",
+        "o": 51.8,
+        "h": 52.6,
+        "l": 50.5,
+        "c": 52.2,
+        "v": 470300
+      },
+      {
+        "d": "2026-09-09",
+        "o": 52.15,
+        "h": 53.64,
+        "l": 50.11,
+        "c": 51.88,
+        "v": 719800
+      },
+      {
+        "d": "2026-09-10",
+        "o": 51.19,
+        "h": 53.35,
+        "l": 50.38,
+        "c": 51.8,
+        "v": 549400
+      },
+      {
+        "d": "2026-09-11",
+        "o": 52.68,
+        "h": 53.3,
+        "l": 51.25,
+        "c": 51.87,
+        "v": 380600
+      },
+      {
+        "d": "2026-09-14",
+        "o": 50.84,
+        "h": 53.12,
+        "l": 50.84,
+        "c": 52.74,
+        "v": 546400
+      },
+      {
+        "d": "2026-09-15",
+        "o": 52.48,
+        "h": 53.26,
+        "l": 51.74,
+        "c": 52.69,
+        "v": 347400
+      },
+      {
+        "d": "2026-09-16",
+        "o": 52.89,
+        "h": 53.7,
+        "l": 50.5,
+        "c": 51.64,
+        "v": 676800
+      },
+      {
+        "d": "2026-09-17",
+        "o": 52.6,
+        "h": 53.46,
+        "l": 51.62,
+        "c": 53.15,
+        "v": 630500
+      },
+      {
+        "d": "2026-09-18",
+        "o": 53.06,
+        "h": 54.13,
+        "l": 52.27,
+        "c": 52.86,
+        "v": 1362900
+      },
+      {
+        "d": "2026-09-21",
+        "o": 53.63,
+        "h": 54.01,
+        "l": 52.88,
+        "c": 53.06,
+        "v": 515600
+      },
+      {
+        "d": "2026-09-22",
+        "o": 53.82,
+        "h": 54.7,
+        "l": 49.34,
+        "c": 53.12,
+        "v": 1689500
+      },
+      {
+        "d": "2026-09-23",
+        "o": 52.81,
+        "h": 53.17,
+        "l": 51.16,
+        "c": 52.5,
+        "v": 554600
+      },
+      {
+        "d": "2026-09-24",
+        "o": 51.52,
+        "h": 54.05,
+        "l": 50.18,
+        "c": 53.91,
+        "v": 713500
+      },
+      {
+        "d": "2026-09-25",
+        "o": 54.01,
+        "h": 55.6,
+        "l": 53.26,
+        "c": 53.98,
+        "v": 584300
+      },
+      {
+        "d": "2026-09-28",
+        "o": 53.17,
+        "h": 54.0,
+        "l": 51.86,
+        "c": 52.62,
+        "v": 459200
+      },
+      {
+        "d": "2026-09-29",
+        "o": 52.67,
+        "h": 53.1,
+        "l": 49.43,
+        "c": 50.41,
+        "v": 619400
+      },
+      {
+        "d": "2026-09-30",
+        "o": 51.26,
+        "h": 53.34,
+        "l": 50.58,
+        "c": 51.68,
+        "v": 611200
+      },
+      {
+        "d": "2026-10-01",
+        "o": 52.21,
+        "h": 54.19,
+        "l": 51.95,
+        "c": 53.19,
+        "v": 483100
+      },
+      {
+        "d": "2026-10-02",
+        "o": 53.92,
+        "h": 54.18,
+        "l": 52.92,
+        "c": 53.75,
+        "v": 442000
+      },
+      {
+        "d": "2026-10-05",
+        "o": 54.69,
+        "h": 55.0,
+        "l": 53.42,
+        "c": 54.66,
+        "v": 560800
+      },
+      {
+        "d": "2026-10-06",
+        "o": 54.66,
+        "h": 55.8,
+        "l": 54.0,
+        "c": 54.76,
+        "v": 649100
+      },
+      {
+        "d": "2026-10-07",
+        "o": 53.84,
+        "h": 56.69,
+        "l": 53.19,
+        "c": 55.96,
+        "v": 1001200
+      },
+      {
+        "d": "2026-10-08",
+        "o": 55.37,
+        "h": 57.33,
+        "l": 54.89,
+        "c": 56.42,
+        "v": 1021100
+      },
+      {
+        "d": "2026-10-09",
+        "o": 57.19,
+        "h": 57.4,
+        "l": 55.3,
+        "c": 57.26,
+        "v": 754800
+      },
+      {
+        "d": "2026-10-12",
+        "o": 57.42,
+        "h": 58.17,
+        "l": 56.69,
+        "c": 57.74,
+        "v": 763600
+      },
+      {
+        "d": "2026-10-13",
+        "o": 57.5,
+        "h": 58.25,
+        "l": 56.01,
+        "c": 57.03,
+        "v": 634000
+      },
+      {
+        "d": "2026-10-14",
+        "o": 56.08,
+        "h": 58.04,
+        "l": 55.01,
+        "c": 57.75,
+        "v": 819500
+      },
+      {
+        "d": "2026-10-15",
+        "o": 57.0,
+        "h": 60.45,
+        "l": 56.23,
+        "c": 59.34,
+        "v": 1209100
+      },
+      {
+        "d": "2026-10-16",
+        "o": 59.25,
+        "h": 59.98,
+        "l": 56.77,
+        "c": 57.35,
+        "v": 701500
+      },
+      {
+        "d": "2026-10-19",
+        "o": 57.6,
+        "h": 58.55,
+        "l": 57.51,
+        "c": 57.96,
+        "v": 449500
+      },
+      {
+        "d": "2026-10-20",
+        "o": 57.88,
+        "h": 59.6,
+        "l": 57.56,
+        "c": 58.93,
+        "v": 550600
+      },
+      {
+        "d": "2026-10-21",
+        "o": 59.0,
+        "h": 60.96,
+        "l": 58.32,
+        "c": 60.39,
+        "v": 619900
+      },
+      {
+        "d": "2026-10-22",
+        "o": 59.95,
+        "h": 60.73,
+        "l": 58.13,
+        "c": 59.12,
+        "v": 525600
+      },
+      {
+        "d": "2026-10-23",
+        "o": 58.44,
+        "h": 59.16,
+        "l": 57.16,
+        "c": 58.24,
+        "v": 457200
+      },
+      {
+        "d": "2026-10-26",
+        "o": 58.75,
+        "h": 60.19,
+        "l": 58.21,
+        "c": 59.4,
+        "v": 395000
+      },
+      {
+        "d": "2026-10-27",
+        "o": 59.96,
+        "h": 59.96,
+        "l": 58.49,
+        "c": 59.6,
+        "v": 311500
+      },
+      {
+        "d": "2026-10-28",
+        "o": 59.68,
+        "h": 60.8,
+        "l": 59.34,
+        "c": 60.63,
+        "v": 406600
+      },
+      {
+        "d": "2026-10-29",
+        "o": 61.0,
+        "h": 62.03,
+        "l": 59.64,
+        "c": 60.62,
+        "v": 480200
+      },
+      {
+        "d": "2026-10-30",
+        "o": 59.54,
+        "h": 60.2,
+        "l": 56.61,
+        "c": 58.38,
+        "v": 901800
+      },
+      {
+        "d": "2026-11-02",
+        "o": 59.34,
+        "h": 60.49,
+        "l": 57.32,
+        "c": 57.46,
+        "v": 496200
+      },
+      {
+        "d": "2026-11-03",
+        "o": 57.36,
+        "h": 57.42,
+        "l": 53.87,
+        "c": 54.72,
+        "v": 876800
+      },
+      {
+        "d": "2026-11-04",
+        "o": 56.01,
+        "h": 58.92,
+        "l": 56.01,
+        "c": 57.88,
+        "v": 575900
+      },
+      {
+        "d": "2026-11-05",
+        "o": 64.92,
+        "h": 67.18,
+        "l": 61.33,
+        "c": 63.01,
+        "v": 1222300
+      },
+      {
+        "d": "2026-11-06",
+        "o": 63.0,
+        "h": 65.03,
+        "l": 58.3,
+        "c": 58.37,
+        "v": 928500
+      },
+      {
+        "d": "2026-11-09",
+        "o": 60.0,
+        "h": 62.46,
+        "l": 58.5,
+        "c": 59.33,
+        "v": 655900
+      },
+      {
+        "d": "2026-11-10",
+        "o": 58.5,
+        "h": 61.89,
+        "l": 58.46,
+        "c": 61.77,
+        "v": 657800
+      },
+      {
+        "d": "2026-11-11",
+        "o": 62.5,
+        "h": 65.51,
+        "l": 62.05,
+        "c": 64.67,
+        "v": 798300
+      },
+      {
+        "d": "2026-11-12",
+        "o": 64.67,
+        "h": 65.8,
+        "l": 62.84,
+        "c": 64.79,
+        "v": 656400
+      },
+      {
+        "d": "2026-11-13",
+        "o": 65.25,
+        "h": 67.4,
+        "l": 64.73,
+        "c": 66.63,
+        "v": 688200
+      },
+      {
+        "d": "2026-11-16",
+        "o": 66.54,
+        "h": 66.54,
+        "l": 61.75,
+        "c": 64.15,
+        "v": 844200
+      }
+    ],
+    "weekly_closes_26": [
+      36.04,
+      31.53,
+      34.1,
+      33.98,
+      32.03,
+      33.21,
+      34.41,
+      38.01,
+      36.09,
+      43.74,
+      53.25,
+      51.87,
+      49.65,
+      52.95,
+      51.75,
+      51.87,
+      52.86,
+      53.98,
+      53.75,
+      57.26,
+      57.35,
+      58.24,
+      58.38,
+      58.37,
+      66.63,
+      64.15
+    ]
+  },
+  "profile": {
+    "symbol": "GCT",
+    "shortName": "GigaCloud Technology Inc",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "marketCap": 2285281280,
+    "trailingPE": 13.855291,
+    "forwardPE": 10.166403,
+    "priceToSalesTrailing12Months": 1.4673299,
+    "enterpriseToEbitda": 11.814,
+    "profitMargins": 0.10887,
+    "operatingMargins": 0.12178001,
+    "grossMargins": 0.24374,
+    "revenueGrowth": 0.273,
+    "earningsGrowth": 0.424,
+    "returnOnEquity": 0.33078998,
+    "debtToEquity": 83.815,
+    "freeCashflow": 73491504,
+    "totalCash": 417254016,
+    "totalDebt": 475987008,
+    "beta": 1.607,
+    "shortPercentOfFloat": 0.1153,
+    "heldPercentInstitutions": 0.90196,
+    "recommendationMean": 2.0,
+    "numberOfAnalystOpinions": 3,
+    "targetMeanPrice": 73.66667,
+    "fiftyTwoWeekHigh": 67.4,
+    "fiftyTwoWeekLow": 28.8,
+    "averageVolume": 643623,
+    "preMarketPrice": null,
+    "regularMarketPrice": 64.15,
+    "regularMarketPreviousClose": 66.63,
+    "earnings_date": "2026-11-05"
+  },
+  "sec_fundamentals": {
+    "available": true,
+    "cik": 1857816,
+    "revenue_q": [
+      {
+        "end": "2024-06-30",
+        "val": 310867000,
+        "filed": "2025-08-07"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 303316000,
+        "filed": "2025-11-06"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 271906000,
+        "filed": "2026-05-07"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 322606000,
+        "filed": "2026-08-06"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 332638000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 359488000,
+        "filed": "2026-05-07"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 411643000,
+        "filed": "2026-08-06"
+      },
+      {
+        "end": "2026-09-30",
+        "val": 423564000,
+        "filed": "2026-11-05"
+      }
+    ],
+    "net_income_q": [
+      {
+        "end": "2024-06-30",
+        "val": 26969000,
+        "filed": "2025-08-07"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 40685000,
+        "filed": "2025-11-06"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 27146000,
+        "filed": "2026-05-07"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 34552000,
+        "filed": "2026-08-06"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 37175000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 38124000,
+        "filed": "2026-05-07"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 42335000,
+        "filed": "2026-08-06"
+      },
+      {
+        "end": "2026-09-30",
+        "val": 50608000,
+        "filed": "2026-11-05"
+      }
+    ],
+    "stale_warning": null,
+    "revenue_yoy": 0.2733,
+    "net_income_yoy": 0.3613
+  },
+  "sec_filings_10d": [
+    {
+      "form": "8-K",
+      "filed": "2026-11-13",
+      "items": "5.02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1857816/000162828026073593/gct-20261113.htm"
+    }
+  ],
+  "news_status": {
+    "status": "ok",
+    "source": "yahoo+google_rss",
+    "errors": []
+  },
+  "news_7d": [
+    {
+      "title": "GCT Q3 Earnings Beat Estimates on Strong European Growth",
+      "publisher": "Zacks",
+      "published": "2026-11-13T13:44:00+00:00",
+      "summary": "GigaCloud's Q3 2026 earnings and revenues beat estimates, fueled by European expansion, marketplace growth and stronger logistics services.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gct-q3-earnings-beat-estimates-134400702.html"
+    },
+    {
+      "title": "GCT Semiconductor Holding, Inc. Q3 2026 Earnings Call Summary - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-13T13:30:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNmZOeUJiMHM3TmRmSlFBRGRGeEFrOGpIQmVDX1o0M2NQbFhqdW82enRwZVlsd1k2THZILWdZTHVXck40Zzg2d0VRQ3NCaEdNRFNVbnVvY21rU3hpdTB2ODREWTBoaXZlNGxEVmJmRW96ZDlRUUpud0VkRzh1TDI3a2xQX2RnMkkzRXBPLXpRWnAtUHJob2swR3lqenN1dw?oc=5"
+    },
+    {
+      "title": "GigaCloud: Overbought Rally Negates Promising Europe Opportunities And Richer Performance Metrics - Seeking Alpha",
+      "publisher": "Seeking Alpha",
+      "published": "2026-11-13T12:22:58+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORWJEVndiS1RrR2t2NXV0MW4yd2NzYXo5U2RMN09FSFRwYmxBOV81eUJDZWxMWW5Wa0s4WlIydHFDdzNEbk9ta3BuV0puWGd6eVllZXMxcFBEdEYtLUZUa0xxMGFiTnZhUW1RSHpKc2VPdk1QQk13UGZtdWpiY3gzMkUtU1ZUVmFqdXJhVWN2WHZxSHM2OVFmU2FQNjFsT1NNaE05cmEtYzdmSWI5eG5VVjNjWXNZVjNBZTQtRk4xenpQd0UxNlQ5aGtRM1Y5Z3JDdnU4?oc=5"
+    },
+    {
+      "title": "GigaCloud’s brand leader plans to retire from his role, then stay on its board through Aug. 17, 2027. - Stock Titan",
+      "publisher": "Stock Titan",
+      "published": "2026-11-13T12:00:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUE1jRmNlX3lhRzJiTkZIdlVtZmkzYUo0ODlLM09ZVUxGZGlRWUhoWVFrdjZPbWcyNlZ6ak9IcUNtQ0FKU3JEMHNUa2pFaS1fODRpTHAxSlpaaG5IOTQ4OEdwQjkxRWF4QzVxcWxBcmNJX29ORFI3dlVUcDF3ZzRfN01KUGU2RnI0eTRxSmctMHJzT0g5bGg0WDJrX1FwZi1RQkpnVTFENVNwVTZUVExvRzZSajQ?oc=5"
+    },
+    {
+      "title": "What GCT Semiconductor (GCTS) Said on Its Q3 Earnings Call - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-13T08:14:44+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc0VnR1RLejdMUGhGcm1hUHR2RDdxZlBUYTBjRDMxTkplVkhhWV9YZVEzU09EWnJKWWxTbXlrT19GVTVlX2xrUGE1emdqTFRZbUx2d1dNYjVIV3Vxd3VGN0JuU0lmbmpHVmRnVUYzakxRS0RwTjhCRGU3b3FRa2RxcWlmUTM4d083ZEdQbDNxX0F2Yjk4Unc?oc=5"
+    },
+    {
+      "title": "GCT Semiconductor Holding Inc (GCTS) (Q3 2026) Earnings Call Highlights: Revenue Surges 149% as ... - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-13T05:03:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ3dMMmVsMVlEZTIwOUhvcEFyakdPUzMxY0FNT0xnVEhLdm00UnhjYmhmQnVyUjYzWGE1MVFGTnRCa2NOQTF1MkFEUEtCTFNfdEZuVXJvOTV5eHphUTIwNWZGc045OHRjdk11VHd4SGRPX20wQnlGdGowMTd4YlRmRzBjSXlUNWRCT1ZoSWRBNlJjTFhmXzEycFZqdF9nVGNZ?oc=5"
+    },
+    {
+      "title": "GCT Semiconductor (NYSE:GCTS) Announces Earnings Results - MarketBeat",
+      "publisher": "MarketBeat",
+      "published": "2026-11-13T01:48:12+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOHRiUm0zd3RqTXI1Ql9BZU9YclhzbEp4VWg4UjNZWXRQNDR0Z0RCUzVHbDZQMFpUZElidGM4VEtrRmdCN2luaGdaR2FHNVJBZExPOW9xakVMNTh0OGNIUDJqRXEtOTRoMWw4MFJkRDJWSFpCMFZZbGhWZktMcjg4bE5oamN2dDF4Q3g3SThaZ0lnQndfWFQ2TFpuLVBOYXBFSVlGYk9QdllzcktMZEN5Ni1vOUJKWm8y?oc=5"
+    },
+    {
+      "title": "GCT Semiconductor Holding earnings missed by $0.02, revenue fell short of estimates - Investing.com",
+      "publisher": "Investing.com",
+      "published": "2026-11-13T00:18:53+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSFBjWGg3bnhud21vX3FIRHVZa1FFOXlVU2NqVlFNa29mYVgyZVJHc2lCcDlBZnp2UTVXUF9QWjRJeTd5dmI5aHVYTWpFTExVSEZWa3hNN3oxMFF3LVhnZHVGaTRzNkNfVDJpTXpJcDc2Qk1iQ2xXblZ2TzhUT1huVkRmZnBiTDduT2pCeGFCMlZVM2pmeWtqNmJoN3g2UjJubzZGaFB6cXNHTE81NmFUYUxjbnE2Wmh1RDJQRmpxN0FMYzE1Z01N?oc=5"
+    },
+    {
+      "title": "GCT Semiconductor Q3 Results: Loss narrows 68% YoY, sales miss estimates - scanx.trade",
+      "publisher": "scanx.trade",
+      "published": "2026-11-12T23:26:33+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOGJJaXQ2VDItLTZXSW12QkpCaEVoRDJvZWpmV0JYTzQ2MC1lVWtpNjdoNGRpMnFhYnF1bXlHZHQyeEtqcGNBZWdHa20wYXgwbTdlLVBPZ0tvVlZDekczai1CN3FwU2hwOEtCUERZVm03Y2JPcUVTU3pEM3lXWjFybkZSd0RPbWFoNkdpS2xWOUZjRWZYdno5ZTJCSVZVVkg3MGJKeTNmQTFXMjR2NlVoR1BiamhYXy14YXRsUVBlNzhITk1i?oc=5"
+    },
+    {
+      "title": "GCT Semiconductor Beats On EPS But Pushes Its 5G Ramp To 1H27 As Shipments Slide And Cash Shrinks - Finviz",
+      "publisher": "Finviz",
+      "published": "2026-11-12T23:10:27+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUmNlbmpTUGx1XzhHZTJ0X0VsX190WlFpeFpocXZVdlZCeDNiaTk3MVNWNWJiWDFlQmZhaGUzRkNlS2N1d1NaQTlBVVRkUzJNaWs1WEZ2dGxsWnloWDU0MTFPdHlMczhROWZVWk11NFBaUFItaE0xLVhPdFN0SWhQZUNneXhtVEZydnNITTlmV1RndnJNZUgyR0pXTG1IQ1F0cG91YXdMZFVKRlNBUWYtSUE3aFhkaktpclhSaWRYc1NDeFhWQzJr?oc=5"
+    },
+    {
+      "title": "Earnings call transcript: GCT Semiconductor Q3 2026 shares sink on slow ramp - Investing.com Canada",
+      "publisher": "Investing.com Canada",
+      "published": "2026-11-12T22:30:15+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWXI4OUcybWVZSG9SY3JRTlQ3cHJ1Rkx4OTU3S0VsX2VkZUNjVmhGSEEwbTFpMlpwZzZ4MkFOX1J0XzlodUc0ek0yMEdIeE12WV9UdnpXUVZXU0l5UjJRcUtpcDBKY2Ffa0Y1UndkT1d6YUtsZkpQSHFkN1FiNHpYRWZlQXI0OVJ1TW05RzUwYWM2SDU0YjR1MmpEWXlTQVJfZWJQR0NHSER6aGFPT0tVTGNfREI1eUdZclNsMHFKQ0ZPY2FhakNQMmJqbG1uYjZKWmc?oc=5"
+    },
+    {
+      "title": "GCT Semiconductor Holding, Inc. (GCTS) Releases Q3 2026 Earnings: Revenue Jumps 148.6% but Losses Persist - Quiver Quantitative",
+      "publisher": "Quiver Quantitative",
+      "published": "2026-11-12T21:42:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMC05dEtfVllyT0tqMS10TUltUkRTcWd0bUR3TUJzUGdFeU5GUmNGWjRPbFAyWnhsa2l0TGM4clEyZzFQd2JyOXpnZVRfMFItQS1yOFlqSVl0OGJIaFNIcFhMc1R2eXF5VjBxNzRDMHpLbDVIX1ZUVXNTcjhoNGhQbEdHTG4tOXY1SlBxSjhzT3JQTzBIdnJkS1Q2ZGtBMzRVX1U5X2Nfck1kT0FFc2VnTkJJMkdwNnN4Smh6MkY5WFFfQUJLaFVOSGJxVk5hMnJBdUpiUVFIVll4bFZLakNsc1BB?oc=5"
+    },
+    {
+      "title": "GCT Semiconductor Holding, Inc. Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
+      "publisher": "www.marketscreener.com",
+      "published": "2026-11-12T21:19:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY3l5dHZKUW1hdFU3WWd5T0RyaGlraDA2TzB1Zzd1YV9BSWtKT2lOOVNWamNRTFJzRERkNGwxYkZaLU1vNTFSU0pwRXZqT0ZDV1JHYW15UFktNTRvWXNCbjdOalpCZlRWQzJ4ZFFURHEwcnpxeTlMcHpjdDJ2NHMwVE1YS09ZVFlSU3BiRlN2dWNCTU1JckRMM2NmeFBEZ3VHVjBXa0l0bUFXdGJkVG9jTDBJUTYxU1dZZThvZnZNc1dDd2ttcXk5V0VtM2hTbUZOdG9PZGd1Y3prMzlSTTNCQk0tdTlRZw?oc=5"
+    },
+    {
+      "title": "GCT Semiconductor Holding, Inc. Provides Business Update and Reports Third Quarter 2026 Financial Results - Business Wire",
+      "publisher": "Business Wire",
+      "published": "2026-11-12T21:11:32+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOempidGUzYkMxWXJpZ2g4dDBTejkxUjlBcWlhOVZNbDN4STl4LTJnTmZBODRHWGxGOUlHRWZPeTl3UU5mMndlWGhpbjV1Q01YSXJ4cUhNYmdDdU5Kd3VCdF93b0VJc1Vjdnh3ZXU0cXJ3bDNZYm5kaWJJenozNzNwOVZWSTNkS1kyOW1JZ2ZaOGRLTHdPc3VJS0dUMGJvWDVPQ2ZUSVZsRkhmRjlwZnRKUmZTOXNPTnZ0dDdsY29wa0VkVDM0d05XY3dfRWlaTUNsSzU0X2cyc1NFSVBlVXdUY285NzRzZnVWa0didU5Lak5sSjg?oc=5"
+    },
+    {
+      "title": "GigaCloud Technology (NASDAQ:GCT) Aligns With Minervini Trend Template as High-Growth Momentum Candidate - ChartMill",
+      "publisher": "ChartMill",
+      "published": "2026-11-12T13:40:41+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSTdkXzJ2MzlrMkJaSEV3Ylk1Q1Y4S3RLd0dKeTljRUFDalBESzFka3ZGM2xUUGVlaGVqSEFoWmF4SC1hVUdaMUF2UDd2NlBic2JQamdfelYwRFhPWlNnYnBYRzdlMklCQ2NsX3RxUUhYQ0wwTW9EdG5kRjlwblJ6X0N3M2Exd1N6R2FwZUJZcEhWM2lxWlhuT1pZSHk2Sk9XYWYtU0lDZjBnd3RjUHluNS15OC1JbklpODRIUDlmNXNCT25VQXFEUURnN2V2dTlQX1lTX2w4eFhDc3hqbkxOWEtVQnlYQlU?oc=5"
+    },
+    {
+      "title": "GCT Dec 2026 55.000 put (GCT261218P00055000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "publisher": "Yahoo! Finance Canada",
+      "published": "2026-11-10T21:48:15+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0eEwxZE1BSE1laHlfU2gxZUNvR3pLU0trOGNLTkJyNmpIa2l1Vm5xWkhmZmVteHpRamRydGVHODZrWVpPSDJlNUdfVUktZjNpUnhmOFdUVEJJemlyZldZelhYWGU?oc=5"
+    },
+    {
+      "title": "New York investor meetings and an online presentation are on the GigaCloud CFO's November schedule - Stock Titan",
+      "publisher": "Stock Titan",
+      "published": "2026-11-10T21:05:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY3FrS0toSFhzcmhTVnhvcmNwSmFSX1hYRDlXUDNfMktGSm5ic3hEVlljSlYzb0EycnNzc3F3cHhaU1dQcU9uMDNEc1NIaE9PVEE3VmdGVzE1aUdxR2U3U1VKa0pfVFE4LVdiS3p2dzFUQVVocVVoYXdobjFlZlFhYS0xYjE5Y3ZBQ0pMQ2pKbmxsVGk2cGJQSWltVUxiVXYyaUZ6amxWd1JUVkhmclFVajFJQ3Uxd1ozUTM0Tl9B?oc=5"
+    }
+  ]
+}

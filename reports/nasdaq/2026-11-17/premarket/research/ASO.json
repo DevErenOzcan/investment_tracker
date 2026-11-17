@@ -1,0 +1,8 @@
+{"ticker": "ASO", "rating": "Hold", "confidence": 0.38,
+ "entry": 68.65, "entry_zone": [67.8, 69.5], "stop": 66.5, "target": 75.1, "horizon_days": 10,
+ "expected_return": {"low": -0.031, "high": 0.094},
+ "sector": "Consumer Cyclical", "earnings_date": "2026-12-08",
+ "thesis": "ASO has a strong relative-strength uptrend (close 70.49 above SMA20 64.01, SMA50 56.51, SMA200 53.16) and cheap multiples (forward P/E 9.96, EV/EBITDA 8.6), and the 67.8-69.5 pullback zone gives about 3.0 R to 75.1 against a 66.5 stop. But the last price of 70.49 sits above the zone, where R/R is only about 1.16. The run (+51% in 63 days) has no identified catalyst, RSI is about 70, and the regime is risk-off (confidence 0.8) with a hot-CPI headwind for consumer cyclicals. Hold now; it becomes actionable only if price fills the zone and the 66.5 low holds.",
+ "invalidation": "A daily close below 66.5, or a failed break of the 71.29 high that closes back under 67.",
+ "key_risks": ["Risk-off regime: QQQ below its 50- and 200-day averages, VIX at the 0.877 percentile, ^TNX 5.141 and rising", "Fiscal Q3 earnings on 2026-12-08 with about 19.9% short interest, so a gap through the 66.5 stop is possible (bear's downside level is 62.3, about -9.2% from 68.65)", "Unexplained jumps of +11% on 11/4 and +6% on 11/9 with no confirmed catalyst; the extension may mean-revert toward SMA20 64.01", "Price 70.49 is above the analyst mean target of 63.58; revenue growth slowed to +2.97% YoY", "Leverage: total debt well above cash"],
+ "debate_winner": "bear"}
