@@ -1,0 +1,8 @@
+{"ticker": "VTRS", "rating": "Hold", "confidence": 0.4,
+ "entry": 20.2, "entry_zone": [20.0, 20.4], "stop": 18.85, "target": 22.0, "horizon_days": 10,
+ "expected_return": {"low": -0.0668, "high": 0.0891},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "VTRS is in a clean uptrend (close 20.45 above SMA20 19.49, SMA50 18.26 and SMA200 16.18, rs_63 +0.35), it is in a leading defensive sector (XLV) and it trades cheaply (forward P/E 7.4, FCF 3.16B). But reward/risk from the technical card is only 1.33 at the zone midpoint 20.20, below the 1.5 Buy floor. At the 20.45 last close it falls to about 0.97, because the 21.20 52-week high caps the first leg below the 22.0 target. With a risk-off regime (confidence 0.85), an unread 8-K Item 2.01 filed 2026-11-17 and price already near the 21.5 mean analyst target, the edge does not justify a new position. Stop, target and zone are unchanged from the technical card.",
+ "invalidation": "A daily close below 18.79 (Nov 5-6 swing low) breaks the uptrend. An upgrade needs a pullback into 20.00-20.40 that holds with R/R of at least 1.5, or a confirmed close above 21.20 with the 8-K terms reviewed.",
+ "key_risks": ["Reward/risk of 1.33 at the zone midpoint (about 0.97 at the 20.45 close) with 21.20 resistance in the way", "Risk-off tape: QQQ 21-day -8.55%, VIX 1y percentile 0.905, 10-year yield 5.115", "8-K Items 2.01/7.01/9.01 filed 2026-11-17 with unknown deal terms", "High leverage (debt 13.58B vs cash 2.0B), negative GAAP margin (-0.04127), flat revenue (YoY -0.0028)", "Post-earnings rally of about 10% with no explanatory headline; price within about 5% of the 21.5 mean analyst target", "Correlation: the book is already healthcare-heavy (lessons item 6)"],
+ "debate_winner": "bear"}

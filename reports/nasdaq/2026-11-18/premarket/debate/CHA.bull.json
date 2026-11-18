@@ -1,0 +1,21 @@
+{"ticker": "CHA",
+ "thesis": "CHA is in a confirmed uptrend, trading above its SMA20, SMA50 and SMA200 with strong 63-day relative strength, and it is pulling back on light volume after a special-dividend and three-year dividend-policy catalyst. The balance sheet is strong (cash far above debt, positive free cash flow) and forward P/E is low in absolute terms. The analyst mean target is above the last price, and short interest is low. The setup is weak, though. Reward/risk to the 52-week high is only about 1.1. Earnings fall inside the holding window. The special-dividend ex-date is unknown and could mechanically hit the stop. The regime is risk-off. This supports at most a small, conditional position, not a conviction long.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = pullback",
+  "technical: rs_63 = 0.40 (in notes, strong 63-day relative strength)",
+  "technical: entry_zone = [13.25, 13.65], stop = 12.45, target = 14.56",
+  "technical: reward_risk = 1.1 (weak, acknowledged)",
+  "fundamentals: quality = medium, dilution_risk = low",
+  "fundamentals: total cash 8,174,038,016 vs total debt 1,592,306,944 (in notes)",
+  "fundamentals: free cash flow 699,324,992 (in notes), profit margin 0.10198",
+  "fundamentals: forward P/E 8.36, analyst mean target 15.6008 vs last price 13.69 (in notes)",
+  "fundamentals: short interest 5.71% of float, below the 15% threshold (in notes)",
+  "news: catalyst = special cash dividend and approved three-year dividend policy, direction = positive",
+  "news: Jefferies reiterates rating citing dividend yield, direction = positive",
+  "news: binary_event = false, no offering, litigation or M&A items in the packet",
+  "news: event_risks = earnings 2026-11-27 and unstated special-dividend ex-date (risk, acknowledged)",
+  "regime_view: regime = risk-off, confidence = 0.85 (headwind, acknowledged)"
+ ],
+ "upside_case": {"target": 14.56, "probability": 0.35},
+ "rebuttal_to_bear": null}

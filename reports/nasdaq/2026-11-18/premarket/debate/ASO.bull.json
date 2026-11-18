@@ -1,0 +1,23 @@
+{"ticker": "ASO",
+ "thesis": "ASO is a genuine relative-strength leader: it sits above its SMA20, SMA50 and SMA200 with a +46% 63-day return while QQQ is in a risk-off drawdown. It is profitable, has low dilution risk, and trades at low absolute multiples (trailing P/E 11.66, forward 9.82). Short interest near 20% of float gives squeeze fuel if buyers keep pressing toward the 52-week high. The setup is weak, though. Reward/risk is only 1.2, the stock is extended and above the mean analyst target, growth is decelerating, the risk-off regime is a headwind for a consumer-cyclical retailer, and earnings add gap risk. This is a low-conviction long that only works on a pullback toward the entry zone low or a volume-confirmed breakout.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = pullback",
+  "technical: entry_zone = [67.6, 69.5]",
+  "technical: stop = 62.95",
+  "technical: target = 75.6",
+  "technical: reward_risk = 1.2",
+  "technical: notes = close 69.47 above SMA20 (64.5), SMA50 (57.0), SMA200 (53.2); 63-day return +46%; RSI 66.6 firm but not extreme",
+  "technical: notes = close is 7.7% above SMA20, which is extended; last bar reversed from a new high of 71.81",
+  "fundamentals: quality = medium",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: valuation = fair",
+  "fundamentals: notes = trailing P/E 11.66, forward P/E 9.82, profit margin 6.4%, ROE 18.6%, positive free cash flow",
+  "fundamentals: red_flags = short interest 19.92% of float, squeeze potential but higher volatility",
+  "fundamentals: growth = decelerating",
+  "news: binary_event = true",
+  "news: score = 0",
+  "regime_view: regime = risk-off, confidence 0.85, with XLK, XLC and XLI lagging"
+ ],
+ "upside_case": {"target": 75.6, "probability": 0.3},
+ "rebuttal_to_bear": null}

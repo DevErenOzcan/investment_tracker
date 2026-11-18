@@ -1,0 +1,110 @@
+{
+  "as_of": "2026-11-18",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "peak_value_units": 1000,
+  "drawdown": 0.0,
+  "regime": "risk-off",
+  "regime_mult": 0.4,
+  "risk_per_trade": 0.0075,
+  "portfolio_vol": 0.01255206536149372,
+  "positions": [
+    {
+      "ticker": "GMAB",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 51.45,
+      "stop": 49.9,
+      "target": 57.3,
+      "rr": 3.77,
+      "rating": "Overweight",
+      "confidence": 0.4,
+      "kelly": 0.241,
+      "stop_pct": 0.0301,
+      "binding": "kelly",
+      "engine_weight": 0.0072,
+      "priority": 0.14461538461538428,
+      "flags": [
+        "risk-officer reduction x0.5: Nothing verifies the catalyst behind the 10/05-10/28 spikes, the CEO and board sold after the spike, highs have been lower since 11/9 and the bear case is a gap-fill to 44-45 well through the 49.9 stop, so the 0.40 confidence rests on unexplained price action rather than evidence."
+      ],
+      "amount_units": 7.2
+    },
+    {
+      "ticker": "CROX",
+      "status": "new",
+      "sector": "Consumer Cyclical",
+      "price": 156.5,
+      "stop": 148.8,
+      "target": 178.98,
+      "rr": 2.92,
+      "rating": "Overweight",
+      "confidence": 0.42,
+      "kelly": 0.2213,
+      "stop_pct": 0.0492,
+      "binding": "kelly",
+      "engine_weight": 0.0093,
+      "priority": 0.13280071174377234,
+      "flags": [
+        "risk-officer reduction x0.7: A beta-1.5, rate-sensitive consumer-cyclical name (debt 1.66B vs cash 163M) is extended (+32% in 21 days, RSI 66, price near the 164.67 mean target) while yields are rising and Fed hikes are being repriced in a risk-off tape, and the packet does not include the guidance detail."
+      ],
+      "amount_units": 9.3
+    },
+    {
+      "ticker": "AZTA",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 44.75,
+      "stop": 42.85,
+      "target": 50.06,
+      "rr": 2.79,
+      "rating": "Overweight",
+      "confidence": 0.4,
+      "kelly": 0.1853,
+      "stop_pct": 0.0425,
+      "binding": "kelly",
+      "engine_weight": 0.0083,
+      "priority": 0.11118644067796626,
+      "flags": [
+        "risk-officer reduction x0.75: The post-earnings gap already faded from 50.06, the stop is about 0.66 ATR below entry, beta is 1.47 and short interest is 21.7%, and a rich valuation (forward P/E 51.5, negative operating margin) on 3-5% organic growth leaves gap-fill risk toward 40.5 in a risk-off market."
+      ],
+      "amount_units": 8.3
+    },
+    {
+      "ticker": "AMPH",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 28.65,
+      "stop": 26.95,
+      "target": 32.5,
+      "rr": 2.26,
+      "rating": "Overweight",
+      "confidence": 0.42,
+      "kelly": 0.1639,
+      "stop_pct": 0.0593,
+      "binding": "kelly",
+      "engine_weight": 0.0098,
+      "priority": 0.09833766233766242,
+      "flags": [],
+      "amount_units": 9.8
+    }
+  ],
+  "cash_weight": 0.9654,
+  "rejected": [
+    {
+      "ticker": "ASO",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "CHA",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "SEZL",
+      "reason": "risk-officer veto: A beta-6.6, 23%-short-float consumer-credit (BNPL) name fights a 0.85-confidence risk-off regime with ^TNX at 5.115 and BNPL peers weak on 11-18; its stop sits only about 0.7 ATR (7.5 vs ATR 10.83) below entry, so a gap through the stop is likely, and the 11-12 DEFA14A proxy filing (possible proxy fight or M&A) has not been checked."
+    },
+    {
+      "ticker": "VTRS",
+      "reason": "rating Hold: no new buy"
+    }
+  ]
+}

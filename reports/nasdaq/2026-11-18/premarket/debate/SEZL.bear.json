@@ -1,0 +1,18 @@
+{"ticker": "SEZL",
+ "thesis": "SEZL is a beta-6.6 consumer-credit name being bought into a confirmed risk-off tape (QQQ below 50/200-day, VIX 1y percentile 0.905, yields at a 0.90 percentile), where high-beta growth is the first thing sold. The post-earnings gap to 178.55 was sold into on 1.97M volume, the 11-16 spike to 167.95 was rejected, and 11-17 closed down 4.7%, so the good news is already priced and distribution is visible. Retail euphoria (Zacks Bull of the Day, IBD coverage) arriving right at a failed rally is a classic late-crowd signal, and short interest of 23.1% of float cuts both ways: a squeeze needs a catalyst, and none is scheduled before Feb-Mar 2027. BNPL peers are weak (Affirm down on 11-18, Chime IPO looming), and an unexplained DEFA14A and an 8-K 7.01 are unchecked. The 154 entry sits only a few points above the 144.5 stop, and a gap through it in this tape is plausible.",
+ "evidence": [
+  "regime_view: regime = risk-off, confidence = 0.85; lagging sectors XLK, XLC, XLI; QQQ 21-day return -8.55%",
+  "regime_view: VIX 1y percentile 0.905, ^TNX 5.115 (1y percentile 0.90)",
+  "technical: setup = pullback, entry_zone = [149.0, 154.0], stop = 144.5, atr = 10.83 (7% of price, beta very high)",
+  "technical: 11/16 spike to 167.95 rejected, 11/17 closed lower at 154.25; gap high 178.55 faded on 1.97M volume",
+  "news: catalyst 2026-11-05 direction = mixed (gap sold into, close 155.0)",
+  "news: catalyst 2026-11-18 direction = mixed (Affirm fell, Klarna reported, Chime debut looms)",
+  "news: event_risks = DEFA14A dated 2026-11-12, nature unknown; 8-K items 7.01 and 9.01 filed 2026-11-10, details not in packet",
+  "news: event_risks = no scheduled company catalyst in the window; next earnings Feb-Mar 2027",
+  "fundamentals: red_flags = short interest 23.1% of float; SEC quarterly series missing Q4 2024 and Q4 2025",
+  "fundamentals: valuation = fair, trailing P/E 29.7, forward P/E 21.4, no sector comparison available",
+  "news: price 21% below the 52-week high of 195.71, sentiment coverage positive (crowded retail attention)"
+ ],
+ "downside_case": {"level": 136.69, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

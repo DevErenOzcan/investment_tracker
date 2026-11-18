@@ -1,0 +1,19 @@
+{"ticker": "CROX",
+ "thesis": "CROX is a high-beta (1.5), heavily indebted consumer name that has run about 32% in 21 days and now sits 9.2% above its 20-day average with RSI 66, in a risk-off regime (confidence 0.85) with yields at a 1-year high and more Fed hikes being priced in. The 52-week high of 164.24 was rejected on 11-16 and is only about 1R above the entry zone. Price is already near the mean analyst target, so consensus offers little upside. The post-earnings drift lacks volume confirmation (volume ratio 1.0 since the gap), and the earnings jump rests on only +4.65% revenue growth. Buying now means chasing an extended stock into a falling tape. If the market breaks further, the gap fill toward 150 and below is the likely path.",
+ "evidence": [
+  "technical: notes = close 158.79 is 9.2% above SMA20 145.41; RSI 66; buying here would chase",
+  "technical: notes = 52-week high 164.24 rejected on 11-16 (close 160.01), about 1R from entry",
+  "technical: notes = volume average (ratio 1.0), no post-earnings expansion since the gap",
+  "technical: invalidation = daily close below 149.5, or failure back under the 150 gap-up area",
+  "fundamentals: red_flags = ret_21 +32.1%, beta 1.498, extended after the post-earnings gap",
+  "fundamentals: red_flags = total debt 1.66B vs cash 163M, debtToEquity 123.651",
+  "fundamentals: red_flags = revenue growth only 4.65% YoY vs earnings +48.65%",
+  "fundamentals: red_flags = price 158.79 near analyst mean target 164.67",
+  "news: event_risks = hotter CPI, rising yields, more Fed hikes priced in; rate-sensitive given heavy debt",
+  "news: event_risks = short interest 13% of float, so moves can be squeezy in both directions",
+  "news: notes = the packet has no headline on the print or guidance; the details are unknown",
+  "regime_view: regime = risk-off, confidence 0.85; QQQ below 50- and 200-day, VIX 1y percentile 0.905, TNX 5.115"
+ ],
+ "downside_case": {"level": 149.5, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

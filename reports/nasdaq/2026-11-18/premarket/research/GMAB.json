@@ -1,0 +1,8 @@
+{"ticker": "GMAB", "rating": "Overweight", "confidence": 0.40,
+ "entry": 51.45, "entry_zone": [50.9, 52.0], "stop": 49.9, "target": 57.3, "horizon_days": 10,
+ "expected_return": {"low": -0.03, "high": 0.114},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "GMAB is in an uptrend (above SMA20/50/200 at 51.29/41.88/31.73, RS63 +0.60), pulling back to its SMA20 on fading volume (vol_ratio 0.80) after the 10/28 gap-and-run. It is a profitable, low-beta (0.52) biotech in XLV, which leads a risk-off tape. Entry 50.9-52.0 with stop 49.9 and target 57.3 (post-spike closing high) gives R/R of about 3.8 from the 51.45 mid and 2.6 from the 51.96 close. Conviction is modest: the spike driver is unverified, insiders including the CEO sold on 11/12, the stock has made lower highs since 11/9 (55.80 to 51.96), and the stop is only about 0.7 ATR below the mid entry, so the hit probability is below 50% even though the payoff is skewed.",
+ "invalidation": "Daily close below the 50.68 10-day swing low (stop 49.9), which breaks the post-gap consolidation and opens a gap-fill toward 44-45.",
+ "key_risks": ["Catalyst behind the 10/05, 10/23 and 10/28 jumps is unverified, so the gap could fill toward 44-45 (bear downside 44.5)", "Tight stop (1.55 below the mid entry vs ATR 2.18), so noise stop-outs are likely", "Insider selling after the spike (CEO 22,000 shares, board members, commercial chief 1,071)", "Risk-off regime (confidence 0.85): QQQ below its 50/200-day, VIX 1y percentile 0.905, ^TNX 5.115", "Rich valuation (trailing P/E 44.4, forward 32.9) with earnings growth -14.7%; SEC quarterly series empty, so growth is unverified", "Concentration: the book is already healthcare-heavy (lessons.md item 6)"],
+ "debate_winner": "draw"}

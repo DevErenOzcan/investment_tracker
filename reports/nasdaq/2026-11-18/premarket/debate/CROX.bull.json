@@ -1,0 +1,16 @@
+{"ticker": "CROX",
+ "thesis": "CROX is a high-quality, cheap, cash-generative name in a clean uptrend after a post-earnings re-rating, and it has held its gap since 10-29 while the Nasdaq sold off. Earnings momentum is accelerating (net income +48.65% YoY) at a forward P/E under 10, with positive free cash flow and low dilution risk. The setup is a pullback entry, not a chase. A dip into 154.5-158.5 with a stop under the 149.5 base low gives a reward/risk of 2.9 toward the measured-move target. This is a moderate long at best. The stock is extended, close to the consensus target, and the regime is risk-off with rising yields, so entry discipline matters more than conviction.",
+ "evidence": [
+  "technical: setup = pullback",
+  "technical: trend = up (close 158.79 above SMA20 145.41, SMA50 129.46, SMA200 114.32)",
+  "technical: entry_zone = [154.5, 158.5], stop = 148.8, target = 178.98, reward_risk = 2.9",
+  "technical: notes = price has held above 149.5 since the 10-29 gap; 63-day relative strength +0.34",
+  "fundamentals: quality = high, growth = accelerating, valuation = cheap, dilution_risk = low",
+  "fundamentals: notes = operating margin 21.1%, ROE 49.1%, forward P/E 9.92, free cash flow positive, short interest 12.97% of float (below the 15% squeeze threshold)",
+  "news: catalysts[0] = Q3 earnings on 2026-10-29, gap on about 4x average volume, net income +49% YoY, direction positive",
+  "news: catalysts[1] = fresh 52-week high on 2026-11-16, post-earnings drift, direction positive",
+  "news: event_risks = no SEC offering filings, no litigation or M&A flags, no company event in the next 20 business days",
+  "regime_view: leading_sectors = XLP, XLV, XLF (consumer staples and defensives hold up while tech and communications lag)"
+ ],
+ "upside_case": {"target": 178.98, "probability": 0.4},
+ "rebuttal_to_bear": null}

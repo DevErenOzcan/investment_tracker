@@ -1,0 +1,733 @@
+{
+  "ticker": "CHA",
+  "exchange": "NASDAQ",
+  "as_of": "2026-11-18T13:49:21.304238+00:00",
+  "data_note": "In the pre-market session the last price is the previous close; in the pre-close session it is ~15 min delayed.",
+  "technical": {
+    "indicators": {
+      "symbol": "CHA",
+      "date": "2026-11-17",
+      "close": 13.69,
+      "ret_5": 0.1014,
+      "ret_21": 0.1094,
+      "ret_63": 0.3202,
+      "ret_126": 0.3461,
+      "rs_63": 0.4018,
+      "sma20": 12.688,
+      "sma50": 12.1858,
+      "sma200": 11.1904,
+      "trend": 4,
+      "atr": 0.5732,
+      "atr_pct": 0.0419,
+      "rsi14": 61.8221,
+      "dist_high": -0.0598,
+      "vol_ratio": 1.555,
+      "ext_20": 0.079,
+      "vol_20": 0.5711,
+      "dollar_volume_20": 11010181.7001,
+      "low_20": 11.59,
+      "high_20": 14.56
+    },
+    "levels": {
+      "swing_low_10": 12.140000343322754,
+      "swing_low_20": 11.59000015258789,
+      "swing_high_20": 14.5600004196167,
+      "high_52w": 14.5600004196167,
+      "low_52w": 8.979999542236328
+    },
+    "last_60_days": [
+      {
+        "d": "2026-08-25",
+        "o": 10.88,
+        "h": 10.94,
+        "l": 10.61,
+        "c": 10.81,
+        "v": 315000
+      },
+      {
+        "d": "2026-08-26",
+        "o": 10.77,
+        "h": 10.85,
+        "l": 10.52,
+        "c": 10.63,
+        "v": 299800
+      },
+      {
+        "d": "2026-08-27",
+        "o": 10.54,
+        "h": 10.61,
+        "l": 10.26,
+        "c": 10.35,
+        "v": 741200
+      },
+      {
+        "d": "2026-08-28",
+        "o": 10.3,
+        "h": 10.8,
+        "l": 10.2,
+        "c": 10.8,
+        "v": 2011700
+      },
+      {
+        "d": "2026-08-31",
+        "o": 11.21,
+        "h": 11.94,
+        "l": 11.01,
+        "c": 11.63,
+        "v": 3994900
+      },
+      {
+        "d": "2026-09-01",
+        "o": 11.63,
+        "h": 12.11,
+        "l": 11.61,
+        "c": 11.93,
+        "v": 2692700
+      },
+      {
+        "d": "2026-09-02",
+        "o": 11.92,
+        "h": 11.92,
+        "l": 11.58,
+        "c": 11.61,
+        "v": 876500
+      },
+      {
+        "d": "2026-09-03",
+        "o": 11.61,
+        "h": 11.64,
+        "l": 11.32,
+        "c": 11.36,
+        "v": 1165800
+      },
+      {
+        "d": "2026-09-04",
+        "o": 11.27,
+        "h": 11.78,
+        "l": 11.2,
+        "c": 11.66,
+        "v": 1750500
+      },
+      {
+        "d": "2026-09-08",
+        "o": 11.62,
+        "h": 12.66,
+        "l": 11.46,
+        "c": 12.59,
+        "v": 2655100
+      },
+      {
+        "d": "2026-09-09",
+        "o": 12.4,
+        "h": 12.66,
+        "l": 12.19,
+        "c": 12.45,
+        "v": 1049700
+      },
+      {
+        "d": "2026-09-10",
+        "o": 12.3,
+        "h": 12.45,
+        "l": 12.09,
+        "c": 12.35,
+        "v": 1309000
+      },
+      {
+        "d": "2026-09-11",
+        "o": 12.31,
+        "h": 12.58,
+        "l": 12.2,
+        "c": 12.24,
+        "v": 897400
+      },
+      {
+        "d": "2026-09-14",
+        "o": 12.28,
+        "h": 12.7,
+        "l": 12.27,
+        "c": 12.51,
+        "v": 1868500
+      },
+      {
+        "d": "2026-09-15",
+        "o": 12.48,
+        "h": 12.5,
+        "l": 12.15,
+        "c": 12.21,
+        "v": 1019800
+      },
+      {
+        "d": "2026-09-16",
+        "o": 12.21,
+        "h": 12.56,
+        "l": 12.14,
+        "c": 12.19,
+        "v": 961500
+      },
+      {
+        "d": "2026-09-17",
+        "o": 12.12,
+        "h": 12.35,
+        "l": 11.98,
+        "c": 12.2,
+        "v": 906700
+      },
+      {
+        "d": "2026-09-18",
+        "o": 12.21,
+        "h": 12.5,
+        "l": 11.99,
+        "c": 12.02,
+        "v": 2101500
+      },
+      {
+        "d": "2026-09-21",
+        "o": 12.05,
+        "h": 12.38,
+        "l": 12.02,
+        "c": 12.22,
+        "v": 989100
+      },
+      {
+        "d": "2026-09-22",
+        "o": 12.29,
+        "h": 12.31,
+        "l": 11.62,
+        "c": 11.66,
+        "v": 1100400
+      },
+      {
+        "d": "2026-09-23",
+        "o": 11.48,
+        "h": 11.63,
+        "l": 11.28,
+        "c": 11.28,
+        "v": 731200
+      },
+      {
+        "d": "2026-09-24",
+        "o": 11.37,
+        "h": 11.58,
+        "l": 11.3,
+        "c": 11.47,
+        "v": 726700
+      },
+      {
+        "d": "2026-09-25",
+        "o": 11.4,
+        "h": 11.48,
+        "l": 11.2,
+        "c": 11.41,
+        "v": 710400
+      },
+      {
+        "d": "2026-09-28",
+        "o": 11.47,
+        "h": 11.56,
+        "l": 11.36,
+        "c": 11.45,
+        "v": 658600
+      },
+      {
+        "d": "2026-09-29",
+        "o": 11.43,
+        "h": 11.43,
+        "l": 11.1,
+        "c": 11.36,
+        "v": 856800
+      },
+      {
+        "d": "2026-09-30",
+        "o": 11.36,
+        "h": 11.82,
+        "l": 11.36,
+        "c": 11.7,
+        "v": 982500
+      },
+      {
+        "d": "2026-10-01",
+        "o": 11.76,
+        "h": 11.83,
+        "l": 11.1,
+        "c": 11.14,
+        "v": 698900
+      },
+      {
+        "d": "2026-10-02",
+        "o": 11.12,
+        "h": 11.12,
+        "l": 10.85,
+        "c": 10.98,
+        "v": 575000
+      },
+      {
+        "d": "2026-10-05",
+        "o": 11.05,
+        "h": 11.34,
+        "l": 11.05,
+        "c": 11.19,
+        "v": 629300
+      },
+      {
+        "d": "2026-10-06",
+        "o": 11.22,
+        "h": 11.47,
+        "l": 11.05,
+        "c": 11.42,
+        "v": 594100
+      },
+      {
+        "d": "2026-10-07",
+        "o": 11.35,
+        "h": 11.56,
+        "l": 11.06,
+        "c": 11.16,
+        "v": 538100
+      },
+      {
+        "d": "2026-10-08",
+        "o": 11.1,
+        "h": 11.47,
+        "l": 11.1,
+        "c": 11.33,
+        "v": 582500
+      },
+      {
+        "d": "2026-10-09",
+        "o": 11.33,
+        "h": 11.48,
+        "l": 11.19,
+        "c": 11.25,
+        "v": 352800
+      },
+      {
+        "d": "2026-10-12",
+        "o": 11.57,
+        "h": 12.0,
+        "l": 11.0,
+        "c": 11.97,
+        "v": 1471800
+      },
+      {
+        "d": "2026-10-13",
+        "o": 11.86,
+        "h": 12.53,
+        "l": 11.71,
+        "c": 12.52,
+        "v": 867200
+      },
+      {
+        "d": "2026-10-14",
+        "o": 12.34,
+        "h": 12.52,
+        "l": 12.08,
+        "c": 12.29,
+        "v": 544000
+      },
+      {
+        "d": "2026-10-15",
+        "o": 12.2,
+        "h": 12.58,
+        "l": 12.1,
+        "c": 12.44,
+        "v": 940800
+      },
+      {
+        "d": "2026-10-16",
+        "o": 12.49,
+        "h": 12.65,
+        "l": 12.22,
+        "c": 12.3,
+        "v": 446600
+      },
+      {
+        "d": "2026-10-19",
+        "o": 12.32,
+        "h": 12.38,
+        "l": 12.1,
+        "c": 12.34,
+        "v": 414600
+      },
+      {
+        "d": "2026-10-20",
+        "o": 12.39,
+        "h": 12.58,
+        "l": 12.3,
+        "c": 12.48,
+        "v": 523200
+      },
+      {
+        "d": "2026-10-21",
+        "o": 12.55,
+        "h": 13.13,
+        "l": 12.48,
+        "c": 12.95,
+        "v": 1382400
+      },
+      {
+        "d": "2026-10-22",
+        "o": 12.73,
+        "h": 12.73,
+        "l": 12.39,
+        "c": 12.46,
+        "v": 470400
+      },
+      {
+        "d": "2026-10-23",
+        "o": 12.4,
+        "h": 12.5,
+        "l": 12.26,
+        "c": 12.36,
+        "v": 443200
+      },
+      {
+        "d": "2026-10-26",
+        "o": 12.36,
+        "h": 12.56,
+        "l": 12.28,
+        "c": 12.41,
+        "v": 408400
+      },
+      {
+        "d": "2026-10-27",
+        "o": 12.29,
+        "h": 12.3,
+        "l": 12.02,
+        "c": 12.25,
+        "v": 444600
+      },
+      {
+        "d": "2026-10-28",
+        "o": 12.2,
+        "h": 12.27,
+        "l": 11.59,
+        "c": 11.69,
+        "v": 574100
+      },
+      {
+        "d": "2026-10-29",
+        "o": 11.69,
+        "h": 12.11,
+        "l": 11.66,
+        "c": 12.02,
+        "v": 414300
+      },
+      {
+        "d": "2026-10-30",
+        "o": 12.13,
+        "h": 12.34,
+        "l": 12.0,
+        "c": 12.05,
+        "v": 922700
+      },
+      {
+        "d": "2026-11-02",
+        "o": 12.17,
+        "h": 12.82,
+        "l": 12.16,
+        "c": 12.66,
+        "v": 784300
+      },
+      {
+        "d": "2026-11-03",
+        "o": 12.66,
+        "h": 12.91,
+        "l": 12.41,
+        "c": 12.6,
+        "v": 815200
+      },
+      {
+        "d": "2026-11-04",
+        "o": 12.77,
+        "h": 13.01,
+        "l": 12.75,
+        "c": 12.77,
+        "v": 698900
+      },
+      {
+        "d": "2026-11-05",
+        "o": 12.85,
+        "h": 12.97,
+        "l": 12.22,
+        "c": 12.28,
+        "v": 1284000
+      },
+      {
+        "d": "2026-11-06",
+        "o": 12.32,
+        "h": 12.69,
+        "l": 12.23,
+        "c": 12.43,
+        "v": 536100
+      },
+      {
+        "d": "2026-11-09",
+        "o": 12.31,
+        "h": 12.59,
+        "l": 12.14,
+        "c": 12.57,
+        "v": 769400
+      },
+      {
+        "d": "2026-11-10",
+        "o": 12.45,
+        "h": 12.57,
+        "l": 12.32,
+        "c": 12.43,
+        "v": 354500
+      },
+      {
+        "d": "2026-11-11",
+        "o": 12.43,
+        "h": 12.55,
+        "l": 12.25,
+        "c": 12.33,
+        "v": 475600
+      },
+      {
+        "d": "2026-11-12",
+        "o": 13.0,
+        "h": 13.75,
+        "l": 12.55,
+        "c": 13.51,
+        "v": 2465800
+      },
+      {
+        "d": "2026-11-13",
+        "o": 13.72,
+        "h": 14.56,
+        "l": 13.33,
+        "c": 14.37,
+        "v": 1848400
+      },
+      {
+        "d": "2026-11-16",
+        "o": 14.17,
+        "h": 14.3,
+        "l": 13.8,
+        "c": 13.93,
+        "v": 846500
+      },
+      {
+        "d": "2026-11-17",
+        "o": 14.07,
+        "h": 14.12,
+        "l": 13.55,
+        "c": 13.69,
+        "v": 1057200
+      }
+    ],
+    "weekly_closes_26": [
+      12.76,
+      11.54,
+      12.16,
+      11.65,
+      12.14,
+      11.01,
+      11.0,
+      11.3,
+      11.2,
+      11.25,
+      10.18,
+      10.27,
+      10.81,
+      10.8,
+      11.66,
+      12.24,
+      12.02,
+      11.41,
+      10.98,
+      11.25,
+      12.3,
+      12.36,
+      12.05,
+      12.43,
+      14.37,
+      13.69
+    ]
+  },
+  "profile": {
+    "symbol": "CHA",
+    "shortName": "Chagee Holdings Limited",
+    "sector": "Consumer Cyclical",
+    "industry": "Restaurants",
+    "marketCap": 2611549952,
+    "trailingPE": 13.828282,
+    "forwardPE": 8.357644,
+    "priceToSalesTrailing12Months": 0.19869637,
+    "enterpriseToEbitda": -2.225,
+    "profitMargins": 0.10198,
+    "operatingMargins": 0.11342,
+    "grossMargins": 0.41169998,
+    "revenueGrowth": 0.025,
+    "earningsGrowth": 5.914,
+    "returnOnEquity": 0.16162,
+    "debtToEquity": 18.868,
+    "freeCashflow": 699324992,
+    "totalCash": 8174038016,
+    "totalDebt": 1592306944,
+    "beta": null,
+    "shortPercentOfFloat": 0.0571,
+    "heldPercentInstitutions": 0.08401,
+    "recommendationMean": 1.54545,
+    "numberOfAnalystOpinions": 11,
+    "targetMeanPrice": 15.6008,
+    "fiftyTwoWeekHigh": 16.56,
+    "fiftyTwoWeekLow": 8.98,
+    "averageVolume": 963920,
+    "preMarketPrice": 13.69,
+    "regularMarketPrice": 13.69,
+    "regularMarketPreviousClose": 13.93,
+    "earnings_date": "2026-11-27"
+  },
+  "sec_fundamentals": {
+    "available": true,
+    "cik": 2013649,
+    "revenue_q": [],
+    "net_income_q": [],
+    "stale_warning": null,
+    "revenue_yoy": null,
+    "net_income_yoy": null
+  },
+  "sec_filings_10d": [],
+  "news_status": {
+    "status": "ok",
+    "source": "google_rss",
+    "errors": []
+  },
+  "news_7d": [
+    {
+      "title": "Vertoz Ltd Valuation Shifts to Very Attractive Amidst Challenging Market Returns - MarketsMojo",
+      "publisher": "MarketsMojo",
+      "published": "2026-11-18T09:37:25+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOamJvT1EwYVVxWldRNXJjTFBHdF9GMlFnRVg5aUl5bTFzQjBmWmlHNDVlN0JhVjFwN0laVkZFbURfbkZkak44Z05SckFsanRqczZWRlpiUWtjcVBMcU5vSlVIaW1oN0FvT0JCYXRpYUc2bkJiR1oxbTJDbDRSWW9qeUt1aTlfdHBNUFZSVW5Qcm5NNFZES0JFdGMyQ3BiR1JFOTZfdTBYckdCeFVrZDl5aThNZGl6VVM4YmNPVDduOXZva2x4Y3FJTHB4ZTRiQnFGY3JVdg?oc=5"
+    },
+    {
+      "title": "Learn Why The Bull Case For Endeavour Mining Stock Could Change Following Quarterly Earnings - Simply Wall St",
+      "publisher": "Simply Wall St",
+      "published": "2026-11-17T23:17:44+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMzlHd2tnRzdjSE4za3NiSnQyWVJxY2RzbUdSNURoWWxidWd0eVJkRk1iYV95X0hvMWZnN0tkNWQ2VTNhZmRZaVBJdlN6Y0VGM3dPeDExTjRLU21DUVFVRUhTN29xTF9XZjZodHY4TTlMejBFb0o0YVpnUVl5WlBCNjdiR09sbEl5Z21OZTItNy0zWWQ2RC10VmJNOUpXVlo2Z0I0a2NhNEZIblVWQ1dfS0cyTFU5N3lmNlRSLXlTb1FFNnplVHRTN1pzQUZfYUItNUc4bVlR0gHbAUFVX3lxTE1lQXFuUmRILVBzTDlCQkRsdUF3OXJObVZLWkZJZnVUUExidV9OM0JwZGlGSXVDazh1VDdDNlVPOU5XbDg3LW1jUlllUVAzY2tSVWtzY29jbkEwd1BzVnp1c3A2dXRHa2hyYWd2WUVlblZEdVZIcUNCRGVFeHVMc0lZZmxXX1BrcFBsRktISHJsWnE0UE55QTZwTldmODhHcmhJOElHNEcyQ1o1WUhwNUd0bzYtNlhBNlVCSUFXQXl1Y3JJYWpRV2dZYjU4MVhBNTdWamlQUnBESlRXbw?oc=5"
+    },
+    {
+      "title": "Chaleit Holdings plc Live Share Prices and Trades. CHA Live Streaming Share Prices. - London South East",
+      "publisher": "London South East",
+      "published": "2026-11-15T12:26:58+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcHloVzNvTE9XRmFNY0M5MHF6R0h1TkFTUGFBejFjQzA2aE1ZNGV5b01EUUJQWHZxdUlHLV9aVGJYUkk2SGVUcTNRSlJJNUtxMkRuMHZ3TFZZd0ROMnVSU1hCRkJOWWEyeTQ3eDEwSy1rSzZRaXBxNGdBY2owUzlOYnM1Z2hGUlBXYl9R?oc=5"
+    },
+    {
+      "title": "Chahals file open offer for Natura Hue Chem at ₹42 per share - scanx.trade",
+      "publisher": "scanx.trade",
+      "published": "2026-11-15T08:52:05+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPemwyQnM1RkRDdjVrSTRlcHFuNDhZRllBZUszV3FXRHFTR1hMNmRaSC0wLXIxM3k0RzFCWmUzWTZpeFRFNmxMVFlocGo3NUktLUVYQnpySG42TlFaSzZpYTA3TUEzSVZkaWFfMlFiYnRvQmo3cXJJM1RpcUpnUEFNSVBONGNiWS1JdlNJWVYwLUxtR0ktLUpkaE84cHdKbzZZaU5HQTltOFlLOEMyWHc?oc=5"
+    },
+    {
+      "title": "Chagee Holdings Limited (CHA) Stock Price | Live Quotes & Charts | NASDAQ - Timothy Sykes",
+      "publisher": "Timothy Sykes",
+      "published": "2026-11-14T00:31:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpSVRIMkFXV2pmcXY3VU1xNDZxaW90XzBEcFk0cTZiTjR1RUFGTkpuc2U1Mm5ZNHBxT2RVdDczSExYWXRubXZac0c4OA?oc=5"
+    },
+    {
+      "title": "Chagee (NASDAQ:CHA) Stock Jumps 4.7% Following Dividend Announcement - MarketBeat",
+      "publisher": "MarketBeat",
+      "published": "2026-11-13T19:07:26+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFVTUWVySkFYY19kUmtmelI3cDVuSDFzY2d0aUdrMWVjZmpJWVFidmVHc3VmOUR6X1FRM3pmQXRnYmpiOENmdVJDc3NoSU5haDM0c3BOR0NCTGhhTHJ5NHM0M0hsMmg5SXo0SEVmUHVXN29qSG1SejRiTHVrOHFiUzViallZVG5vWVRNMks1Ry12dGtsdUpoajVxQnlqRUt0ODhfWXlEZTRFM0NQbG5xUmFRQ2Q2cVRMWGN6djBvaDluZw?oc=5"
+    },
+    {
+      "title": "Chagee Pays Out Special Dividend of $1.95 Per Share; 15.8% Yield Masks a Battle to Defend Its Valuation - BigGo Finance",
+      "publisher": "BigGo Finance",
+      "published": "2026-11-13T18:16:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yYS1aNndDMzAwVDU1b3VkNTBMeWl5ajBGZ3gzZGVUeDdFQkk5a1hjSU5NTFBDZFR5VkMzUi1RYURWRm5JbGQ0dXJJMjFxdGIwRXhfSzdDQXlxVG1ySHIyN0tKTVkzV09fNDNDNXZHbjdFdFpIdlE?oc=5"
+    },
+    {
+      "title": "How Raised 2026 Guidance At Castle Biosciences Stock Has Changed Its Investment Story - Simply Wall St",
+      "publisher": "Simply Wall St",
+      "published": "2026-11-13T15:26:18+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWnVkS1hCcVpBQVdXQUV5aVZvQWxQeFpIWk9mcG02X3N1a3M2blZfT1ZVVGZvWWhpRng0RFBZakdYMVpLdlN4cVdmRWVmSDFYOXpZcTZZMGxESC1DQkFjOXpaVjE2TFFySnZaQk5DLTNYQkIxU0xLcVRRNWFwT1ZmTF9lanRtdnFvUm0yS051czZFb0xEeERXR0JqNzFkYzFQRmttUW9FLXc0YVZ5TFRucU56cFBFS1hvR19pOF9wNkpLU2RPQWYxWWVGREM4c2VhQUpHSF9n0gHbAUFVX3lxTFBjakVFQ3oxdGpDczVoT3puOXgydUJWZFVBMEdWSXltZGhjQnE0YklrM2RwdTFpXzBWaVFkVkE2SXdndXN3bzQtSHNySDNHNXZ4UWtKODFRZDNWT0NPbnU3Smh3cTk1aTFTWTJzTXRYNTlYOTB2djBsVk5PcjgyRTh2Mm54djNyNFd3cHBoSEN3MVpfLUJ4VTNUYk5ZZ05lU0dMNVRsb21RbFE5ZDZyTWdpU3lNQXRydmcxbkNMbDRLbkptTG5DNUpaclJOMmhtUlhuQlFlVDJ3Q2c3OA?oc=5"
+    },
+    {
+      "title": "What Drove Chagee Holdings (NASDAQ:CHA) Up 9.57% Following Its Roughly USD 1.95 Per ADS Special Payout? - kalkine.ca",
+      "publisher": "kalkine.ca",
+      "published": "2026-11-13T12:09:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTk5yVXFLV25QQldfWUdNZk1RR3pURUFHMDV1T0RBc0JwRy0zY08wdXB0SXBGdXZ5alY5cDFNUVh4UU1KRTlScC14cXk4cjRNTTh6QjBWem5TOXVtRDBfTTNXR3NBVF8yTnhWWmhuMVJmZWh6SF9tUHVmeXRFcWQtR2pHVEkyeVBTZ1pXS3AtQ2duMUJESW5Bc0VFNEc4Nml6c1ctc1lCbVd3SlZfZjYtY1BpdWExZVJPQlNfdGl5akszbi1UMklNd1ZqdG5iZG51elE?oc=5"
+    },
+    {
+      "title": "What Lifted Chagee Holdings (NASDAQ:CHA) 9.57% on Thursday After a Special Dividend of About USD 1.95 per ADS? - Kalkine",
+      "publisher": "Kalkine",
+      "published": "2026-11-13T12:03:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb1d2YTNJMlpGWnRLSFdCTFJEZEVMajFwTFY4RW4xTm5TWUFJN0lONUZqdzJ1QS1MXzYzd0k2ai1yY1lQa2NkYWpyR1V1bV9oS19ITEhweUZ3cWhiRFpoNGxtRmN4T2NOazh2Q3RyZzJmU0cwdHhUby1wTTBMcEtOQ3I4a1hNTDdFYmpGRXVzZ2ZrTFZ3ZTJMS2ZOS182dlZ0MXZ0dzNoRFAwdXh1RDNZUG5sUWJ1ejJZSG1CV2JTMkNJRTRJeUVINy1MNGl4aWNnVHlCVXJjb3lMLXdhZ3JkSA?oc=5"
+    },
+    {
+      "title": "Chagee Holdings (CHA) Shares Just Moved, So What Is Driving Attention Now? - Simply Wall St",
+      "publisher": "Simply Wall St",
+      "published": "2026-11-13T08:27:06+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMTZkQVUyVnRqc0VmV2lQakRnOXNPVXFZOWZ1R1gyM3J1TVVMcUZOaWlSV0xWWk13d21rR19LT2o3WWJBN3VtMm9hY1R4TzVQSjRhZHhmNVV6X2pVb1pqWjRmYzZSWVVralBHTWRIRE1pU0EtWElScnNrVXplRHhoRHJFMk9SZXZkYzQ2X2NoOUVVZjBqWGJHVGJyc0FMLTdxbjd0azB1dW95dlhVOHpNR1pUMk5QSzJVcF9wbGdCMmNWSjItMWdDcWFQVm45M1ViZnFxNWVtLTA0Z9IB3wFBVV95cUxNdmY4MUMzLTBINWFDOVRCbjZ4YXFWZjI5NUlGVXZjMjYwaE1Rcm1iY3Q0bndKTWlCTGF3eGJ3b0RzTi1uLTFXRnBMY3oxa3BIRWdGSl9DdU9FRW9nRVRfX2xrZk1lbkRESGVPNkgxblB1ZzdhZXRNV3JfVlMxV2JnYlMzd1Q0S2lUdGNzS051ay1uZ0JTQ1p0c3JSQVEyaWlJVUZuMUhaVTdETl9vbURETDQ0TEsxYzhSR3g1MW1HYzhQb2s3anJfTlh5UURwUWNvTWpad0V6VWtLYlVhYVVn?oc=5"
+    },
+    {
+      "title": "Jefferies reiterates Chagee Holdings stock rating on dividend yield - Investing.com",
+      "publisher": "Investing.com",
+      "published": "2026-11-12T16:44:17+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVmVnaUsxQkZ0QlJUaTA2SzYycDlpT0VVZThWeFo3T3lDa0F5Sld1TzZmd0VtUER0a1Q5TGdHNE44bmcxU2lwUGR6ZWFuelhpV3FmcVBrY0I2eGxMeEtQckxaOEoxdDRTQ3lPdHZ0RmlHbVRvdkdOQVl6NkUyVXFJVHVvNlJ6cWFpVEhxNUN0Z1hoREJ0SzNhTGVJQ0VHZXB5TlktbEZUMjdqU0lWR2J4c0g2ZkF4WGhVNnc5Vzh4QnVmWXZjQ1E?oc=5"
+    },
+    {
+      "title": "Chagee Holdings (CHA) Declares Special Dividend, Sets Three-Year - GuruFocus",
+      "publisher": "GuruFocus",
+      "published": "2026-11-12T14:25:09+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX25HN2VzcEJQSkVKaHEwazVTUkNkbWlHTDNfR0cyOXVlSV8yNnRQZmxweHdMc2tKS01hLUF3dkc2Wkp4Q1ZnV1J2RV95SW9KdlpSUnN0MXZJZ3lXNElzNkRtR1d1Y2VrcW1GbE9MTjZUdDh1Q1ZpdGZLUko4cEJnZTFuMVNyelEzUVlrZnJOZkN5OU44TXlZZ09aWHVpOU81blpFUDVsbkhtbzlLclJFQTJhYmtfdw?oc=5"
+    },
+    {
+      "title": "Chagee Declares Special Cash Dividend, Approves Three-Year Dividend Policy - TipRanks",
+      "publisher": "TipRanks",
+      "published": "2026-11-12T13:16:28+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV1ZKLWRvU2ozb19nTEVyV0k2dngta19aRFpsb2xHd211WEgxSDlqRmJsVVVVWVZ6NDc3VVk5YkNYaHgtclR1Z3J4N1RNNERzSlhvWlluQUNqeTV4c1B3VzctU25NTGFYSk9qZW1UdWY3UnVtdlY5b09NUnFGM2lFZTcwY2NFdUNOd1ZXS0NrYW9sNlRvYmNCUlRSUDdOLWc4a0tqMHlWZ3ZKU05odldRaU1kbDJzcGpQQ1lxdjBjaEJzMk0?oc=5"
+    },
+    {
+      "title": "Chagee rallies after announcing a special dividend and setting a three-year dividend policy (CHA:NASDAQ) - Seeking Alpha",
+      "publisher": "Seeking Alpha",
+      "published": "2026-11-12T12:17:05+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbGFwSWd6ZnoyeE9aSnpfckZFUHAyMnhrb1VRbmJJX0VvRjA1SXd6VkVUdnVnbTVhSE9jUTFmcnlSQVdkLWRLU2J5WUkxbHB1YVFrZlI3c3AwYXpQRlFoX2ZkT1ptVTZvdTJMNFhBYURYSzllaGIzTWh1Sm9PVFZ6ZzFlQzJib3g1UjE2aThrWExvMVJmZE5QSHZFTDFhX0NIaEZXMC1UMWFlTHd2VzdJSDBKVFF4NmQtT0xWOHRfVmtUUXc?oc=5"
+    },
+    {
+      "title": "Chagee approves $1.95 per share special dividend, annual policy - Investing.com",
+      "publisher": "Investing.com",
+      "published": "2026-11-12T11:27:41+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSlpCU0Z0aE9tM2w3MXZxQ1QwcEdtOUYxRFRXeXBTcXdwQkp0MTFRMkt2ZUN0N25KaU5ld09QUmE4c190S3Fsa1RqMWVqR0RfNm54cXJxY3M3aF9tSC11VUxNeFBldE00ZUZjUFZKalhDdFhrWjRvV3ZBWGVlV2sxMHYzVFVhTUhoTS1mR0Qyc0FMV1Vybm9Xc0xtLUtTWWY5ME1PS0x4OWVDNGtJd0ZBcFIycmsyZUpM?oc=5"
+    },
+    {
+      "title": "CHA 6-K & SEC Filings - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-12T08:00:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhbHliMnNPekd2MVpMOXpka0pzVFREVDNQTDY0LUc1RmZFU3c4Wm1nZm53dGNpTjNZeXlEQ3J5bmFycURNRnE0UFdOZHRYUVktMXVUSU50YW5rTHByXzRxa1hEUHBTODNtN3VTcmN2dVQyWEk5QWRYTg?oc=5"
+    },
+    {
+      "title": "Chagee (CHA) Dividend Yield 2026 & History $CHA - MarketBeat",
+      "publisher": "MarketBeat",
+      "published": "2026-11-12T08:00:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UQlQ4a2NrMVhLbWdReWlCalBHa3l1Y0k3QXhGQlZUV0pNM3AtVWU2LVNRQzFkYTNEcXZfaTZKWnBlLXVVTDJfZG1iN3JrdEh2bHhEV3YtOUFBRWwxQ2tOVkdSRG8?oc=5"
+    },
+    {
+      "title": "CHAGEE Celebrates 9th Anniversary with \"Tear & Win,\" Giving Guests a Chance to Win Collectible Elephant Plushies - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-11T16:30:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZjVxLXVyS3BucmVWZjZmS2dMTVpPNEwzQ2w1ZTR3dkdnWG9oSXBaTTk2Y0o2UUZlWlpMeFhoalI3REc0ZWxHN2I5SmpjVGdMQnJHajU5UFppQ2VlQWtJUGxPMHVRYk45cThNZlZuM0s1WGFYelp4eDhRNnVERGhzU3lJOGpQV1BCbVlVQmYtbHBPbDljMDdwQ2VWa1hMeTgzN3hsdVV3?oc=5"
+    }
+  ]
+}

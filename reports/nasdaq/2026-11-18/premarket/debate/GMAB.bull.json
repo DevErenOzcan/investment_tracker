@@ -1,0 +1,20 @@
+{"ticker": "GMAB",
+ "thesis": "GMAB is a high-quality, highly profitable biotech in an uptrend, now digesting a gap-and-run by pulling back to its SMA20 on fading volume. The entry zone sits on support with a tight stop and a target at the post-spike closing high, giving a favorable reward/risk. Biotech is health-care-adjacent, and XLV is leading in a risk-off tape, so this is not the lagging tech cohort. Analysts' mean target sits well above the price. The honest caveats are that the spike driver is unverified, insiders sold, valuation is rich, and the regime is risk-off, so this is a modest-conviction pullback long, not a high-conviction one.",
+ "evidence": [
+  "technical: setup = pullback",
+  "technical: trend = up",
+  "technical: entry_zone = [50.9, 52.0]",
+  "technical: stop = 49.9",
+  "technical: target = 57.3",
+  "technical: reward_risk = 3.6",
+  "technical: notes = price above SMA20/50/200 (51.29/41.88/31.73), RS63 +0.60, vol_ratio 0.80 on the pullback (normal digestion)",
+  "fundamentals: quality = high",
+  "fundamentals: notes = operating margin 30.6%, gross margin 92.7%, free cash flow 854.9M vs cash 1.87B",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: notes = mean analyst target 65.01 vs 51.96 close, 11 opinions",
+  "news: binary_event = false",
+  "news: score = 0 (net news effect neutral; no S-3/424B5 filings in the last 10 days)",
+  "regime_view: leading_sectors = XLP, XLV, XLF (health care leads)"
+ ],
+ "upside_case": {"target": 57.3, "probability": 0.35},
+ "rebuttal_to_bear": null}

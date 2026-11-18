@@ -1,0 +1,20 @@
+{"ticker": "AZTA",
+ "thesis": "AZTA is a post-earnings breakout holding its gains: a revenue beat, FY2027 guidance, two gene synthesis deals and insider buying drove a gap to a 52-week high, and the stock is consolidating well above the pre-earnings level. The balance sheet is strong (net cash, positive FCF, low dilution risk), no catalyst or offering filing sits inside the swing window, and 21.7% short interest adds squeeze upside. A pullback entry at 44.2-45.8 with the stop below the post-earnings low gives about 2.35 reward/risk to the 52-week high. This is a weak-to-moderate setup, not a strong one. The regime is risk-off with tech under pressure, valuation is rich, the gap already faded once, and the stop is tight relative to ATR. It only works as a disciplined pullback entry, not a chase.",
+ "evidence": [
+  "technical: setup = pullback, trend = up",
+  "technical: entry_zone = [44.2, 45.8], stop = 42.85, target = 50.06, reward_risk = 2.35",
+  "technical: notes = close 45.81 above SMA20 40.39, SMA50 37.13, SMA200 28.50; RSI 60.5; 63-day relative strength +0.37",
+  "technical: score = 1.0",
+  "fundamentals: notes = cash 332.7M vs debt 51.9M, free cash flow 105.6M",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: notes = latest quarter revenue 161.2M, up 12.0% YoY (SEC); net income turned positive (+2.5M)",
+  "fundamentals: notes = mean analyst target 52.6 (5 opinions), about 15% above the 45.81 close",
+  "fundamentals: earnings_date = 2027-02-03, no earnings event inside the swing window",
+  "news: catalysts[0] = Q4 FY2026 beat, FY revenue above guidance, FY2027 outlook, two gene synthesis deals, direction positive",
+  "news: catalysts[3] = insider buying flagged in healthcare names, direction positive",
+  "news: binary_event = false",
+  "news: event_risks = short interest about 21.7% of float, squeezes possible; only filing in the window is the 8-K Item 2.02, no offering",
+  "news: score = 1"
+ ],
+ "upside_case": {"target": 50.06, "probability": 0.35},
+ "rebuttal_to_bear": null}

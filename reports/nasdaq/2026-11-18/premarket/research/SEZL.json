@@ -1,0 +1,14 @@
+{"ticker": "SEZL", "rating": "Overweight", "confidence": 0.37,
+ "entry": 152.0, "entry_zone": [149.0, 154.0], "stop": 144.5, "target": 178.55, "horizon_days": 10,
+ "expected_return": {"low": -0.049, "high": 0.175},
+ "sector": "Financial Services", "earnings_date": null,
+ "thesis": "SEZL has strong fundamentals: Q3 revenue was up 42.6% YoY, net income up 79% YoY, guidance was raised and dilution risk is low. It sits above rising 20/50/200-day averages with 63-day relative strength of +0.38, so it has held up while QQQ fell 8.55%, and its sector (XLF) is among the regime's leaders rather than the tech laggards the bear cites. This is a pullback-only entry in 149-154, using the technical card's 152 reference: entry 152, stop 144.5, target 178.55 gives R/R of about 3.5. The pre-market indication of 156.25 is above the zone (R/R there is about 1.9), so do not chase it. Confidence is low because the stop is only about 0.7 ATR from entry, the regime is risk-off (0.85), beta is 6.6, and the 11-05 gap and the 11-16 spike were both sold into. Size small.",
+ "invalidation": "Daily close below 144.5, under the 2026-11-10 swing low of 145.15; a close under 136.69 (pre-gap close) confirms failure.",
+ "key_risks": [
+  "Risk-off regime (confidence 0.85, VIX 1y percentile 0.905, ^TNX 5.115) with beta 6.6, so a gap through the 144.5 stop is plausible",
+  "Stop is 7.5 points from the 152 entry versus an ATR of 10.83, so normal daily noise can trigger it",
+  "Distribution signs: the 11-05 gap to 178.55 was sold to 155.0 on 1.97M volume, and the 11-16 spike to 167.95 was rejected",
+  "Mixed BNPL peer flow (Affirm down 11-18, Klarna Q3, Chime debut) and short interest of 23.1% of float",
+  "An unexplained DEFA14A (11-12) and an 8-K item 7.01 (11-10) have not been checked"
+ ],
+ "debate_winner": "draw"}

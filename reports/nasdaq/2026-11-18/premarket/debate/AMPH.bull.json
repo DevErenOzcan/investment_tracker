@@ -1,0 +1,17 @@
+{"ticker": "AMPH",
+ "thesis": "AMPH is a clean uptrend digesting a post-earnings gap on fading volume, with accelerating revenue, a net income rebound and a low forward multiple. Buying the 28.3-29.0 pullback keeps risk defined under the 26.95 stop, and the technical card's reward/risk is 2.26 to the 32.5 target. It is a defensive-leaning healthcare name in a risk-off tape, where XLV is a leading sector, so relative strength is a plus. The setup is only moderate. Resistance at 31.00 limits the first leg, the analyst target is below the price, and the market regime is hostile, so sizing should stay small and 31.00 should be treated as the partial-profit zone.",
+ "evidence": [
+  "technical: trend = up; close 29.10 > SMA20 27.56 > SMA50 26.20 > SMA200 22.38 (notes)",
+  "technical: setup = pullback; entry_zone = [28.3, 29.0]; stop = 26.95; target = 32.5; reward_risk = 2.26",
+  "technical: notes = consolidation at 28.2-29.7 on fading volume (vol_ratio 0.90), RSI 64 not overbought, 63-day return +34%",
+  "technical: notes = short interest 21.7% of float, which gives squeeze potential on a breakout",
+  "fundamentals: growth = accelerating; revenue YoY +0.4% (Q1), +5.4% (Q2), +8.2% (Q3)",
+  "fundamentals: notes = net income 6.4M to 30.3M to 37.8M, +117.7% YoY in Q3; Q4 guided to high single digit sales growth",
+  "fundamentals: valuation = cheap; trailing P/E 13.3, forward P/E 8.7, EV/EBITDA 8.6",
+  "fundamentals: dilution_risk = low; cash 230.6M",
+  "news: catalysts = Q3 2026 beat reported 2026-11-05, direction positive; earnings effect likely to persist partly",
+  "news: event_risks = no S-3/424B5/8-K in the last 10 days; binary_event = false",
+  "regime_view: leading_sectors = XLP, XLV, XLF; defensives are holding up while XLK, XLC and XLI lag"
+ ],
+ "upside_case": {"target": 32.5, "probability": 0.35},
+ "rebuttal_to_bear": null}

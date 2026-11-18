@@ -1,0 +1,15 @@
+{"ticker": "SEZL", "catalysts": [
+{"what": "Record Q3 results (revenue 166.5M, +42.6% YoY; net income 47.8M, +79% YoY), full-year outlook raised, preliminary FY2027 targets, strong Sezzle Up growth. Stock gapped to ~172-178 on 11-05 (intraday high 178.55) but faded to close 155.0 on heavy volume (1.97M), i.e. gap sold into.", "date": "2026-11-05", "direction": "mixed", "source": "https://finance.yahoo.com/markets/stocks/articles/sezzle-sezl-posts-record-q3-110953836.html"},
+{"what": "Positive sentiment and coverage: Zacks Bull of the Day; IBD notes a consolidation base with buy point 195.71 and +144% YTD.", "date": "2026-11-16", "direction": "positive", "source": "https://www.investors.com/stock-lists/sector-leaders/finance-stock-sezzle-sezl/?src=A00220&yptr=yahoo"},
+{"what": "Zacks Bull of the Day article. The stock spiked to 167.95 intraday on 11-16, then reversed to close 154.25 on 11-17 (-4.7%).", "date": "2026-11-16", "direction": "positive", "source": "https://finance.yahoo.com/markets/stocks/articles/bull-day-sezzle-sezl-110000294.html"},
+{"what": "BNPL peer read-through: Affirm fell on 11-18 and Klarna reported Q3 on 11-17 (loss narrowed, Q4 profit guided). The Chime debut looms. Sector news flow is mixed and could pressure SEZL.", "date": "2026-11-18", "direction": "mixed", "source": "https://www.trefis.com/stock/afrm/articles/626298/what-sent-affirm-stock-lower-on-tuesday/2026-11-18"}
+],
+"event_risks": [
+"No S-3 or 424B5 in the last 10 days, so no offering filing is visible.",
+"8-K filed 2026-11-10 with items 7.01 and 9.01 (Reg FD disclosure and exhibits). Likely an investor presentation, with no material event evident. Details are not in the packet.",
+"A DEFA14A (proxy soliciting material) appears in a headline list dated 2026-11-12. No details are given, so the nature is unknown. A proxy fight or M&A cannot be confirmed or ruled out from the packet.",
+"Next earnings are expected around Feb-Mar 2027, outside the 20-business-day window. The last report was 2026-11-04. No scheduled company catalyst is known in the window.",
+"Very high volatility (beta 6.6, ATR 7% of price) and short interest of 23% of float. Sharp squeezes and drops in both directions are likely. Peer news (Affirm, Klarna, Chime IPO) can move the stock."
+],
+"binary_event": false, "news_available": true, "score": 1,
+"notes": "The earnings beat and raised guidance (11-04 after close) are fundamentally durable, with revenue up 43% and net income up 79% YoY. However, the 11-05 gap to 178 was sold down to 155, and the stock has since ranged 149-162 and sits 21% below the 52-week high of 195.71. Retail and media sentiment is positive, but peer BNPL news on 11-17/18 is mixed. The pre-market price of 156.25 is slightly above the prior close. There is no offering risk and no scheduled event in the next 20 business days. The unexplained DEFA14A and the 8-K 7.01 deserve a quick check. Net score is mildly positive."}

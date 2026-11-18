@@ -1,0 +1,20 @@
+{"ticker": "AZTA",
+ "thesis": "AZTA is a stock that has already run hard (about 160% in 126 days, about 31% in 21 days) into a risk-off tape where QQQ is below its 50- and 200-day averages and VIX sits at the 90th percentile. Valuation is rich (forward P/E 51.5, EV/EBITDA 45.3) against modest 3-5% organic growth guidance and a still-negative operating margin. The post-earnings gap already faded once and the stock was rejected at 48.1, so the 'pullback' entry is a high-beta name (1.47) sitting 13% above its SMA20 with a very tight stop that noise can hit. Gap-fill toward about 40.5 is the realistic downside if the market keeps de-risking growth and high-beta names.",
+ "evidence": [
+  "regime_view: regime = risk-off, confidence = 0.85; QQQ below 50/200-day, VIX 1y percentile 0.905, ^TNX 5.115",
+  "technical: close 45.81 is 13% above SMA20 40.39; rejected 48.1 and fell 3% on 11-17",
+  "technical: stop 42.85 is about 0.75 ATR from entry; notes say stop-out on noise is possible",
+  "technical: beta 1.47, ATR 2.89 (about 6.3% of price)",
+  "fundamentals: valuation = rich; forward P/E 51.5, EV/EBITDA 45.3, operating margin -3.3%",
+  "fundamentals: trailing GAAP profit margin -26.9%, earnings growth -85.8%; net income only +2.5M in latest quarter",
+  "fundamentals: stock up about 31% in 21 days and about 160% in 126 days vs guided organic growth 3-5%",
+  "fundamentals: growth = stable, not accelerating; SEC quarterly series has missing quarters (lower confidence)",
+  "news: Multiomics headwinds and automated storage weakness flagged on the call",
+  "news: gap +20% to 48.90 faded to 43.86 next day; gap-fill risk toward about 40.5",
+  "news: prior spike and reversal 2026-10-02 to 10-07 shows headline-driven volatility",
+  "news: two acquisitions announced, integration and financing risk",
+  "news: no catalyst inside the 20-business-day window; next earnings 2027-02-03"
+ ],
+ "downside_case": {"level": 40.5, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

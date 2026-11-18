@@ -1,0 +1,11 @@
+{"vetoes": [
+  {"ticker": "SEZL", "reason": "A beta-6.6, 23%-short-float consumer-credit (BNPL) name fights a 0.85-confidence risk-off regime with ^TNX at 5.115 and BNPL peers weak on 11-18; its stop sits only about 0.7 ATR (7.5 vs ATR 10.83) below entry, so a gap through the stop is likely, and the 11-12 DEFA14A proxy filing (possible proxy fight or M&A) has not been checked."}
+ ],
+ "reductions": [
+  {"ticker": "GMAB", "factor": 0.5, "reason": "Nothing verifies the catalyst behind the 10/05-10/28 spikes, the CEO and board sold after the spike, highs have been lower since 11/9 and the bear case is a gap-fill to 44-45 well through the 49.9 stop, so the 0.40 confidence rests on unexplained price action rather than evidence."},
+  {"ticker": "CROX", "factor": 0.7, "reason": "A beta-1.5, rate-sensitive consumer-cyclical name (debt 1.66B vs cash 163M) is extended (+32% in 21 days, RSI 66, price near the 164.67 mean target) while yields are rising and Fed hikes are being repriced in a risk-off tape, and the packet does not include the guidance detail."},
+  {"ticker": "AZTA", "factor": 0.75, "reason": "The post-earnings gap already faded from 50.06, the stop is about 0.66 ATR below entry, beta is 1.47 and short interest is 21.7%, and a rich valuation (forward P/E 51.5, negative operating margin) on 3-5% organic growth leaves gap-fill risk toward 40.5 in a risk-off market."}
+ ],
+ "portfolio_notes": "Three of the five proposals (GMAB, AZTA, AMPH) are healthcare/biopharma, and lessons item 6 already flags this as a likely single correlated bet. The combined weight is small (about 3.5% before cuts), but the XLV leadership they all depend on could reverse together if the regime turns. Every name except GMAB is a pullback-only entry with the last price above the zone, so fills are uncertain and should be logged (lessons item 2). In a 0.85-confidence risk-off regime, the book should stay mostly cash, and the cuts above remove the highest-beta and least-verified exposures. No binary events (FDA, M&A, offering) were found in the news cards, apart from the unexplained SEZL DEFA14A.",
+ "held_alerts": []
+}

@@ -1,0 +1,81 @@
+{
+  "as_of": "2026-11-18",
+  "session": "premarket",
+  "exchange": "NASDAQ",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "regime": "risk-off",
+  "positions": [
+    {
+      "ticker": "GMAB",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 51.45,
+      "weight": 0.0072,
+      "engine_weight": 0.0072,
+      "amount_units": 7.2,
+      "entry_zone": [50.9, 52.0],
+      "stop": 49.9,
+      "target": 57.3,
+      "rating": "Overweight",
+      "confidence": 0.4,
+      "action": "buy",
+      "rationale": "Low-beta profitable biotech pulling back to its SMA20 in the leading XLV sector with R/R about 3.8, kept at the engine weight after the risk-officer's x0.5 cut for the unverified spike catalyst and post-spike insider selling."
+    },
+    {
+      "ticker": "CROX",
+      "status": "new",
+      "sector": "Consumer Cyclical",
+      "price": 156.5,
+      "weight": 0.0093,
+      "engine_weight": 0.0093,
+      "amount_units": 9.3,
+      "entry_zone": [154.5, 158.5],
+      "stop": 148.8,
+      "target": 178.98,
+      "rating": "Overweight",
+      "confidence": 0.42,
+      "action": "buy",
+      "rationale": "Post-earnings re-rating holding its 149.5 base while QQQ fell, at a forward P/E near 9.9; pullback-only entry kept at the engine weight after the x0.7 cut for extension and rate sensitivity."
+    },
+    {
+      "ticker": "AZTA",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 44.75,
+      "weight": 0.0083,
+      "engine_weight": 0.0083,
+      "amount_units": 8.3,
+      "entry_zone": [44.2, 45.29],
+      "stop": 42.85,
+      "target": 50.06,
+      "rating": "Overweight",
+      "confidence": 0.4,
+      "action": "buy",
+      "rationale": "Post-earnings gap holding above 40.5 with a net-cash balance sheet and no catalyst before 2027-02-03; pullback-only entry kept at the engine weight after the x0.75 cut for gap-fill and valuation risk."
+    },
+    {
+      "ticker": "AMPH",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 28.65,
+      "weight": 0.0098,
+      "engine_weight": 0.0098,
+      "amount_units": 9.8,
+      "entry_zone": [28.3, 29.0],
+      "stop": 26.95,
+      "target": 32.5,
+      "rating": "Overweight",
+      "confidence": 0.42,
+      "action": "buy",
+      "rationale": "Clean stacked uptrend digesting a Q3 beat at a forward P/E near 8.7 in a leading defensive sector; pullback-only entry at the engine weight, with 31.00 as the partial-profit zone."
+    }
+  ],
+  "cash_weight": 0.9654,
+  "vetoed": [
+    {
+      "ticker": "SEZL",
+      "reason": "Risk-officer veto: beta 6.6 and 23% short float in a 0.85-confidence risk-off regime, stop only about 0.7 ATR below entry so a gap through it is likely, and the 11-12 DEFA14A proxy filing is unchecked."
+    }
+  ]
+}

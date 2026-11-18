@@ -1,0 +1,31 @@
+{
+  "finalists": [
+    {"ticker": "VTRS", "why": "Healthcare (a leading sector) large-cap in a clean uptrend, low ATR, ext_20 4.9%, RSI 64, 3.5% below its 52-week high.", "watch": "Earnings were 2026-11-05 so no near-term event, but a defensive-sector rotation reversal would hit it."},
+    {"ticker": "GMAB", "why": "Large-cap healthcare biotech in a trend 4 uptrend, barely extended (ext_20 1.3%, RSI 60) with strong 63-day relative strength.", "watch": "It sits 13% below the 52-week high and 5-day return is negative, so the pullback may not be finished."},
+    {"ticker": "AMPH", "why": "Healthcare specialty generics in an orderly uptrend, ext_20 5.6%, RSI 64, post-earnings with no near-term event.", "watch": "Liquidity is the thinnest on the list (about 13M 20-day dollar volume) and it shares a sub-industry with VTRS."},
+    {"ticker": "SEZL", "why": "Financials (a leading sector) with record Q3 results and 42.6% revenue growth, ext_20 9.0%, RSI 61, room to run toward the high.", "watch": "ATR is 7% and it is 21% below its high, so it is volatile and sensitive to rates and consumer-credit news."},
+    {"ticker": "ASO", "why": "Trend 4, 3.3% from the 52-week high, ext_20 7.7%, RSI 67, earnings not until 2026-12-08.", "watch": "Low volume ratio (0.81) on the advance and a recent 'analysts downgrading' headline; consumer cyclicals are exposed in a risk-off tape."},
+    {"ticker": "CROX", "why": "Fresh 52-week-high area breakout, ext_20 9.2%, RSI 66, ATR 3.6%, high dollar volume.", "watch": "Consumer discretionary is vulnerable if risk-off deepens; it is 3% from the high with limited cushion."},
+    {"ticker": "AZTA", "why": "Healthcare instruments with a strong post-earnings gap, analyst target raises, volume ratio 1.34 and ext_20 13.4%, below the 15% cap.", "watch": "It is near the extension limit after a 13% 5-day jump and ATR is 6.3%, so wait for a pullback rather than chase."},
+    {"ticker": "CHA", "why": "Restaurant ADR in an uptrend with the highest volume ratio (1.55), ext_20 7.9%, RSI 62, a different sector from the rest.", "watch": "Foreign ADR with thin liquidity (about 11M dollar volume); earnings on 2026-11-27 are close, and the headlines are mostly noise."}
+  ],
+  "dropped": [
+    {"ticker": "BRZE", "why": "RSI 81 is above the 78 limit."},
+    {"ticker": "SGRY", "why": "RSI 87.8 and ext_20 15.2% are over-extended, and headlines point to deal and fairness-of-offer risk."},
+    {"ticker": "CRCT", "why": "ext_20 13.8% after a 30% 21-day run, an insider share-sale filing, and no sector or industry data."},
+    {"ticker": "UPBD", "why": "Trend only 3, RSI 70, ext_20 13.9%, and a recent state-probe settlement."},
+    {"ticker": "AXGN", "why": "ext_20 14.6% and a 57% 21-day run leave it extended."},
+    {"ticker": "ULCC", "why": "ext_20 13.8% after a 68% 21-day run, ATR 7.1%, and a cyclical airline in a lagging sector (XLI)."},
+    {"ticker": "REPL", "why": "Binary clinical and launch risk in a biotech, with a 5-day drop of 15% after an 80% run."},
+    {"ticker": "XNCR", "why": "Binary clinical-data event risk and a 5-day drop of 12%."},
+    {"ticker": "VRDN", "why": "Pre-revenue biotech with clinical binary risk, RSI 70, and biotech is already represented by GMAB."},
+    {"ticker": "ADMA", "why": "ext_20 13.3%, 24% below the high after a 21% earnings spike, and a biotech sub-industry slot is better used elsewhere."},
+    {"ticker": "CDNA", "why": "Trend only 3, RSI 50 and a 5-day drop of 7.7%, so it is not a clean setup."},
+    {"ticker": "COLM", "why": "RSI 74 and director selling, so it is near over-extension."},
+    {"ticker": "XMTR", "why": "Industrials are a lagging sector, ATR is 7.2%, and the stock fell 5.9% recently."},
+    {"ticker": "VERX", "why": "Tech is a lagging sector in this regime and it is 12.6% below the high with no breakout."},
+    {"ticker": "STGW", "why": "Communication services is a lagging sector and the setup is unremarkable."},
+    {"ticker": "LILAK", "why": "Communication services is lagging, ext_20 11.7%, and it is already at 1-year-high levels."},
+    {"ticker": "ARHS", "why": "5-day drop of 11.8% breaks the setup, and it would be the second specialty-retail name after ASO."}
+  ]
+}

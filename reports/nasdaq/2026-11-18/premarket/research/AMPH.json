@@ -1,0 +1,8 @@
+{"ticker": "AMPH", "rating": "Overweight", "confidence": 0.42,
+ "entry": 28.65, "entry_zone": [28.3, 29.0], "stop": 26.95, "target": 32.5, "horizon_days": 10,
+ "expected_return": {"low": -0.059, "high": 0.134},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "Clean uptrend (close 29.10 > SMA20 27.56 > SMA50 26.20 > SMA200 22.38) digesting the 11-05 Q3 beat on fading volume, backed by accelerating revenue (+8.2% YoY), a net income rebound and forward P/E 8.7, in a leading defensive sector (XLV) during a risk-off tape. Levels are unchanged from the technical card: entry is the zone midpoint 28.65, giving R/R 2.26 to 32.5 (1.58 at the last price 29.10, still above 1.5), but the target needs a break of the 31.00 high, where first-leg R/R is only about 1.38. That is why the rating is Overweight and not Buy, with 31.00 as the partial-profit zone and pullback-only entry, since the last price sits above the zone.",
+ "invalidation": "A daily close below the 10-day swing low 27.09 (which also loses SMA20 27.56); a close below 26.95 voids the setup.",
+ "key_risks": ["Rejection at the 31.00 52-week high (11-06 spike closed 28.49) with no scheduled catalyst in the next 20 business days", "Price 29.10 is above the mean analyst target 24.5 (recommendationMean 3.14), so post-earnings upside may be priced in", "Risk-off regime (confidence 0.85, VIX 1y percentile 0.905) and 21.7% short interest raise reversal risk", "Earnings quality: FCF 9.2M on a 13.3% margin, debt 691.7M vs cash 230.6M, volatile quarterly net income", "Healthcare concentration in the book can turn this into a correlated bet rather than an independent one (provisional lesson 6)", "Last price 29.10 is above the entry zone, so the entry may not fill"],
+ "debate_winner": "draw"}

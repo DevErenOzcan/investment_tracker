@@ -1,0 +1,16 @@
+{"ticker": "AMPH",
+ "thesis": "The post-earnings gap has already been paid for: price (29.10) sits above the mean analyst target (24.5), and the 11-06 spike to 31.00 closed at 28.49, a rejection at the 52-week high. The first resistance gives only about 1.4 R/R, so the 2.26 headline ratio depends on a breakout. Cash conversion is weak (FCF 9.2M on 13.3% margin) and debt is sizeable, so the cheap multiples may reflect low earnings quality. With the regime risk-off at 0.85 confidence, a 21.7% short-interest name that has run +34% in 63 days is exposed to sharp reversals, and the news support is thin (one substantive article). Post-earnings drift and a catalyst-free 20-day window leave nothing to push it through 31.",
+ "evidence": [
+  "technical card: close 29.10 vs analyst mean target 24.5 (price above target)",
+  "technical card: first resistance 31.00 gives about 1.4 R/R; target 32.5 assumes a breakout",
+  "technical card: 63-day return +34%, 5.6% above SMA20, stop 26.95 is about 2.1 ATR away",
+  "news card: 11-06 intraday high 31.0 but close 28.49 (post-earnings reversal)",
+  "news card: news coverage thin, one substantive article plus two title-only pages; no scheduled catalysts in 20 business days",
+  "fundamentals card: free cash flow 9.2M vs 13.3% profit margin; total debt 691.7M vs cash 230.6M",
+  "fundamentals card: Q1 2026 net income 6.4M vs 25.3M a year earlier (volatile earnings); no sector benchmark for the low P/E",
+  "fundamentals card: short interest 21.7% of float, recommendationMean 3.14",
+  "regime_view: risk-off, confidence 0.85, QQQ below 50/200-day, VIX 1y percentile 0.905"
+ ],
+ "downside_case": {"level": 26.95, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

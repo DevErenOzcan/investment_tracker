@@ -1,0 +1,709 @@
+{
+  "ticker": "VTRS",
+  "exchange": "NASDAQ",
+  "as_of": "2026-11-18T13:48:51.185937+00:00",
+  "data_note": "In the pre-market session the last price is the previous close; in the pre-close session it is ~15 min delayed.",
+  "technical": {
+    "indicators": {
+      "symbol": "VTRS",
+      "date": "2026-11-17",
+      "close": 20.45,
+      "ret_5": -0.0192,
+      "ret_21": 0.1199,
+      "ret_63": 0.2679,
+      "ret_126": 0.2835,
+      "rs_63": 0.3495,
+      "sma20": 19.486,
+      "sma50": 18.2618,
+      "sma200": 16.1788,
+      "trend": 4,
+      "atr": 0.5366,
+      "atr_pct": 0.0262,
+      "rsi14": 64.0549,
+      "dist_high": -0.0354,
+      "vol_ratio": 1.1806,
+      "ext_20": 0.0495,
+      "vol_20": 0.3057,
+      "dollar_volume_20": 188309812.6956,
+      "low_20": 17.86,
+      "high_20": 21.2
+    },
+    "levels": {
+      "swing_low_10": 18.709999084472656,
+      "swing_low_20": 17.860000610351562,
+      "swing_high_20": 21.200000762939453,
+      "high_52w": 21.200000762939453,
+      "low_52w": 12.62244641339056
+    },
+    "last_60_days": [
+      {
+        "d": "2026-08-25",
+        "o": 16.59,
+        "h": 16.74,
+        "l": 16.44,
+        "c": 16.72,
+        "v": 8326400
+      },
+      {
+        "d": "2026-08-26",
+        "o": 16.72,
+        "h": 17.07,
+        "l": 16.65,
+        "c": 16.85,
+        "v": 7392800
+      },
+      {
+        "d": "2026-08-27",
+        "o": 16.75,
+        "h": 17.1,
+        "l": 16.65,
+        "c": 16.89,
+        "v": 6462700
+      },
+      {
+        "d": "2026-08-28",
+        "o": 16.93,
+        "h": 17.01,
+        "l": 16.3,
+        "c": 16.34,
+        "v": 6217400
+      },
+      {
+        "d": "2026-08-31",
+        "o": 16.29,
+        "h": 16.58,
+        "l": 16.12,
+        "c": 16.51,
+        "v": 12669000
+      },
+      {
+        "d": "2026-09-01",
+        "o": 16.62,
+        "h": 16.91,
+        "l": 16.51,
+        "c": 16.63,
+        "v": 6527500
+      },
+      {
+        "d": "2026-09-02",
+        "o": 16.75,
+        "h": 17.13,
+        "l": 16.75,
+        "c": 17.09,
+        "v": 7833200
+      },
+      {
+        "d": "2026-09-03",
+        "o": 17.22,
+        "h": 17.28,
+        "l": 16.81,
+        "c": 16.94,
+        "v": 8032000
+      },
+      {
+        "d": "2026-09-04",
+        "o": 16.81,
+        "h": 17.02,
+        "l": 16.67,
+        "c": 16.88,
+        "v": 5732600
+      },
+      {
+        "d": "2026-09-08",
+        "o": 16.63,
+        "h": 16.77,
+        "l": 16.42,
+        "c": 16.61,
+        "v": 4394500
+      },
+      {
+        "d": "2026-09-09",
+        "o": 16.72,
+        "h": 16.84,
+        "l": 16.4,
+        "c": 16.5,
+        "v": 6510500
+      },
+      {
+        "d": "2026-09-10",
+        "o": 16.5,
+        "h": 16.51,
+        "l": 16.15,
+        "c": 16.38,
+        "v": 9014800
+      },
+      {
+        "d": "2026-09-11",
+        "o": 16.5,
+        "h": 16.65,
+        "l": 16.32,
+        "c": 16.51,
+        "v": 12174100
+      },
+      {
+        "d": "2026-09-14",
+        "o": 16.64,
+        "h": 16.85,
+        "l": 16.47,
+        "c": 16.66,
+        "v": 7027300
+      },
+      {
+        "d": "2026-09-15",
+        "o": 16.63,
+        "h": 16.67,
+        "l": 16.38,
+        "c": 16.65,
+        "v": 6844400
+      },
+      {
+        "d": "2026-09-16",
+        "o": 16.75,
+        "h": 17.05,
+        "l": 16.67,
+        "c": 17.02,
+        "v": 8644700
+      },
+      {
+        "d": "2026-09-17",
+        "o": 17.1,
+        "h": 17.31,
+        "l": 17.09,
+        "c": 17.13,
+        "v": 7018400
+      },
+      {
+        "d": "2026-09-18",
+        "o": 17.19,
+        "h": 17.2,
+        "l": 16.91,
+        "c": 16.95,
+        "v": 15646100
+      },
+      {
+        "d": "2026-09-21",
+        "o": 16.98,
+        "h": 17.35,
+        "l": 16.87,
+        "c": 17.1,
+        "v": 6932500
+      },
+      {
+        "d": "2026-09-22",
+        "o": 17.1,
+        "h": 17.23,
+        "l": 16.98,
+        "c": 17.18,
+        "v": 5237400
+      },
+      {
+        "d": "2026-09-23",
+        "o": 17.26,
+        "h": 17.6,
+        "l": 16.99,
+        "c": 17.12,
+        "v": 6868600
+      },
+      {
+        "d": "2026-09-24",
+        "o": 17.05,
+        "h": 17.45,
+        "l": 17.0,
+        "c": 17.42,
+        "v": 13744000
+      },
+      {
+        "d": "2026-09-25",
+        "o": 17.52,
+        "h": 17.98,
+        "l": 17.37,
+        "c": 17.83,
+        "v": 10151400
+      },
+      {
+        "d": "2026-09-28",
+        "o": 17.75,
+        "h": 18.37,
+        "l": 17.54,
+        "c": 18.27,
+        "v": 12377000
+      },
+      {
+        "d": "2026-09-29",
+        "o": 18.25,
+        "h": 18.43,
+        "l": 17.87,
+        "c": 18.12,
+        "v": 13857900
+      },
+      {
+        "d": "2026-09-30",
+        "o": 18.16,
+        "h": 18.17,
+        "l": 17.71,
+        "c": 17.72,
+        "v": 11806700
+      },
+      {
+        "d": "2026-10-01",
+        "o": 17.62,
+        "h": 17.84,
+        "l": 17.43,
+        "c": 17.46,
+        "v": 9038600
+      },
+      {
+        "d": "2026-10-02",
+        "o": 17.53,
+        "h": 17.65,
+        "l": 17.34,
+        "c": 17.6,
+        "v": 7525600
+      },
+      {
+        "d": "2026-10-05",
+        "o": 17.82,
+        "h": 17.91,
+        "l": 17.45,
+        "c": 17.62,
+        "v": 6356500
+      },
+      {
+        "d": "2026-10-06",
+        "o": 17.77,
+        "h": 17.87,
+        "l": 17.31,
+        "c": 17.54,
+        "v": 6675700
+      },
+      {
+        "d": "2026-10-07",
+        "o": 17.52,
+        "h": 17.82,
+        "l": 17.41,
+        "c": 17.49,
+        "v": 7543600
+      },
+      {
+        "d": "2026-10-08",
+        "o": 17.26,
+        "h": 17.52,
+        "l": 16.89,
+        "c": 17.44,
+        "v": 14110000
+      },
+      {
+        "d": "2026-10-09",
+        "o": 17.36,
+        "h": 17.76,
+        "l": 17.19,
+        "c": 17.64,
+        "v": 8831100
+      },
+      {
+        "d": "2026-10-12",
+        "o": 17.7,
+        "h": 17.79,
+        "l": 17.53,
+        "c": 17.54,
+        "v": 7550600
+      },
+      {
+        "d": "2026-10-13",
+        "o": 17.66,
+        "h": 17.66,
+        "l": 17.21,
+        "c": 17.25,
+        "v": 7547500
+      },
+      {
+        "d": "2026-10-14",
+        "o": 17.27,
+        "h": 17.82,
+        "l": 17.24,
+        "c": 17.44,
+        "v": 8682100
+      },
+      {
+        "d": "2026-10-15",
+        "o": 17.75,
+        "h": 18.24,
+        "l": 17.7,
+        "c": 18.22,
+        "v": 8384500
+      },
+      {
+        "d": "2026-10-16",
+        "o": 18.2,
+        "h": 18.67,
+        "l": 18.15,
+        "c": 18.66,
+        "v": 9421300
+      },
+      {
+        "d": "2026-10-19",
+        "o": 18.63,
+        "h": 18.75,
+        "l": 18.18,
+        "c": 18.26,
+        "v": 11529400
+      },
+      {
+        "d": "2026-10-20",
+        "o": 18.34,
+        "h": 18.69,
+        "l": 18.29,
+        "c": 18.65,
+        "v": 14265000
+      },
+      {
+        "d": "2026-10-21",
+        "o": 18.64,
+        "h": 18.7,
+        "l": 18.43,
+        "c": 18.45,
+        "v": 10188600
+      },
+      {
+        "d": "2026-10-22",
+        "o": 18.45,
+        "h": 18.66,
+        "l": 18.35,
+        "c": 18.48,
+        "v": 5435500
+      },
+      {
+        "d": "2026-10-23",
+        "o": 18.33,
+        "h": 18.38,
+        "l": 17.86,
+        "c": 18.0,
+        "v": 7217800
+      },
+      {
+        "d": "2026-10-26",
+        "o": 18.2,
+        "h": 18.4,
+        "l": 18.11,
+        "c": 18.29,
+        "v": 6060500
+      },
+      {
+        "d": "2026-10-27",
+        "o": 18.19,
+        "h": 18.83,
+        "l": 18.17,
+        "c": 18.72,
+        "v": 6070400
+      },
+      {
+        "d": "2026-10-28",
+        "o": 18.54,
+        "h": 18.93,
+        "l": 18.46,
+        "c": 18.77,
+        "v": 7851200
+      },
+      {
+        "d": "2026-10-29",
+        "o": 18.97,
+        "h": 19.23,
+        "l": 18.93,
+        "c": 19.2,
+        "v": 10493500
+      },
+      {
+        "d": "2026-10-30",
+        "o": 19.29,
+        "h": 19.51,
+        "l": 19.0,
+        "c": 19.04,
+        "v": 8792500
+      },
+      {
+        "d": "2026-11-02",
+        "o": 19.06,
+        "h": 19.12,
+        "l": 18.65,
+        "c": 18.67,
+        "v": 7246400
+      },
+      {
+        "d": "2026-11-03",
+        "o": 18.7,
+        "h": 18.94,
+        "l": 18.64,
+        "c": 18.92,
+        "v": 7550000
+      },
+      {
+        "d": "2026-11-04",
+        "o": 19.33,
+        "h": 19.33,
+        "l": 18.71,
+        "c": 19.22,
+        "v": 8447400
+      },
+      {
+        "d": "2026-11-05",
+        "o": 19.43,
+        "h": 19.96,
+        "l": 18.79,
+        "c": 18.97,
+        "v": 11921600
+      },
+      {
+        "d": "2026-11-06",
+        "o": 18.79,
+        "h": 19.94,
+        "l": 18.79,
+        "c": 19.91,
+        "v": 14534000
+      },
+      {
+        "d": "2026-11-09",
+        "o": 20.11,
+        "h": 20.53,
+        "l": 19.9,
+        "c": 20.49,
+        "v": 12636200
+      },
+      {
+        "d": "2026-11-10",
+        "o": 20.41,
+        "h": 20.86,
+        "l": 20.26,
+        "c": 20.85,
+        "v": 11179700
+      },
+      {
+        "d": "2026-11-11",
+        "o": 20.76,
+        "h": 21.1,
+        "l": 20.6,
+        "c": 21.06,
+        "v": 14448800
+      },
+      {
+        "d": "2026-11-12",
+        "o": 21.05,
+        "h": 21.2,
+        "l": 20.65,
+        "c": 20.67,
+        "v": 8788300
+      },
+      {
+        "d": "2026-11-13",
+        "o": 20.77,
+        "h": 20.87,
+        "l": 20.39,
+        "c": 20.82,
+        "v": 6513300
+      },
+      {
+        "d": "2026-11-16",
+        "o": 20.89,
+        "h": 20.99,
+        "l": 20.61,
+        "c": 20.74,
+        "v": 15678700
+      },
+      {
+        "d": "2026-11-17",
+        "o": 20.61,
+        "h": 20.68,
+        "l": 20.41,
+        "c": 20.45,
+        "v": 10383900
+      }
+    ],
+    "weekly_closes_26": [
+      16.14,
+      15.76,
+      16.36,
+      15.26,
+      16.21,
+      16.58,
+      16.15,
+      17.16,
+      17.11,
+      17.43,
+      16.31,
+      16.11,
+      16.32,
+      16.34,
+      16.88,
+      16.51,
+      16.95,
+      17.83,
+      17.6,
+      17.64,
+      18.66,
+      18.0,
+      19.04,
+      19.91,
+      20.82,
+      20.45
+    ]
+  },
+  "profile": {
+    "symbol": "VTRS",
+    "shortName": "Viatris Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "marketCap": 23445000192,
+    "trailingPE": null,
+    "forwardPE": 7.41751,
+    "priceToSalesTrailing12Months": 1.5919847,
+    "enterpriseToEbitda": 8.002,
+    "profitMargins": -0.04127,
+    "operatingMargins": 0.11486,
+    "grossMargins": 0.41134,
+    "revenueGrowth": -0.003,
+    "earningsGrowth": null,
+    "returnOnEquity": -0.04206,
+    "debtToEquity": 99.224,
+    "freeCashflow": 3158449920,
+    "totalCash": 2006300032,
+    "totalDebt": 13579299840,
+    "beta": 0.871,
+    "shortPercentOfFloat": 0.0308,
+    "heldPercentInstitutions": 0.92629,
+    "recommendationMean": 2.0,
+    "numberOfAnalystOpinions": 10,
+    "targetMeanPrice": 21.5,
+    "fiftyTwoWeekHigh": 21.2,
+    "fiftyTwoWeekLow": 10.15,
+    "averageVolume": 8887887,
+    "preMarketPrice": 20.33,
+    "regularMarketPrice": 20.45,
+    "regularMarketPreviousClose": 20.74,
+    "earnings_date": "2026-11-05"
+  },
+  "sec_fundamentals": {
+    "available": true,
+    "cik": 1792044,
+    "revenue_q": [
+      {
+        "end": "2024-06-30",
+        "val": 3796600000,
+        "filed": "2025-08-07"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 3751200000,
+        "filed": "2025-11-06"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 3254300000,
+        "filed": "2026-05-07"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 3582100000,
+        "filed": "2026-08-06"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 3759900000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 3517000000,
+        "filed": "2026-05-07"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 3756800000,
+        "filed": "2026-08-06"
+      },
+      {
+        "end": "2026-09-30",
+        "val": 3749500000,
+        "filed": "2026-11-05"
+      }
+    ],
+    "net_income_q": [
+      {
+        "end": "2019-06-30",
+        "val": 0,
+        "filed": "2020-08-12"
+      },
+      {
+        "end": "2019-09-29",
+        "val": 0,
+        "filed": "2020-11-10"
+      },
+      {
+        "end": "2020-03-29",
+        "val": 0,
+        "filed": "2020-05-12"
+      },
+      {
+        "end": "2020-06-28",
+        "val": -900000,
+        "filed": "2020-08-12"
+      },
+      {
+        "end": "2020-09-27",
+        "val": -169000000,
+        "filed": "2020-11-10"
+      }
+    ],
+    "stale_warning": null,
+    "revenue_yoy": -0.0028,
+    "net_income_yoy": null
+  },
+  "sec_filings_10d": [
+    {
+      "form": "8-K",
+      "filed": "2026-11-17",
+      "items": "2.01,7.01,9.01",
+      "url": "https://www.sec.gov/Archives/edgar/data/1792044/000114036126044356/ef20085674_8k.htm"
+    }
+  ],
+  "news_status": {
+    "status": "ok",
+    "source": "yahoo+google_rss",
+    "errors": []
+  },
+  "news_7d": [
+    {
+      "title": "Are Investors Undervaluing Viatris (VTRS) Right Now?",
+      "publisher": "Zacks",
+      "published": "2026-11-17T13:40:03+00:00",
+      "summary": "Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-viatris-vtrs-now-134003793.html"
+    },
+    {
+      "title": "Should You Buy Neurocrine Biosciences Stock For Its Cash?",
+      "publisher": "Trefis",
+      "published": "2026-11-16T11:42:12+00:00",
+      "summary": "For questions about this article or underlying research, email help@trefis.com.",
+      "url": "https://www.trefis.com/stock/nbix/articles/625151/should-you-buy-neurocrine-biosciences-stock-for-its-cash/2026-11-16"
+    },
+    {
+      "title": "Ingram Micro jumps after securing spot in S&P SmallCap 600",
+      "publisher": "Investing.com",
+      "published": "2026-11-11T23:14:24+00:00",
+      "summary": "Investing.com -- Ingram Micro Holding Ltd (NYSE:INGM) shares climbed 4.8% in extended trading Wednesday after S&P Dow Jones Indices announced the technology distributor will join the S&P SmallCap 600. The Irvine, California-based company is scheduled to enter the benchmark prior to the open of trading on Tuesday, November 17, replacing Pacira Pharmaceuticals Inc (NASDAQ:PCRX).",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ingram-micro-jumps-securing-spot-231424658.html"
+    },
+    {
+      "title": "David Einhorn’s Best Buy Is Already Up 36%. Is It Too Late to Follow Him?",
+      "publisher": "TIKR",
+      "published": "2026-11-11T19:49:53+00:00",
+      "summary": "Key TakeawaysPayPal is up 36% since June 30, the best of the seven stocks David Einhorn’s Greenlight Capital bought or added to in the second quarter. Even after that run, PayPal trades at 10x forward earnings, well below its five-year average, so it isn’t too late to follow him.",
+      "url": "https://www.tikr.com/blog/david-einhorns-best-buy-is-already-up-36-is-it-too-late-to-follow-him?ref=yahoofinance&tlnk=yf-261111-cp5pxqw7"
+    },
+    {
+      "title": "VTRS Jan 2028 30.000 call (VTRS280121C00030000) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "publisher": "Yahoo! Finance Canada",
+      "published": "2026-11-11T14:53:46+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDVHBiTTlvUUthX2htdFE1VllabXdtaWZ6YUpSUjloNnM4TTQxV1NXdndVZFVnRk8zdHNZeHFfRVkwUnY3SXVaT25Ec1dka1lfZm56SmdZZmRzRFNrMmtKNXFoQVNoSktHTGN1QWNR?oc=5"
+    }
+  ]
+}

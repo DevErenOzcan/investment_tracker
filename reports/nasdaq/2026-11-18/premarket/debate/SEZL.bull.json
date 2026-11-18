@@ -1,0 +1,23 @@
+{"ticker": "SEZL",
+ "thesis": "SEZL is a high-quality, fast-growing, highly profitable lender whose post-earnings gap has been digested in a 145-158 range above rising 20/50/200-day averages. A pullback entry in 149-154 with a stop at 144.5 offers about 3.5 reward/risk toward the 178.55 gap high, with the 52-week high as the extension. Fundamentals are strong with low dilution risk, and no offering or scheduled event is visible in the window. The setup is only moderate. The risk-off regime, a sold-into gap, very high beta and mixed BNPL peer news argue for small size and a strict stop.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = pullback",
+  "technical: entry_zone = [149.0, 154.0]",
+  "technical: stop = 144.5",
+  "technical: target = 178.55",
+  "technical: reward_risk = 3.5",
+  "technical: notes = price 154.25 above rising SMA20 141.56, SMA50 127.09, SMA200 113.43, RSI 61, 63-day relative strength +0.38",
+  "fundamentals: quality = high",
+  "fundamentals: notes = Q3 revenue 166.5M up 42.56% YoY, net income 47.8M up 79.31% YoY, operating margin 60.0%, ROE 84.3%, free cash flow 91.9M",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: valuation = fair (trailing P/E 29.7, forward P/E 21.4)",
+  "fundamentals: notes = mean analyst target 192.67 (6 opinions)",
+  "fundamentals: red_flags = short interest 23.1% of float, squeeze potential",
+  "news: catalysts = record Q3, full-year outlook raised, preliminary FY2027 targets (2026-11-05)",
+  "news: event_risks = no S-3 or 424B5 in the last 10 days, no offering filing visible",
+  "news: binary_event = false",
+  "news: score = 1"
+ ],
+ "upside_case": {"target": 178.55, "probability": 0.35},
+ "rebuttal_to_bear": null}

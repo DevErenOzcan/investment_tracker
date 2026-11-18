@@ -1,0 +1,16 @@
+{"ticker": "CROX", "catalysts": [
+{"what": "Q3 earnings on 2026-10-29 (date from packet profile) triggered a gap from 119.69 to a 150.26 close on 4.9M shares (about 4x average volume). Net income for the quarter was 216.8M (+49% YoY) and revenue 1.04B (+4.7% YoY). The packet has no headline describing the print itself, so the guidance details are unknown.", "date": "2026-10-29", "direction": "positive", "source": "https://finance.yahoo.com/markets/stocks/articles/crocs-inc-crox-hits-fresh-131503341.html"},
+{"what": "Zacks says CROX hit a fresh 52-week high (164.24 intraday on 11/16), which points to post-earnings momentum and drift.", "date": "2026-11-16", "direction": "positive", "source": "https://finance.yahoo.com/markets/stocks/articles/crocs-inc-crox-hits-fresh-131503341.html"},
+{"what": "Zacks Rank #1 (Strong Buy) value-stock list includes CROX. Brokerage ABR is described as bullish. Both are low-signal quant and sentiment items.", "date": "2026-11-17", "direction": "positive", "source": "https://finance.yahoo.com/markets/stocks/articles/best-value-stocks-buy-november-085800343.html"},
+{"what": "Macro backdrop: a hotter-than-expected CPI print and rising bond yields, with more Fed rate hikes being priced in. This is a headwind for a high-beta consumer name (beta 1.5), although CROX screens as an undervalued cash-flow stock.", "date": "2026-11-14", "direction": "mixed", "source": "https://finance.yahoo.com/markets/stocks/articles/crocs-2-other-undervalued-cash-180928201.html"}
+],
+"event_risks": [
+"No SEC filings in the last 10 days, so there is no S-3 or 424B5 offering risk visible and no 8-K events.",
+"No known company-specific events in the next 20 business days. The next earnings report is probably around late Feb 2026-27 (an estimate, not in the packet).",
+"Macro risk: a rate-hike repricing could hit high-beta consumer names. Short interest is 13% of float, so moves can be squeezy in both directions.",
+"Debt is heavy (total debt 1.66B against 163M cash), which makes the stock rate-sensitive.",
+"The stock sits about 3% below its 52-week high, with RSI 66 and price 9% above the 20-day SMA. It is extended after the earnings gap, and the mean analyst target of 164.67 is roughly equal to the price, leaving little upside to consensus.",
+"No litigation, probe or takeover-bid news appears in the packet."
+],
+"binary_event": false, "news_available": true, "score": 1,
+"notes": "The price driver is the 2026-10-29 Q3 earnings beat. The stock gapped about 25% on 4.9M shares and has held and extended the gains, making a 52-week high on 11/16. That points to a durable re-rating with post-earnings drift rather than a one-off spike. The packet has no headline detailing the print or the guidance, so those details are unknown. Recent news is mostly Zacks and quant-screen items, with no offering, litigation or M&A flags and no scheduled company catalyst before the next earnings report. Net score is mildly positive. The extension, a price near the mean analyst target and rate-hike macro risk cap it."}

@@ -1,0 +1,15 @@
+{"ticker": "CHA",
+ "thesis": "The setup is a chase of a dividend-news spike in a risk-off tape. Reward/risk is only about 1.1 to the 52-week high, and price sits about 8% above SMA20 after an ~11% five-day run. A special dividend of about $1.95 per ADS (roughly 14% of price) has no ex-date in the packet, so a mechanical drop could hit the 12.45 stop before any thesis plays out. Earnings on 2026-11-27 fall inside the holding window, and the regime is risk-off (QQQ below its 200-day, VIX percentile 0.905, 10-year yield at a 1-year high), which hurts a consumer growth ADR. The spike has already started to fade, with two lower closes after the 14.37 peak.",
+ "evidence": [
+  "technical card: reward_risk = 1.1",
+  "technical card: close 13.69 vs SMA20 12.69, about 8% extended; entry_zone = [13.25, 13.65], stop = 12.45, target = 14.56",
+  "technical card: two lower closes on lighter volume after the 11/12-11/13 gap",
+  "news card: special dividend $1.95/ADS, ex-date not stated in packet",
+  "news card: earnings expected 2026-11-27, inside the holding window",
+  "news card: price -4.7% from the 14.37 close on Nov 13 to 13.69; BigGo frames the yield as masking a battle to defend valuation",
+  "news card: news is titles only, so dividend policy details are unverified",
+  "regime_view: risk-off, confidence = 0.85; QQQ 21-day return -8.55%, VIX 1y percentile 0.905, ^TNX 5.115"
+ ],
+ "downside_case": {"level": 12.45, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}
