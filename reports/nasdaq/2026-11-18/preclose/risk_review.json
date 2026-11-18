@@ -1,0 +1,7 @@
+{"vetoes": [],
+ "reductions": [
+  {"ticker": "GMAB", "factor": 0.5, "reason": "The morning concern still applies because the 7-day news set still does not verify the 10/05, 10/23 and 10/28 spikes (only a Simply Wall St valuation piece mentions epcoritamab approvals in passing), the 11/12 CEO, board and commercial-chief sales still follow the spike, and the setup has weakened since the morning (price 51.27 is now below SMA20 51.88, highs keep falling since 11/9, 5-day return -4.9%), so a gap-fill toward 44-45 through a stop only about 0.65 ATR away is not excluded and the 0.38 confidence rests on unexplained price action."}
+ ],
+ "portfolio_notes": "Only GMAB survives sizing (engine weight 1.43%, about 14.3 units); after the x0.5 cut it is about 0.7% (about 7.2 units) with roughly 99% cash. That fits a 0.85-confidence risk-off regime in which QQQ is below its 50/200-day, the VIX 1y percentile is 0.905 and ^TNX is 5.115. The morning concern about healthcare clustering (GMAB/AZTA/AMPH) no longer applies because AZTA and AMPH were downgraded to Hold, but GMAB is still a bet on continued XLV leadership. The news feed status is ok with no SEC filings in the last 10 days, and I found no binary event (FDA date, M&A, offering, litigation); the 11/05 earnings date has already passed. Because the pre-close price is about 15 min delayed and the stop sits only 1.37 below it, a fill near the close should be logged as one observation with the morning row (lessons item 3).",
+ "held_alerts": []
+}

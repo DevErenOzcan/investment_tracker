@@ -1,0 +1,20 @@
+{"regime": "risk-off",
+ "confidence": 0.85,
+ "leading_sectors": ["XLP", "XLV", "XLF"],
+ "lagging_sectors": ["XLK", "XLC", "XLI"],
+ "evidence": [
+  "QQQ below both 50- and 200-day averages (last 656.95)",
+  "QQQ 21-day return -8.55%, past the -8% risk-off threshold",
+  "VIX 1-year percentile 0.905 (last 24.37, 21-day return +40.8%)",
+  "SMH 21-day return -16.1% and XLK 21-day return -12.2%, both below 50/200-day",
+  "IWM below 50/200-day (ret_21 -0.8%, ret_63 -10.6%); SPY below 50-day (ret_21 -4.4%)",
+  "Defensives lead: XLP ret_21 +4.9% (1y pct 0.981), XLV ret_21 +5.5% (1y pct 0.962)",
+  "^TNX at 5.115, 1y percentile 0.90, ret_63 +8.9%"
+ ],
+ "watch": [
+  "Whether QQQ reclaims its 50-day average",
+  "VIX 1-year percentile (0.905) falling back below 0.85",
+  "^TNX (5.115, ret_5 +2.3%) continuing to rise"
+ ],
+ "summary": "Three independent risk-off triggers are active. QQQ's 21-day return is -8.55%, QQQ is below its 200-day, and the VIX 1-year percentile is 0.905. Semiconductors and tech are driving the decline, while defensives (XLP, XLV) and financials hold up. Elevated yields add pressure on growth."
+}

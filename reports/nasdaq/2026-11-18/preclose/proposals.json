@@ -1,0 +1,48 @@
+{
+  "as_of": "2026-11-18",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "peak_value_units": 1000,
+  "drawdown": 0.0,
+  "regime": "risk-off",
+  "regime_mult": 0.4,
+  "risk_per_trade": 0.0075,
+  "portfolio_vol": 0.0051143983321496524,
+  "positions": [
+    {
+      "ticker": "GMAB",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 51.27,
+      "stop": 49.9,
+      "target": 57.29,
+      "rr": 4.39,
+      "rating": "Overweight",
+      "confidence": 0.38,
+      "kelly": 0.2389,
+      "stop_pct": 0.0267,
+      "binding": "kelly",
+      "engine_weight": 0.0072,
+      "priority": 0.14334219269102957,
+      "flags": [
+        "risk-officer reduction x0.5: The morning concern still applies because the 7-day news set still does not verify the 10/05, 10/23 and 10/28 spikes (only a Simply Wall St valuation piece mentions epcoritamab approvals in passing), the 11/12 CEO, board and commercial-chief sales still follow the spike, and the setup has weakened since the morning (price 51.27 is now below SMA20 51.88, highs keep falling since 11/9, 5-day return -4.9%), so a gap-fill toward 44-45 through a stop only about 0.65 ATR away is not excluded and the 0.38 confidence rests on unexplained price action."
+      ],
+      "amount_units": 7.2
+    }
+  ],
+  "cash_weight": 0.9928,
+  "rejected": [
+    {
+      "ticker": "AMPH",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "AZTA",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "CROX",
+      "reason": "rating Hold: no new buy"
+    }
+  ]
+}
