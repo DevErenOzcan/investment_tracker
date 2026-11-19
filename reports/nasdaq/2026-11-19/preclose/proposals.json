@@ -1,0 +1,58 @@
+{
+  "as_of": "2026-11-19",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "peak_value_units": 1000,
+  "drawdown": 0.0,
+  "regime": "risk-off",
+  "regime_mult": 0.4,
+  "risk_per_trade": 0.0075,
+  "portfolio_vol": 0.0038737399747117217,
+  "positions": [
+    {
+      "ticker": "PGNY",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 35.54,
+      "stop": 33.2,
+      "target": 40.0,
+      "rr": 1.91,
+      "rating": "Overweight",
+      "confidence": 0.44,
+      "kelly": 0.1462,
+      "stop_pct": 0.0658,
+      "binding": "kelly",
+      "engine_weight": 0.0088,
+      "priority": 0.08771300448430525,
+      "flags": [],
+      "amount_units": 8.8
+    },
+    {
+      "ticker": "TGTX",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 65.02,
+      "stop": 61.2,
+      "target": 72.6,
+      "rr": 1.98,
+      "rating": "Overweight",
+      "confidence": 0.4,
+      "kelly": 0.0976,
+      "stop_pct": 0.0588,
+      "binding": "kelly",
+      "engine_weight": 0.0044,
+      "priority": 0.05857519788918235,
+      "flags": [
+        "risk-officer reduction x0.75: A high-beta (1.808), 27.7%-short-float biotech in a risk-off tape, with a stop only about 1.2 ATR (3.82) below 65.02, an intraday rejection at 67.19 that left it near the day's low, R/R of only about 1.0 to the first resistance at 68.03, and debt (754.4M) above cash (504.7M) that leaves a post-rally raise possible."
+      ],
+      "amount_units": 4.4
+    }
+  ],
+  "cash_weight": 0.9868,
+  "rejected": [
+    {
+      "ticker": "VTRS",
+      "reason": "rating Hold: no new buy"
+    }
+  ]
+}

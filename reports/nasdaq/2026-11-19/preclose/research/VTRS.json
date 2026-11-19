@@ -1,0 +1,15 @@
+{"ticker": "VTRS", "rating": "Hold", "confidence": 0.38,
+ "entry": 19.895, "entry_zone": [19.7, 19.95], "stop": 19.4, "target": 21.2, "horizon_days": 10,
+ "expected_return": {"low": -0.025, "high": 0.066},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "Downgraded one notch from the morning Overweight, so the debate stays skipped. The open at 20.25 filled inside the morning 20.05-20.40 zone, and then the intraday low of 19.68 went through the morning 19.70 stop. That is the sixth lower close in seven sessions from 21.06, with a 5-day return of -3.75%, and the tape is risk-off. The longer trend is intact: last 19.895 is above SMA20 19.65, SMA50 18.41 and SMA200 16.24, and RSI is 55.7. The technical card's re-based setup (zone 19.70-19.95, stop 19.40, target 21.20, about 2.6 R/R at the last price) is a valid re-entry candidate, but the card says a bounce from the SMA20 is not confirmed. Lowering a stop that was just breached in order to keep the trade is not a reason to open a new position.",
+ "invalidation": "A daily close below 19.40, under the SMA20 (about 19.65) and today's 19.68 low, ends the pullback-long case and puts the 18.79 swing low back in play.",
+ "key_risks": [
+  "The morning stop at 19.70 was breached intraday (low 19.68), so the morning thesis has failed on a hard-stop basis. Any morning fill should be treated as stopped out, not carried on the wider 19.40 stop",
+  "The 8-K filed 2026-11-17 (Item 2.01 completed acquisition/disposition, with 7.01) is still unreviewed. Price has drifted 20.45 -> 20.28 -> 19.895 since it was filed",
+  "Distribution: down days on 15.7M (11-16) and 13.3M (11-18) shares against a 9.0M average, and six lower closes in seven sessions",
+  "The re-based stop at 19.40 is only about 0.9 ATR (0.547) below the last price, with VIX at the 0.858 percentile",
+  "Fundamentals: revenue YoY -0.3%, trailing profit margin -4.1%, debt 13.58B against cash 2.01B. The cheap valuation (forward P/E 7.2) may be a value trap",
+  "The book is already heavy in healthcare (lesson 6), so a position adds to one correlated bet"
+ ],
+ "debate_winner": "skipped"}

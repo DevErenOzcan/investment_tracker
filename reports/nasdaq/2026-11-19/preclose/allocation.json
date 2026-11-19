@@ -1,0 +1,65 @@
+{
+  "as_of": "2026-11-19",
+  "session": "preclose",
+  "exchange": "NASDAQ",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "regime": "risk-off",
+  "positions": [
+    {
+      "ticker": "PGNY",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 35.54,
+      "weight": 0.0088,
+      "engine_weight": 0.0088,
+      "amount_units": 8.8,
+      "entry_zone": [34.9, 35.8],
+      "stop": 33.2,
+      "target": 40.0,
+      "rating": "Overweight",
+      "confidence": 0.44,
+      "action": "buy-confirm",
+      "rationale": "Engine weight kept (not raised, per the risk officer, given unexplained insider sales); the requested pullback arrived on light volume, R/R at 35.54 improved to 1.91, and the zone top of 35.80 still gives R/R 1.62."
+    },
+    {
+      "ticker": "TGTX",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 65.02,
+      "weight": 0.0044,
+      "engine_weight": 0.0044,
+      "amount_units": 4.4,
+      "entry_zone": [63.8, 65.4],
+      "stop": 61.2,
+      "target": 72.6,
+      "rating": "Overweight",
+      "confidence": 0.4,
+      "action": "buy-confirm",
+      "rationale": "Engine weight kept after the risk-officer x0.75 cut; growth thesis intact and the zone traded today, but the 67.19 rejection, beta 1.8 and a stop only about 1.2 ATR away keep it the smallest line."
+    },
+    {
+      "ticker": "VTRS",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 19.895,
+      "weight": 0.0,
+      "engine_weight": 0.0,
+      "amount_units": 0.0,
+      "entry_zone": [20.05, 20.3],
+      "stop": 19.7,
+      "target": 21.2,
+      "rating": "Hold",
+      "confidence": 0.38,
+      "action": "cancel",
+      "rationale": "Cancel the morning buy: downgraded to Hold, engine weight 0 and risk-officer veto after the 19.70 stop was breached intraday (low 19.68), with distribution volume and the 2026-11-17 Item 2.01 8-K still unreviewed; any morning fill should be treated as stopped out."
+    }
+  ],
+  "cash_weight": 0.9868,
+  "vetoed": [
+    {
+      "ticker": "VTRS",
+      "reason": "Rated Hold (engine rejected: no new buy) and vetoed by the risk officer: morning 19.70 stop breached intraday, Item 2.01 8-K unreviewed, distribution volume; must not be revived."
+    }
+  ]
+}

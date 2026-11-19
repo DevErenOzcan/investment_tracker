@@ -1,0 +1,10 @@
+{
+  "vetoes": [
+    {"ticker": "VTRS", "reason": "Already rejected at Hold, but the morning 19.70 stop was breached intraday (low 19.68), the 2026-11-17 8-K (Item 2.01 completed acquisition/disposition) remains unreviewed, and volume shows distribution, so it must not be revived at the portfolio-manager stage."}
+  ],
+  "reductions": [
+    {"ticker": "TGTX", "factor": 0.75, "reason": "A high-beta (1.808), 27.7%-short-float biotech in a risk-off tape, with a stop only about 1.2 ATR (3.82) below 65.02, an intraday rejection at 67.19 that left it near the day's low, R/R of only about 1.0 to the first resistance at 68.03, and debt (754.4M) above cash (504.7M) that leaves a post-rally raise possible."}
+  ],
+  "portfolio_notes": "Both new candidates are healthcare post-earnings momentum pullbacks entered on the same day, so they are one correlated bet (lessons item 6) rather than two independent ones, although their combined weight is small (about 1.3% after the TGTX cut) against 98.5% cash. Healthcare is a leading defensive group in this risk-off regime (confidence 0.85), so the sector tilt fits the regime; the risk is a broad de-risking flush that gaps both names through their stops together. PGNY is left unchanged: its confidence of 0.44 is supported by the trend, a stop about 1.9 ATR away and no binary event, but its CEO, chairman and CPO insider sales (not confirmed as plan-based) and unverified earnings details argue against any upward adjustment by the PM. News data was available for both names and showed no offerings, litigation or M&A inside the 10-day window.",
+  "held_alerts": []
+}
