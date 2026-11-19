@@ -1,0 +1,8 @@
+{"ticker": "TGTX", "rating": "Overweight", "confidence": 0.42,
+ "entry": 65.15, "entry_zone": [64.3, 65.8], "stop": 61.2, "target": 72.7, "horizon_days": 10,
+ "expected_return": {"low": -0.061, "high": 0.116},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "Profitable grower (Q3 revenue 259.9M, +60.7% YoY, guidance raised, FCF 85.5M) in a confirmed uptrend that has held its post-earnings gains near the 68.03 high while the tech tape sold off, and healthcare is a leading sector in the risk-off regime. The edge is modest: the regime is risk-off, beta is 1.8, valuation is rich, the 11/18 bounce came on 0.84x volume, and the mean analyst target of 69.43 sits below the 72.7 target. Pullback-only entry: mid-zone 65.15 gives R/R of about 1.9; the card zone's top (66.0) is trimmed to 65.8, the highest entry that keeps R/R at 1.5 against the card stop and target, and the 66.12 close (R/R about 1.3) is not a valid entry.",
+ "invalidation": "Daily close below 61.2, or a failed breakout with a close back below 63.4 on above-average volume.",
+ "key_risks": ["Risk-off regime (QQQ ret_21 -8.1%, VIX pct 0.858) with beta 1.808 means market flushes can hit a stop only about 1.3 ATR away", "Breakout above 68.03 not volume-confirmed; 11/18 bounce on 0.84x volume", "Rich valuation (trailing P/E 98.7, P/S 11.1) and mean analyst target 69.43, below the 72.7 target", "Revenue growth slowing from about 70% to 60.7% YoY", "Debt 754.4M vs cash 504.7M; a post-rally convertible or equity raise cannot be ruled out", "27.66% short float drives sharp moves both ways", "Next earnings date not in packet (null); probably early 2027 but unconfirmed", "Healthcare concentration in the book (lessons item 6)"],
+ "debate_winner": "draw"}

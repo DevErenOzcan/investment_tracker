@@ -1,0 +1,31 @@
+{
+  "finalists": [
+    {"ticker": "ACHC", "why": "Healthcare (a regime-leading sector) in a trend-4 uptrend, ext_20 about 10% and RSI 67.5, about 5% below its 52-week high.", "watch": "Facility operator with a 5-day pullback; a failure to hold the 20-day average would invalidate the setup."},
+    {"ticker": "TGTX", "why": "Biotech with trend 4, 61% revenue growth and a raised-guidance narrative, within 3% of its 52-week high, ext_20 about 9%.", "watch": "Biotech gap risk on regulatory or competitor news in a risk-off tape; volume ratio is below 1."},
+    {"ticker": "PGNY", "why": "Healthcare plans name at a fresh high with low ATR and a reasonable forward PE, in a defensive leading sector.", "watch": "RSI 73 is stretched, so a pullback entry is better than chasing; ext_20 is already above 11%."},
+    {"ticker": "AMPH", "why": "Specialty pharma with a low-volatility uptrend, ext_20 about 7% and RSI 68, in a leading sector.", "watch": "Thin dollar volume (lowest tier of this list) means slippage and wider stops."},
+    {"ticker": "VTRS", "why": "Large-cap generic pharma with the lowest ATR on the list, ext_20 under 4% and a clean trend, which suits a defensive regime.", "watch": "Flat revenue growth, so momentum could fade quickly; it shares a sub-industry with AMPH."},
+    {"ticker": "CRVL", "why": "Low-volatility trend-4 uptrend about 2% from its high, with no earnings until February 2027.", "watch": "Repeated insider and officer sale filings in the headlines, and modest liquidity."},
+    {"ticker": "CROX", "why": "Strong relative strength, within 1% of its 52-week high and ext_20 about 10%, with high liquidity and a low forward PE.", "watch": "Consumer cyclical is not a leading sector, so it is the most exposed finalist if risk-off deepens; RSI is near 69."},
+    {"ticker": "CRAI", "why": "Consulting name in a trend-4 uptrend, about 1% below its high on a volume ratio above 1, with 15.6% revenue growth.", "watch": "RSI 74 is near the limit and the 5-day gain is large, so it is prone to a pullback; liquidity is modest."}
+  ],
+  "dropped": [
+    {"ticker": "GDYN", "why": "Tech name in a lagging sector, with a very large 21-day run and repeated director selling."},
+    {"ticker": "APPN", "why": "Software is a lagging sector in this risk-off regime, and a director has filed a proposed share sale."},
+    {"ticker": "XMTR", "why": "High ATR, high forward PE and a lagging tech-like profile, with a volume ratio below 1."},
+    {"ticker": "NTSK", "why": "Software infrastructure sits in a lagging sector, with very high ATR and an extreme forward PE."},
+    {"ticker": "REPL", "why": "Single-asset biotech after a huge run and a sharp 5-day drop, so binary clinical and launch risk is high."},
+    {"ticker": "FROG", "why": "ext_20 is about 14.5%, close to the 15% limit, and software is a lagging sector with high ATR."},
+    {"ticker": "COLM", "why": "RSI 76 and ext_20 about 11%, which is over-extended, with insider selling in the headlines."},
+    {"ticker": "GMAB", "why": "Trend 3 and about 15% below its high with no base or breakout, so the setup is not clean."},
+    {"ticker": "CHA", "why": "Foreign ADS restaurant name with thin liquidity and noisy, irrelevant headlines, and the signal is weak."},
+    {"ticker": "ADMA", "why": "About 25% below its high with a short-seller attack in the headlines, and a third biotech would breach diversification."},
+    {"ticker": "SEZL", "why": "Credit services name with high ATR, about 19% below its high and ext_20 above 11%, which is not a clean base in risk-off."},
+    {"ticker": "GCT", "why": "Technology (lagging sector), with a leadership transition headline and thin conviction."},
+    {"ticker": "CBRL", "why": "Negative revenue growth and a rich forward PE, with a sharp 5-day jump on low volume."},
+    {"ticker": "STGW", "why": "Communication services is a lagging sector, with a negative 5-day return and a 10% distance from its high."},
+    {"ticker": "XNCR", "why": "Down about 14% in 5 days, and a chart-based review calls it a weak setup despite the trend, so the setup is broken."},
+    {"ticker": "SLN", "why": "RSI 77.8 is at the limit and the volume ratio is very low (0.31), so there is no participation, plus clinical-stage binary risk."},
+    {"ticker": "KOD", "why": "Trend 3, down about 10% in 5 days, and clinical-stage with binary trial risk, so the setup is not clean."}
+  ]
+}

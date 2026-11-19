@@ -1,0 +1,8 @@
+{"ticker": "CRAI", "rating": "Hold", "confidence": 0.42,
+ "entry": 210.5, "entry_zone": [208.0, 213.0], "stop": 193.9, "target": 232.1, "horizon_days": 10,
+ "expected_return": {"low": -0.079, "high": 0.103},
+ "sector": "Industrials", "earnings_date": null,
+ "thesis": "CRAI has a clean uptrend (close 215.44 > SMA20 200.4 > SMA50 182.2 > SMA200 165.4) backed by an accelerating, profitable Q3 (revenue +15.6% YoY, net income +21% YoY, dividend +17.5%), but it is overbought (RSI14 74, 7.5% above SMA20) and has had no new catalyst since Nov 5. Reward/risk is 1.3 at the zone midpoint 210.5 and about 0.8 at the last price 215.44, both below the 1.5 floor, and the regime is risk-off (confidence 0.85), so the bull itself argues for waiting. Hold and re-assess on a pullback into 208-213 or a volume-confirmed close above 217.72.",
+ "invalidation": "A daily close below 194.37 (10-day swing low) breaks the post-earnings range and the uptrend thesis.",
+ "key_risks": ["Reward/risk 1.3 at zone midpoint and about 0.8 at last price 215.44, below the 1.5 minimum", "Risk-off regime: QQQ 21-day -8.1%, VIX percentile 0.858, ^TNX 5.089 near 1-year high", "Thin liquidity (about 122k average shares, about 26M 20-day dollar volume) can gap through the 193.9 stop", "Leverage: total debt 227.5M vs cash 20.4M; only 2 analysts", "Extended after a 7.6% 5-day run with no new catalyst; the entry zone may never be touched", "Dividend ex-date unconfirmed and may fall inside the window; news coverage limited to one secondary article"],
+ "debate_winner": "bear"}

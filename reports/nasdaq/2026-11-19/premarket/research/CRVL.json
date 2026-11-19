@@ -1,0 +1,8 @@
+{"ticker": "CRVL", "rating": "Hold", "confidence": 0.4,
+ "entry": 87.5, "entry_zone": [86.6, 88.4], "stop": 81.6, "target": 96.0, "horizon_days": 15,
+ "expected_return": {"low": -0.067, "high": 0.097},
+ "sector": "Financial Services", "earnings_date": "2027-02-02",
+ "thesis": "CorVel is a high-quality compounder (revenue +11.5%, net income +22.2% YoY, ROE 30.6%, net cash) in a clean uptrend above SMA20/50/200 with rs_63 +0.34, and as a non-tech name it sits outside the semis/tech selloff driving the risk-off regime. The setup fails the reward/risk bar, though. From the 87.5 mid-entry, R/R to the 96.0 target over the 81.6 stop is 1.44, and at the 88.87 last close, which is above the zone, it is only about 0.98. Add the fade from the 90.71 high, RSI 68.7, a 37x trailing P/E in a rising-rate tape, and a cluster of insider selling, and the timing argues for waiting for a pullback rather than opening a position. Stop and target are unchanged from the technical card; entry is the zone midpoint.",
+ "invalidation": "Daily close below 81.84 (10-day swing low), or a failed breakout that closes back under 86.5 on above-average volume after a push through 90.71.",
+ "key_risks": ["Reward/risk below 1.5 at both the zone midpoint (1.44) and the last close (about 0.98)", "Extended at the 52-week high: 5.2% above SMA20, RSI 68.7, and the 11/18 intraday high of 90.71 faded to an 88.87 close", "Insider selling cluster (EVP, two directors, Form 144 filings) into the highs", "Rich valuation (trailing P/E 37.3, EV/EBITDA 21.7) exposed to de-rating with ^TNX at 5.089 in a risk-off regime (confidence 0.85)", "SEC quarterly series has gaps and mislabeled periods, so the growth-acceleration reading is approximate; news is RSS titles only"],
+ "debate_winner": "bear"}

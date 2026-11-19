@@ -1,0 +1,8 @@
+{"ticker": "PGNY", "rating": "Overweight", "confidence": 0.44,
+ "entry": 35.75, "entry_zone": [35.3, 36.2], "stop": 33.2, "target": 40.0, "horizon_days": 10,
+ "expected_return": {"low": -0.071, "high": 0.119},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "Q3 confirmed accelerating, cash-generative growth (revenue +8.9% YoY, net income +89% YoY, FCF 195.1M against 25.9M debt, forward P/E 15.1). The 11-05 post-earnings gap has held for two weeks on lighter-volume consolidation just under the 37.21 52-week high, and the stock sits in the health-care group that is leading the risk-off tape. Reward/risk is 1.67 at the 35.75 zone midpoint against the 33.2 stop. That clears the bar only for a dip entry, so this is a modest, pullback-only position and not a chase at 36.16 (about 1.3 R/R).",
+ "invalidation": "A daily close below 33.3 (the 11-06 post-earnings low) negates the setup, and a close below 32.03 back inside the gap means the earnings breakout has failed.",
+ "key_risks": ["Risk-off regime (confidence 0.85, QQQ ret_21 -8.1%, VIX percentile 0.858) raises the odds of a gap-fill in momentum names", "Extended: RSI 73 and 11.5% above SMA20; the analyst mean target of 37.75 is only about 4% above the last close and below the 40.0 target", "Q3 revenue 341.3M fell sequentially from Q2 350.5M, gross margin is thin at 24.9%, and the news feed does not confirm the cause of the gap", "Short interest of 9.1% of float can cause sharp reversals in either direction", "Correlation: adds to an already healthcare-heavy book (lessons item 6)"],
+ "debate_winner": "draw"}

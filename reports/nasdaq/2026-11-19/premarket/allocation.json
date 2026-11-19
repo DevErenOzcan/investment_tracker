@@ -1,0 +1,60 @@
+{
+  "as_of": "2026-11-19",
+  "session": "premarket",
+  "exchange": "NASDAQ",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "regime": "risk-off",
+  "positions": [
+    {
+      "ticker": "VTRS",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 20.22,
+      "weight": 0.0047,
+      "engine_weight": 0.0047,
+      "amount_units": 4.7,
+      "entry_zone": [20.05, 20.3],
+      "stop": 19.7,
+      "target": 21.2,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "action": "buy",
+      "rationale": "Engine weight kept; small pullback long in a leading defensive sector, with the entry zone top cut from 20.40 to 20.30 (the highest entry that keeps R/R at 1.5), and the unreviewed 2026-11-17 Item 2.01 8-K should be read before any fill."
+    },
+    {
+      "ticker": "TGTX",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 65.15,
+      "weight": 0.0035,
+      "engine_weight": 0.0035,
+      "amount_units": 3.5,
+      "entry_zone": [64.3, 65.8],
+      "stop": 61.2,
+      "target": 72.7,
+      "rating": "Overweight",
+      "confidence": 0.42,
+      "action": "buy",
+      "rationale": "Engine weight kept after the risk-officer halving; strong growth story, but buy only on a pullback into 64.30-65.80 since the last close of 66.12 gives R/R below 1.5."
+    },
+    {
+      "ticker": "PGNY",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 35.75,
+      "weight": 0.0047,
+      "engine_weight": 0.0047,
+      "amount_units": 4.7,
+      "entry_zone": [35.3, 35.9],
+      "stop": 33.2,
+      "target": 40.0,
+      "rating": "Overweight",
+      "confidence": 0.44,
+      "action": "buy",
+      "rationale": "Engine weight kept; the post-earnings gap is holding, but the stock is extended, so the entry zone top is cut from 36.20 to 35.90 to keep R/R at least 1.5 and the last close of 36.16 is not a valid entry."
+    }
+  ],
+  "cash_weight": 0.9871,
+  "vetoed": []
+}

@@ -1,0 +1,15 @@
+{"ticker": "VTRS", "rating": "Overweight", "confidence": 0.45,
+ "entry": 20.22, "entry_zone": [20.05, 20.4], "stop": 19.7, "target": 21.2, "horizon_days": 10,
+ "expected_return": {"low": -0.026, "high": 0.048},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "Pullback long in an established uptrend: close 20.28 is above SMA20 (19.58), SMA50 (18.34) and SMA200 (16.21) after a post-earnings rerating, with RSI 61 and a defined 20.05-20.40 entry zone giving about 1.9 reward/risk to the 21.20 high (about 1.6 even at the last price). Health care (XLV) is among the regime's leading defensive sectors in a risk-off tape, valuation is low (forward P/E 7.36) and free cash flow is strong, and no earnings event falls inside the horizon. Conviction is capped by flat revenue, above-average volume on the down days, a stop only about 1 ATR away in a high-VIX tape, and an unreviewed Item 2.01 8-K, so the position should be small and tactical.",
+ "invalidation": "A daily close below 19.70, or a close below the SMA20 (about 19.58) on rising volume.",
+ "key_risks": [
+  "8-K filed 2026-11-17 (Item 2.01, completed acquisition or disposition) has not been reviewed; read it before sizing",
+  "Stop at 19.70 is only about 1 ATR (0.539) below the entry, so with VIX at the 0.858 percentile one normal volatile day can trigger it",
+  "Down days came on above-average volume (13.3M on 11-18, 15.7M on 11-16 vs 9.0M average): mild distribution as the post-earnings drift fades",
+  "Revenue growth has gone from +8.1% to +4.9% to -0.3% YoY, the trailing GAAP margin is -4.1% and debt is 13.58B, so the cheap valuation may be a value trap",
+  "The book is already heavy in healthcare (lesson 6), so this adds to one correlated bet",
+  "Upside is limited: the 21.20 target and the 21.6 analyst mean are close to the 20.28 price"
+ ],
+ "debate_winner": "bull"}

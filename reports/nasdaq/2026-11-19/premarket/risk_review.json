@@ -1,0 +1,22 @@
+{
+  "vetoes": [],
+  "reductions": [
+    {
+      "ticker": "VTRS",
+      "factor": 0.5,
+      "reason": "An 8-K filed 2026-11-17 with Item 2.01 (completed acquisition or disposition) has not been reviewed by anyone in the pipeline, so event risk cannot be checked. The stop is also only about 1 ATR (0.539) below entry while VIX is at the 0.858 percentile."
+    },
+    {
+      "ticker": "TGTX",
+      "factor": 0.5,
+      "reason": "This is a biotech with beta 1.808, 27.66% short float, rich valuation (trailing P/E 98.7) and debt (754.4M) above cash (504.7M), which brings dilution risk. That high-beta profile fights the risk-off regime, and the bull/bear debate was a draw, so 0.42 confidence is generous."
+    },
+    {
+      "ticker": "PGNY",
+      "factor": 0.75,
+      "reason": "The card calls growth 'accelerating', but Q3 revenue fell sequentially (341.3M vs 350.5M) and no news source confirms what caused the gap. The stock is also extended (RSI 73, 11.5% above SMA20), with the 40.0 target above the 37.75 analyst mean, so the debate-draw 0.44 confidence is overstated."
+    }
+  ],
+  "portfolio_notes": "All three proposals are Healthcare names entered as post-earnings drift or pullback trades, so they are effectively one correlated bet on defensive healthcare leadership, not three independent ones (lessons item 6). At about 2.3% gross this is small, but if the XLV leadership reverses in the risk-off tape (QQQ ret_21 -8.1%, VIX pct 0.858, ^TNX 5.089) all three would likely hit their stops together. All three entries are pullback-only, and the last prices of TGTX and PGNY give R/R below 1.5, so no fill should be assumed unless the price trades inside the entry zone. The book is empty and the drawdown is 0, so there are no held positions to manage.",
+  "held_alerts": []
+}

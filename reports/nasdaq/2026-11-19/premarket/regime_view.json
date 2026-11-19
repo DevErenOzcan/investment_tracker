@@ -1,0 +1,21 @@
+{"regime": "risk-off",
+ "confidence": 0.85,
+ "leading_sectors": ["XLP", "XLV", "XLU"],
+ "lagging_sectors": ["XLK", "XLE", "XLC"],
+ "evidence": [
+  "QQQ below both its 50- and 200-day averages (last 659.51, pct_rank_1y 0.322)",
+  "QQQ 21-day return -8.1%, past the -8% risk-off threshold; 5-day return -4.5%",
+  "VIX at 22.35 with 1-year percentile 0.858 (above 0.85), ret_21 +34.0%",
+  "SMH 21-day return -15.9% and XLK 21-day return -11.7%, both below 50/200-day: tech/semis leading the decline",
+  "IWM below 50- and 200-day (ret_21 -2.1%); SPY below 50-day (ret_21 -5.1%) though still above 200-day",
+  "Defensives holding up: XLP ret_21 +3.9% (pct_rank 0.966), XLU ret_21 +4.0%, XLV ret_21 +0.8% (pct_rank 0.923)",
+  "^TNX at 5.089 with 1-year percentile 0.876, ret_63 +7.4%, above 50/200-day: rate pressure"
+ ],
+ "watch": [
+  "Whether VIX percentile (0.858) keeps rising or retraces below 0.85",
+  "Whether QQQ (ret_21 -8.1%) stabilises or extends the decline",
+  "Semiconductor weakness (SMH ret_5 -9.4%) spilling into the rest of the index",
+  "10-year yield (^TNX 5.089) near the top of its 1-year range"
+ ],
+ "summary": "Risk-off. QQQ is below its 50- and 200-day averages with a 21-day return of -8.1%, and VIX sits at the 0.858 percentile after a 34% rise over 21 days. Semis and tech lead the selloff while staples, utilities and health care hold up; 6 of 11 sector ETFs are above their 50-day, all of them defensive or financial/consumer."
+}

@@ -1,0 +1,17 @@
+{"ticker": "CRVL",
+ "thesis": "Buying an extended, richly valued stock at a 52-week high into a risk-off tape with a cluster of insider selling is poor timing. The intraday high of 90.71 faded to a close of 88.87, which is a rejection at the highs, and the stock is 5.2% above SMA20 with RSI near 69. The reward/risk of about 1.4 is thin for a 37x trailing P/E name that has no fresh catalyst, since the Q2 beat was priced in on 11/5. In a regime where QQQ is below its 50- and 200-day averages and VIX is at a 0.858 percentile, high-multiple stocks are vulnerable to a de-rating if rates (^TNX 5.089) keep climbing. Insiders (an EVP and two directors) sold into the highs, so the people with the best information are not adding.",
+ "evidence": [
+  "technical: close = 88.87 vs intraday high 90.71 (faded on 11/18), RSI 68.7, 5.2% above SMA20",
+  "technical: reward_risk = 1.44, entry_zone 86.6-88.4, stop 81.6, target 96.0",
+  "technical: invalidation = failed breakout, close back under 86.5 after a push through 90.71",
+  "fundamentals: valuation = rich (trailing P/E 37.3, EV/EBITDA 21.7, P/S 4.4), no peer or forward multiples to justify it",
+  "fundamentals: red_flags = insider selling cluster (Bertels ~511.6K, Hamerslag ~924K, another director ~576K, Form 144 filings)",
+  "fundamentals: red_flags = SEC quarterly series has mislabeled period ends and gaps, so the growth acceleration reading is approximate",
+  "news: 11/18 high has no company-specific driver (momentum only), and the earnings catalyst was 11/5",
+  "news: event_risks = extended after a 52-week high, pullback risk without a news catalyst",
+  "regime_view: regime = risk-off, confidence 0.85, QQQ below 50/200-day, ret_21 -8.1%",
+  "regime_view: VIX pct_rank 0.858, ^TNX 5.089 at 0.876 percentile, XLK and SMH leading the decline"
+ ],
+ "downside_case": {"level": 81.6, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

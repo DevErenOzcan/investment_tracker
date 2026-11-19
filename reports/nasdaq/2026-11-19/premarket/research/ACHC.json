@@ -1,0 +1,8 @@
+{"ticker": "ACHC", "rating": "Hold", "confidence": 0.35,
+ "entry": 37.4, "entry_zone": [36.9, 37.9], "stop": 33.6, "target": 43.15, "horizon_days": 10,
+ "expected_return": {"low": -0.102, "high": 0.154},
+ "sector": "Health Care", "earnings_date": null,
+ "thesis": "ACHC is in a strong uptrend (close 37.59 above SMA20/50/200, 63-day +39%) and has held its 2026-11-05 earnings gap in a 37-39.7 base, in a sector (XLV) that is leading a risk-off tape. Reward/risk is only 1.51 at the 37.4 zone midpoint, 1.22 at the top of the zone and about 0.97 at the 38.44 pre-market price, which is above the zone. The gap driver is undocumented, price is near the 39.07 mean analyst target, and the regime is risk-off with confidence 0.85, so the stock stays on Hold until it pulls back into 36.9-37.9 or breaks out above 39.7 on volume.",
+ "invalidation": "Daily close below 33.84 (the post-earnings gap-day low), or a close back below the SMA20 near 34.1 on rising volume.",
+ "key_risks": ["Reward/risk below 1.5 at the 38.44 pre-market price; the entry zone may never be touched", "Risk-off regime (QQQ below 50/200-day, VIX 0.858 percentile, ^TNX 5.089 near 1-year high)", "Heavy leverage: debt/equity 112.185, total debt 2,526,828,032 vs cash 163,307,008", "Short interest 32.4% of float makes moves violent both ways", "Earnings gap driver undocumented; price within about 4% of mean analyst target 39.07", "Resistance at the 39.7 52-week high is close; target 43.15 needs a breakout", "Correlated healthcare exposure in the book (lessons item 6)"],
+ "debate_winner": "bear"}
