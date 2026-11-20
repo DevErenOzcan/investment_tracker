@@ -1,0 +1,16 @@
+{"ticker": "ADMA", "rating": "Overweight", "confidence": 0.40,
+ "entry": 13.12, "entry_zone": [12.95, 13.3], "stop": 12.4, "target": 15.9, "horizon_days": 10,
+ "expected_return": {"low": -0.055, "high": 0.212},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "ADMA is a profitable, cash-generative biotech (quality high, dilution risk low, forward P/E 14.2) in a post-earnings uptrend above SMA20/50/200, pulling back into the 12.95-13.30 zone (pre-market 13.25) after the 2026-11-05 gap held with higher lows, and healthcare is a leading sector in this regime. Card stop 12.40 and target 15.9 give R/R about 3.9 from the 13.12 mid entry, but the target needs a break of 14.2, which was rejected on 11/18, and R/R to 14.2 alone is only about 1.5. With a risk-off tape (VIX percentile 0.995) and titles-only news, this supports a small Overweight rather than a Buy.",
+ "invalidation": "Daily close below 12.40, or a close back under the 20-day SMA (about 12.28) on rising volume.",
+ "key_risks": [
+  "Broad risk-off regime (confidence 0.93, VIX 31.37 at percentile 0.995, QQQ below its 50/200-day): a market-wide flush could gap through the 12.40 stop",
+  "Repeated failure at the 14.2 swing high; the 15.9 measured-move target depends on breaking it",
+  "CEO and director share sales around 2026-11-16 add supply near 14.2",
+  "Revenue growth is only about 5% YoY against net income +37%, so the earnings beat leaned on margins",
+  "Short interest about 10% of float and an unverified short-seller attack mention could cause headline volatility",
+  "Healthcare concentration in the book (lessons item 6): this may be correlated with other healthcare longs, not an independent bet",
+  "Packet inconsistency on the 52-week high (18.0 in levels vs 20.458 in profile); the news feed is titles-only"
+ ],
+ "debate_winner": "draw"}

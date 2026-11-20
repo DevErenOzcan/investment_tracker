@@ -1,0 +1,16 @@
+{"ticker": "PGNY", "rating": "Overweight", "confidence": 0.42,
+ "entry": 35.1, "entry_zone": [34.6, 35.5], "stop": 33.1, "target": 39.5, "horizon_days": 10,
+ "expected_return": {"low": -0.057, "high": 0.125},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "PGNY is a profitable healthcare-benefits name with accelerating growth (YoY revenue +1.4%/+5.3%/+8.9%, net income +61%/+64%/+89%), FCF 195.1M against debt 25.9M, and forward P/E 14.8. It is in a shallow, low-volume (ratio 0.85) pullback inside a post-earnings uptrend, and healthcare (XLV) is one of the few sectors holding up in a risk-off tape. Take it only on a dip into the 34.60-35.50 zone. Entry is the zone midpoint 35.10 and the technical stop and target are kept unchanged (R/R about 2.2 from the midpoint, about 1.72 at the 35.45 last price).",
+ "invalidation": "A daily close below the 33.34 post-earnings swing low (stop 33.10) invalidates the setup, and a close under the 20-day SMA near 32.76 means the breakout has failed.",
+ "key_risks": [
+  "Broad risk-off regime (VIX 31.37 at the 99.5th percentile, QQQ below its 50/200-day averages) can drag even defensive names",
+  "Resistance at the 37.21 52-week high is only about 1.76 above the last price, and the 39.50 target is a measured extension rather than a packet level",
+  "Price is extended (RSI 67, 8.2% above SMA20) with three lower closes; the post-earnings gap could fill toward 33",
+  "Latest-quarter revenue fell sequentially (341.3M vs 350.5M) and the packet has no guidance detail; SEC quarterly series has gaps",
+  "Mean analyst target 37.75 is only about 6% above the close",
+  "Adds to a healthcare-heavy book, so it is a correlated rather than independent bet (lessons item 6)",
+  "Next earnings date is not in the packet (estimated early Feb 2027, outside the horizon)"
+ ],
+ "debate_winner": "draw"}

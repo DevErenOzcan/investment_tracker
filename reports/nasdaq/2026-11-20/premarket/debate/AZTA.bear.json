@@ -1,0 +1,17 @@
+{"ticker": "AZTA",
+ "thesis": "AZTA is a high-beta, crowded-short, post-gap name being bought into a 0.93-confidence risk-off tape with VIX at the 99.5th percentile and QQQ below its 50- and 200-day averages. The stock has already run about 141% in 126 days and is 13.4% above SMA20, so the earnings beat is largely priced in at a forward P/E of 52.9 and with the mean analyst target only about 12% above the close. The 11/19 reversal from 49.64 to 47.09 on above-average volume looks like supply at the high, and the first resistance at 50.06 offers only about 1.3 R, so the 3.5 R headline depends on a breakout that the regime makes unlikely. In a liquidation, a beta-1.47 name with 21.7% short interest can gap through the 42.9 stop, and the post-gap lows and the unfilled earnings gap are the obvious magnets.",
+ "evidence": [
+  "regime_view: regime = risk-off, confidence = 0.93; VIX 31.37 (percentile 0.995); QQQ ret_21 -11.05%, below 50/200-day",
+  "regime_view: summary = favour defensive posture and small sizing for long swing entries; XLK ret_21 -14.77%, SMH ret_21 -19.62%",
+  "technical: notes = price extended, 13.4% above SMA20; 11/19 candle reversed from 49.64 to 47.09 on 1.37M shares vs 1.04M average (supply near the high)",
+  "technical: reward_risk = 3.5 but notes say first resistance 50.06 gives only about 1.3 R; 3.5 R depends on a breakout",
+  "technical: invalidation = daily close below 42.9, which would also fill the 11/11 earnings gap",
+  "fundamentals: valuation = rich; forward P/E 52.9, EV/EBITDA 46.8; mean analyst target 52.6 about 12% above the 47.09 close",
+  "fundamentals: 140.99% 126-day run; trailing profit margin -26.9%, net income only just positive at 2.456M",
+  "fundamentals: short interest 21.68% of float, beta 1.469 (sharp moves both ways)",
+  "news: first-day gain partly given back; the 2026-10-02 spike has no explaining news; most items are RSS headlines only, so guidance details are unverified",
+  "news: 10-K filed 2026-11-19 not reviewed in the packet; conference on Nov 30 can move the stock on commentary"
+ ],
+ "downside_case": {"level": 42.9, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

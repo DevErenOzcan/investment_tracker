@@ -1,0 +1,31 @@
+{
+  "finalists": [
+    {"ticker": "PGNY", "why": "Healthcare (a regime-leading sector) in a clean uptrend with RSI 67.3, ext_20 8.2% and the lowest ATR (3.3%) among the healthcare names.", "watch": "Volume ratio is only 0.85 and ret_5 is -3.1%, so a pullback from the highs could extend if the market stays risk-off."},
+    {"ticker": "ADMA", "why": "Healthcare biotech with trend 4, RSI 64.7, ext_20 8.7% and forward PE 14.2, so it is not stretched; it is still 25.9% below its 52-week high, which leaves room to run.", "watch": "Biotech gap risk, and the CEO and a director have recently sold shares."},
+    {"ticker": "AMPH", "why": "Healthcare specialty pharma with a quiet setup (ext_20 1.0%, RSI 53.3, trend 4) and forward PE 8.4 that fits the defensive tilt.", "watch": "Thin liquidity (20-day dollar volume about 14M) makes entries and exits slippage-prone."},
+    {"ticker": "AZTA", "why": "Healthcare instruments name with trend 4, RSI 60.8 and no earnings until February 2027, so there is no event risk in the holding window.", "watch": "ext_20 is 13.4%, near the 15% ceiling, and ATR is 6.2%, so a pullback to the 20-day average is likely."},
+    {"ticker": "ASO", "why": "Specialty retailer making 52-week highs with trend 4, ext_20 7.4%, RSI 64.1 and forward PE 10.0; its next earnings are on 2026-12-08.", "watch": "Consumer cyclical is not a leading sector and the stock is exposed to a consumer-spending scare in a high-VIX tape."},
+    {"ticker": "CROX", "why": "Orderly uptrend (trend 4, ext_20 5.3%, RSI 61.5) with 20-day dollar volume near 219M and a low forward PE of 9.8.", "watch": "Volume ratio is 0.95, so there is no breakout confirmation, and the stock is 4.2% below its high."},
+    {"ticker": "COLM", "why": "Apparel maker with a modest ATR of 3.1%, ext_20 7.3% and RSI 68.5, which is a lower-volatility cyclical choice than most of the list.", "watch": "Repeated director sales in the headlines and RSI near 70 argue for a small size."},
+    {"ticker": "CRAI", "why": "Consulting firm breaking out near its 52-week high (0.6% below) on a 1.38 volume ratio, with ext_20 7.95%, ATR 3.3% and revenue growth of 15.6%.", "watch": "RSI is 75.1, close to the 78 limit, and the CEO sold shares under a 10b5-1 plan on 2026-11-17."}
+  ],
+  "dropped": [
+    {"ticker": "GDYN", "why": "Technology (lagging sector) with a shareholder-investigation notice in the headlines and a -6.7% 5-day return."},
+    {"ticker": "UPBD", "why": "Classified as Technology, with a recent downgrade to Hold; there are more attractive defensive setups."},
+    {"ticker": "VCEL", "why": "ext_20 is 15.4%, above the 15% limit, and RSI is 74.1."},
+    {"ticker": "ULCC", "why": "Airline with ATR 6.8% and ext_20 12.1% is a poor fit for a risk-off regime."},
+    {"ticker": "CRCT", "why": "Technology hardware with heavy insider selling, including the CEO and 10% owner, and low liquidity."},
+    {"ticker": "NTSK", "why": "Technology software in the lagging sector, with ATR 7.3% and a forward PE above 1,000."},
+    {"ticker": "XERS", "why": "RSI 80.4 and ext_20 22.7% are over-extended."},
+    {"ticker": "VRDN", "why": "Pre-revenue biotech with RSI 74.3, ext_20 13.3% and binary clinical and regulatory risk."},
+    {"ticker": "SGRY", "why": "RSI 84.2 is over-extended, and a downgrade is in the headlines."},
+    {"ticker": "XMTR", "why": "ATR 7.9% and ret_5 -7.8% are too volatile for a risk-off tape, and the stock is 12.6% below its high."},
+    {"ticker": "BRZE", "why": "Technology software in the lagging sector, with RSI 77.9 at the limit and a low volume ratio of 0.72."},
+    {"ticker": "REPL", "why": "Biotech with binary event risk, a -12.5% 5-day return and a broken short-term trend."},
+    {"ticker": "INSM", "why": "ext_20 is 28.2% and RSI 77.4, with trend 3 and Sanofi takeover rumour headlines (binary event risk)."},
+    {"ticker": "ARHS", "why": "Trend 3 only, with a negative 5-day return and no clean setup; it ranks below the selected consumer names."},
+    {"ticker": "AXGN", "why": "Healthcare device name that was a close call, but ext_20 is 11.9% after a +54% 21-day run and the sub-industry slot is better used by the selected names."},
+    {"ticker": "EXPO", "why": "RSI 75.5 and a low volume ratio of 0.71; CRAI is the stronger industrials setup."},
+    {"ticker": "OKTA", "why": "Technology software in the lagging sector, with trend 3 and ATR 6.7%."}
+  ]
+}

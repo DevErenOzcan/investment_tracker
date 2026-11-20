@@ -1,0 +1,20 @@
+{"ticker": "ADMA",
+ "thesis": "ADMA is a profitable, cash-generative biotech in a post-earnings uptrend (close above SMA20, SMA50 and SMA200) that is pulling back into its entry zone after a rejection at 14.2. Q3 results and reaffirmed guidance produced a heavy-volume gap that has held, with higher lows since, which points to post-earnings drift and not a one-day spike. Fundamentals are high quality with low dilution risk and a fair valuation, and healthcare is one of the leading defensive sectors in a risk-off tape. The weak points are the hostile regime, small insider sales, and a target that needs a break of 14.2 first, so this only supports a small-size swing long with a tight stop.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = pullback",
+  "technical: entry_zone = [12.95, 13.3]",
+  "technical: stop = 12.4",
+  "technical: target = 15.9",
+  "technical: reward_risk = 3.9",
+  "fundamentals: quality = high",
+  "fundamentals: growth = accelerating",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: valuation = fair",
+  "news: catalysts[0] = Q3 2026 results strong, guidance reaffirmed, gap from 10.48 to 13.21 on about 15M shares",
+  "news: binary_event = false",
+  "news: event_risks = no S-3, 424B5 or 8-K in the last 10 days, so no offering signal",
+  "regime_view: leading_sectors = XLP, XLV, XLU (healthcare is a leading sector)"
+ ],
+ "upside_case": {"target": 15.9, "probability": 0.35},
+ "rebuttal_to_bear": null}

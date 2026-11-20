@@ -1,0 +1,8 @@
+{"ticker": "ASO", "rating": "Hold", "confidence": 0.38,
+ "entry": 69.3, "entry_zone": [68.4, 70.2], "stop": 65.5, "target": 77.9, "horizon_days": 10,
+ "expected_return": {"low": -0.055, "high": 0.124},
+ "sector": "Consumer Discretionary", "earnings_date": "2026-12-08",
+ "thesis": "ASO is a leading uptrend (close 70.48 above SMA20/50/200, RS63 0.64) with undemanding valuation (forward P/E 10.0) and a 2.26 R/R from the zone midpoint 69.3, but the 77.9 target requires breaking the 73.82 high that just produced a bearish reversal (R/R to 73.82 alone is about 1.2). The broad risk-off regime (confidence 0.93, VIX percentile 0.995), a sector/sentiment-driven rally with price above the 63.58 mean analyst target, and Q3 earnings on 2026-12-08 inside the hold window outweigh the trend; even the bull rates upside probability at only 0.30. At the last close of 70.48, above the zone, R/R is about 1.49 (below 1.5), so per provisional lesson 1 this is a Hold; revisit only on a pullback into 68.4-70.2 or a confirmed close above 73.82 with the regime easing.",
+ "invalidation": "A daily close below 65.5 (under the 65.83 swing low and the SMA20 near 65.6) ends the uptrend case.",
+ "key_risks": ["Earnings 2026-12-08 inside the swing window (binary gap risk, ATR about 3.9%)", "Risk-off regime with defensives leading; rally is sector/sentiment driven", "Price 70.48 above mean analyst target 63.58 after a 54% 63-day run; revenue growth slowing to +3.0% YoY", "Short interest 19.9% of float adds two-way volatility", "Target depends on a breakout through 73.82 resistance"],
+ "debate_winner": "bear"}

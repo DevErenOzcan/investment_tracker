@@ -1,0 +1,724 @@
+{
+  "ticker": "CRAI",
+  "exchange": "NASDAQ",
+  "as_of": "2026-11-20T13:51:01.830706+00:00",
+  "data_note": "In the pre-market session the last price is the previous close; in the pre-close session it is ~15 min delayed.",
+  "technical": {
+    "indicators": {
+      "symbol": "CRAI",
+      "date": "2026-11-19",
+      "close": 217.19,
+      "ret_5": 0.0899,
+      "ret_21": 0.1845,
+      "ret_63": 0.2318,
+      "ret_126": 0.4841,
+      "rs_63": 0.3267,
+      "sma20": 201.193,
+      "sma50": 183.2816,
+      "sma200": 165.6189,
+      "trend": 4,
+      "atr": 7.1537,
+      "atr_pct": 0.0329,
+      "rsi14": 75.1322,
+      "dist_high": -0.006,
+      "vol_ratio": 1.3753,
+      "ext_20": 0.0795,
+      "vol_20": 0.2994,
+      "dollar_volume_20": 26398936.7741,
+      "low_20": 191.13,
+      "high_20": 218.51
+    },
+    "levels": {
+      "swing_low_10": 194.3699951171875,
+      "swing_low_20": 191.1300048828125,
+      "swing_high_20": 218.50999450683594,
+      "high_52w": 218.50999450683594,
+      "low_52w": 131.2343391345751
+    },
+    "last_60_days": [
+      {
+        "d": "2026-08-27",
+        "o": 169.64,
+        "h": 173.4,
+        "l": 169.64,
+        "c": 172.5,
+        "v": 107300
+      },
+      {
+        "d": "2026-08-28",
+        "o": 172.78,
+        "h": 175.58,
+        "l": 172.51,
+        "c": 174.99,
+        "v": 93000
+      },
+      {
+        "d": "2026-08-31",
+        "o": 174.88,
+        "h": 175.0,
+        "l": 171.55,
+        "c": 174.5,
+        "v": 118800
+      },
+      {
+        "d": "2026-09-01",
+        "o": 173.87,
+        "h": 176.2,
+        "l": 172.42,
+        "c": 172.48,
+        "v": 188900
+      },
+      {
+        "d": "2026-09-02",
+        "o": 172.45,
+        "h": 174.63,
+        "l": 170.03,
+        "c": 170.98,
+        "v": 255700
+      },
+      {
+        "d": "2026-09-03",
+        "o": 173.07,
+        "h": 175.51,
+        "l": 171.3,
+        "c": 172.6,
+        "v": 101800
+      },
+      {
+        "d": "2026-09-04",
+        "o": 170.05,
+        "h": 175.14,
+        "l": 167.62,
+        "c": 170.91,
+        "v": 103100
+      },
+      {
+        "d": "2026-09-08",
+        "o": 168.91,
+        "h": 170.88,
+        "l": 164.5,
+        "c": 168.06,
+        "v": 128000
+      },
+      {
+        "d": "2026-09-09",
+        "o": 167.56,
+        "h": 168.08,
+        "l": 164.15,
+        "c": 165.52,
+        "v": 82200
+      },
+      {
+        "d": "2026-09-10",
+        "o": 166.3,
+        "h": 167.64,
+        "l": 162.62,
+        "c": 163.46,
+        "v": 81100
+      },
+      {
+        "d": "2026-09-11",
+        "o": 164.86,
+        "h": 165.99,
+        "l": 161.4,
+        "c": 161.88,
+        "v": 121800
+      },
+      {
+        "d": "2026-09-14",
+        "o": 166.75,
+        "h": 170.2,
+        "l": 165.11,
+        "c": 165.98,
+        "v": 131000
+      },
+      {
+        "d": "2026-09-15",
+        "o": 164.35,
+        "h": 168.92,
+        "l": 161.86,
+        "c": 164.99,
+        "v": 87700
+      },
+      {
+        "d": "2026-09-16",
+        "o": 163.66,
+        "h": 165.98,
+        "l": 161.27,
+        "c": 164.37,
+        "v": 125100
+      },
+      {
+        "d": "2026-09-17",
+        "o": 164.37,
+        "h": 166.4,
+        "l": 162.11,
+        "c": 166.37,
+        "v": 167600
+      },
+      {
+        "d": "2026-09-18",
+        "o": 165.87,
+        "h": 166.36,
+        "l": 162.7,
+        "c": 165.38,
+        "v": 169500
+      },
+      {
+        "d": "2026-09-21",
+        "o": 165.18,
+        "h": 166.2,
+        "l": 161.71,
+        "c": 161.97,
+        "v": 81400
+      },
+      {
+        "d": "2026-09-22",
+        "o": 163.74,
+        "h": 164.91,
+        "l": 157.82,
+        "c": 158.74,
+        "v": 113400
+      },
+      {
+        "d": "2026-09-23",
+        "o": 159.26,
+        "h": 165.01,
+        "l": 156.97,
+        "c": 162.02,
+        "v": 161600
+      },
+      {
+        "d": "2026-09-24",
+        "o": 163.27,
+        "h": 165.71,
+        "l": 159.96,
+        "c": 162.57,
+        "v": 102500
+      },
+      {
+        "d": "2026-09-25",
+        "o": 162.49,
+        "h": 164.8,
+        "l": 160.63,
+        "c": 162.07,
+        "v": 151500
+      },
+      {
+        "d": "2026-09-28",
+        "o": 163.15,
+        "h": 165.34,
+        "l": 159.64,
+        "c": 165.22,
+        "v": 98000
+      },
+      {
+        "d": "2026-09-29",
+        "o": 164.04,
+        "h": 166.31,
+        "l": 163.27,
+        "c": 165.94,
+        "v": 97700
+      },
+      {
+        "d": "2026-09-30",
+        "o": 165.43,
+        "h": 166.53,
+        "l": 158.66,
+        "c": 164.15,
+        "v": 193400
+      },
+      {
+        "d": "2026-10-01",
+        "o": 165.68,
+        "h": 176.22,
+        "l": 165.68,
+        "c": 175.77,
+        "v": 230800
+      },
+      {
+        "d": "2026-10-02",
+        "o": 175.53,
+        "h": 176.88,
+        "l": 169.39,
+        "c": 170.38,
+        "v": 165200
+      },
+      {
+        "d": "2026-10-05",
+        "o": 170.64,
+        "h": 173.61,
+        "l": 170.19,
+        "c": 171.29,
+        "v": 90500
+      },
+      {
+        "d": "2026-10-06",
+        "o": 172.5,
+        "h": 172.5,
+        "l": 170.62,
+        "c": 171.43,
+        "v": 64900
+      },
+      {
+        "d": "2026-10-07",
+        "o": 172.82,
+        "h": 175.37,
+        "l": 171.42,
+        "c": 174.94,
+        "v": 137300
+      },
+      {
+        "d": "2026-10-08",
+        "o": 175.48,
+        "h": 179.19,
+        "l": 172.08,
+        "c": 177.56,
+        "v": 135000
+      },
+      {
+        "d": "2026-10-09",
+        "o": 178.13,
+        "h": 178.99,
+        "l": 174.23,
+        "c": 176.73,
+        "v": 114700
+      },
+      {
+        "d": "2026-10-12",
+        "o": 178.42,
+        "h": 179.99,
+        "l": 177.52,
+        "c": 178.29,
+        "v": 98200
+      },
+      {
+        "d": "2026-10-13",
+        "o": 179.93,
+        "h": 181.1,
+        "l": 177.89,
+        "c": 178.99,
+        "v": 75200
+      },
+      {
+        "d": "2026-10-14",
+        "o": 179.75,
+        "h": 181.74,
+        "l": 175.13,
+        "c": 175.57,
+        "v": 132100
+      },
+      {
+        "d": "2026-10-15",
+        "o": 179.46,
+        "h": 183.0,
+        "l": 177.01,
+        "c": 177.35,
+        "v": 123100
+      },
+      {
+        "d": "2026-10-16",
+        "o": 178.91,
+        "h": 180.68,
+        "l": 176.3,
+        "c": 178.09,
+        "v": 60000
+      },
+      {
+        "d": "2026-10-19",
+        "o": 176.67,
+        "h": 179.41,
+        "l": 175.0,
+        "c": 177.99,
+        "v": 115800
+      },
+      {
+        "d": "2026-10-20",
+        "o": 179.84,
+        "h": 182.35,
+        "l": 179.81,
+        "c": 179.89,
+        "v": 96800
+      },
+      {
+        "d": "2026-10-21",
+        "o": 179.41,
+        "h": 184.62,
+        "l": 176.51,
+        "c": 183.36,
+        "v": 82700
+      },
+      {
+        "d": "2026-10-22",
+        "o": 185.91,
+        "h": 202.88,
+        "l": 185.38,
+        "c": 200.94,
+        "v": 212800
+      },
+      {
+        "d": "2026-10-23",
+        "o": 199.55,
+        "h": 202.05,
+        "l": 196.53,
+        "c": 200.14,
+        "v": 142300
+      },
+      {
+        "d": "2026-10-26",
+        "o": 199.83,
+        "h": 204.94,
+        "l": 199.83,
+        "c": 201.59,
+        "v": 86400
+      },
+      {
+        "d": "2026-10-27",
+        "o": 201.41,
+        "h": 201.87,
+        "l": 193.33,
+        "c": 194.3,
+        "v": 99600
+      },
+      {
+        "d": "2026-10-28",
+        "o": 192.81,
+        "h": 196.26,
+        "l": 191.13,
+        "c": 192.84,
+        "v": 70900
+      },
+      {
+        "d": "2026-10-29",
+        "o": 195.87,
+        "h": 200.52,
+        "l": 194.77,
+        "c": 196.77,
+        "v": 57500
+      },
+      {
+        "d": "2026-10-30",
+        "o": 200.73,
+        "h": 202.75,
+        "l": 195.69,
+        "c": 196.08,
+        "v": 104900
+      },
+      {
+        "d": "2026-11-02",
+        "o": 193.97,
+        "h": 199.12,
+        "l": 193.1,
+        "c": 197.17,
+        "v": 93200
+      },
+      {
+        "d": "2026-11-03",
+        "o": 196.51,
+        "h": 198.56,
+        "l": 192.38,
+        "c": 195.26,
+        "v": 161900
+      },
+      {
+        "d": "2026-11-04",
+        "o": 199.18,
+        "h": 200.0,
+        "l": 193.99,
+        "c": 194.75,
+        "v": 123100
+      },
+      {
+        "d": "2026-11-05",
+        "o": 207.95,
+        "h": 215.36,
+        "l": 199.42,
+        "c": 202.94,
+        "v": 340100
+      },
+      {
+        "d": "2026-11-06",
+        "o": 202.63,
+        "h": 205.52,
+        "l": 195.0,
+        "c": 197.66,
+        "v": 158800
+      },
+      {
+        "d": "2026-11-09",
+        "o": 197.67,
+        "h": 199.81,
+        "l": 194.37,
+        "c": 197.41,
+        "v": 95500
+      },
+      {
+        "d": "2026-11-10",
+        "o": 196.73,
+        "h": 200.6,
+        "l": 195.2,
+        "c": 198.99,
+        "v": 80100
+      },
+      {
+        "d": "2026-11-11",
+        "o": 198.29,
+        "h": 201.96,
+        "l": 197.92,
+        "c": 200.14,
+        "v": 56700
+      },
+      {
+        "d": "2026-11-12",
+        "o": 201.51,
+        "h": 202.64,
+        "l": 198.28,
+        "c": 199.27,
+        "v": 58300
+      },
+      {
+        "d": "2026-11-13",
+        "o": 200.05,
+        "h": 205.81,
+        "l": 199.8,
+        "c": 205.32,
+        "v": 127600
+      },
+      {
+        "d": "2026-11-16",
+        "o": 208.94,
+        "h": 211.78,
+        "l": 207.86,
+        "c": 210.94,
+        "v": 97300
+      },
+      {
+        "d": "2026-11-17",
+        "o": 207.65,
+        "h": 211.51,
+        "l": 202.45,
+        "c": 209.66,
+        "v": 241800
+      },
+      {
+        "d": "2026-11-18",
+        "o": 208.84,
+        "h": 217.51,
+        "l": 207.85,
+        "c": 215.44,
+        "v": 191600
+      },
+      {
+        "d": "2026-11-19",
+        "o": 214.28,
+        "h": 218.51,
+        "l": 212.09,
+        "c": 217.19,
+        "v": 213400
+      }
+    ],
+    "weekly_closes_26": [
+      138.3,
+      145.24,
+      149.98,
+      138.25,
+      145.67,
+      146.31,
+      160.12,
+      170.9,
+      169.22,
+      178.45,
+      168.76,
+      167.78,
+      176.33,
+      174.99,
+      170.91,
+      161.88,
+      165.38,
+      162.07,
+      170.38,
+      176.73,
+      178.09,
+      200.14,
+      196.08,
+      197.66,
+      205.32,
+      217.19
+    ]
+  },
+  "profile": {
+    "symbol": "CRAI",
+    "shortName": "CRA International,Inc.",
+    "sector": "Industrials",
+    "industry": "Consulting Services",
+    "marketCap": 1363327232,
+    "trailingPE": 27.285175,
+    "forwardPE": 22.584742,
+    "priceToSalesTrailing12Months": 1.6551862,
+    "enterpriseToEbitda": 15.747,
+    "profitMargins": 0.062810004,
+    "operatingMargins": 0.104540005,
+    "grossMargins": 0.28969,
+    "revenueGrowth": 0.156,
+    "earningsGrowth": 0.269,
+    "returnOnEquity": 0.26233,
+    "debtToEquity": 118.034,
+    "freeCashflow": 46869876,
+    "totalCash": 20400000,
+    "totalDebt": 227500000,
+    "beta": 0.61,
+    "shortPercentOfFloat": 0.0496,
+    "heldPercentInstitutions": 0.96571,
+    "recommendationMean": 2.5,
+    "numberOfAnalystOpinions": 2,
+    "targetMeanPrice": 258.0,
+    "fiftyTwoWeekHigh": 227.29,
+    "fiftyTwoWeekLow": 132.17,
+    "averageVolume": 124271,
+    "preMarketPrice": 217.95,
+    "regularMarketPrice": 217.19,
+    "regularMarketPreviousClose": 215.44,
+    "earnings_date": "2026-11-05"
+  },
+  "sec_fundamentals": {
+    "available": true,
+    "cik": 1053706,
+    "revenue_q": [
+      {
+        "end": "2024-06-29",
+        "val": 171442000,
+        "filed": "2025-07-31"
+      },
+      {
+        "end": "2024-09-28",
+        "val": 167748000,
+        "filed": "2025-10-30"
+      },
+      {
+        "end": "2025-03-29",
+        "val": 181851000,
+        "filed": "2026-05-07"
+      },
+      {
+        "end": "2025-06-28",
+        "val": 186878000,
+        "filed": "2026-08-06"
+      },
+      {
+        "end": "2025-09-27",
+        "val": 185891000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2026-04-04",
+        "val": 200975000,
+        "filed": "2026-05-07"
+      },
+      {
+        "end": "2026-07-04",
+        "val": 210815000,
+        "filed": "2026-08-06"
+      },
+      {
+        "end": "2026-10-03",
+        "val": 214917000,
+        "filed": "2026-11-05"
+      }
+    ],
+    "net_income_q": [
+      {
+        "end": "2024-06-29",
+        "val": 6538000,
+        "filed": "2025-10-30"
+      },
+      {
+        "end": "2024-09-28",
+        "val": 11437000,
+        "filed": "2025-10-30"
+      },
+      {
+        "end": "2025-03-29",
+        "val": 18002000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2025-06-28",
+        "val": 12122000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2025-09-27",
+        "val": 11473000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2026-04-04",
+        "val": 11132000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2026-07-04",
+        "val": 13508000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2026-10-03",
+        "val": 13906000,
+        "filed": "2026-11-05"
+      }
+    ],
+    "stale_warning": null,
+    "revenue_yoy": 0.1561,
+    "net_income_yoy": 0.2121
+  },
+  "sec_filings_10d": [],
+  "news_status": {
+    "status": "ok",
+    "source": "google_rss",
+    "errors": []
+  },
+  "news_7d": [
+    {
+      "title": "CRA International, Inc. (NASDAQ:CRAI) Will Pay A US$0.67 Dividend In Three Days - Simply Wall St",
+      "publisher": "Simply Wall St",
+      "published": "2026-11-20T11:18:37+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR0FWa0NUNWtHWEpDYVNOSlBsTjJYTjFmOWJNdHE0Qk5nN0lETUVDd3R5M1dhQlNVVFdxbGZ6cDJ2dElfbFJ0YU5vMWF5RDgtTk80VXFIcXpobVZHYU5CM29QUlhOdkg4THhoRnR4aWJLSW0yY0ZPTTEwN2kxMThMSXhrLUx0NXYtUDdTOThlbmx1eTFsdXJoS3Q2NEVtZkNYaUpTOS1Rb29pcDlUVnpSNmVmLWxrY19qOG5IOFctSllsQjFabzViWFVLaFVmc18tMkVudzlLQWROVVpaLUVWTdIB5gFBVV95cUxQN1ZhbjdORlNZNzc4eWxKZU1VaF9LUlllWThGVVE0UjhwaXNpSWQzUFJBQzNwX21MUlNEazJHaFJHNmhQN0dVbl9IeVRUREl4UktHTzZfd1VtenZGUVhxbE1BdVVfcWgxVFhSS3dUak1fZTBxNFMtd2F5OG5obDgzc19Bb3R0UmFQYWo4WUlVQUppUndKNE5iSm1qMWNpV3lkMlNSREdXVHlzNl81bjhnZlhaWGJDMmgzQjFpR1pOUHRWenhGODlxQWhzeVZNTFJjSmMzMkxzaGdBUDM4Uk9Obm4xQ09IQQ?oc=5"
+    },
+    {
+      "title": "Cra international CEO Paul Maleh sells $1.54 million in company stock - Investing.com",
+      "publisher": "Investing.com",
+      "published": "2026-11-20T05:00:23+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcEpzSm9aYm9Ba0R5UDRINjFkVTdaM0dnR2hWNnhuclRJb2E2cEFkbktmY3lIaDY5cFQ5SV9GbTZsMERVVUl6c1JIWlJ5ci1QNkotaHJGUU5MdFZ2VG5nRUJYVE9GbFRZUGlIc0FfM0RIbjdMb01LamhEbjI3bEoyYU03ZWRlMEhNSGx2a0hzTE5OOVNtUGlmOTVWbzdEZksxb2IxYkxva19Id1lvMzJQTVlvMkhKVWVWOFhTTnBycklWR044QjYtRFRtcXY?oc=5"
+    },
+    {
+      "title": "CRA International (CRAI) President and CEO Paul Maleh Sells 7,50 - GuruFocus",
+      "publisher": "GuruFocus",
+      "published": "2026-11-20T02:36:24+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVU5SR0VLZWZuMXY2ODBnQlc0OTZkZXVZc2tHQXBsQlU5ekM5R0hjX2JCRmlDMm1YZDRUS1R2QkNCQlNqaXBWZVVJMmFOQUl3TGtrUG4xRUpXN0lWVExjUWJTQ0QxRF9Hb0xSUHhDQ281eFp4MzAwV3hqb05RX3lKdGxVQjBiaHR3MUYwalJxNTVHWjRYSDQ3Y2RoSjlXcWwyWkd0ang4WkljX0Vl?oc=5"
+    },
+    {
+      "title": "CRA International CEO Paul A. Maleh Sells 7,500 Shares Under 10b5-1 Plan on November 17, 2026 - Kalkine Media",
+      "publisher": "Kalkine Media",
+      "published": "2026-11-19T23:13:09+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMGpXVnBRY2VZZkw2bmFzVjFDZVRwT3Z6cFFUOWFrOUNHVlAzUnZFdkltb1pLLW14SkxJUzAySEZIb1ptM1dLX09HV2swQXNyTEZ6T3FDLVVIeGxORm9LUWladnB5a29rMFpoc3d6VTJtT05MeUdfUnhEem82QTBSMG9nc3NBRkIyT3IyZEswQ3R0VEhuMVJQT3dtTkNkcHZNVjdibzFLMFN0ZVg1TXpxQVBZUXF3a0pCOVhxd011dFYtOFRRXzNCdEpZejBSMXVja29V?oc=5"
+    },
+    {
+      "title": "Barrington Research Adjusts CRA International PT to $260 From $245, Maintains Outperform Rating - marketscreener.com",
+      "publisher": "marketscreener.com",
+      "published": "2026-11-19T16:56:35+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSzNYTERHZ25OY00tek0tZU8tbTJhckUzUTFaUE5Md1ZteEttRlVJbEZ3TjU5M3hpZzNpN0k3QzUtWjV1MTF0cElTT0VFb3RINW1CM1RNY3lESUZhb0N2UkQ0ZlN0bWhBXzI1cFE4VGVhUEV1U3VISXozckFaZmlUcjktOXFLVGN3dUxMUnZlLXFJdXNDcXNlY0NmUk5IWHdhVHB1Wm1iSVJiX2E5S3VRX0VCMU5RRHJ3ZXBKR3JOTFgwWjNQMWtScFdqZHFpQ0s4ZUlwdGdkOXlnaFZnWXc?oc=5"
+    },
+    {
+      "title": "CRA Q3 earnings: Leading the business process outsourcing & consulting pack - TradingView",
+      "publisher": "TradingView",
+      "published": "2026-11-16T03:31:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMFdiVWNZUjBBV1B5b1liWlRxYmFRYUhKWGFjSGEteVpleHRuSF9pbjRzU0ZWbHhSdG5hdFRzUzdreWF6SzZxTHFteVNvUjBtLTRGdldzWTYteHRxLWdnNkN6RlRoQnJkMUtsbzMwUnJGTUhfWUZfLWpFSVhheUZpR0lOTmYtMkRhd2d4WU9tOGsyWVBZX2pIUl84ZHM1TmdUNjU1UEtuOEtFc2plc0hpOTFteGZTSkd5MXVSdzQtVm9kWVExX29aWlBPelhXdw?oc=5"
+    }
+  ]
+}

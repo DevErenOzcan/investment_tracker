@@ -1,0 +1,19 @@
+{"ticker": "CRAI",
+ "thesis": "CRAI is a good business bought at the wrong time. The stock is at its 52-week high with RSI 75 after a +18.5% 21-day run, while the market is in a high-confidence risk-off regime with VIX at its 99.5th percentile. Small-cap, thinly covered names with net debt tend to gap hardest when index selling accelerates, and a defensive posture favours small sizing for new long swing entries. The CEO is selling into the highs and the Barrington target raise is already in the price. Reward/risk of 1.84 is mediocre for a trade that needs a pullback fill in a falling tape, and a failed 218.5 breakout would send price back toward the SMA20 and the stop.",
+ "evidence": [
+  "regime_view: regime = risk-off, confidence = 0.93",
+  "regime_view: VIX 31.37, 1-year percentile 0.995; QQQ below 50- and 200-day averages, ret_21 -11.05%",
+  "technical: RSI14 = 75, price 8% above SMA20, 5-day return +9%, within 0.6% of the 218.51 high",
+  "technical: reward_risk = 1.84, stop 195.1 is capped (structural stop would be wider than 2.5 x ATR)",
+  "technical: invalidation = close back under SMA20 (about 201) after a failed hold of the 218.5 breakout",
+  "fundamentals: red_flags include net debt (totalDebt 227.5M vs totalCash 20.4M, debtToEquity 118.0)",
+  "fundamentals: thin coverage (2 opinions), market cap 1.36B, liquidity and gap risk higher",
+  "fundamentals: valuation = fair only by default, no sector peer ratios in the packet; trailing P/E 27.3, EV/EBITDA 15.7",
+  "fundamentals: sequential revenue growth slowing (200.98M, 210.8M, 214.9M); growth rated accelerating on YoY only",
+  "news: CEO sold 7,500 shares (~$1.54M) under 10b5-1 on 2026-11-17",
+  "news: ex-dividend of $0.67 around 2026-11-23, mechanical drop of about 0.3%",
+  "news: headlines are titles only, so catalyst detail is thin"
+ ],
+ "downside_case": {"level": 195.1, "probability": 0.3},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

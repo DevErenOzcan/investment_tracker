@@ -1,0 +1,16 @@
+{"ticker": "CRAI",
+ "thesis": "CRAI is a clean relative-strength leader in a risk-off tape: a profitable, cash-generative small cap in a clear uptrend, at a 52-week high after a Q3 beat with YoY revenue and net income growth both accelerating. An analyst target raise to 260 and a mean target of 258 sit well above the 245.9 measured-move target. The setup is extended (RSI 75), so the case is a pullback entry in the 210.9-215.0 zone, not a chase. Reward/risk is only about 1.8, and the risk-off regime argues for small sizing. This is a moderate-conviction long, not a high-conviction one.",
+ "evidence": [
+  "technical: trend = up; close 217.19 above SMA20 (201.2), SMA50 (183.3), SMA200 (165.6) per notes",
+  "technical: setup = pullback, entry_zone = [210.9, 215.0], stop = 195.1, target = 245.9, reward_risk = 1.84",
+  "technical: notes cite a 63-day relative strength of +0.33 and a volume ratio of 1.38 on up days, a sign of accumulation",
+  "fundamentals: growth = accelerating; Q3 revenue 214.9M (+15.6% YoY) and net income 13.9M (+21.2% YoY), both faster than the prior quarter",
+  "fundamentals: dilution_risk = low; free cash flow 46.9M, ROE 26.2%, operating margin 10.5%",
+  "fundamentals: valuation = fair; forward P/E 22.6; mean analyst target 258.0",
+  "fundamentals: short interest 4.96% of float, so no crowded-short risk",
+  "news: Barrington Research raised PT to 260 from 245, Outperform (2026-11-19, positive)",
+  "news: binary_event = false; no offering or filing risk (sec_filings_10d empty per event_risks)",
+  "regime_view: defensives XLP, XLV, XLU lead; CRAI behaves as a quality-compounder outlier against QQQ ret_21 of -11.05%"
+ ],
+ "upside_case": {"target": 245.9, "probability": 0.4},
+ "rebuttal_to_bear": null}

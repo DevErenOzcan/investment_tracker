@@ -1,0 +1,14 @@
+{"ticker": "CROX", "rating": "Overweight", "confidence": 0.38,
+ "entry": 155.5, "entry_zone": [153.5, 157.5], "stop": 148.5, "target": 179.0, "horizon_days": 10,
+ "expected_return": {"low": -0.045, "high": 0.151},
+ "sector": "Consumer Discretionary", "earnings_date": null,
+ "thesis": "CROX holds a three-week post-earnings gap in a strong uptrend (close 157.31 above SMA20 149.44, SMA50 131.47, SMA200 115.06; 63-day RS +0.38), backed by accelerating revenue (-1.7% -> +2.6% -> +4.65% YoY), net income +48.65% YoY and a low multiple (forward P/E 9.8). Entry, stop and target are unchanged from the technical card: R/R is 3.4 from mid-zone 155.5 and about 2.5 from the 157.24 premarket price, so the rule is met, and consumer discretionary (XLY) is one of the 5 sectors above its 50-day. The risk-off regime (VIX 31.37, QQQ ret_21 -11.05%), beta 1.5 and three failures near 164.24 cap conviction, so this is a small Overweight, not a Buy; the next earnings date is not in the packet.",
+ "invalidation": "A daily close below 149.5 (the 10-day swing low near SMA20 149.44) means the post-earnings consolidation has failed, and the stop at 148.5 is hit.",
+ "key_risks": [
+  "Broad risk-off regime (confidence 0.93, VIX percentile 0.995) combined with beta 1.498 and 12.97% short interest can produce sharp gap-downs through the stop",
+  "Resistance at 164.24 has rejected price three times (11/13, 11/16, 11/18); R/R to that level alone is only about 1.2, so the target depends on a volume-confirmed breakout",
+  "Stock is up about 33% in 21 days and the analyst mean target 164.67 is only about 4.7% above the close, so the re-rating may be fully priced",
+  "Leverage (total debt about 1.66B vs cash about 163M, debt/equity 123.7) with ^TNX near 4.98% and rising",
+  "Next earnings date is not in the packet (unconfirmed, likely late Feb 2027); several news items are RSS titles only and unverified"
+ ],
+ "debate_winner": "draw"}

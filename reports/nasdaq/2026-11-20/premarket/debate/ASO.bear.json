@@ -1,0 +1,17 @@
+{"ticker": "ASO",
+ "thesis": "ASO is a stretched, sector-driven retail rally in a market that is in a broad risk-off regime (VIX percentile 0.995, QQQ below both averages). The stock is above the mean analyst target after a 54% run in 63 days, and revenue growth is slowing. The Nov 18 spike to 73.82 reversed into a lower close on Nov 19, which makes 73.82 overhead resistance. The setup needs a breakout to reach its target, and Q3 earnings on 2026-12-08 fall inside the hold window. Short interest near 20% of float adds volatility in both directions. Defensive posture and small sizing are the regime's own guidance, and chasing a parabolic mover into a gap event is a poor fit for that.",
+ "evidence": [
+  "technical: close = 70.48, 7.4% above SMA20 65.61, with a bearish reversal from 73.82 high on Nov 18-19",
+  "technical: reward_risk = 2.26 only to the 77.9 target; R/R to the 73.82 high alone is about 1.2, so the trade depends on a breakout",
+  "technical: volume ratio = 1.0, so accumulation is not accelerating",
+  "fundamentals: last close 70.48 is above mean analyst target 63.58 (downgrade or valuation-reset risk)",
+  "fundamentals: revenue growth +3.0% YoY, down from +6.7% the prior quarter; debt 1.97B vs cash 298M",
+  "fundamentals: short interest 19.9% of float, above the 15% flag",
+  "news: binary_event = true; Q3 earnings 2026-12-08 inside the 20-business-day window; ATR about 3.9%",
+  "news: the rally is partly sector and sentiment driven (holiday retail), with no company-specific catalyst, so it could reverse on a macro or consumer data surprise",
+  "regime_view: regime = risk-off, confidence 0.93; VIX 31.37, percentile 0.995; QQQ ret_21 -11.05%; summary favours defensive posture and small sizing for long swing entries",
+  "regime_view: leading sectors are XLP, XLV, XLU, and consumer discretionary is not among the leaders"
+ ],
+ "downside_case": {"level": 65.5, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

@@ -1,0 +1,745 @@
+{
+  "ticker": "COLM",
+  "exchange": "NASDAQ",
+  "as_of": "2026-11-20T13:50:58.077667+00:00",
+  "data_note": "In the pre-market session the last price is the previous close; in the pre-close session it is ~15 min delayed.",
+  "technical": {
+    "indicators": {
+      "symbol": "COLM",
+      "date": "2026-11-19",
+      "close": 74.3,
+      "ret_5": 0.0412,
+      "ret_21": 0.2535,
+      "ret_63": 0.2364,
+      "ret_126": 0.2215,
+      "rs_63": 0.3313,
+      "sma20": 69.2645,
+      "sma50": 62.3177,
+      "sma200": 60.4537,
+      "trend": 4,
+      "atr": 2.2795,
+      "atr_pct": 0.0307,
+      "rsi14": 68.4977,
+      "dist_high": -0.0396,
+      "vol_ratio": 0.9887,
+      "ext_20": 0.0727,
+      "vol_20": 0.3942,
+      "dollar_volume_20": 63785106.6618,
+      "low_20": 59.6945,
+      "high_20": 77.3648
+    },
+    "levels": {
+      "swing_low_10": 66.91606590875338,
+      "swing_low_20": 59.694549582159695,
+      "swing_high_20": 77.36484840081464,
+      "high_52w": 77.36484840081464,
+      "low_52w": 51.331509571193386
+    },
+    "last_60_days": [
+      {
+        "d": "2026-08-27",
+        "o": 57.46,
+        "h": 58.04,
+        "l": 56.02,
+        "c": 56.62,
+        "v": 519700
+      },
+      {
+        "d": "2026-08-28",
+        "o": 57.11,
+        "h": 58.17,
+        "l": 56.87,
+        "c": 57.78,
+        "v": 492300
+      },
+      {
+        "d": "2026-08-31",
+        "o": 57.58,
+        "h": 57.59,
+        "l": 56.54,
+        "c": 57.17,
+        "v": 736400
+      },
+      {
+        "d": "2026-09-01",
+        "o": 56.58,
+        "h": 57.44,
+        "l": 56.02,
+        "c": 56.59,
+        "v": 597000
+      },
+      {
+        "d": "2026-09-02",
+        "o": 56.59,
+        "h": 57.41,
+        "l": 56.28,
+        "c": 56.64,
+        "v": 577900
+      },
+      {
+        "d": "2026-09-03",
+        "o": 57.03,
+        "h": 57.91,
+        "l": 56.34,
+        "c": 57.56,
+        "v": 547700
+      },
+      {
+        "d": "2026-09-04",
+        "o": 56.95,
+        "h": 57.9,
+        "l": 56.72,
+        "c": 57.49,
+        "v": 461500
+      },
+      {
+        "d": "2026-09-08",
+        "o": 57.37,
+        "h": 57.73,
+        "l": 56.79,
+        "c": 57.48,
+        "v": 612600
+      },
+      {
+        "d": "2026-09-09",
+        "o": 57.42,
+        "h": 57.46,
+        "l": 55.84,
+        "c": 55.84,
+        "v": 709200
+      },
+      {
+        "d": "2026-09-10",
+        "o": 55.32,
+        "h": 56.31,
+        "l": 54.79,
+        "c": 56.2,
+        "v": 592700
+      },
+      {
+        "d": "2026-09-11",
+        "o": 56.29,
+        "h": 57.09,
+        "l": 56.2,
+        "c": 56.7,
+        "v": 529400
+      },
+      {
+        "d": "2026-09-14",
+        "o": 56.3,
+        "h": 57.55,
+        "l": 55.75,
+        "c": 57.44,
+        "v": 662100
+      },
+      {
+        "d": "2026-09-15",
+        "o": 57.36,
+        "h": 57.36,
+        "l": 55.96,
+        "c": 56.27,
+        "v": 961200
+      },
+      {
+        "d": "2026-09-16",
+        "o": 56.38,
+        "h": 57.7,
+        "l": 56.11,
+        "c": 56.87,
+        "v": 534000
+      },
+      {
+        "d": "2026-09-17",
+        "o": 57.42,
+        "h": 57.72,
+        "l": 56.29,
+        "c": 56.83,
+        "v": 723900
+      },
+      {
+        "d": "2026-09-18",
+        "o": 56.52,
+        "h": 56.96,
+        "l": 55.79,
+        "c": 56.62,
+        "v": 1504400
+      },
+      {
+        "d": "2026-09-21",
+        "o": 56.52,
+        "h": 56.65,
+        "l": 55.45,
+        "c": 56.51,
+        "v": 748100
+      },
+      {
+        "d": "2026-09-22",
+        "o": 57.7,
+        "h": 58.56,
+        "l": 56.82,
+        "c": 58.2,
+        "v": 539700
+      },
+      {
+        "d": "2026-09-23",
+        "o": 58.23,
+        "h": 58.23,
+        "l": 56.49,
+        "c": 56.56,
+        "v": 534800
+      },
+      {
+        "d": "2026-09-24",
+        "o": 56.95,
+        "h": 57.25,
+        "l": 56.1,
+        "c": 56.75,
+        "v": 570000
+      },
+      {
+        "d": "2026-09-25",
+        "o": 56.63,
+        "h": 57.63,
+        "l": 56.18,
+        "c": 57.37,
+        "v": 548000
+      },
+      {
+        "d": "2026-09-28",
+        "o": 57.31,
+        "h": 58.77,
+        "l": 56.23,
+        "c": 58.46,
+        "v": 736900
+      },
+      {
+        "d": "2026-09-29",
+        "o": 58.46,
+        "h": 58.46,
+        "l": 57.43,
+        "c": 58.11,
+        "v": 550400
+      },
+      {
+        "d": "2026-09-30",
+        "o": 58.34,
+        "h": 58.8,
+        "l": 56.66,
+        "c": 57.18,
+        "v": 765700
+      },
+      {
+        "d": "2026-10-01",
+        "o": 57.05,
+        "h": 57.84,
+        "l": 56.81,
+        "c": 57.46,
+        "v": 1006100
+      },
+      {
+        "d": "2026-10-02",
+        "o": 57.71,
+        "h": 57.71,
+        "l": 56.64,
+        "c": 57.04,
+        "v": 486400
+      },
+      {
+        "d": "2026-10-05",
+        "o": 56.75,
+        "h": 57.28,
+        "l": 56.1,
+        "c": 56.71,
+        "v": 580700
+      },
+      {
+        "d": "2026-10-06",
+        "o": 56.69,
+        "h": 57.48,
+        "l": 56.11,
+        "c": 57.22,
+        "v": 698800
+      },
+      {
+        "d": "2026-10-07",
+        "o": 56.82,
+        "h": 56.9,
+        "l": 56.14,
+        "c": 56.31,
+        "v": 585600
+      },
+      {
+        "d": "2026-10-08",
+        "o": 56.27,
+        "h": 57.96,
+        "l": 55.78,
+        "c": 56.54,
+        "v": 973000
+      },
+      {
+        "d": "2026-10-09",
+        "o": 56.57,
+        "h": 57.0,
+        "l": 55.7,
+        "c": 56.82,
+        "v": 595100
+      },
+      {
+        "d": "2026-10-12",
+        "o": 56.37,
+        "h": 56.54,
+        "l": 55.28,
+        "c": 56.12,
+        "v": 717200
+      },
+      {
+        "d": "2026-10-13",
+        "o": 56.72,
+        "h": 57.53,
+        "l": 55.52,
+        "c": 56.84,
+        "v": 609000
+      },
+      {
+        "d": "2026-10-14",
+        "o": 56.33,
+        "h": 57.48,
+        "l": 56.19,
+        "c": 57.47,
+        "v": 751000
+      },
+      {
+        "d": "2026-10-15",
+        "o": 58.63,
+        "h": 60.71,
+        "l": 58.63,
+        "c": 60.58,
+        "v": 582500
+      },
+      {
+        "d": "2026-10-16",
+        "o": 60.45,
+        "h": 61.54,
+        "l": 59.65,
+        "c": 59.92,
+        "v": 606800
+      },
+      {
+        "d": "2026-10-19",
+        "o": 59.56,
+        "h": 59.93,
+        "l": 59.27,
+        "c": 59.74,
+        "v": 541600
+      },
+      {
+        "d": "2026-10-20",
+        "o": 60.13,
+        "h": 61.18,
+        "l": 60.13,
+        "c": 60.86,
+        "v": 474800
+      },
+      {
+        "d": "2026-10-21",
+        "o": 60.67,
+        "h": 60.73,
+        "l": 59.11,
+        "c": 59.28,
+        "v": 597100
+      },
+      {
+        "d": "2026-10-22",
+        "o": 59.31,
+        "h": 62.01,
+        "l": 59.31,
+        "c": 61.83,
+        "v": 611300
+      },
+      {
+        "d": "2026-10-23",
+        "o": 61.45,
+        "h": 61.69,
+        "l": 60.11,
+        "c": 61.11,
+        "v": 616400
+      },
+      {
+        "d": "2026-10-26",
+        "o": 61.11,
+        "h": 61.63,
+        "l": 60.26,
+        "c": 60.58,
+        "v": 523900
+      },
+      {
+        "d": "2026-10-27",
+        "o": 60.64,
+        "h": 61.18,
+        "l": 59.85,
+        "c": 60.93,
+        "v": 690500
+      },
+      {
+        "d": "2026-10-28",
+        "o": 60.17,
+        "h": 60.76,
+        "l": 59.69,
+        "c": 60.66,
+        "v": 1113600
+      },
+      {
+        "d": "2026-10-29",
+        "o": 61.73,
+        "h": 63.68,
+        "l": 61.62,
+        "c": 63.44,
+        "v": 1240000
+      },
+      {
+        "d": "2026-10-30",
+        "o": 65.24,
+        "h": 67.51,
+        "l": 63.95,
+        "c": 67.27,
+        "v": 1501800
+      },
+      {
+        "d": "2026-11-02",
+        "o": 67.22,
+        "h": 70.89,
+        "l": 66.71,
+        "c": 70.84,
+        "v": 1358700
+      },
+      {
+        "d": "2026-11-03",
+        "o": 70.38,
+        "h": 71.12,
+        "l": 68.76,
+        "c": 69.78,
+        "v": 1192000
+      },
+      {
+        "d": "2026-11-04",
+        "o": 71.44,
+        "h": 72.34,
+        "l": 69.75,
+        "c": 70.65,
+        "v": 1260500
+      },
+      {
+        "d": "2026-11-05",
+        "o": 70.58,
+        "h": 71.31,
+        "l": 67.61,
+        "c": 68.85,
+        "v": 1042700
+      },
+      {
+        "d": "2026-11-06",
+        "o": 67.35,
+        "h": 70.31,
+        "l": 66.92,
+        "c": 70.15,
+        "v": 819800
+      },
+      {
+        "d": "2026-11-09",
+        "o": 70.83,
+        "h": 72.74,
+        "l": 70.41,
+        "c": 72.17,
+        "v": 1125500
+      },
+      {
+        "d": "2026-11-10",
+        "o": 71.63,
+        "h": 72.27,
+        "l": 70.47,
+        "c": 71.98,
+        "v": 851400
+      },
+      {
+        "d": "2026-11-11",
+        "o": 71.23,
+        "h": 72.32,
+        "l": 70.7,
+        "c": 71.91,
+        "v": 578000
+      },
+      {
+        "d": "2026-11-12",
+        "o": 72.53,
+        "h": 72.8,
+        "l": 71.14,
+        "c": 71.36,
+        "v": 675500
+      },
+      {
+        "d": "2026-11-13",
+        "o": 71.87,
+        "h": 73.44,
+        "l": 71.46,
+        "c": 73.18,
+        "v": 534500
+      },
+      {
+        "d": "2026-11-16",
+        "o": 73.62,
+        "h": 75.42,
+        "l": 73.16,
+        "c": 75.33,
+        "v": 1116100
+      },
+      {
+        "d": "2026-11-17",
+        "o": 74.99,
+        "h": 75.82,
+        "l": 74.52,
+        "c": 74.74,
+        "v": 783100
+      },
+      {
+        "d": "2026-11-18",
+        "o": 74.5,
+        "h": 77.36,
+        "l": 73.82,
+        "c": 76.06,
+        "v": 778400
+      },
+      {
+        "d": "2026-11-19",
+        "o": 75.36,
+        "h": 75.53,
+        "l": 73.1,
+        "c": 74.3,
+        "v": 619000
+      }
+    ],
+    "weekly_closes_26": [
+      65.59,
+      63.65,
+      66.39,
+      65.87,
+      63.94,
+      62.76,
+      62.41,
+      62.94,
+      61.77,
+      58.85,
+      56.85,
+      56.91,
+      60.09,
+      57.78,
+      57.49,
+      56.7,
+      56.62,
+      57.37,
+      57.04,
+      56.82,
+      59.92,
+      61.11,
+      67.27,
+      70.15,
+      73.18,
+      74.3
+    ]
+  },
+  "profile": {
+    "symbol": "COLM",
+    "shortName": "Columbia Sportswear Company",
+    "sector": "Consumer Cyclical",
+    "industry": "Apparel Manufacturing",
+    "marketCap": 3742378240,
+    "trailingPE": 16.401766,
+    "forwardPE": 17.01502,
+    "priceToSalesTrailing12Months": 1.0922873,
+    "enterpriseToEbitda": 13.236,
+    "profitMargins": 0.06969,
+    "operatingMargins": 0.071279995,
+    "grossMargins": 0.50469,
+    "revenueGrowth": 0.02,
+    "earningsGrowth": 0.747,
+    "returnOnEquity": 0.14525,
+    "debtToEquity": 28.076,
+    "freeCashflow": 182122752,
+    "totalCash": 229579008,
+    "totalDebt": 458135008,
+    "beta": 0.873,
+    "shortPercentOfFloat": 0.18969999,
+    "heldPercentInstitutions": 0.53526,
+    "recommendationMean": 2.57143,
+    "numberOfAnalystOpinions": 5,
+    "targetMeanPrice": 73.0,
+    "fiftyTwoWeekHigh": 77.67,
+    "fiftyTwoWeekLow": 50.23,
+    "averageVolume": 739579,
+    "preMarketPrice": 74.99,
+    "regularMarketPrice": 74.3,
+    "regularMarketPreviousClose": 76.06,
+    "earnings_date": "2026-10-29"
+  },
+  "sec_fundamentals": {
+    "available": true,
+    "cik": 1050797,
+    "revenue_q": [
+      {
+        "end": "2024-06-30",
+        "val": 570244000,
+        "filed": "2025-08-07"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 931768000,
+        "filed": "2025-11-06"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 778452000,
+        "filed": "2026-05-07"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 605246000,
+        "filed": "2026-08-06"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 943425000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 779013000,
+        "filed": "2026-05-07"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 614362000,
+        "filed": "2026-08-06"
+      },
+      {
+        "end": "2026-09-30",
+        "val": 962582000,
+        "filed": "2026-11-05"
+      }
+    ],
+    "net_income_q": [
+      {
+        "end": "2024-06-30",
+        "val": -11741000,
+        "filed": "2025-08-07"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 90157000,
+        "filed": "2025-11-06"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 42248000,
+        "filed": "2026-05-07"
+      },
+      {
+        "end": "2025-06-30",
+        "val": -10196000,
+        "filed": "2026-08-06"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 52005000,
+        "filed": "2026-11-05"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 34308000,
+        "filed": "2026-05-07"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 26553000,
+        "filed": "2026-08-06"
+      },
+      {
+        "end": "2026-09-30",
+        "val": 84740000,
+        "filed": "2026-11-05"
+      }
+    ],
+    "stale_warning": null,
+    "revenue_yoy": 0.0203,
+    "net_income_yoy": 0.6295
+  },
+  "sec_filings_10d": [],
+  "news_status": {
+    "status": "ok",
+    "source": "yahoo+google_rss",
+    "errors": []
+  },
+  "news_7d": [
+    {
+      "title": "After a Week of Tech Panics, Columbia Takes Its ‘Don’t Panic Room’ to Times Square",
+      "publisher": "The Wall Street Journal",
+      "published": "2026-11-20T11:01:00+00:00",
+      "summary": "Plus, Amazon uses its homepage to fight a New York City labor measure as Black Friday approaches.",
+      "url": "https://www.wsj.com/cmo-today/after-a-week-of-tech-panics-columbia-takes-its-dont-panic-room-to-times-square-47bd4af8?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Columbia Sportswear Company (COLM) Stock Forecasts - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-18T19:42:52+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUkVDZFk2QUQ2MnlxbVprNkVrSjhUY3NyZXUyc3BtbVVTWHdnNU5SbDl5VzNYRFltdmRCR1UwdVJQeHZDLUtjVmRScW1TUnk3aTdGNmNxUXZHdGowcHpIaWhnQklXUUdxci04dVFyMzBHMm9sR0NYTk81cERxQ3pJbE1XWWdVVExUcnFZQkx3VQ?oc=5"
+    },
+    {
+      "title": "Columbia Sportswear director Ronald Nelson sells $75,285 in stock By Investing.com - Investing.com South Africa",
+      "publisher": "Investing.com South Africa",
+      "published": "2026-11-18T15:38:24+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3dDbEY0RXZGdGNIQUFtbTdSaldxN2RFaFZmcFhVVl93R1NJQ1JfTEhJeEljcGk0WjRJMVR1S0ZPcmtqMkozc1doNzVPQUtNRnc2NkE1Y0Vrd0tJa2Z1ZEdUTEFsaGJwcElxZVpiR0RpWGU3S0RlRkJXcjI4bWE0UnBlSHloc19QX0sxYlFCNTdkUElBNERkc0UtaEEzR05FeEFOUW9jMDFyVkVneFpYNllzY1FmVDRZdmx0N0FGbWYzdw?oc=5"
+    },
+    {
+      "title": "COLM261120C00055000 Interactive Stock Chart | COLM Nov 2026 55.000 call Stock - Yahoo! Finance Canada",
+      "publisher": "Yahoo! Finance Canada",
+      "published": "2026-11-18T02:36:24+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ycUdCRzZjaTJXcnhqcU1QQlNCbkRxS2xsRjBRcWVvY3RoT2x2YmIzS2lsWENIaVBrZ01PLVdvWVduMm1GQzFhQkZyQlR4cDU4eDNwLW5iLThmMjdMLVEyMkp3VDk?oc=5"
+    },
+    {
+      "title": "COLM Nov 2026 55.000 call (COLM261120C00055000) stock price, news, quote and history - Yahoo Finance UK",
+      "publisher": "Yahoo Finance UK",
+      "published": "2026-11-18T02:34:24+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43dFpfV3hhZGZBQkpfSnk3YVo1Um50dnlidW5BeE5kYUE1RDdrTTQxQXZFWkl3QXFKUEFYRWx4R2tuVGZNckdkYWNZLVdsTGhtMF9QZFpTYXkxLXJsTTh5OTN6WDZUQQ?oc=5"
+    },
+    {
+      "title": "Director Ronald Nelson Sells 1,000 Shares of Columbia Sportswear Co (COLM) - GuruFocus",
+      "publisher": "GuruFocus",
+      "published": "2026-11-18T01:07:26+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaUNxdS04WUlQQjZzdUJuVnQtY0c0ckxxUHhDdUthNzJlT28zaHJNT3BFNGtqSVdESm5IZTBrUktVSmpJeW5YdXFQOE1Pc3JJbXU0SGNaT1FkMzNsd3ZXZFlQdXZqQUxDVWxFNXBRMVYtU3ZwUWNZdjI5THZXdFIwbkxHUFdEUmktdmIwLUhMTy1GeFJsWWpEaWNid3ZzYW4zend3VmlNZ29iOTJWYnZN?oc=5"
+    },
+    {
+      "title": "Insider Selling: Columbia Sportswear (NASDAQ:COLM) Director Sells $75,280.00 in Stock - MarketBeat",
+      "publisher": "MarketBeat",
+      "published": "2026-11-17T22:14:46+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLXlSSmNuS1RSd0p4bDVzLUQtMUlyVGE3THpxaEhKZTB0emNfMjdXXzFHSFRFZXJpOGhEVG1VS3NVNEE2bDUxdlNBSkRQUmJ3RzY0ZFhEcVc3MmdvbkZUVTFNZXUxTmpVOWNwcHQ5RDByMkVXSklsS3BjNEduOU51Q0JKQWpxZE5qakI3Q1NCal91RGdQeTNOaHN2a2paQk9aWnl5ZmZzMnJoUVp5YURaSGFWQ1g3VGJZb1hMZDFhM0xCTUlIM29rR3NWRE8zNjVvN1Jxb09ubjU?oc=5"
+    },
+    {
+      "title": "Columbia Sportswear (NASDAQ:COLM) Director Sells $571,328.10 in Stock - MarketBeat",
+      "publisher": "MarketBeat",
+      "published": "2026-11-17T22:10:38+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOblVURHM0eF9aa01tY0RCeDNMR1Bnc1BPTmRqRTdWcUpYU1NiRjBQRUw0NlAzMTVtYkFUZENhOHRSbEdWeVRTX3N4Y3hENFZ5S2IzM0x1UXAwZEFkRF9ucEVHcHhrMWIyZWN0TC0tSUNzcDI5MVlNaEJpSi1mUmdZRXVaX3d2SnpXT3F1NHpqTjg0ZGRCa2p3WElNQVByU2pOREx6bTMxZFFUbWh2b29td3AwUUFPd0ROWExlM0JhUFI0SVVS?oc=5"
+    },
+    {
+      "title": "Director Ronald E. Nelson proposes selling 1,000 Columbia Sportswear (COLM) shares. - Stock Titan",
+      "publisher": "Stock Titan",
+      "published": "2026-11-16T21:05:50+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNU5JcmN0akl0NFVZTDB1T3lSOWlpS2k4c0prcUNtY2VpUC12SVV1RXJFNWdyelpiV19CZ3RkX3VaWGFOODZqYTNUbk45eDFoNi15aGFzLS00c2t2VnQxTF9kRHMyaG1tekEwWEtlVE5JN05KSEg4VEk1YXF0aDc4UDFmQ095bkZnbkt5NXhlMHc4LTg0WmpxaUpEallXUXVx?oc=5"
+    }
+  ]
+}

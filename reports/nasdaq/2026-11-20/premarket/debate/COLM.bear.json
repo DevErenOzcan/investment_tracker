@@ -1,0 +1,17 @@
+{"ticker": "COLM",
+ "thesis": "COLM has already re-rated after the Oct 29 earnings gap and now sits extended (RSI 68.5, about 7% above SMA20) and above the mean analyst target, with no fresh catalyst. The earnings jump is margin-driven on roughly 2% revenue growth, and forward P/E is above trailing P/E, so consensus prices in no further growth. Nov 19 reversed from a 77.36 intraday high to a 74.30 close, which marks supply at the 52-week high. Meanwhile the regime is risk-off (QQQ below 50/200-day, VIX at the 99.5th percentile), and a high-beta discretionary apparel name that rallied 25% in 21 days is exposed to a liquidation or squeeze unwind. Short interest near 19% of float cuts both ways, and a reversal would be sharp. A director is selling into the strength.",
+ "evidence": [
+  "technical card: setup = pullback, close 74.30, RSI 68.5, 7.3% above SMA20, 4% below 52-week high 77.36",
+  "technical card: first resistance 77.36 alone gives only about 1.4 R; the 2.5 R rests on an extension target of 80.8",
+  "technical card: Nov 19 reversed from a 77.36 intraday high to a 74.30 close",
+  "fundamentals card: price 74.3 vs analyst mean target 73.0 (only 5 analysts)",
+  "fundamentals card: forward P/E 17.0 > trailing P/E 16.4, so no earnings growth is priced in by consensus",
+  "fundamentals card: revenue growth about 2% YoY (0.0203); the earnings jump is margin-driven",
+  "fundamentals card: short interest 18.97% of float, so a squeeze can reverse sharply",
+  "news card: director Ronald Nelson sold shares (Form 4 / Rule 144 notices), 2026-11-17",
+  "news card: no new catalyst; pre-market 74.99 vs 74.30 close",
+  "regime_view: regime = risk-off, confidence 0.93, VIX 31.37 (percentile 0.995), QQQ ret_21 -11.05%"
+ ],
+ "downside_case": {"level": 66.92, "probability": 0.3},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

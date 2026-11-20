@@ -1,0 +1,8 @@
+{"ticker": "AMPH", "rating": "Hold", "confidence": 0.32,
+ "entry": 28.1, "entry_zone": [27.9, 28.3], "stop": 27.5, "target": 31.0, "horizon_days": 10,
+ "expected_return": {"low": -0.06, "high": 0.10},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "Fundamentals are improving and cheap (Q3 net income 37.8M, up 117.6% YoY; forward P/E 8.4) and the trend is up, and zone R/R to the 31.0 high is about 4.8. But the stop at 27.5 is only about 0.5 ATR (1.14) below the 28.10 entry, the last session was a 5.4% rejection from 30.58 on the highest volume since the 11-06 spike with no news, and the regime is risk-off (confidence 0.93, VIX percentile 0.995), so the odds of reaching 31.0 before 27.5 are low, and even the bull puts them at 0.30. Hold and wait for the hold of 27.8-28.0 that the technical card asks for; reassess at preclose or the next session if that support holds and the tape calms.",
+ "invalidation": "A daily close below 27.80 (the 10-day swing low) with follow-through toward the SMA50 at 26.42 ends the pullback thesis.",
+ "key_risks": ["Stop is about 0.5 ATR from entry, so normal noise can trigger it", "Unexplained 5.4% drop on 2026-11-19 on 662k volume vs 473k average looks like distribution after the failed 31.0 test", "Risk-off regime: QQQ below 50/200-day, VIX 31.37", "Short interest 21.7% of float means gaps in both directions", "Price 28.11 is above the mean analyst target of 24.5, consensus is Reduce, and the CFO sold under a 10b5-1 plan", "Leverage (debt 691.7M vs cash 230.6M) and thin FCF (9.2M)", "No scheduled catalyst before about late Feb 2027"],
+ "debate_winner": "bear"}

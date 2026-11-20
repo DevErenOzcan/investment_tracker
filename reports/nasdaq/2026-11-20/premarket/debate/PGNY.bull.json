@@ -1,0 +1,15 @@
+{"ticker": "PGNY",
+ "thesis": "PGNY is a profitable, accelerating compounder in a post-earnings uptrend, and it is pulling back on drying volume rather than breaking down. Revenue growth and net income growth have accelerated for three straight quarters, FCF is strong against low debt, and forward P/E is well below trailing. Estimates are rising, and the stock is a defensive-leaning healthcare-benefits name in a tape where healthcare is holding up. The setup is only worth taking on a dip into the 34.60-35.50 entry zone with the 33.10 stop, because chasing at the current price is poor. The risk-off regime (VIX at its 99.5th percentile) argues for small sizing, so this is a modest-conviction long, not a high-conviction one.",
+ "evidence": [
+  "technical: setup = pullback; trend = up",
+  "technical: entry_zone = [34.6, 35.5]; stop = 33.1; target = 39.5; reward_risk = 2.2",
+  "technical: notes = price above SMA20 32.76, SMA50 29.24 and SMA200 25.08, with volume ratio 0.85 (dried up, constructive)",
+  "fundamentals: growth = accelerating; quality = high; dilution_risk = low",
+  "fundamentals: notes = YoY revenue growth +1.4%, +5.3%, +8.9% and net income growth +61%, +64%, +89% over the last three quarters; FCF 195.1M versus debt 25.9M",
+  "fundamentals: notes = forward P/E 14.8 versus trailing P/E 32.5; short interest 9.1% of float, below the squeeze threshold",
+  "news: catalysts = Zacks upgrade to Rank #1 (Strong Buy) on rising earnings estimates, 2026-11-19",
+  "news: event_risks = no S-3/424B5 filings in the last 10 days; next earnings likely outside the 20-business-day window; binary_event = false",
+  "regime_view: evidence = defensives holding, XLV above 50/200-day (percentile 0.889), while XLK and SMH lead the selling"
+ ],
+ "upside_case": {"target": 39.5, "probability": 0.35},
+ "rebuttal_to_bear": null}

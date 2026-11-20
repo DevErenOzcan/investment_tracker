@@ -1,0 +1,773 @@
+{
+  "ticker": "ADMA",
+  "exchange": "NASDAQ",
+  "as_of": "2026-11-20T13:50:43.248830+00:00",
+  "data_note": "In the pre-market session the last price is the previous close; in the pre-close session it is ~15 min delayed.",
+  "technical": {
+    "indicators": {
+      "symbol": "ADMA",
+      "date": "2026-11-19",
+      "close": 13.34,
+      "ret_5": 0.0076,
+      "ret_21": 0.2116,
+      "ret_63": 0.3557,
+      "ret_126": 0.5768,
+      "rs_63": 0.4506,
+      "sma20": 12.2757,
+      "sma50": 10.895,
+      "sma200": 10.6511,
+      "trend": 4,
+      "atr": 0.643,
+      "atr_pct": 0.0482,
+      "rsi14": 64.6987,
+      "dist_high": -0.2589,
+      "vol_ratio": 0.9367,
+      "ext_20": 0.0867,
+      "vol_20": 1.0228,
+      "dollar_volume_20": 51553916.0603,
+      "low_20": 10.25,
+      "high_20": 14.2
+    },
+    "levels": {
+      "swing_low_10": 12.480999946594238,
+      "swing_low_20": 10.25,
+      "swing_high_20": 14.199999809265137,
+      "high_52w": 18.0,
+      "low_52w": 7.210000038146973
+    },
+    "last_60_days": [
+      {
+        "d": "2026-08-27",
+        "o": 9.56,
+        "h": 9.62,
+        "l": 9.39,
+        "c": 9.48,
+        "v": 1496300
+      },
+      {
+        "d": "2026-08-28",
+        "o": 9.46,
+        "h": 9.51,
+        "l": 9.34,
+        "c": 9.34,
+        "v": 1835700
+      },
+      {
+        "d": "2026-08-31",
+        "o": 9.33,
+        "h": 9.48,
+        "l": 9.22,
+        "c": 9.39,
+        "v": 1756300
+      },
+      {
+        "d": "2026-09-01",
+        "o": 9.38,
+        "h": 9.51,
+        "l": 9.29,
+        "c": 9.33,
+        "v": 1756200
+      },
+      {
+        "d": "2026-09-02",
+        "o": 9.34,
+        "h": 9.63,
+        "l": 9.32,
+        "c": 9.51,
+        "v": 1989600
+      },
+      {
+        "d": "2026-09-03",
+        "o": 9.52,
+        "h": 9.6,
+        "l": 9.35,
+        "c": 9.58,
+        "v": 1326000
+      },
+      {
+        "d": "2026-09-04",
+        "o": 9.43,
+        "h": 9.62,
+        "l": 9.39,
+        "c": 9.62,
+        "v": 1399400
+      },
+      {
+        "d": "2026-09-08",
+        "o": 9.51,
+        "h": 9.65,
+        "l": 9.41,
+        "c": 9.54,
+        "v": 1992600
+      },
+      {
+        "d": "2026-09-09",
+        "o": 9.47,
+        "h": 9.51,
+        "l": 9.32,
+        "c": 9.45,
+        "v": 2382800
+      },
+      {
+        "d": "2026-09-10",
+        "o": 9.39,
+        "h": 9.5,
+        "l": 9.33,
+        "c": 9.39,
+        "v": 2831000
+      },
+      {
+        "d": "2026-09-11",
+        "o": 9.44,
+        "h": 9.5,
+        "l": 9.19,
+        "c": 9.23,
+        "v": 2266800
+      },
+      {
+        "d": "2026-09-14",
+        "o": 9.34,
+        "h": 9.38,
+        "l": 9.06,
+        "c": 9.14,
+        "v": 3067100
+      },
+      {
+        "d": "2026-09-15",
+        "o": 9.08,
+        "h": 9.13,
+        "l": 8.55,
+        "c": 8.61,
+        "v": 3589200
+      },
+      {
+        "d": "2026-09-16",
+        "o": 8.59,
+        "h": 8.98,
+        "l": 8.54,
+        "c": 8.9,
+        "v": 2760500
+      },
+      {
+        "d": "2026-09-17",
+        "o": 9.0,
+        "h": 9.05,
+        "l": 8.88,
+        "c": 8.95,
+        "v": 2131600
+      },
+      {
+        "d": "2026-09-18",
+        "o": 8.92,
+        "h": 9.13,
+        "l": 8.81,
+        "c": 9.11,
+        "v": 11401400
+      },
+      {
+        "d": "2026-09-21",
+        "o": 9.19,
+        "h": 9.54,
+        "l": 9.1,
+        "c": 9.51,
+        "v": 2858700
+      },
+      {
+        "d": "2026-09-22",
+        "o": 9.53,
+        "h": 9.84,
+        "l": 9.45,
+        "c": 9.81,
+        "v": 2737300
+      },
+      {
+        "d": "2026-09-23",
+        "o": 9.81,
+        "h": 9.84,
+        "l": 9.43,
+        "c": 9.7,
+        "v": 2595500
+      },
+      {
+        "d": "2026-09-24",
+        "o": 9.67,
+        "h": 9.82,
+        "l": 9.37,
+        "c": 9.52,
+        "v": 2586000
+      },
+      {
+        "d": "2026-09-25",
+        "o": 9.55,
+        "h": 9.62,
+        "l": 9.23,
+        "c": 9.38,
+        "v": 3566700
+      },
+      {
+        "d": "2026-09-28",
+        "o": 9.38,
+        "h": 10.17,
+        "l": 9.25,
+        "c": 10.12,
+        "v": 3568200
+      },
+      {
+        "d": "2026-09-29",
+        "o": 10.03,
+        "h": 10.19,
+        "l": 9.89,
+        "c": 9.96,
+        "v": 3458200
+      },
+      {
+        "d": "2026-09-30",
+        "o": 9.98,
+        "h": 10.14,
+        "l": 9.8,
+        "c": 10.03,
+        "v": 2699100
+      },
+      {
+        "d": "2026-10-01",
+        "o": 10.07,
+        "h": 10.26,
+        "l": 9.9,
+        "c": 9.93,
+        "v": 3969800
+      },
+      {
+        "d": "2026-10-02",
+        "o": 10.02,
+        "h": 10.28,
+        "l": 9.68,
+        "c": 9.72,
+        "v": 2793400
+      },
+      {
+        "d": "2026-10-05",
+        "o": 9.63,
+        "h": 10.19,
+        "l": 9.62,
+        "c": 10.11,
+        "v": 3512300
+      },
+      {
+        "d": "2026-10-06",
+        "o": 10.2,
+        "h": 10.35,
+        "l": 9.98,
+        "c": 10.18,
+        "v": 2100100
+      },
+      {
+        "d": "2026-10-07",
+        "o": 10.15,
+        "h": 10.32,
+        "l": 10.07,
+        "c": 10.14,
+        "v": 3049600
+      },
+      {
+        "d": "2026-10-08",
+        "o": 10.09,
+        "h": 10.44,
+        "l": 10.03,
+        "c": 10.33,
+        "v": 3902800
+      },
+      {
+        "d": "2026-10-09",
+        "o": 10.32,
+        "h": 10.51,
+        "l": 10.25,
+        "c": 10.36,
+        "v": 2828400
+      },
+      {
+        "d": "2026-10-12",
+        "o": 10.32,
+        "h": 10.4,
+        "l": 10.16,
+        "c": 10.18,
+        "v": 1627300
+      },
+      {
+        "d": "2026-10-13",
+        "o": 10.19,
+        "h": 10.35,
+        "l": 10.02,
+        "c": 10.31,
+        "v": 3765000
+      },
+      {
+        "d": "2026-10-14",
+        "o": 10.31,
+        "h": 10.6,
+        "l": 10.23,
+        "c": 10.34,
+        "v": 2876500
+      },
+      {
+        "d": "2026-10-15",
+        "o": 10.6,
+        "h": 10.91,
+        "l": 10.48,
+        "c": 10.73,
+        "v": 2766300
+      },
+      {
+        "d": "2026-10-16",
+        "o": 10.73,
+        "h": 10.87,
+        "l": 10.6,
+        "c": 10.68,
+        "v": 3073700
+      },
+      {
+        "d": "2026-10-19",
+        "o": 10.66,
+        "h": 11.14,
+        "l": 10.66,
+        "c": 11.07,
+        "v": 2873800
+      },
+      {
+        "d": "2026-10-20",
+        "o": 11.12,
+        "h": 11.32,
+        "l": 11.03,
+        "c": 11.23,
+        "v": 2896500
+      },
+      {
+        "d": "2026-10-21",
+        "o": 11.17,
+        "h": 11.27,
+        "l": 10.93,
+        "c": 11.01,
+        "v": 2006200
+      },
+      {
+        "d": "2026-10-22",
+        "o": 11.01,
+        "h": 11.1,
+        "l": 10.8,
+        "c": 10.95,
+        "v": 3551500
+      },
+      {
+        "d": "2026-10-23",
+        "o": 10.88,
+        "h": 10.9,
+        "l": 10.57,
+        "c": 10.68,
+        "v": 1740900
+      },
+      {
+        "d": "2026-10-26",
+        "o": 10.73,
+        "h": 11.12,
+        "l": 10.7,
+        "c": 11.06,
+        "v": 2027200
+      },
+      {
+        "d": "2026-10-27",
+        "o": 11.02,
+        "h": 11.19,
+        "l": 10.9,
+        "c": 11.17,
+        "v": 2219200
+      },
+      {
+        "d": "2026-10-28",
+        "o": 11.04,
+        "h": 11.3,
+        "l": 11.01,
+        "c": 11.28,
+        "v": 2664500
+      },
+      {
+        "d": "2026-10-29",
+        "o": 11.37,
+        "h": 11.77,
+        "l": 11.34,
+        "c": 11.75,
+        "v": 2744300
+      },
+      {
+        "d": "2026-10-30",
+        "o": 11.85,
+        "h": 11.9,
+        "l": 11.36,
+        "c": 11.41,
+        "v": 2460700
+      },
+      {
+        "d": "2026-11-02",
+        "o": 11.42,
+        "h": 11.59,
+        "l": 11.05,
+        "c": 11.06,
+        "v": 2890000
+      },
+      {
+        "d": "2026-11-03",
+        "o": 11.09,
+        "h": 11.44,
+        "l": 10.69,
+        "c": 11.11,
+        "v": 5055800
+      },
+      {
+        "d": "2026-11-04",
+        "o": 11.49,
+        "h": 11.49,
+        "l": 10.25,
+        "c": 10.48,
+        "v": 13385600
+      },
+      {
+        "d": "2026-11-05",
+        "o": 12.01,
+        "h": 13.77,
+        "l": 11.9,
+        "c": 13.21,
+        "v": 14997200
+      },
+      {
+        "d": "2026-11-06",
+        "o": 12.88,
+        "h": 13.2,
+        "l": 12.52,
+        "c": 12.73,
+        "v": 4647600
+      },
+      {
+        "d": "2026-11-09",
+        "o": 12.9,
+        "h": 13.06,
+        "l": 12.48,
+        "c": 12.79,
+        "v": 3365900
+      },
+      {
+        "d": "2026-11-10",
+        "o": 12.8,
+        "h": 12.95,
+        "l": 12.55,
+        "c": 12.67,
+        "v": 3312000
+      },
+      {
+        "d": "2026-11-11",
+        "o": 12.71,
+        "h": 13.28,
+        "l": 12.6,
+        "c": 13.19,
+        "v": 2557500
+      },
+      {
+        "d": "2026-11-12",
+        "o": 13.23,
+        "h": 13.52,
+        "l": 13.04,
+        "c": 13.24,
+        "v": 3091100
+      },
+      {
+        "d": "2026-11-13",
+        "o": 13.29,
+        "h": 14.02,
+        "l": 13.07,
+        "c": 13.68,
+        "v": 4160100
+      },
+      {
+        "d": "2026-11-16",
+        "o": 13.72,
+        "h": 14.07,
+        "l": 13.45,
+        "c": 13.47,
+        "v": 3050500
+      },
+      {
+        "d": "2026-11-17",
+        "o": 13.34,
+        "h": 13.65,
+        "l": 13.12,
+        "c": 13.63,
+        "v": 2947300
+      },
+      {
+        "d": "2026-11-18",
+        "o": 13.63,
+        "h": 14.2,
+        "l": 13.5,
+        "c": 13.56,
+        "v": 3171800
+      },
+      {
+        "d": "2026-11-19",
+        "o": 13.5,
+        "h": 13.59,
+        "l": 13.1,
+        "c": 13.34,
+        "v": 3623900
+      }
+    ],
+    "weekly_closes_26": [
+      7.98,
+      7.97,
+      8.21,
+      8.31,
+      8.75,
+      8.95,
+      9.08,
+      8.71,
+      8.27,
+      8.46,
+      9.9,
+      9.47,
+      9.84,
+      9.34,
+      9.62,
+      9.23,
+      9.11,
+      9.38,
+      9.72,
+      10.36,
+      10.68,
+      10.68,
+      11.41,
+      12.73,
+      13.68,
+      13.34
+    ]
+  },
+  "profile": {
+    "symbol": "ADMA",
+    "shortName": "ADMA Biologics Inc",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "marketCap": 2959537408,
+    "trailingPE": 17.324677,
+    "forwardPE": 14.241942,
+    "priceToSalesTrailing12Months": 5.7007036,
+    "enterpriseToEbitda": 12.621,
+    "profitMargins": 0.35137,
+    "operatingMargins": 0.44928002,
+    "grossMargins": 0.68527,
+    "revenueGrowth": 0.051,
+    "earningsGrowth": 0.467,
+    "returnOnEquity": 0.41949,
+    "debtToEquity": 46.249,
+    "freeCashflow": 90261624,
+    "totalCash": 124555000,
+    "totalDebt": 202804000,
+    "beta": 0.656,
+    "shortPercentOfFloat": 0.1004,
+    "heldPercentInstitutions": 0.92936,
+    "recommendationMean": 1.75,
+    "numberOfAnalystOpinions": 4,
+    "targetMeanPrice": 18.0,
+    "fiftyTwoWeekHigh": 20.458,
+    "fiftyTwoWeekLow": 7.21,
+    "averageVolume": 3219470,
+    "preMarketPrice": 13.25,
+    "regularMarketPrice": 13.34,
+    "regularMarketPreviousClose": 13.56,
+    "earnings_date": "2026-11-04"
+  },
+  "sec_fundamentals": {
+    "available": true,
+    "cik": 1368514,
+    "revenue_q": [
+      {
+        "end": "2024-06-30",
+        "val": 107191000,
+        "filed": "2025-08-06"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 119839000,
+        "filed": "2025-11-05"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 114802000,
+        "filed": "2026-05-06"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 121984000,
+        "filed": "2026-08-05"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 134224000,
+        "filed": "2026-11-04"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 114493000,
+        "filed": "2026-05-06"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 124395000,
+        "filed": "2026-08-05"
+      },
+      {
+        "end": "2026-09-30",
+        "val": 141102000,
+        "filed": "2026-11-04"
+      }
+    ],
+    "net_income_q": [
+      {
+        "end": "2024-06-30",
+        "val": 32062000,
+        "filed": "2025-11-05"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 35909000,
+        "filed": "2025-11-05"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 26904000,
+        "filed": "2026-11-04"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 34219000,
+        "filed": "2026-11-04"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 36428000,
+        "filed": "2026-11-04"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 45328000,
+        "filed": "2026-11-04"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 37822000,
+        "filed": "2026-11-04"
+      },
+      {
+        "end": "2026-09-30",
+        "val": 49884000,
+        "filed": "2026-11-04"
+      }
+    ],
+    "stale_warning": null,
+    "revenue_yoy": 0.0512,
+    "net_income_yoy": 0.3694
+  },
+  "sec_filings_10d": [],
+  "news_status": {
+    "status": "ok",
+    "source": "google_rss",
+    "errors": []
+  },
+  "news_7d": [
+    {
+      "title": "ADMA Biologics Inc (ADMA) Stock Forecasts - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-18T19:16:36+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdGxBVHcyZDdZckQxR3lrYWM3V21VanRROHY0SFhRSzRjU1BFbGtQdWs0R1VmSG9EMDlIZTlfS1gwTWtJaHFJaGtOS3IyZzlNdC1yNFpaNl84U3lzUnRQWlo4ejVjRlZOWEczS1JCSE8xNXVta2dBMVpINEEyQ190SEFsSTlycXlpQUczUFphcw?oc=5"
+    },
+    {
+      "title": "Form 4 ADMA Biologics Inc: Lawrence P. Guiheen (Director) For: 16 November - Investing.com Australia",
+      "publisher": "Investing.com Australia",
+      "published": "2026-11-17T08:00:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWmxsa3p0b2h4NGdPbWJOaXdFX2RXLVUxdjhiblFOakxiZENXZEZWckNXSWdHRTFQX0ptNzYtaTlTaDZwUEpQbjZ0MVMwc3c4Q2JFRjR4QnFJdHRxOUhINENucTdtYnhZYk9oNWRZUzYzai1NRmp2R196MGE0dTZCLWZGV2NJRWVIY0FDeXhveTFQNzNMSFZjbm5aZWNfcVl5TDVEMTBfRUk3R0NqaUlRaFhfeEU3SVNhZkN3WlJMUUxDbnVLU2stQVNB?oc=5"
+    },
+    {
+      "title": "ADMA Biologics director sells $139,200 in company stock - Investing.com",
+      "publisher": "Investing.com",
+      "published": "2026-11-17T03:09:25+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbldRMXlOMmlzd05yb2tiaWZTbmJ5TGdNQUR5NVpOckUyVkVfZzRreko4ZDJCaDg1S1Atd0pSUi1CUzhGbWJpa0RzeGxicUJPR25XYmJEM0JJaXRBXzZ0cVFfOU5jTWlxdGVNcktBLXdOZTVxYmxnWTk0SlNBWGRDYzR2MnJzWWdIaVF3S2xURkVudng5UzNNMDZoS0xyazVYX3ZkT1hlZXNoLVFCLWp3bFI2d2ZfT2Y2dHc?oc=5"
+    },
+    {
+      "title": "Form 4 ADMA Biologics Inc: Adam S. Grossman (Director, President and CEO) For: 16 November By Investing.com - Investing.com India",
+      "publisher": "Investing.com India",
+      "published": "2026-11-17T02:54:03+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTlJkc25hck1ZSGhSWUlOT2dKRzB3REFxY3VjaFA5YXpzTHBvcFd3TVg4a2RtNTR2VW9iOGU3SWlSNWVwQnhCVTZuRENRekhoRXJhSkF2a01OSV9neGJuSFNZRF93ZnhlZzliUy1aUFp4UUxKZVhSanZzN1N2S2VYamFHMVd2YlNBYlB2bFZDckUtbE5LdVhuN0w4Q1g2QlBiZXRqU3c4d1FuRG9zWG9Uc2dtV21FbEwxTkZ2aWJ5Q1loaHFMNUxKWjNpZlhmQjVDaV9WYzdSNEFJRmpEclE?oc=5"
+    },
+    {
+      "title": "Adma Biologics CEO Adam Grossman sells $288,120 in shares - Investing.com",
+      "publisher": "Investing.com",
+      "published": "2026-11-17T02:50:45+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ25RUWpGTU5xejZ2bjl1bi1ZanYxY2UzZnJHdHZuZ1lIam40TTM2LVM1NVN3Q1hSZkNVb3NFWEVYQVpRMnVKdGo0R3pJcHNGR0hiaUhIRW50S0Z4bVEwcTFFa1hyR0V5Ujd3Y0h0TVJ4WEFmQVR2bGV3SXVVT0Uxd0dCUXh3dmZjRkJNRnZwak1BUENpLUpVVTgzeTUtNWJBMzA5Yk5YUzk0N0ZvZU4yNGxiQlhSNU02eWVrUg?oc=5"
+    },
+    {
+      "title": "ADMA Biologics (ADMA) CEO exercises 15,000 options and sells 21,000 shares. - Stock Titan",
+      "publisher": "Stock Titan",
+      "published": "2026-11-17T02:02:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYl93UHhuT0FQSFRxcjdJbVE1Q3YzVk9fRC1wQ1l5SHl5RlpzcGZfM2F2ZEo4QzZOeExPUnQ4Tkt6VXFEMnNRUmg4TjZXTzlVLURlNWVSS0NHOFF2bzlqTE0zX3UxX0JXVXpnMTg3cHh0QUIyWGNuLUpVMzhGbjBGUEt1LXF4YnpaNENESGlwczFnQm9vWkIycWg3RFhydkdacnhoNHlvR2V0TVBIaVF5VHJR?oc=5"
+    },
+    {
+      "title": "Director Lawrence P. Guiheen proposes selling 10,000 ADMA Biologics (ADMA) shares. - Stock Titan",
+      "publisher": "Stock Titan",
+      "published": "2026-11-17T02:00:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRzBpWnFXLTMwWmd3QzRWMk9Zd1Q3X05IeElhOWFZcm5ESVNVZTZsMUFQdWV5S0oyZG9rMGQyZkF6LUdSdHZLTHZ4b1FoVXlKV0w1MDJHc3pYT3h3MUJsejVWaHBoTTBUWHp2WVFOWXJBdFkyVFVneDlWX2xveGVxMTVURU5udzdUbkgyYVVubmxuWHZMTEdmd3NlQQ?oc=5"
+    },
+    {
+      "title": "STATE STREET CORP Trims ADMA Biologics Inc (ADMA) Stake -- Shares Look 29% Undervalued on GF Value - GuruFocus",
+      "publisher": "GuruFocus",
+      "published": "2026-11-17T00:59:58+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVy0xMnlzU2dBVjRkN3YycFhtREdJLTJScUpubm1jUFRwWXBUY0pBb3o1TzZveHFxTHlfb1V0Y095b2hEcWlkcWpYcHFrZ1MzY1pKcmI1eU94alprNS1JWkRkQXZOYnk5eXYzbEJ1anBUbndJZ21vLWN1cTM4RlNUZDFHRXNOWHlvajB0TzhtcGIweWRndkRlNmhhOURIM09NaGFhM0t0Z1QtaHQwaG11Vnk3dllqb0hjYVhYZVJYZFAwSm04aUtWeGhibw?oc=5"
+    },
+    {
+      "title": "A passive investor reports over 5% ownership of ADMA Biologics (ADMA), with shared voting power. - Stock Titan",
+      "publisher": "Stock Titan",
+      "published": "2026-11-16T21:24:25+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUhwblBYbE5ka0VvOG9xN2RjVlQ5a25Mb0dTZ3FLbUJyWVdoRjZnenJRQXJIamtlVVFCV0pscGFPQVdGVWhEbHpHbHNJRDNGVzJlX3FZbHZFcmFJTUV1eFNhYmczZkMtRjB5U09BVmVvX2cyUFlIN194NkotbE5wZmcxQWxpdTlxM0xWa0ZEaE1MblBWZFlKVzVucUZDMTk1V1ZXX0FZSW9EUVY0U2ZtUkUxek50c3drbVhOSTRONmIyZWc?oc=5"
+    },
+    {
+      "title": "Is ADMA Biologics (ADMA) Undervalued On Strong Q3 Results And Reaffirmed 2026 Guidance? - Simply Wall St",
+      "publisher": "Simply Wall St",
+      "published": "2026-11-16T18:18:16+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMkZLa1ZHZF9QWEFQdlNZYlNjM1FJejNRbXIyb28yeUdFb195d1k2V09lVzZGclBSY3AwNFBiVVRrdlFPY0dKVnJTTEpyVGNtQW5aeDhiREE5a0tSeGNkWWdPeXF5anhhZjdJSVNTX0NPZkYxa2ppOE9lSVI5cVNGeTZHXzlIY2tvcS15Qjg1X0U4RzkydkZ4MUFsbGtrQXMzaUFOSmlMT1NNY25qM21pY0RCY0VjTE4tNmJyMU44Vmt4QzRzX0tVVkh1OHQ5em9KSHEzc0dyX0lQMW1CTGU1UdIB5gFBVV95cUxNdWhmQlkxdkw5N042dmRyeVd2dG44aWhHRFJ3d0pXNG9HZHhLWUZaQ0pMVzBLVlFMMkR0aDRiMHA0elA4NGZyQ1lVMkZ3djhoTjdtSFNEbHV0OXBTeFBTRkdTLTdQQncxX09TMENmWllIMTB3Umw4TVpmOFd1Wi1Mb3YtcmlEc3UxMDFtam8tenJ3ZTQ4MTVRb0hwaTRPa1F0MEJlSy1NNC1MUGQtMmEtSVpielNfWks3MTFGYVlxVk94SmotQVhTcTVZS3RubEF5c2F6ZE4zSE9TTGxRQTJKd0Q1Z1lXUQ?oc=5"
+    },
+    {
+      "title": "Is Earnings And Guidance Reaffirmed Altering The Investment Case For ADMA Biologics (ADMA)? - Simply Wall St",
+      "publisher": "Simply Wall St",
+      "published": "2026-11-15T16:20:05+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObEtBU0RZUjBHamFSUnM1UFRHWGNySkROUWFuT2VHeEczSlRSSVNMSE5PX2gyWjQxTlh0eVdXY0Rtc0xzNVJfWnpNT0lYNk9qRmdOdUNCVmZROHg3RGVIX1ZvU2V6blRzM0VZWTI3UlhpZ1hVY09QNWlyTGN5RlRtc2ZDQXNSUVBDbWd3ZWJpUG1lWjRZVkpjbXkxVDh0akJrMmVGQUs5YlJFMDNocU1NS3Aydmdjb21raGtBR3FJc3VySjJLMTZRU05FQng5SEhlckdLV3NETkpXQTZRMG1YONIB5gFBVV95cUxPTnBSQlpOaENsa1Z2M0lKN3JVdzNQSWhyWWxQd096RUpFcjQwYWMxc050MXk0SU9hQW5JcURwMlRPUmItMHZ1bkRLQTVYcHBUaDNfckVreXhVVmgyQmV0RW1RbUliWTUxdVVWUFc1RFhSVXdRZDIxUmZqMDJSRjR3UUpRQWFrMWtMWV9uYk9xY2x6SDN3RDJQNnlCdEtlX1N1VS01QTc3NlQ0SlJ2eFJvWTgyRmJyOFRmbE5ROVZBT0pGVFpBRVo1U1VOdjlaTkFBNHphcmxYWXFJSUpSN1VPWWRTUjg0Zw?oc=5"
+    },
+    {
+      "title": "ADMA Biologics (NDQ:ADMA): The Antibody Factory, The Short Seller Attack, And The Earnings That Followed - Stocks Down Under",
+      "publisher": "Stocks Down Under",
+      "published": "2026-11-15T07:39:23+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xUzVpTDMxXzl0a1dJNk9OSnQwQy1UV21pU1dzM3p3S2ZpaHZ0LTc4VHVTQVBabmpOYlpxOE5ndXJ2NDNoVmowS1JfOW1ld1doVWVMcXRxVHMyT2UxYUZxenVVVkstSlAxY0Q1cg?oc=5"
+    },
+    {
+      "title": "Trading Systems Reacting to (ADMA) Volatility - Stock Traders Daily",
+      "publisher": "Stock Traders Daily",
+      "published": "2026-11-15T03:08:01+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFg1N0lEdHZOc0RRblVoalZyRlBrVmo5UmJ5NjR6NW5rSjdIdlVMemtfcXA3aWNvM2xPUUN6VjdTRm9qNmdNZmtrWjlxVWxNRVVLalRFYjRHeDl2Qm9wTEc4ZTF0cHl1VllSTmRsMG91MW5USHdBcjktMlBFR2c3d3p3cnJ1a3lrNC1qV3dPVjVLU1Fsbm43Ylk3U0hPN0UxUG1wY2I0enhvNngzYXlHN0Y5dW14NHA4MTZuSDRFWXk?oc=5"
+    }
+  ]
+}

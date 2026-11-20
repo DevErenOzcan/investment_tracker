@@ -1,0 +1,20 @@
+{"ticker": "ASO",
+ "thesis": "ASO is in a strong, orderly uptrend with leadership (RS63 0.64, price above SMA20/50/200) and undemanding valuation (forward P/E 10.0, EV/EBITDA 8.6) backed by positive free cash flow and low dilution risk. The setup is a pullback entry rather than a chase: the 68.4-70.2 zone is near the current 70.48 close, with a defined stop at 65.5 and a 2.26 reward/risk to 77.9. High short interest adds squeeze fuel if the 73.82 high breaks. This is a weak-to-moderate setup, not a high-conviction one. The risk-off regime, earnings gap risk on 2026-12-08, an extended price, and the fact that R/R to the 73.82 high alone is only about 1.2 all limit conviction, so any position should be small.",
+ "evidence": [
+  "technical: setup = pullback",
+  "technical: trend = up",
+  "technical: entry_zone = [68.4, 70.2]",
+  "technical: stop = 65.5",
+  "technical: target = 77.9",
+  "technical: reward_risk = 2.26",
+  "technical: notes = close 70.48 above SMA20 65.61, SMA50 57.78, SMA200 53.36; RS63 0.64; heavy-volume up days on Nov 4 and Nov 9, accumulation intact",
+  "fundamentals: valuation = fair (trailing P/E 11.8, forward P/E 10.0, EV/EBITDA 8.6, P/S 0.70 per notes)",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: notes = profit margin 6.4%, ROE 18.6%, free cash flow 169.6M, net income +9.9% YoY",
+  "fundamentals: red_flags = Short interest 19.9% of float: squeeze potential",
+  "news: catalysts = 52-week high on 11-18 on holiday-season retail enthusiasm (positive, sector driven)",
+  "news: event_risks = No SEC filings in the last 10 days, so there is no visible S-3/424B5 offering or 8-K event",
+  "regime_view: regime = risk-off (headwind; leading sectors XLP, XLV, XLU, with XLY above its 50-day per evidence)"
+ ],
+ "upside_case": {"target": 77.9, "probability": 0.3},
+ "rebuttal_to_bear": null}

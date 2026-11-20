@@ -1,0 +1,110 @@
+{
+  "as_of": "2026-11-20",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "peak_value_units": 1000,
+  "drawdown": 0.0,
+  "regime": "risk-off",
+  "regime_mult": 0.4,
+  "risk_per_trade": 0.0075,
+  "portfolio_vol": 0.011467753230072684,
+  "positions": [
+    {
+      "ticker": "ADMA",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 13.12,
+      "stop": 12.4,
+      "target": 15.9,
+      "rr": 3.86,
+      "rating": "Overweight",
+      "confidence": 0.4,
+      "kelly": 0.2446,
+      "stop_pct": 0.0549,
+      "binding": "kelly",
+      "engine_weight": 0.011,
+      "priority": 0.14676258992805774,
+      "flags": [
+        "risk-officer reduction x0.75: A short-seller attack is mentioned only in a titles-only item and could not be verified, and CEO/director sales have added supply at the 14.2 level the target must break, so the headline risk is unchecked."
+      ],
+      "amount_units": 11.0
+    },
+    {
+      "ticker": "AZTA",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 46.0,
+      "stop": 42.9,
+      "target": 56.9,
+      "rr": 3.52,
+      "rating": "Overweight",
+      "confidence": 0.38,
+      "kelly": 0.2037,
+      "stop_pct": 0.0674,
+      "binding": "kelly",
+      "engine_weight": 0.0061,
+      "priority": 0.12220183486238526,
+      "flags": [
+        "risk-officer reduction x0.5: High-beta (1.47), 21.7%-short-interest name after a 141% 126-day run at forward P/E 52.9 fights the risk-off regime, and event risk inside the 15-day horizon (Nov 30 conference, 10-K filed 2026-11-19 not reviewed, guidance seen only as headlines) cannot be checked."
+      ],
+      "amount_units": 6.1
+    },
+    {
+      "ticker": "CROX",
+      "status": "new",
+      "sector": "Consumer Discretionary",
+      "price": 155.5,
+      "stop": 148.5,
+      "target": 179.0,
+      "rr": 3.36,
+      "rating": "Overweight",
+      "confidence": 0.38,
+      "kelly": 0.1953,
+      "stop_pct": 0.045,
+      "binding": "kelly",
+      "engine_weight": 0.0059,
+      "priority": 0.11719148936170212,
+      "flags": [
+        "risk-officer reduction x0.5: Levered (debt/equity about 124), rate-sensitive, beta-1.5 consumer-discretionary name up about 33% in 21 days and rejected three times at 164.24 fights a risk-off tape with ^TNX near 4.98%, and its next earnings date is not confirmed in the packet."
+      ],
+      "amount_units": 5.9
+    },
+    {
+      "ticker": "PGNY",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 35.1,
+      "stop": 33.1,
+      "target": 39.5,
+      "rr": 2.2,
+      "rating": "Overweight",
+      "confidence": 0.42,
+      "kelly": 0.1564,
+      "stop_pct": 0.057,
+      "binding": "kelly",
+      "engine_weight": 0.0094,
+      "priority": 0.09381818181818172,
+      "flags": [],
+      "amount_units": 9.4
+    }
+  ],
+  "cash_weight": 0.9676,
+  "rejected": [
+    {
+      "ticker": "AMPH",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "ASO",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "COLM",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "CRAI",
+      "reason": "rating Hold: no new buy"
+    }
+  ]
+}

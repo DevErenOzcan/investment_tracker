@@ -1,0 +1,18 @@
+{"ticker": "PGNY",
+ "thesis": "PGNY is extended after a post-earnings gap in a market that is risk-off with VIX at the 99.5th percentile and QQQ below its 50- and 200-day averages. Price is 8.2% above the 20-day SMA with RSI 67, and it has made three lower highs and lower closes since the 52-week high. Consensus upside is only about 6% to the mean target, and resistance at 37.21 is 1.76 above the last price, so the first leg has almost no room. The re-rating rests on a quant rank upgrade and one print, with revenue down sequentially and no guidance detail in the packet. If the gap fills, the post-earnings base near 33 is the first support, and a failed breakout would likely retest the 20-day SMA.",
+ "evidence": [
+  "regime_view: regime = risk-off, confidence 0.93; VIX 31.37 (percentile 0.995); QQQ below 50/200-day, ret_21 -11.05%",
+  "technical: notes = price 35.45 is 8.2% above SMA20 32.76, RSI 67; buying at the current price would chase",
+  "technical: last three sessions made lower highs and lower closes (37.15, 36.71, 36.16, 35.45)",
+  "technical: notes = resistance at 37.21 is only 1.76 above the last price, so the first leg offers little room",
+  "technical: invalidation = daily close below 33.34, and a close under SMA20 (about 32.76) means the breakout failed",
+  "fundamentals: red_flags = latest quarter revenue 341.3M fell sequentially from 350.5M",
+  "fundamentals: red_flags = SEC quarterly series has gaps; trend reads are partial",
+  "fundamentals: valuation = fair; mean analyst target 37.75 is about 6% above the 35.45 close",
+  "news: catalyst = Zacks Rank #1 upgrade is a quant rank change, not a fundamental event",
+  "news: event_risks = post-earnings drift is fading, 5-day return -3%; short interest 9.1% of float can amplify moves both ways",
+  "news: notes = the packet has no article on the earnings print, so guidance is unknown"
+ ],
+ "downside_case": {"level": 32.76, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

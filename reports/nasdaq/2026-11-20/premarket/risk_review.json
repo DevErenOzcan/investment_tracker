@@ -1,0 +1,22 @@
+{
+  "vetoes": [],
+  "reductions": [
+    {
+      "ticker": "AZTA",
+      "factor": 0.5,
+      "reason": "High-beta (1.47), 21.7%-short-interest name after a 141% 126-day run at forward P/E 52.9 fights the risk-off regime, and event risk inside the 15-day horizon (Nov 30 conference, 10-K filed 2026-11-19 not reviewed, guidance seen only as headlines) cannot be checked."
+    },
+    {
+      "ticker": "CROX",
+      "factor": 0.5,
+      "reason": "Levered (debt/equity about 124), rate-sensitive, beta-1.5 consumer-discretionary name up about 33% in 21 days and rejected three times at 164.24 fights a risk-off tape with ^TNX near 4.98%, and its next earnings date is not confirmed in the packet."
+    },
+    {
+      "ticker": "ADMA",
+      "factor": 0.75,
+      "reason": "A short-seller attack is mentioned only in a titles-only item and could not be verified, and CEO/director sales have added supply at the 14.2 level the target must break, so the headline risk is unchecked."
+    }
+  ],
+  "portfolio_notes": "All four proposals are the same trade: post-earnings-gap momentum longs taken as pullbacks in a risk-off regime (confidence 0.93, VIX percentile 0.995). The three healthcare names (ADMA, AZTA, PGNY) are one correlated bet, as lessons item 6 notes, so the book does not have four independent sources of return. Total exposure is small (about 4.8% before these cuts), so the main risk is not size but a market-wide gap through stops that hits every name together. PGNY is kept at engine weight because it has the cleanest event profile, but its R/R at the last price (about 1.7) and to the 37.21 high (about 1.1) is thin, so it should be entered only inside the 34.60-35.50 zone. AZTA and PGNY last traded above their zones, and no fill should be credited unless the zone is touched (lessons item 2).",
+  "held_alerts": []
+}

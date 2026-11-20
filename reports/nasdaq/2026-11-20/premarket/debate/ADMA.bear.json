@@ -1,0 +1,16 @@
+{"ticker": "ADMA",
+ "thesis": "The tape is in a broad risk-off regime (VIX percentile 0.995, QQQ below its 50- and 200-day averages), and a small-cap biotech long swing is the wrong place to add risk. ADMA has been rejected at the 14.2 swing high, has closed lower two sessions in a row, and the post-earnings drift has no dated catalyst left. Insiders (CEO and a director) sold into the strength this week, and short interest near 10% of float plus an unverified short-seller attack mention add headline volatility. The 15.9 target needs a break of 14.2 that has just failed, and if only 14.2 is reached the card itself puts reward/risk near 1.5. In this regime, a stop-out under 12.40 on a gap or a market-wide flush is more likely than a clean measured move.",
+ "evidence": [
+  "regime_view: regime = risk-off, confidence 0.93; VIX percentile 0.995; QQQ below 50/200-day; summary says favour small sizing for long swing entries",
+  "technical card: notes = capped at 14.2 (20-day high, tested 11/18 with a rejection); last two sessions closed lower (13.56, 13.34)",
+  "technical card: notes = if 14.2 is the only resistance reached, reward/risk is about 1.5; target 15.9 needs a break of 14.2 first",
+  "technical card: RSI = 64.7 after a gap from 10.48 to 13.21, so the stock is extended above SMA50 (10.90) and SMA200 (10.65)",
+  "technical card: invalidation = daily close below 12.40, or back under SMA20 (about 12.28) on rising volume",
+  "news card: catalysts = CEO sold 21,000 shares on 2026-11-16, director sold about 139K, a mild supply overhang near the swing high",
+  "news card: event_risks = short-seller attack mentioned (unverified), short interest about 10% of float",
+  "news card: notes = no scheduled catalyst in the next 20 business days, so the setup is post-earnings drift only; news source is titles-only RSS, so detail is thin",
+  "news card: Q3 revenue 141.1M (+5% YoY) against net income +37% YoY, so the earnings beat leaned on profit, not top-line growth"
+ ],
+ "downside_case": {"level": 10.9, "probability": 0.25},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

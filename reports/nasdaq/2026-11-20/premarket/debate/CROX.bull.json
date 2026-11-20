@@ -1,0 +1,22 @@
+{"ticker": "CROX",
+ "thesis": "CROX is a strong, fundamentally backed uptrend holding a three-week post-earnings gap, now pulling back to the entry zone with a defined stop below the 10-day swing low. Revenue growth has accelerated for three quarters while net income is up about 49% YoY, and the stock trades at a low absolute multiple with strong free cash flow. The measured-move target gives good reward/risk from the pullback zone. The main headwinds are the risk-off regime, high leverage, and resistance near 164, so this is a small-size swing long rather than a high-conviction one.",
+ "evidence": [
+  "technical: setup = pullback",
+  "technical: trend = up",
+  "technical: entry_zone = [153.5, 157.5]",
+  "technical: stop = 148.5",
+  "technical: target = 179.0",
+  "technical: reward_risk = 3.4",
+  "technical: notes = close 157.31 above SMA20 149.44, SMA50 131.47, SMA200 115.06; RSI 61.5 not overbought; volume ratio 0.95 with no distribution signs; gap held 3 weeks",
+  "fundamentals: growth = accelerating",
+  "fundamentals: quality = high",
+  "fundamentals: valuation = cheap",
+  "fundamentals: notes = revenue YoY -1.7% -> +2.6% -> +4.65%; net income +48.65% YoY; trailing P/E 11.9, forward P/E 9.8",
+  "fundamentals: dilution_risk = low",
+  "news: catalysts = Q3 earnings gap on 2026-10-29 plus international sales up 12% (2026-11-18) and Zacks Rank #1 (2026-11-17)",
+  "news: binary_event = false",
+  "news: event_risks = no SEC filings in last 10 days, so no offering signal; next earnings likely outside the window",
+  "regime_view: summary = defensives hold up while tech and semis lead the selloff; CROX is a consumer name outside the leading-down sectors"
+ ],
+ "upside_case": {"target": 179.0, "probability": 0.35},
+ "rebuttal_to_bear": null}
