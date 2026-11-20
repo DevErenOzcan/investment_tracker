@@ -1,0 +1,80 @@
+{
+  "as_of": "2026-11-20",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "peak_value_units": 1000,
+  "drawdown": 0.0,
+  "regime": "risk-off",
+  "regime_mult": 0.4,
+  "risk_per_trade": 0.0075,
+  "portfolio_vol": 0.009827779456780057,
+  "positions": [
+    {
+      "ticker": "ADMA",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 13.08,
+      "stop": 12.4,
+      "target": 15.9,
+      "rr": 4.15,
+      "rating": "Overweight",
+      "confidence": 0.4,
+      "kelly": 0.2553,
+      "stop_pct": 0.052,
+      "binding": "kelly",
+      "engine_weight": 0.0115,
+      "priority": 0.15319148936170218,
+      "flags": [
+        "risk-officer reduction x0.75: The morning cut still applies: the short-seller attack headline is still titles-only and unverified, the morning's 10% short-interest figure is no longer supported by the packet (null), and CEO/director sales add supply at the 14.2 level the target must break."
+      ],
+      "amount_units": 11.5
+    },
+    {
+      "ticker": "CROX",
+      "status": "new",
+      "sector": "Consumer Discretionary",
+      "price": 153.25,
+      "stop": 148.0,
+      "target": 179.0,
+      "rr": 4.9,
+      "rating": "Overweight",
+      "confidence": 0.37,
+      "kelly": 0.2416,
+      "stop_pct": 0.0343,
+      "binding": "kelly",
+      "engine_weight": 0.0072,
+      "priority": 0.14493203883495145,
+      "flags": [
+        "risk-officer reduction x0.5: The morning cut still applies: this is a levered (debt/equity about 124), rate-sensitive, beta-1.5 discretionary name fading from three rejections at 164.24 in a risk-off tape with ^TNX near 4.98%, its stop is only about 0.9 ATR away, the next earnings date is still unconfirmed, and today's close may be distorted by monthly options expiry."
+      ],
+      "amount_units": 7.2
+    },
+    {
+      "ticker": "AZTA",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 44.6,
+      "stop": 42.9,
+      "target": 50.06,
+      "rr": 3.21,
+      "rating": "Overweight",
+      "confidence": 0.35,
+      "kelly": 0.1476,
+      "stop_pct": 0.0381,
+      "binding": "kelly",
+      "engine_weight": 0.0044,
+      "priority": 0.08857142857142837,
+      "flags": [
+        "risk-officer reduction x0.5: The morning cut still applies and the case is weaker: a high-beta (1.47), 21.7%-short-interest name at forward P/E 52.9 after a 141% 126-day run fell 4.8% today with no news while XLV held up, its stop is only about 0.6 ATR away, and event risk inside the horizon (Nov 30 conference, the 10-K filed 2026-11-19 still not reviewed) cannot be checked."
+      ],
+      "amount_units": 4.4
+    }
+  ],
+  "cash_weight": 0.9769,
+  "rejected": [
+    {
+      "ticker": "PGNY",
+      "reason": "rating Hold: no new buy"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "vetoes": [],
+  "reductions": [
+    {
+      "ticker": "AZTA",
+      "factor": 0.5,
+      "reason": "The morning cut still applies and the case is weaker: a high-beta (1.47), 21.7%-short-interest name at forward P/E 52.9 after a 141% 126-day run fell 4.8% today with no news while XLV held up, its stop is only about 0.6 ATR away, and event risk inside the horizon (Nov 30 conference, the 10-K filed 2026-11-19 still not reviewed) cannot be checked."
+    },
+    {
+      "ticker": "CROX",
+      "factor": 0.5,
+      "reason": "The morning cut still applies: this is a levered (debt/equity about 124), rate-sensitive, beta-1.5 discretionary name fading from three rejections at 164.24 in a risk-off tape with ^TNX near 4.98%, its stop is only about 0.9 ATR away, the next earnings date is still unconfirmed, and today's close may be distorted by monthly options expiry."
+    },
+    {
+      "ticker": "ADMA",
+      "factor": 0.75,
+      "reason": "The morning cut still applies: the short-seller attack headline is still titles-only and unverified, the morning's 10% short-interest figure is no longer supported by the packet (null), and CEO/director sales add supply at the 14.2 level the target must break."
+    }
+  ],
+  "portfolio_notes": "All three proposals are the same trade: long pullbacks after an earnings gap, taken in a risk-off regime (confidence 0.93, VIX 31.37 at percentile 0.995). ADMA and AZTA are both healthcare, so the book holds about two independent bets, not three (lessons item 6). Stops sit only 0.6-1.1 ATR below entry, and a preclose entry on a Friday that is also monthly options expiry carries weekend gap risk that could take out all three stops together at Monday's open, so the cuts are kept even though gross exposure is small (about 3.9% before cuts, about 2.3% after). The last prices of all three are inside their preclose entry zones (ADMA 13.15, CROX 154.43, AZTA 44.815), so fills can be credited under lessons item 2, and PGNY is correctly rejected as Hold.",
+  "held_alerts": []
+}

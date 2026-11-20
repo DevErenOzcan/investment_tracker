@@ -1,0 +1,16 @@
+{"ticker": "PGNY", "rating": "Hold", "confidence": 0.4,
+ "entry": 35.25, "entry_zone": [34.9, 35.6], "stop": 33.1, "target": 39.45, "horizon_days": 10,
+ "expected_return": {"low": -0.061, "high": 0.119},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "The morning thesis still holds: PGNY is a profitable healthcare-benefits name with accelerating YoY growth (revenue +1.4%/+5.3%/+8.9%, net income +61%/+64%/+89%), FCF 195.1M against debt 25.9M, forward P/E 14.8, and a shallow, low-volume (ratio 0.79) pullback in a post-earnings uptrend, with XLV holding up in a risk-off tape. Since the morning, price has bounced to 35.855, above the refreshed 34.90-35.60 zone. R/R is 1.95 from the 35.25 zone midpoint but only about 1.30 at the last price ((39.45-35.855)/(35.855-33.10)). Per lessons item 1, that is a mechanical downgrade to Hold because the price moved away, not because the thesis broke. A dip into 34.90-35.60 with the stop at 33.10 would bring back the morning Overweight case.",
+ "invalidation": "A daily close below the 33.34 post-earnings gap-base low (stop 33.10, which now coincides with the 20-day SMA near 33.10) invalidates the setup.",
+ "key_risks": [
+  "Last price 35.855 is above the entry zone, so buying now would chase: R/R at the last price is about 1.30, below the 1.5 floor",
+  "Broad risk-off regime (VIX 31.37 at the 99.5th percentile, QQQ below its 50/200-day averages, ret_5 -6.27%) can drag even defensive names",
+  "Resistance at the 37.21 52-week high is only about 1.35 above the last price, and the 39.45 target is a measured extension rather than a packet level",
+  "Extended (RSI 68.8, 8.3% above SMA20) with post-earnings drift stalled (5-day return -0.9%); the gap could fill toward 33",
+  "Latest-quarter revenue fell sequentially (341.3M vs 350.5M), the packet has no guidance detail, and the SEC quarterly series has gaps",
+  "Mean analyst target 37.75 is only about 5% above the last price; the new Zacks items are quant screens, not fundamental news",
+  "Adds to a healthcare-heavy book, so it is a correlated bet (lessons item 6); next earnings date is not in the packet (estimated early Feb 2027)"
+ ],
+ "debate_winner": "skipped"}

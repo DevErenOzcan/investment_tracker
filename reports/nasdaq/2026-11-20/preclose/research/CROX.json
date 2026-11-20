@@ -1,0 +1,14 @@
+{"ticker": "CROX", "rating": "Overweight", "confidence": 0.37,
+ "entry": 153.25, "entry_zone": [151.5, 155.0], "stop": 148.0, "target": 179.0, "horizon_days": 10,
+ "expected_return": {"low": -0.034, "high": 0.168},
+ "sector": "Consumer Discretionary", "earnings_date": null,
+ "thesis": "The morning thesis still holds. CROX keeps its 10/29 post-earnings gap in an uptrend (last 154.43 above SMA20 151.2, SMA50 132.3, SMA200 115.4; 63-day RS +0.36), and the morning fundamentals card is unchanged (revenue growth accelerating to +4.65% YoY, net income +48.65% YoY, forward P/E 9.8). The intraday fade from about 157.2 to 154.43 came on light volume (ratio 0.85) with no negative news or filings, and it moved price into the technical card's updated entry zone 151.5-155.0. Entry is mid-zone 153.25 and the stop is 148.0, both taken from the preclose technical card. The stop moved from the morning's 148.5 to sit under the 149.0/149.5 swing lows. R/R is 4.9 from mid-zone and about 3.8 from the last price of 154.43 to target 179.0, but only about 1.5 to the 164.24 resistance, so scale out there. The risk-off regime (confidence 0.93, VIX 31.37) and beta 1.5 keep this a small Overweight with slightly lower confidence, not a Buy.",
+ "invalidation": "A daily close below 149.0 (the 10/30 and 11/6 swing lows just under SMA20 151.2) breaks the post-earnings consolidation floor, and the stop at 148.0 is then hit.",
+ "key_risks": [
+  "Broad risk-off regime (VIX 31.37 at percentile 0.995, QQQ ret_21 -11.05%) combined with beta 1.5 and 13% short interest can gap price through a stop that is only about 0.9 ATR (ATR 5.87) below mid-entry",
+  "The stock fell 5.7% in 5 days from the 52-week high of 164.24 after three failures there (11/13, 11/16, 11/18), and today's volume (about 0.57M) is partial, so it is not yet confirmed that the fade is only profit-taking",
+  "Upside to consensus is limited (analyst mean target 164.67 in the morning fundamentals card), so the 179.0 target needs a volume-confirmed breakout",
+  "Leverage (total debt about 1.66B vs cash about 163M, debt/equity about 124) with ^TNX near 4.98%",
+  "Monthly options expiry on 2026-11-20 may distort the close; the next earnings date is not in the packet (probably late Feb 2027, unconfirmed); the bull/bear debate was skipped for this preclose re-assessment"
+ ],
+ "debate_winner": "skipped"}

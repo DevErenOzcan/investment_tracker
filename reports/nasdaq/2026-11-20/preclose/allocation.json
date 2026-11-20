@@ -1,0 +1,79 @@
+{
+  "as_of": "2026-11-20",
+  "session": "preclose",
+  "exchange": "NASDAQ",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "regime": "risk-off",
+  "positions": [
+    {
+      "ticker": "ADMA",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 13.08,
+      "weight": 0.0115,
+      "engine_weight": 0.0115,
+      "amount_units": 11.5,
+      "entry_zone": [12.9, 13.25],
+      "stop": 12.4,
+      "target": 15.9,
+      "rating": "Overweight",
+      "confidence": 0.4,
+      "action": "buy-confirm",
+      "rationale": "Morning thesis intact and the last price of 13.15 is inside the revised 12.90-13.25 zone on light volume with no new news; engine weight kept as is (already cut x0.75 by risk for the unverified short-seller headline and insider supply near 14.2)."
+    },
+    {
+      "ticker": "CROX",
+      "status": "new",
+      "sector": "Consumer Discretionary",
+      "price": 153.25,
+      "weight": 0.0072,
+      "engine_weight": 0.0072,
+      "amount_units": 7.2,
+      "entry_zone": [151.5, 155.0],
+      "stop": 148.0,
+      "target": 179.0,
+      "rating": "Overweight",
+      "confidence": 0.37,
+      "action": "buy-confirm",
+      "rationale": "Light-volume fade into the 151.5-155.0 zone (last 154.43) with the post-earnings gap intact and the only non-healthcare name in the book; engine weight kept (already halved by risk), stop lowered to 148.0 under the swing lows, scale out near 164.24."
+    },
+    {
+      "ticker": "AZTA",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 44.6,
+      "weight": 0.0044,
+      "engine_weight": 0.0044,
+      "amount_units": 4.4,
+      "entry_zone": [44.0, 45.2],
+      "stop": 42.9,
+      "target": 50.06,
+      "rating": "Overweight",
+      "confidence": 0.35,
+      "action": "trim",
+      "rationale": "Pullback overshot the morning zone on a no-news -4.8% day while XLV held, so the target is cut to 50.06 and the size falls from the morning 6.1 to the engine 4.4 units; engine weight kept, and the 42.9 stop is only about 0.65 ATR below the last price."
+    },
+    {
+      "ticker": "PGNY",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 35.25,
+      "weight": 0.0,
+      "engine_weight": 0.0,
+      "amount_units": 0.0,
+      "entry_zone": [34.9, 35.6],
+      "stop": 33.1,
+      "target": 39.45,
+      "rating": "Hold",
+      "confidence": 0.4,
+      "action": "cancel",
+      "rationale": "Price bounced to 35.855 above the zone so R/R at the last price is about 1.30 (below the 1.5 floor); downgraded to Hold and rejected by the engine, cancel the unfilled morning order; re-entry only on a dip into 34.90-35.60 with the stop at 33.10 and a fresh engine weight."
+    }
+  ],
+  "cash_weight": 0.9769,
+  "vetoed": [],
+  "rejected": [
+    {"ticker": "PGNY", "reason": "rating Hold: no new buy (R/R about 1.30 at the 35.855 last price)"}
+  ]
+}

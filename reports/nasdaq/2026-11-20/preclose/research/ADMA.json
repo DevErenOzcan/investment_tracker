@@ -1,0 +1,17 @@
+{"ticker": "ADMA", "rating": "Overweight", "confidence": 0.40,
+ "entry": 13.08, "entry_zone": [12.9, 13.25], "stop": 12.4, "target": 15.9, "horizon_days": 10,
+ "expected_return": {"low": -0.052, "high": 0.216},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "The morning thesis holds: ADMA is a profitable, cash-generative biotech (morning fundamentals: quality high, dilution risk low, forward P/E 14.2) in a post-earnings uptrend above SMA20 (12.40), SMA50 (10.97) and SMA200 (10.64), and the last price of 13.15 sits inside the revised 12.90-13.25 zone on light volume (ratio 0.78), with no new news or SEC filings. Healthcare is still a leading sector in a risk-off tape. Card stop 12.40 and target 15.9 give R/R about 4.2 from the 13.08 mid entry (about 3.7 at the 13.15 last), but the target needs a break of 14.2 and R/R to 14.2 is only about 1.4 from the last price, so this stays a small Overweight rather than a Buy.",
+ "invalidation": "Daily close below 12.40, which is under the 12.48 swing low and now level with the 20-day SMA, especially on rising volume.",
+ "key_risks": [
+  "Broad risk-off regime (confidence 0.93, VIX 31.37 at percentile 0.995, QQQ below its 50/200-day): a market-wide flush could gap through the 12.40 stop",
+  "Pullback still in progress: three lower closes in a row (13.56, 13.34, 13.15), and the 20-day SMA has risen to 12.40, so the stop and the SMA20 are now the same level",
+  "Repeated failure at the 14.2 swing high (rejected 11/18); the 15.9 measured-move target depends on breaking it",
+  "CEO and director share sales around 2026-11-16 add supply near 14.2",
+  "Revenue growth is only about 5% YoY against net income +37%, so the earnings beat leaned on margins",
+  "Short-interest data conflict: the morning fundamentals card cited 10.04% of float, while the preclose news card reports shortPercentOfFloat as null in the packet; the figure is treated as unverified, and an unverified short-seller attack mention could cause headline volatility",
+  "Healthcare concentration in the book (lessons item 6): this may be correlated with other healthcare longs, not an independent bet",
+  "The news feed is titles-only, so detail is limited (lessons item 9)"
+ ],
+ "debate_winner": "skipped"}

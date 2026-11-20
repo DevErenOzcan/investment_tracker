@@ -1,0 +1,799 @@
+{
+  "ticker": "CROX",
+  "exchange": "NASDAQ",
+  "as_of": "2026-11-20T19:53:12.113030+00:00",
+  "data_note": "In the pre-market session the last price is the previous close; in the pre-close session it is ~15 min delayed.",
+  "technical": {
+    "indicators": {
+      "symbol": "CROX",
+      "date": "2026-11-20",
+      "close": 154.43,
+      "ret_5": -0.0567,
+      "ret_21": 0.2764,
+      "ret_63": 0.2272,
+      "ret_126": 0.3983,
+      "rs_63": 0.3561,
+      "sma20": 151.198,
+      "sma50": 132.3048,
+      "sma200": 115.4057,
+      "trend": 4,
+      "atr": 5.8659,
+      "atr_pct": 0.038,
+      "rsi14": 58.0231,
+      "dist_high": -0.0597,
+      "vol_ratio": 0.8453,
+      "ext_20": 0.0214,
+      "vol_20": 0.983,
+      "dollar_volume_20": 216718226.4084,
+      "low_20": 117.47,
+      "high_20": 164.24
+    },
+    "levels": {
+      "swing_low_10": 154.0,
+      "swing_low_20": 117.47000122070312,
+      "swing_high_20": 164.24000549316406,
+      "high_52w": 164.24000549316406,
+      "low_52w": 75.12999725341797
+    },
+    "last_60_days": [
+      {
+        "d": "2026-08-28",
+        "o": 122.98,
+        "h": 124.28,
+        "l": 121.88,
+        "c": 122.23,
+        "v": 845200
+      },
+      {
+        "d": "2026-08-31",
+        "o": 120.4,
+        "h": 120.82,
+        "l": 117.79,
+        "c": 120.38,
+        "v": 1073800
+      },
+      {
+        "d": "2026-09-01",
+        "o": 117.98,
+        "h": 119.47,
+        "l": 115.03,
+        "c": 115.28,
+        "v": 1105800
+      },
+      {
+        "d": "2026-09-02",
+        "o": 115.48,
+        "h": 118.32,
+        "l": 115.04,
+        "c": 115.79,
+        "v": 784600
+      },
+      {
+        "d": "2026-09-03",
+        "o": 116.18,
+        "h": 117.46,
+        "l": 114.51,
+        "c": 116.01,
+        "v": 719400
+      },
+      {
+        "d": "2026-09-04",
+        "o": 115.65,
+        "h": 117.7,
+        "l": 115.39,
+        "c": 117.53,
+        "v": 826600
+      },
+      {
+        "d": "2026-09-08",
+        "o": 117.02,
+        "h": 117.3,
+        "l": 114.04,
+        "c": 114.35,
+        "v": 887900
+      },
+      {
+        "d": "2026-09-09",
+        "o": 114.18,
+        "h": 114.38,
+        "l": 110.8,
+        "c": 111.09,
+        "v": 1215900
+      },
+      {
+        "d": "2026-09-10",
+        "o": 110.28,
+        "h": 110.78,
+        "l": 108.54,
+        "c": 108.83,
+        "v": 1043200
+      },
+      {
+        "d": "2026-09-11",
+        "o": 110.84,
+        "h": 113.06,
+        "l": 110.1,
+        "c": 112.48,
+        "v": 824200
+      },
+      {
+        "d": "2026-09-14",
+        "o": 111.8,
+        "h": 112.55,
+        "l": 110.36,
+        "c": 111.49,
+        "v": 773700
+      },
+      {
+        "d": "2026-09-15",
+        "o": 114.04,
+        "h": 114.53,
+        "l": 110.83,
+        "c": 111.48,
+        "v": 1700700
+      },
+      {
+        "d": "2026-09-16",
+        "o": 111.75,
+        "h": 116.93,
+        "l": 111.69,
+        "c": 115.4,
+        "v": 1255700
+      },
+      {
+        "d": "2026-09-17",
+        "o": 118.69,
+        "h": 125.57,
+        "l": 117.95,
+        "c": 123.0,
+        "v": 1978600
+      },
+      {
+        "d": "2026-09-18",
+        "o": 123.0,
+        "h": 123.78,
+        "l": 119.75,
+        "c": 122.24,
+        "v": 2332700
+      },
+      {
+        "d": "2026-09-21",
+        "o": 122.24,
+        "h": 124.55,
+        "l": 121.08,
+        "c": 123.69,
+        "v": 1198900
+      },
+      {
+        "d": "2026-09-22",
+        "o": 127.02,
+        "h": 127.75,
+        "l": 122.43,
+        "c": 124.58,
+        "v": 1041300
+      },
+      {
+        "d": "2026-09-23",
+        "o": 123.92,
+        "h": 126.32,
+        "l": 122.66,
+        "c": 124.62,
+        "v": 1381400
+      },
+      {
+        "d": "2026-09-24",
+        "o": 123.18,
+        "h": 125.96,
+        "l": 122.08,
+        "c": 123.44,
+        "v": 1005400
+      },
+      {
+        "d": "2026-09-25",
+        "o": 123.98,
+        "h": 126.93,
+        "l": 122.04,
+        "c": 126.14,
+        "v": 911700
+      },
+      {
+        "d": "2026-09-28",
+        "o": 124.07,
+        "h": 124.36,
+        "l": 121.59,
+        "c": 122.36,
+        "v": 1073700
+      },
+      {
+        "d": "2026-09-29",
+        "o": 123.29,
+        "h": 123.29,
+        "l": 120.51,
+        "c": 122.63,
+        "v": 764200
+      },
+      {
+        "d": "2026-09-30",
+        "o": 123.52,
+        "h": 123.52,
+        "l": 117.02,
+        "c": 117.31,
+        "v": 1036800
+      },
+      {
+        "d": "2026-10-01",
+        "o": 116.82,
+        "h": 121.1,
+        "l": 116.82,
+        "c": 119.24,
+        "v": 1035800
+      },
+      {
+        "d": "2026-10-02",
+        "o": 120.33,
+        "h": 120.33,
+        "l": 117.67,
+        "c": 118.09,
+        "v": 1008900
+      },
+      {
+        "d": "2026-10-05",
+        "o": 118.09,
+        "h": 120.29,
+        "l": 117.6,
+        "c": 118.19,
+        "v": 1182200
+      },
+      {
+        "d": "2026-10-06",
+        "o": 118.56,
+        "h": 120.37,
+        "l": 117.23,
+        "c": 120.22,
+        "v": 927900
+      },
+      {
+        "d": "2026-10-07",
+        "o": 119.07,
+        "h": 119.27,
+        "l": 114.64,
+        "c": 115.2,
+        "v": 967200
+      },
+      {
+        "d": "2026-10-08",
+        "o": 114.38,
+        "h": 117.82,
+        "l": 114.09,
+        "c": 116.84,
+        "v": 1026800
+      },
+      {
+        "d": "2026-10-09",
+        "o": 117.65,
+        "h": 117.87,
+        "l": 114.71,
+        "c": 114.98,
+        "v": 847700
+      },
+      {
+        "d": "2026-10-12",
+        "o": 114.87,
+        "h": 118.33,
+        "l": 114.33,
+        "c": 116.9,
+        "v": 987700
+      },
+      {
+        "d": "2026-10-13",
+        "o": 118.29,
+        "h": 119.45,
+        "l": 116.68,
+        "c": 117.53,
+        "v": 1156400
+      },
+      {
+        "d": "2026-10-14",
+        "o": 116.95,
+        "h": 118.03,
+        "l": 115.78,
+        "c": 117.54,
+        "v": 990200
+      },
+      {
+        "d": "2026-10-15",
+        "o": 121.92,
+        "h": 126.22,
+        "l": 120.99,
+        "c": 124.77,
+        "v": 1483400
+      },
+      {
+        "d": "2026-10-16",
+        "o": 125.46,
+        "h": 127.28,
+        "l": 122.68,
+        "c": 123.14,
+        "v": 1017000
+      },
+      {
+        "d": "2026-10-19",
+        "o": 122.18,
+        "h": 123.49,
+        "l": 118.51,
+        "c": 120.18,
+        "v": 834700
+      },
+      {
+        "d": "2026-10-20",
+        "o": 119.02,
+        "h": 121.98,
+        "l": 119.02,
+        "c": 121.37,
+        "v": 721600
+      },
+      {
+        "d": "2026-10-21",
+        "o": 121.35,
+        "h": 121.85,
+        "l": 117.32,
+        "c": 118.49,
+        "v": 683400
+      },
+      {
+        "d": "2026-10-22",
+        "o": 117.13,
+        "h": 121.26,
+        "l": 117.0,
+        "c": 120.99,
+        "v": 946500
+      },
+      {
+        "d": "2026-10-23",
+        "o": 117.21,
+        "h": 121.24,
+        "l": 117.14,
+        "c": 119.23,
+        "v": 1112600
+      },
+      {
+        "d": "2026-10-26",
+        "o": 120.16,
+        "h": 122.41,
+        "l": 118.2,
+        "c": 118.85,
+        "v": 1152700
+      },
+      {
+        "d": "2026-10-27",
+        "o": 118.63,
+        "h": 120.98,
+        "l": 117.92,
+        "c": 119.5,
+        "v": 1054700
+      },
+      {
+        "d": "2026-10-28",
+        "o": 118.03,
+        "h": 121.0,
+        "l": 117.47,
+        "c": 119.69,
+        "v": 1630800
+      },
+      {
+        "d": "2026-10-29",
+        "o": 140.0,
+        "h": 151.82,
+        "l": 139.33,
+        "c": 150.26,
+        "v": 4897000
+      },
+      {
+        "d": "2026-10-30",
+        "o": 151.73,
+        "h": 154.05,
+        "l": 149.0,
+        "c": 150.52,
+        "v": 2119800
+      },
+      {
+        "d": "2026-11-02",
+        "o": 151.63,
+        "h": 156.71,
+        "l": 150.27,
+        "c": 153.13,
+        "v": 1495700
+      },
+      {
+        "d": "2026-11-03",
+        "o": 154.05,
+        "h": 156.75,
+        "l": 151.72,
+        "c": 153.61,
+        "v": 1311200
+      },
+      {
+        "d": "2026-11-04",
+        "o": 157.0,
+        "h": 161.88,
+        "l": 156.14,
+        "c": 159.84,
+        "v": 1720100
+      },
+      {
+        "d": "2026-11-05",
+        "o": 160.0,
+        "h": 160.93,
+        "l": 152.78,
+        "c": 152.93,
+        "v": 1371300
+      },
+      {
+        "d": "2026-11-06",
+        "o": 150.37,
+        "h": 155.58,
+        "l": 149.5,
+        "c": 151.86,
+        "v": 1095900
+      },
+      {
+        "d": "2026-11-09",
+        "o": 155.54,
+        "h": 161.75,
+        "l": 154.0,
+        "c": 160.23,
+        "v": 1177800
+      },
+      {
+        "d": "2026-11-10",
+        "o": 160.77,
+        "h": 160.77,
+        "l": 158.21,
+        "c": 159.66,
+        "v": 890000
+      },
+      {
+        "d": "2026-11-11",
+        "o": 159.11,
+        "h": 161.68,
+        "l": 158.29,
+        "c": 159.98,
+        "v": 1217400
+      },
+      {
+        "d": "2026-11-12",
+        "o": 159.92,
+        "h": 160.61,
+        "l": 156.04,
+        "c": 156.88,
+        "v": 1138800
+      },
+      {
+        "d": "2026-11-13",
+        "o": 158.99,
+        "h": 164.13,
+        "l": 156.44,
+        "c": 163.72,
+        "v": 1223500
+      },
+      {
+        "d": "2026-11-16",
+        "o": 163.72,
+        "h": 164.24,
+        "l": 159.47,
+        "c": 160.01,
+        "v": 1440700
+      },
+      {
+        "d": "2026-11-17",
+        "o": 159.68,
+        "h": 161.46,
+        "l": 158.22,
+        "c": 158.79,
+        "v": 1248700
+      },
+      {
+        "d": "2026-11-18",
+        "o": 157.53,
+        "h": 164.07,
+        "l": 156.1,
+        "c": 162.76,
+        "v": 896200
+      },
+      {
+        "d": "2026-11-19",
+        "o": 160.7,
+        "h": 162.61,
+        "l": 157.05,
+        "c": 157.31,
+        "v": 1100600
+      },
+      {
+        "d": "2026-11-20",
+        "o": 156.03,
+        "h": 159.37,
+        "l": 154.16,
+        "c": 154.43,
+        "v": 565731
+      }
+    ],
+    "weekly_closes_26": [
+      118.67,
+      119.35,
+      124.71,
+      125.05,
+      127.76,
+      125.28,
+      132.78,
+      137.13,
+      134.72,
+      128.01,
+      136.62,
+      131.72,
+      122.11,
+      122.23,
+      117.53,
+      112.48,
+      122.24,
+      126.14,
+      118.09,
+      114.98,
+      123.14,
+      119.23,
+      150.52,
+      151.86,
+      163.72,
+      154.43
+    ]
+  },
+  "profile": {
+    "symbol": "CROX",
+    "shortName": "Crocs, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Footwear & Accessories",
+    "marketCap": 7067948032,
+    "trailingPE": 11.710227,
+    "forwardPE": 9.654319,
+    "priceToSalesTrailing12Months": 1.7234073,
+    "enterpriseToEbitda": 9.179,
+    "profitMargins": 0.16198999,
+    "operatingMargins": 0.21098,
+    "grossMargins": 0.57863,
+    "revenueGrowth": 0.046,
+    "earningsGrowth": 0.674,
+    "returnOnEquity": 0.49063998,
+    "debtToEquity": 123.651,
+    "freeCashflow": 525982112,
+    "totalCash": 163456992,
+    "totalDebt": 1663117952,
+    "beta": 1.498,
+    "shortPercentOfFloat": 0.1297,
+    "heldPercentInstitutions": 1.10028,
+    "recommendationMean": null,
+    "numberOfAnalystOpinions": 12,
+    "targetMeanPrice": 164.66667,
+    "fiftyTwoWeekHigh": 164.24,
+    "fiftyTwoWeekLow": 75.13,
+    "averageVolume": 1178515,
+    "preMarketPrice": null,
+    "regularMarketPrice": 154.575,
+    "regularMarketPreviousClose": 157.31,
+    "earnings_date": "2026-10-29"
+  },
+  "sec_fundamentals": {
+    "available": true,
+    "cik": 1334036,
+    "revenue_q": [
+      {
+        "end": "2024-06-30",
+        "val": 1111502000,
+        "filed": "2025-08-07"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 1062200000,
+        "filed": "2025-10-30"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 937333000,
+        "filed": "2026-04-30"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 1149373000,
+        "filed": "2026-07-30"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 996301000,
+        "filed": "2026-10-29"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 921457000,
+        "filed": "2026-04-30"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 1179468000,
+        "filed": "2026-07-30"
+      },
+      {
+        "end": "2026-09-30",
+        "val": 1042583000,
+        "filed": "2026-10-29"
+      }
+    ],
+    "net_income_q": [
+      {
+        "end": "2024-06-30",
+        "val": 228907000,
+        "filed": "2025-08-07"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 199801000,
+        "filed": "2025-10-30"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 160103000,
+        "filed": "2026-04-30"
+      },
+      {
+        "end": "2025-06-30",
+        "val": -492282000,
+        "filed": "2026-07-30"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 145816000,
+        "filed": "2026-10-29"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 137556000,
+        "filed": "2026-04-30"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 204887000,
+        "filed": "2026-07-30"
+      },
+      {
+        "end": "2026-09-30",
+        "val": 216755000,
+        "filed": "2026-10-29"
+      }
+    ],
+    "stale_warning": null,
+    "revenue_yoy": 0.0465,
+    "net_income_yoy": 0.4865
+  },
+  "sec_filings_10d": [],
+  "news_status": {
+    "status": "ok",
+    "source": "yahoo+google_rss",
+    "errors": []
+  },
+  "news_7d": [
+    {
+      "title": "Best Momentum Stocks to Buy for November 20th",
+      "publisher": "Zacks",
+      "published": "2026-11-20T14:00:00+00:00",
+      "summary": "MSLOY, CROX and APA made it to the Zacks Rank #1 (Strong Buy) momentum stocks list on November 20th, 2026.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/best-momentum-stocks-buy-november-140000534.html"
+    },
+    {
+      "title": "Best Value Stocks to Buy for November 20th",
+      "publisher": "Zacks",
+      "published": "2026-11-20T13:47:00+00:00",
+      "summary": "PEBO, CROX and CLDT made it to the Zacks Rank #1 (Strong Buy) value stocks list on November 20th, 2026.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/best-value-stocks-buy-november-134700710.html"
+    },
+    {
+      "title": "What Avantis U.S. Large Cap Value ETF (AVLV) Bought: Elevance Leads on Nov. 18",
+      "publisher": "GuruFocus.com",
+      "published": "2026-11-20T11:04:51+00:00",
+      "summary": "The fund bought $173.7 million and sold $69.9 million in Qualcomm, lifting 164 positions while trimming just one.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/avantis-u-large-cap-value-110451025.html"
+    },
+    {
+      "title": "Are You Looking for a Top Momentum Pick? Why Crocs (CROX) is a Great Choice",
+      "publisher": "Zacks",
+      "published": "2026-11-19T16:00:03+00:00",
+      "summary": "Does Crocs (CROX) have what it takes to be a top stock pick for momentum investors? Let's find out.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/looking-top-momentum-pick-why-160003100.html"
+    },
+    {
+      "title": "If You Invested $1000 in Crocs a Decade Ago, This is How Much It'd Be Worth Now",
+      "publisher": "Zacks",
+      "published": "2026-11-19T12:30:02+00:00",
+      "summary": "Investing in certain stocks can pay off in the long run, especially if you hold on for a decade or more.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/invested-1000-crocs-decade-ago-123002860.html"
+    },
+    {
+      "title": "Crocs' International Sales Rise 12%: Can Overseas Growth Persist?",
+      "publisher": "Zacks",
+      "published": "2026-11-18T16:36:00+00:00",
+      "summary": "CROX accelerates international growth through strong DTC sales, localized marketing and product innovation, with China and India leading demand.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crocs-international-sales-rise-12-163600157.html"
+    },
+    {
+      "title": "Can Snap-on's Customized Industrial Solutions Take It Beyond Garages?",
+      "publisher": "Zacks",
+      "published": "2026-11-17T15:10:00+00:00",
+      "summary": "SNA is expanding its industrial footprint through customized precision solutions as strong military and industrial demand drives record C&I sales and margins.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/snap-ons-customized-industrial-solutions-151000507.html"
+    },
+    {
+      "title": "She Started a Pajama Brand While Undercover at the CIA",
+      "publisher": "Entrepreneur",
+      "published": "2026-11-17T13:00:00+00:00",
+      "summary": "Now it brings in $100 million, thanks to a savvy collabs strategy.",
+      "url": "https://www.entrepreneur.com/building-a-business/grow-your-business/she-started-a-pajama-brand-while-undercover-at-the-cia"
+    },
+    {
+      "title": "Best Value Stocks to Buy for November 17th",
+      "publisher": "Zacks",
+      "published": "2026-11-17T08:58:00+00:00",
+      "summary": "EXPE, CROX and ESCA made it to the Zacks Rank #1 (Strong Buy) value stocks list on November 17th, 2026.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/best-value-stocks-buy-november-085800343.html"
+    },
+    {
+      "title": "Crocs, Inc. (CROX) Hits Fresh High: Is There Still Room to Run?",
+      "publisher": "Zacks",
+      "published": "2026-11-16T13:15:03+00:00",
+      "summary": "Crocs (CROX) is at a 52-week high, but can investors hope for more gains in the future? We take a look at the company's fundamentals for clues.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crocs-inc-crox-hits-fresh-131503341.html"
+    },
+    {
+      "title": "CROX Nov 2026 120.000 call (CROX261120C00120000) Interactive Stock Chart - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-16T06:29:32+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uNG1GZk4zU0NsOENhdHBCeW52aFNyV29fNUc3dmx3VFpSVmtVLVAtb2VFRlJma3NlYU9LREh4b3oxSHBDdjg3YTFjR3ZIc2xZOENNUkRnSjhXWnFaVUpYLV9FWVhqQ3g2NWc?oc=5"
+    },
+    {
+      "title": "Will Analyst Upgrades Change Crocs Stock Narrative - Simply Wall St",
+      "publisher": "Simply Wall St",
+      "published": "2026-11-15T04:31:27+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYU93WGxrSl9HXzVCU09nUWd5aXJzS1ExTFhsWmlyZTRoM2N2SzBaOGRxYmlRTlQzS29sdDJPR2w4dzFnNzFiOVlPR3AxRUpKM05rVlJpSTNCNWxEU19tanNWX2dnVzkyQkJyNVg5UDNOTXB3UmdwSV90ZkZIaE9sOUFIdU50SkVRSTRicFdkSVlWcWZOVm9UQU1JYkIzRFhDWTNwSjIyd2NZRFZBWk9aMjdTTEIxTTAxTTY1LWxyTF_SAcYBQVVfeXFMT2taeW16YUZvaFkwdE41X3R0cGIwWm9QSW1IaFpNT3NFaWdRUlNpQWpSS0hRWEVlUFkyandROS1hcHNqbExMU19EQWlrX2FDNG9pMlJqLTRDX0xNaWg5RDE3UE9Bd2pncHRuSU80TUItSGFFazhQZHJYbmxuYzlJUTAzRW5RanNrTjVjeFh3TnBHM3otM1BDaWs2QU1XVnBaMDgtSnl5LS1CVlpoSUNQRy10WHg1dlRKSnBnZEN0eF9FN3lZYThn?oc=5"
+    },
+    {
+      "title": "Crocs And 2 Other Undervalued Cash Flow Stocks - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-14T18:09:28+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcXVsQmw2WHFDb2dJbmllYks5STNqWXMyVjlhUno5aGdNRXNMQnRxdmc0dFZIRFdyV19jeFY5RmEyZHVkYjI3SnVSWVNIM1ZacTZFNmJZSzFlQUp0QWF0LWJiQTNMejJsNkVTY0VfYUZRcFJ0Rm01VXFEdFhPbDVxVUxXdGNSRTZCbk9qVVREQ2VwY3NNODVlTTVFaw?oc=5"
+    },
+    {
+      "title": "Is Crocs (CROX) A Bargain On Rising Earnings Estimates? - Simply Wall St",
+      "publisher": "Simply Wall St",
+      "published": "2026-11-14T03:22:20+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWDVtbGtRNUsyUHJNUzg1MkFVdWJ0T0NpS24zUmdwN1JGczFibzhFT29ZRklxdjVjb2swblpBbWxuT0tuaURwZHZwMExEeGh4aWk0QkNKX2lvMmthLWdfdlNnNHZFYzF3Y052emVwLTFjekdNbGFKTktUaUd2WFpvYVlJNlRUNElHRGZYd245cWlBTDFUZlc5WWlTN2tndENBZ2wxNXNaVUNCSXNGVENoYWJSNWFmUzdKWExTcmc5VGRoUWfSAcgBQVVfeXFMT29PWDFpLXY1bk91Z3Z2VmdoaklQQVNJVVhzMEx5b0hfN1hURW5uTmtVT0JvSXQ1bVNweXNFT3l3Qml5dmxZNEFmbDJlMXgwQzMxUUtwUVZsMy1qUG5WM29Db0E1ZG9CMjN0OEhDdDVLdFNhNXVFNmZTMjcwZ1Rla2pEMzBnZHBjOGZvWVJudDBzQmdDelM0ZXdyczI4ZE9pNTVTUDA0bkVHV3JKZGRKUDBTMjZiU2s4TU1EVnF0N2RfbzAwZEpJcF8?oc=5"
+    },
+    {
+      "title": "Crocs Inc (CROX) Shares Surge 4.4% -- What GF Score of 85 Tells Investors - GuruFocus",
+      "publisher": "GuruFocus",
+      "published": "2026-11-13T22:55:41+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRWxPbDFrdkJtd1dRang5SEFyODVvWHZNXzBiamIzWDBlcDFnRmEtQlZmaVFLMWNNU1RDMEQ3Y0NselQyNURnYnhtT1UtSGc4Sjc2TUppbGgtelpVUjREOU5DaFVVRUxrd2dqUkdzWThOMklxN3VDcTI5S0E5T2huaUZ5WHFzaVpWMGZJVk8tYkQ3NTZ5TzE1eDRUNEVzLTN3a18xbnA3YVo?oc=5"
+    },
+    {
+      "title": "Crocs (CROX) Earnings Dates, Call Summary & Reports - TipRanks",
+      "publisher": "TipRanks",
+      "published": "2026-11-13T21:00:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTNGcxb1hwbFpsTWFqc29DOTV3LThQUVVEMm9wMXVtUC1OTUhHYlNUUE1Sd29KMGVvSHlUODJ6bTNaTVZoV1ZVd2JLcHp0TmNvdUR3VGJnelM?oc=5"
+    }
+  ],
+  "intraday": {
+    "last": 154.42999267578125,
+    "prev_close_in_history": 154.42999267578125,
+    "note": "about 15 min delayed"
+  }
+}
