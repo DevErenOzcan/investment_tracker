@@ -1,0 +1,110 @@
+{
+  "as_of": "2026-11-23",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "peak_value_units": 1000,
+  "drawdown": 0.0,
+  "regime": "risk-off",
+  "regime_mult": 0.4,
+  "risk_per_trade": 0.0075,
+  "portfolio_vol": 0.009221115212551359,
+  "positions": [
+    {
+      "ticker": "SIBN",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 23.5,
+      "stop": 22.55,
+      "target": 25.92,
+      "rr": 2.55,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "kelly": 0.2341,
+      "stop_pct": 0.0404,
+      "binding": "kelly",
+      "engine_weight": 0.0105,
+      "priority": 0.14045454545454564,
+      "flags": [
+        "risk-officer reduction x0.75: A thin (about 0.7M average volume), loss-making small cap up about 62% over 126 days can gap through the 22.55 stop in a market-wide liquidation, and the CEO's 11/19 sale is not explained as tax withholding the way the other two insider sales are."
+      ],
+      "amount_units": 10.5
+    },
+    {
+      "ticker": "GMAB",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 50.85,
+      "stop": 49.4,
+      "target": 57.3,
+      "rr": 4.45,
+      "rating": "Overweight",
+      "confidence": 0.36,
+      "kelly": 0.2161,
+      "stop_pct": 0.0285,
+      "binding": "kelly",
+      "engine_weight": 0.0065,
+      "priority": 0.12967441860465093,
+      "flags": [
+        "risk-officer reduction x0.5: Lowest confidence (0.36, the bucket that hit 33% per lessons item 5), a stop only about 0.7 ATR from entry with the next support at the 44-45 gap-fill zone (so a gap loss could be several times the -2.9% budget), lower highs and lower lows since 10/28, October jumps with no verified news cause, and a foreign-issuer filing feed too thin to rule out event risk."
+      ],
+      "amount_units": 6.5
+    },
+    {
+      "ticker": "AMPH",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 28.1,
+      "stop": 27.35,
+      "target": 31.0,
+      "rr": 3.87,
+      "rating": "Overweight",
+      "confidence": 0.37,
+      "kelly": 0.2071,
+      "stop_pct": 0.0267,
+      "binding": "kelly",
+      "engine_weight": 0.0075,
+      "priority": 0.12424137931034478,
+      "flags": [
+        "risk-officer reduction x0.6: Low confidence (0.37) on a neutral news score (0) with a stop only about 0.7 ATR away, 21.7% short interest that produces sharp two-way reversals, and price above the 24.5 consensus target with a 'Reduce' rating, which leaves downgrade risk in a 0.95-confidence risk-off tape."
+      ],
+      "amount_units": 7.5
+    },
+    {
+      "ticker": "CRVL",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 87.25,
+      "stop": 81.6,
+      "target": 95.9,
+      "rr": 1.53,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "kelly": 0.0908,
+      "stop_pct": 0.0648,
+      "binding": "kelly",
+      "engine_weight": 0.0054,
+      "priority": 0.054450867052023046,
+      "flags": [],
+      "amount_units": 5.4
+    }
+  ],
+  "cash_weight": 0.9701,
+  "rejected": [
+    {
+      "ticker": "IDXX",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "IPAR",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "PLMR",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "WMG",
+      "reason": "rating Hold: no new buy"
+    }
+  ]
+}

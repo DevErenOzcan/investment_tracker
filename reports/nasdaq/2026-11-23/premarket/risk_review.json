@@ -1,0 +1,8 @@
+{"vetoes": [],
+ "reductions": [
+  {"ticker": "GMAB", "factor": 0.5, "reason": "Lowest confidence (0.36, the bucket that hit 33% per lessons item 5), a stop only about 0.7 ATR from entry with the next support at the 44-45 gap-fill zone (so a gap loss could be several times the -2.9% budget), lower highs and lower lows since 10/28, October jumps with no verified news cause, and a foreign-issuer filing feed too thin to rule out event risk."},
+  {"ticker": "AMPH", "factor": 0.6, "reason": "Low confidence (0.37) on a neutral news score (0) with a stop only about 0.7 ATR away, 21.7% short interest that produces sharp two-way reversals, and price above the 24.5 consensus target with a 'Reduce' rating, which leaves downgrade risk in a 0.95-confidence risk-off tape."},
+  {"ticker": "SIBN", "factor": 0.75, "reason": "A thin (about 0.7M average volume), loss-making small cap up about 62% over 126 days can gap through the 22.55 stop in a market-wide liquidation, and the CEO's 11/19 sale is not explained as tax withholding the way the other two insider sales are."}
+ ],
+ "portfolio_notes": "All four proposals are Healthcare, and per lessons item 8 they are one correlated defensive-rotation bet, not four independent ones. Combined engine exposure is only about 4.5% (about 3.1% after these reductions), so concentration is acceptable in size, but a rotation out of XLV would hit every name at once. No binary events (M&A, FDA, offerings, litigation) appear in any news card, though all feeds are title-only RSS. CRVL is left unchanged as the highest-quality name with no event before 2027-02-02, but its R/R is only 1.14 at the 88.28 close, so it should be a limit entry at or below 87.25 and skipped if not filled (lessons item 3).",
+ "held_alerts": []}

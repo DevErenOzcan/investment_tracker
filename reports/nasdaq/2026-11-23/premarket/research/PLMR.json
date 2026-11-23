@@ -1,0 +1,8 @@
+{"ticker": "PLMR", "rating": "Hold", "confidence": 0.42,
+ "entry": 161.0, "entry_zone": [159.5, 162.5], "stop": 151.9, "target": 180.0, "horizon_days": 15,
+ "expected_return": {"low": -0.057, "high": 0.118},
+ "sector": "Financials", "earnings_date": null,
+ "thesis": "PLMR is a high-quality P&C insurer with accelerating fundamentals (revenue +58% YoY, net income growth 0% to 13% to 27%, forward P/E 14.0) and a clean post-earnings uptrend to a 52-week high, and as a non-tech name it sits outside the semis/tech-led selloff. The setup only works on a pullback into 159.5-162.5, where reward/risk is about 2.1 (161 midpoint, stop 151.9, target 180.0). At the last close of 163.59 it is about 1.40, and at the 163.99 pre-market quote about 1.32, both below the 1.5 floor, so this is Hold now and should be re-rated (Overweight) only if price trades into the entry zone with the structure intact.",
+ "invalidation": "A daily close below 151.9 (under the 152.72 swing low and the post-earnings gap base), or a close back below the 20-day SMA near 150.8.",
+ "key_risks": ["Risk-off regime at 0.95 confidence (VIX 31.34, 1-year percentile 0.991; QQQ 21-day -13.63%): a market-wide liquidation day could hit the stop at 151.9", "Extended entry: RSI 70.7, close 8.5% above SMA20 after a 5.7% momentum day with no stated cause; the 163.99 pre-market quote is above the entry zone", "The 180.0 target is a measured move, not a resistance level; the mean analyst target of 168.83 is only about 3% above the close", "Catastrophe-loss gap risk inherent to a P&C insurer", "Next earnings date unknown (likely Feb 2027, outside the window); no peer multiples, so valuation = fair is unverified"],
+ "debate_winner": "draw"}

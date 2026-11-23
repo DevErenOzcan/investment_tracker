@@ -1,0 +1,17 @@
+{"ticker": "WMG", "catalysts": [
+{"what": "FQ4/FY2026 results (8-K 2.02): record revenue ($2.00B vs $1.91B est), but adjusted EPS $0.34 vs $0.36 est per Investing.com (other outlets report a miss and a 'gap down'); stock traded as low as ~30.7 intraday on Nov 19 and recovered to close 32.56. FY27 growth guided.", "date": "2026-11-19", "direction": "mixed", "source": "https://finance.yahoo.com/markets/stocks/articles/warner-music-group-earnings-analysis-210011487.html"},
+{"what": "AI licensing (Suno deal) and new streaming rate/price-floor frameworks becoming a distinct revenue line; supports subscription streaming revenue and margins. Partly structural, but how much of the margin gain is one-time restructuring is questioned.", "date": "2026-11-19", "direction": "positive", "source": "https://www.fool.com/earnings/takeaways/2026/11/19/warner-music-3-key-takeaways-for-long-term-investors/"},
+{"what": "Morgan Stanley reiterated WMG as a top pick in Media & Entertainment after earnings, citing improved industry rate frameworks and execution.", "date": "2026-11-20", "direction": "positive", "source": "https://finance.yahoo.com/media-advertising/articles/morgan-stanley-reiterated-media-company-155317066.html"},
+{"what": "CEO Kyncl to give the first music-industry keynote at CES 2027 on AI (a January event, outside the 20-business-day window).", "date": "2026-11-20", "direction": "positive", "source": "https://finance.yahoo.com/technology/ai/articles/warner-music-group-wmg-ceo-221232550.html"}
+],
+"event_risks": [
+"No S-3 or 424B5 in the last 10 days, so no offering risk is visible. Filings were a 10-K and an 8-K (items 2.02, 9.01), both filed 2026-11-19.",
+"Earnings were already reported. The next earnings date is 2027-02-04, outside the 20-business-day window, so no earnings event is expected.",
+"No M&A, litigation or regulatory probe appears in the packet.",
+"Leverage is high (debt about 4.9B vs cash 0.59B, debt/equity 420) and beta is 1.32.",
+"The EPS figures conflict between sources (0.34 vs 0.36 estimate per Investing.com; 0.55 adjusted per MarketScreener), so the beat/miss read is uncertain.",
+"The stock is pre-market +1.6% (33.26) after a post-earnings run. RSI is 66 and the price is about 6% below the 52-week high, so near-term gap-chase risk is moderate.",
+"A dividend ex-date is possible in the window but is not confirmed in the packet."
+],
+"binary_event": false, "news_available": true, "score": 1,
+"notes": "The price driver was the Nov 19 FQ4/FY26 earnings: record revenue with an adjusted EPS shortfall. The stock sold off to about 30.7 intraday, then closed at 32.56 and 32.72 the next day, so the market looked through the miss. The lasting positives are AI licensing (Suno) and streaming price floors, plus a Morgan Stanley top-pick reiteration. The margin quality caveat is that some gains may be one-time cost cuts. There is no offering, M&A or legal overhang and no scheduled binary event within 20 business days, so I score it mildly positive at +1."}

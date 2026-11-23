@@ -1,0 +1,17 @@
+{"ticker": "IDXX",
+ "thesis": "The setup is a pullback in a gap-driven rally, bought into a risk-off tape (VIX 31.34 at the 0.991 percentile, QQQ below its 50 and 200-day averages). The uptrend rests on one 22% earnings gap, and since the 713.74 high the stock has made lower highs and lost about 5%. Valuation is unknown because the profile is entirely null, so nobody can say the re-rating is supported. Sequential revenue has flattened and the stock is up about 23% in 30 days, which leaves room for mean reversion. A stop at 647 sits only about 1 ATR below entry. In a high-VIX tape, a gap-fill toward 620-650 can take that stop on a single gap-down open, and reward is capped at the 52-week high.",
+ "evidence": [
+  "technical: setup = pullback, price 676.21, lower highs since 713.74 high on 11/4, slipped about 5% over 5 days",
+  "technical: stop = 647, atr = 22.6, so risk is about 1 ATR and one volatile day can breach it",
+  "technical: target = 713.74 = 52-week high, reward_risk = 2.2, upside capped at prior resistance",
+  "technical: notes = 'a gap-fill failure back toward 620-650 is the main risk'",
+  "fundamentals: valuation = unknown, yfinance profile entirely null (no P/E, short interest, market cap, earnings_date)",
+  "fundamentals: revenue sequentially flat (1,216,585,000 prior quarter vs 1,214,237,000 latest), Q4 quarters missing from the series",
+  "news: 30-day return +23.6% with valuation press asking if the stock is fully valued; the cause of the 11/2 gap is inferred, not confirmed by any article",
+  "news: next earnings date unconfirmed (earnings_date = null)",
+  "regime_view: regime = risk-off, confidence = 0.95, 'Long swing exposure warrants a defensive stance'",
+  "regime_view: QQQ 21-day return -13.63%, VIX 31.34 with 21-day change +61.13%, only XLP/XLV/XLU above 50-day"
+ ],
+ "downside_case": {"level": 620, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

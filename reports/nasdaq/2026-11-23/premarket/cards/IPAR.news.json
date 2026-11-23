@@ -1,0 +1,18 @@
+{"ticker": "IPAR", "catalysts": [
+{"what": "Goldman Sachs downgrades IPAR to neutral from buy, saying the 65% rally since Nov 2025 already prices in new-launch sales growth (limited upside). Published pre-market Monday, so it is not yet in the 11/20 close of 137.42.", "date": "2026-11-23", "direction": "negative", "source": "https://finance.yahoo.com/markets/stocks/articles/goldman-sees-limited-upside-interparfums-070158530.html"},
+{"what": "Initial FY2027 guidance: net sales of about $1.58B (+6%) and diluted EPS of about $5. Zacks cites a strong launch pipeline and new licenses, with regional weakness and cost pressure as offsets. The stock rose 3.4% on 11/20 to a 52-week high.", "date": "2026-11-19", "direction": "positive", "source": "https://finance.yahoo.com/markets/stocks/articles/interparfums-forecasts-6-sales-growth-064547669.html"},
+{"what": "Zacks: IPAR eyes 2027 growth from major fragrance launches, new licensing partnerships and operating efficiencies, despite regional weakness and cost pressures.", "date": "2026-11-19", "direction": "mixed", "source": "https://finance.yahoo.com/markets/stocks/articles/interparfums-eyes-2027-growth-strong-154000183.html"},
+{"what": "Headline (title only): 2026 revenue projected at $1.49B, 'exceeding expectations' (GuruFocus). The 11/4-11/5 earnings reaction was a gap up of about 9.5% to 135.28 on 747k shares, roughly 3x average volume; the 11/4 earnings date comes from the profile, and the packet has no earnings article.", "date": "2026-11-18", "direction": "positive", "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUVoMlNrYjV1cDFzZk1nQnl2NDhRSDdObGxFNEc3T1pSVEN2WHRzVVN2QUlTVXFubFNUMGlBTHVLc2V0ZVNGcVRidkRBT0VTWlZHNGc5Umticm1MRkNpX3V1VlNUZzNpMG8teURsenhrU2F6OEFXS19lMk8wZmRVbzZQaFluMWFrY3NKRVlHa2Z3cy1WMWtqMUxtWEI2UHFhbHdRUTlJQWRyMVEzMDgw?oc=5"}
+],
+"event_risks": [
+"Fresh sell-side downgrade (Goldman) on the morning of the run. The stock is at its 52-week high of 138.5 with RSI14 near 70, and the mean analyst target of 131 sits below the price, so a gap-down or fade at open is plausible.",
+"8-K filed 2026-11-18 with items 7.01 and 9.01 (Reg FD disclosure and exhibits, in line with the guidance release). It is not a financing event.",
+"No S-3 or 424B5 in the last 10 days, so there is no offering risk in the packet.",
+"No takeover bid, litigation or probe appears in the news.",
+"Short interest is 10.7% of float, which can amplify moves in either direction.",
+"The next earnings report is not in the packet and is likely outside the 20-business-day window (the last report was 11/4). No other scheduled events are known from the packet, and an ex-dividend date is not given."
+],
+"binary_event": false,
+"news_available": true,
+"score": -1,
+"notes": "The recent move came from the 11/4 earnings beat (+9.5% gap on heavy volume) and the 11/18 FY2027 guidance (about +6% sales, EPS about $5), which also lifted the stock 3.4% on 11/20. Those fundamentals look fairly durable, but the Goldman downgrade to neutral published this morning is a valuation call after a 65% rally and is not yet priced in. With the stock at its 52-week high, RSI near 70 and a mean target (131) below the price, the near-term news skew is negative for a swing entry. There is no offering or M&A risk. Most RSS items are title-only, so details of the guidance and the 2026 figures rest on the Investing.com and Zacks summaries."}

@@ -1,0 +1,15 @@
+{"ticker": "WMG",
+ "thesis": "WMG is a high-beta, highly levered name (beta 1.32, debt about 4.9B vs cash 0.59B) being bought into a 0.95-confidence risk-off regime with VIX at the 99th percentile and QQQ below both its 50- and 200-day averages. The stock has bounced to a 4.2% extension over SMA20 with RSI 66, and the pre-market quote of 33.26 is above the technician's entry zone, so any fill at the last price is a chase. Reward/risk is only 1.61 from mid-zone and falls to about 1.0 at the top of the zone, with nearer resistance at the 20-day high of 33.49. The earnings print was a possible EPS miss with conflicting sources, and part of the margin gain may be one-time cost cuts, so the post-earnings reversal could be a relief bounce that fails if the market keeps falling.",
+ "evidence": [
+  "regime_view: regime = risk-off, confidence 0.95",
+  "regime_view: VIX 31.34, 1-year percentile 0.991; QQQ ret_21 -13.63%, below 50- and 200-day",
+  "technical: setup = pullback, entry_zone = [31.8, 32.4], reward_risk = 1.61 (about 1.0 at 32.40)",
+  "technical: RSI 66.4, close 4.2% above SMA20; pre-market quote 33.26 is a gap above the zone",
+  "technical: 20-day high 33.49 is nearer resistance than the 34.75 target",
+  "news: debt about 4.9B vs cash 0.59B, debt/equity 420, beta 1.32",
+  "news: adjusted EPS 0.34 vs 0.36 est per Investing.com, sources conflict on beat or miss",
+  "news: margin gains partly questioned as one-time restructuring"
+ ],
+ "downside_case": {"level": 30.45, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

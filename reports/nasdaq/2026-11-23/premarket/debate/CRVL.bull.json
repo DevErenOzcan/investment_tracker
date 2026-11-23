@@ -1,0 +1,20 @@
+{"ticker": "CRVL",
+ "thesis": "CRVL is a high-quality, profitable compounder in a clean uptrend that has held up while QQQ sold off hard. Revenue is growing about 11% with net income accelerating faster (+22% YoY), cash far exceeds debt, and the stock sits above its SMA20, SMA50 and SMA200 with strong 63-day relative strength. No earnings or binary event falls inside the holding window. The setup is only moderate, though: reward/risk is about 1.5, valuation is rich, officers are selling, and the regime is risk-off. The stock should be bought only on a dip into the 86.5-88.0 entry zone, not chased, and sized small.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = trend-continuation",
+  "technical: entry_zone = [86.5, 88.0]",
+  "technical: stop = 81.6",
+  "technical: target = 95.9",
+  "technical: reward_risk = 1.53",
+  "technical: notes = close 88.28 above SMA20 84.86, SMA50 79.63 and SMA200 63.99; 63-day relative strength +0.377; RSI 64.6 not overbought",
+  "fundamentals: quality = high",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: notes = revenue +11.47% YoY, net income +22.15% YoY, operating margin 15.9%, ROE 30.6%, cash 270M vs debt 33M, short interest 9.79% of float",
+  "fundamentals: earnings_date = 2027-02-02 (outside the holding window)",
+  "news: binary_event = false",
+  "news: notes = the 52-week-high move follows the 11-05 10-Q, with no offering or 8-K in the last 10 days; net effect mildly positive",
+  "regime_view: regime = risk-off (headwind; leading sectors are XLP, XLV and XLU, and CRVL is not in the lagging tech or semis group)"
+ ],
+ "upside_case": {"target": 95.9, "probability": 0.35},
+ "rebuttal_to_bear": null}

@@ -1,0 +1,842 @@
+{
+  "ticker": "WMG",
+  "exchange": "NASDAQ",
+  "as_of": "2026-11-23T13:49:36.994539+00:00",
+  "data_note": "In the pre-market session the last price is the previous close; in the pre-close session it is ~15 min delayed.",
+  "technical": {
+    "indicators": {
+      "symbol": "WMG",
+      "date": "2026-11-20",
+      "close": 32.72,
+      "ret_5": 0.0192,
+      "ret_21": 0.0388,
+      "ret_63": 0.1859,
+      "ret_126": -0.0395,
+      "rs_63": 0.3236,
+      "sma20": 31.4126,
+      "sma50": 29.6883,
+      "sma200": 28.3605,
+      "trend": 4,
+      "atr": 1.0031,
+      "atr_pct": 0.0307,
+      "rsi14": 66.4,
+      "dist_high": -0.0585,
+      "vol_ratio": 1.2673,
+      "ext_20": 0.0416,
+      "vol_20": 0.2735,
+      "dollar_volume_20": 67821839.8391,
+      "low_20": 29.0665,
+      "high_20": 33.4893
+    },
+    "levels": {
+      "swing_low_10": 30.711354202926795,
+      "swing_low_20": 29.066459579635307,
+      "swing_high_20": 33.48929072072516,
+      "high_52w": 34.75377465466298,
+      "low_52w": 22.900989659622756
+    },
+    "last_60_days": [
+      {
+        "d": "2026-08-28",
+        "o": 28.23,
+        "h": 28.47,
+        "l": 27.64,
+        "c": 27.86,
+        "v": 1346500
+      },
+      {
+        "d": "2026-08-31",
+        "o": 27.85,
+        "h": 28.12,
+        "l": 27.65,
+        "c": 28.04,
+        "v": 1294600
+      },
+      {
+        "d": "2026-09-01",
+        "o": 27.89,
+        "h": 28.15,
+        "l": 27.56,
+        "c": 27.8,
+        "v": 896600
+      },
+      {
+        "d": "2026-09-02",
+        "o": 27.73,
+        "h": 28.39,
+        "l": 27.68,
+        "c": 28.18,
+        "v": 1165200
+      },
+      {
+        "d": "2026-09-03",
+        "o": 28.81,
+        "h": 29.49,
+        "l": 28.6,
+        "c": 29.37,
+        "v": 2233800
+      },
+      {
+        "d": "2026-09-04",
+        "o": 29.03,
+        "h": 29.4,
+        "l": 28.51,
+        "c": 28.6,
+        "v": 1408400
+      },
+      {
+        "d": "2026-09-08",
+        "o": 28.5,
+        "h": 28.5,
+        "l": 27.59,
+        "c": 27.86,
+        "v": 1544400
+      },
+      {
+        "d": "2026-09-09",
+        "o": 27.86,
+        "h": 28.47,
+        "l": 27.59,
+        "c": 27.99,
+        "v": 1596900
+      },
+      {
+        "d": "2026-09-10",
+        "o": 28.03,
+        "h": 28.21,
+        "l": 27.54,
+        "c": 27.67,
+        "v": 3038100
+      },
+      {
+        "d": "2026-09-11",
+        "o": 28.09,
+        "h": 28.66,
+        "l": 27.87,
+        "c": 28.16,
+        "v": 1711400
+      },
+      {
+        "d": "2026-09-14",
+        "o": 28.46,
+        "h": 29.46,
+        "l": 28.37,
+        "c": 29.07,
+        "v": 1985200
+      },
+      {
+        "d": "2026-09-15",
+        "o": 28.79,
+        "h": 28.92,
+        "l": 28.26,
+        "c": 28.87,
+        "v": 2710100
+      },
+      {
+        "d": "2026-09-16",
+        "o": 28.88,
+        "h": 29.01,
+        "l": 28.12,
+        "c": 28.13,
+        "v": 1796600
+      },
+      {
+        "d": "2026-09-17",
+        "o": 28.39,
+        "h": 28.39,
+        "l": 27.66,
+        "c": 27.78,
+        "v": 2133500
+      },
+      {
+        "d": "2026-09-18",
+        "o": 27.7,
+        "h": 27.94,
+        "l": 26.98,
+        "c": 27.85,
+        "v": 4820000
+      },
+      {
+        "d": "2026-09-21",
+        "o": 27.91,
+        "h": 28.08,
+        "l": 27.3,
+        "c": 27.52,
+        "v": 2411200
+      },
+      {
+        "d": "2026-09-22",
+        "o": 27.78,
+        "h": 27.92,
+        "l": 27.09,
+        "c": 27.22,
+        "v": 1436600
+      },
+      {
+        "d": "2026-09-23",
+        "o": 26.96,
+        "h": 27.36,
+        "l": 26.79,
+        "c": 26.99,
+        "v": 1192800
+      },
+      {
+        "d": "2026-09-24",
+        "o": 26.91,
+        "h": 27.29,
+        "l": 26.71,
+        "c": 27.12,
+        "v": 1426600
+      },
+      {
+        "d": "2026-09-25",
+        "o": 26.9,
+        "h": 27.24,
+        "l": 26.73,
+        "c": 26.97,
+        "v": 1502900
+      },
+      {
+        "d": "2026-09-28",
+        "o": 26.72,
+        "h": 27.5,
+        "l": 26.29,
+        "c": 26.97,
+        "v": 2793200
+      },
+      {
+        "d": "2026-09-29",
+        "o": 26.83,
+        "h": 27.95,
+        "l": 26.61,
+        "c": 27.45,
+        "v": 2407400
+      },
+      {
+        "d": "2026-09-30",
+        "o": 27.45,
+        "h": 27.6,
+        "l": 27.21,
+        "c": 27.44,
+        "v": 2204500
+      },
+      {
+        "d": "2026-10-01",
+        "o": 27.84,
+        "h": 28.0,
+        "l": 26.87,
+        "c": 26.88,
+        "v": 2960700
+      },
+      {
+        "d": "2026-10-02",
+        "o": 26.92,
+        "h": 27.45,
+        "l": 26.56,
+        "c": 26.65,
+        "v": 2539600
+      },
+      {
+        "d": "2026-10-05",
+        "o": 26.74,
+        "h": 27.53,
+        "l": 26.54,
+        "c": 27.46,
+        "v": 2474100
+      },
+      {
+        "d": "2026-10-06",
+        "o": 27.52,
+        "h": 27.83,
+        "l": 27.33,
+        "c": 27.44,
+        "v": 1783700
+      },
+      {
+        "d": "2026-10-07",
+        "o": 27.4,
+        "h": 28.09,
+        "l": 27.06,
+        "c": 27.99,
+        "v": 2404400
+      },
+      {
+        "d": "2026-10-08",
+        "o": 28.04,
+        "h": 29.14,
+        "l": 27.78,
+        "c": 28.73,
+        "v": 2966400
+      },
+      {
+        "d": "2026-10-09",
+        "o": 28.86,
+        "h": 29.3,
+        "l": 28.42,
+        "c": 28.54,
+        "v": 1721100
+      },
+      {
+        "d": "2026-10-12",
+        "o": 28.62,
+        "h": 28.79,
+        "l": 28.34,
+        "c": 28.48,
+        "v": 1459700
+      },
+      {
+        "d": "2026-10-13",
+        "o": 28.48,
+        "h": 29.03,
+        "l": 28.39,
+        "c": 28.73,
+        "v": 1464200
+      },
+      {
+        "d": "2026-10-14",
+        "o": 28.43,
+        "h": 28.74,
+        "l": 28.1,
+        "c": 28.73,
+        "v": 1727700
+      },
+      {
+        "d": "2026-10-15",
+        "o": 29.29,
+        "h": 30.59,
+        "l": 29.07,
+        "c": 30.5,
+        "v": 5009800
+      },
+      {
+        "d": "2026-10-16",
+        "o": 30.81,
+        "h": 31.46,
+        "l": 30.74,
+        "c": 31.21,
+        "v": 3504200
+      },
+      {
+        "d": "2026-10-19",
+        "o": 31.07,
+        "h": 31.49,
+        "l": 30.82,
+        "c": 30.85,
+        "v": 2261200
+      },
+      {
+        "d": "2026-10-20",
+        "o": 30.94,
+        "h": 31.34,
+        "l": 30.7,
+        "c": 31.14,
+        "v": 3412300
+      },
+      {
+        "d": "2026-10-21",
+        "o": 30.82,
+        "h": 31.29,
+        "l": 30.73,
+        "c": 31.25,
+        "v": 1880700
+      },
+      {
+        "d": "2026-10-22",
+        "o": 31.29,
+        "h": 31.84,
+        "l": 31.29,
+        "c": 31.5,
+        "v": 2141800
+      },
+      {
+        "d": "2026-10-23",
+        "o": 31.17,
+        "h": 31.61,
+        "l": 30.59,
+        "c": 30.67,
+        "v": 1180300
+      },
+      {
+        "d": "2026-10-26",
+        "o": 30.56,
+        "h": 30.62,
+        "l": 29.86,
+        "c": 30.11,
+        "v": 1867400
+      },
+      {
+        "d": "2026-10-27",
+        "o": 30.39,
+        "h": 30.39,
+        "l": 29.9,
+        "c": 30.12,
+        "v": 1313800
+      },
+      {
+        "d": "2026-10-28",
+        "o": 29.83,
+        "h": 29.99,
+        "l": 29.09,
+        "c": 29.4,
+        "v": 1567100
+      },
+      {
+        "d": "2026-10-29",
+        "o": 29.39,
+        "h": 30.44,
+        "l": 29.07,
+        "c": 30.28,
+        "v": 3241000
+      },
+      {
+        "d": "2026-10-30",
+        "o": 30.61,
+        "h": 30.91,
+        "l": 30.17,
+        "c": 30.43,
+        "v": 2129900
+      },
+      {
+        "d": "2026-11-02",
+        "o": 30.47,
+        "h": 30.97,
+        "l": 30.22,
+        "c": 30.78,
+        "v": 2065100
+      },
+      {
+        "d": "2026-11-03",
+        "o": 30.48,
+        "h": 31.05,
+        "l": 30.42,
+        "c": 30.94,
+        "v": 1476800
+      },
+      {
+        "d": "2026-11-04",
+        "o": 31.63,
+        "h": 32.56,
+        "l": 31.48,
+        "c": 32.35,
+        "v": 1886300
+      },
+      {
+        "d": "2026-11-05",
+        "o": 32.8,
+        "h": 32.96,
+        "l": 31.56,
+        "c": 31.73,
+        "v": 1927000
+      },
+      {
+        "d": "2026-11-06",
+        "o": 30.81,
+        "h": 31.59,
+        "l": 30.77,
+        "c": 31.11,
+        "v": 1291800
+      },
+      {
+        "d": "2026-11-09",
+        "o": 31.34,
+        "h": 31.75,
+        "l": 31.1,
+        "c": 31.6,
+        "v": 3273800
+      },
+      {
+        "d": "2026-11-10",
+        "o": 31.34,
+        "h": 31.7,
+        "l": 30.94,
+        "c": 31.65,
+        "v": 1366700
+      },
+      {
+        "d": "2026-11-11",
+        "o": 31.41,
+        "h": 31.73,
+        "l": 31.3,
+        "c": 31.66,
+        "v": 1093000
+      },
+      {
+        "d": "2026-11-12",
+        "o": 31.76,
+        "h": 31.98,
+        "l": 31.4,
+        "c": 31.48,
+        "v": 1089900
+      },
+      {
+        "d": "2026-11-13",
+        "o": 32.14,
+        "h": 32.54,
+        "l": 31.75,
+        "c": 32.1,
+        "v": 3093000
+      },
+      {
+        "d": "2026-11-16",
+        "o": 32.15,
+        "h": 32.43,
+        "l": 31.78,
+        "c": 32.25,
+        "v": 1664900
+      },
+      {
+        "d": "2026-11-17",
+        "o": 32.0,
+        "h": 32.31,
+        "l": 31.7,
+        "c": 32.23,
+        "v": 1882500
+      },
+      {
+        "d": "2026-11-18",
+        "o": 32.08,
+        "h": 33.0,
+        "l": 31.94,
+        "c": 32.76,
+        "v": 4819400
+      },
+      {
+        "d": "2026-11-19",
+        "o": 31.01,
+        "h": 33.49,
+        "l": 30.71,
+        "c": 32.56,
+        "v": 3792900
+      },
+      {
+        "d": "2026-11-20",
+        "o": 32.73,
+        "h": 33.18,
+        "l": 31.92,
+        "c": 32.72,
+        "v": 2119800
+      }
+    ],
+    "weekly_closes_26": [
+      31.12,
+      29.53,
+      28.08,
+      27.79,
+      26.6,
+      27.9,
+      28.6,
+      27.95,
+      26.19,
+      25.61,
+      26.04,
+      25.31,
+      26.96,
+      27.86,
+      28.6,
+      28.16,
+      27.85,
+      26.97,
+      26.65,
+      28.54,
+      31.21,
+      30.67,
+      30.43,
+      31.11,
+      32.1,
+      32.72
+    ]
+  },
+  "profile": {
+    "symbol": "WMG",
+    "shortName": "Warner Music Group Corp.",
+    "sector": "Communication Services",
+    "industry": "Entertainment",
+    "marketCap": 17211260928,
+    "trailingPE": 23.53957,
+    "forwardPE": 13.5220585,
+    "priceToSalesTrailing12Months": 2.3142745,
+    "enterpriseToEbitda": 12.767,
+    "profitMargins": 0.09964,
+    "operatingMargins": 0.17413001,
+    "grossMargins": 0.46255,
+    "revenueGrowth": 0.071,
+    "earningsGrowth": 0.639,
+    "returnOnEquity": 0.76364,
+    "debtToEquity": 420.291,
+    "freeCashflow": 256624992,
+    "totalCash": 589000000,
+    "totalDebt": 4909000192,
+    "beta": 1.321,
+    "shortPercentOfFloat": 0.0625,
+    "heldPercentInstitutions": 1.06186,
+    "recommendationMean": 1.52941,
+    "numberOfAnalystOpinions": 17,
+    "targetMeanPrice": 39.47059,
+    "fiftyTwoWeekHigh": 35.42,
+    "fiftyTwoWeekLow": 23.34,
+    "averageVolume": 2092565,
+    "preMarketPrice": 33.26,
+    "regularMarketPrice": 32.72,
+    "regularMarketPreviousClose": 32.56,
+    "earnings_date": "2027-02-04"
+  },
+  "sec_fundamentals": {
+    "available": true,
+    "cik": 1319161,
+    "revenue_q": [
+      {
+        "end": "2024-03-31",
+        "val": 1494000000,
+        "filed": "2025-05-08"
+      },
+      {
+        "end": "2024-06-30",
+        "val": 1554000000,
+        "filed": "2025-08-07"
+      },
+      {
+        "end": "2024-12-31",
+        "val": 1666000000,
+        "filed": "2026-02-09"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 1484000000,
+        "filed": "2026-05-07"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 1689000000,
+        "filed": "2026-08-05"
+      },
+      {
+        "end": "2025-12-31",
+        "val": 1840000000,
+        "filed": "2026-02-09"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 1732000000,
+        "filed": "2026-05-07"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 1864000000,
+        "filed": "2026-08-05"
+      }
+    ],
+    "net_income_q": [
+      {
+        "end": "2024-03-31",
+        "val": 96000000,
+        "filed": "2025-05-08"
+      },
+      {
+        "end": "2024-06-30",
+        "val": 139000000,
+        "filed": "2025-08-07"
+      },
+      {
+        "end": "2024-12-31",
+        "val": 236000000,
+        "filed": "2026-02-09"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 36000000,
+        "filed": "2026-05-07"
+      },
+      {
+        "end": "2025-06-30",
+        "val": -16000000,
+        "filed": "2026-08-05"
+      },
+      {
+        "end": "2025-12-31",
+        "val": 176000000,
+        "filed": "2026-02-09"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 183000000,
+        "filed": "2026-05-07"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 204000000,
+        "filed": "2026-08-05"
+      }
+    ],
+    "stale_warning": null,
+    "revenue_yoy": 0.1036,
+    "net_income_yoy": -13.75
+  },
+  "sec_filings_10d": [
+    {
+      "form": "10-K",
+      "filed": "2026-11-19",
+      "items": "",
+      "url": "https://www.sec.gov/Archives/edgar/data/1319161/000131916126000042/wmg-20260930.htm"
+    },
+    {
+      "form": "8-K",
+      "filed": "2026-11-19",
+      "items": "2.02,9.01",
+      "url": "https://www.sec.gov/Archives/edgar/data/1319161/000131916126000040/wmg-20261119.htm"
+    }
+  ],
+  "news_status": {
+    "status": "ok",
+    "source": "yahoo+google_rss",
+    "errors": []
+  },
+  "news_7d": [
+    {
+      "title": "Warner Music Group (WMG) CEO To Give CES 2027 First Music Keynote On AI",
+      "publisher": "Simply Wall St.",
+      "published": "2026-11-20T22:12:32+00:00",
+      "summary": "Warner Music Group (NasdaqGS:WMG) CEO Robert Kyncl is set to deliver the first-ever music industry keynote at CES 2027. The CES 2027 address will focus on AI and proprietary technology used by WMG to safeguard artists and expand songwriter opportunities. Management has flagged that WMG's AI partnerships and licensing deals are expected to start materially affecting subscription streaming revenue f",
+      "url": "https://finance.yahoo.com/technology/ai/articles/warner-music-group-wmg-ceo-221232550.html"
+    },
+    {
+      "title": "Did Record Earnings Just Shift Warner Music's (WMG) Investment Narrative?",
+      "publisher": "Simply Wall St.",
+      "published": "2026-11-20T21:14:51+00:00",
+      "summary": "Warner Music Group reported record fiscal 2026 results, with Q4 sales of US$2,001 million and full year revenue of US$7,437 million alongside higher net income. The business is beginning to turn AI licensing into a distinct revenue line item, with the Suno deal and new rate structures contributing to subscription streaming and margin expansion. We will now examine how Warner Music Group's stronger",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/did-record-earnings-just-shift-211451057.html"
+    },
+    {
+      "title": "Warner Music Group (WMG) Reports Record Revenue, Is It Still 13% Below Fair Value?",
+      "publisher": "Simply Wall St.",
+      "published": "2026-11-20T20:11:25+00:00",
+      "summary": "Warner Music Group (WMG) has drawn fresh investor attention after reporting record fourth quarter and full year 2026 results, with revenue and net income higher than a year earlier and digital streaming a key driver. Investors have reacted in fits and starts to the news flow around Warner Music Group, with the stock easing 0.61% on the day to US$32.76 after the earnings miss. It has still posted a",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warner-music-group-wmg-reports-201125003.html"
+    },
+    {
+      "title": "Morgan Stanley reiterated this media company as a top pick after earnings",
+      "publisher": "Investing.com",
+      "published": "2026-11-20T15:53:17+00:00",
+      "summary": "Investing.com -- Morgan Stanley analyst Cameron Mansson-Perrone has reiterated Warner Music Group (NASDAQ:WMG) as a top pick in Media & Entertainment following the company's latest earnings report, highlighting improved industry rate frameworks and strong operational execution.",
+      "url": "https://finance.yahoo.com/media-advertising/articles/morgan-stanley-reiterated-media-company-155317066.html"
+    },
+    {
+      "title": "Why Warner Music Group Corp. (WMG) is a Great Dividend Stock Right Now",
+      "publisher": "Zacks",
+      "published": "2026-11-20T15:45:01+00:00",
+      "summary": "Dividends are one of the best benefits to being a shareholder, but finding a great dividend stock is no easy task. Does Warner Music Group (WMG) have what it takes? Let's find out.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-warner-music-group-corp-154501120.html"
+    },
+    {
+      "title": "Warner Music Group Corp (WMG) (Q4 2026) Earnings Call Highlights: Record Revenue, Accelerating ...",
+      "publisher": "GuruFocus.com",
+      "published": "2026-11-19T21:01:16+00:00",
+      "summary": "Warner Music Group Corp (WMG) closed fiscal 2026 with all-time high quarterly and annual revenue, expanded margins, and a landmark AI partnership, while guiding to continued growth in fiscal 2027.",
+      "url": "https://finance.yahoo.com/media-advertising/articles/warner-music-group-corp-wmg-210116140.html"
+    },
+    {
+      "title": "Warner Music Group earnings analysis: questions answered and next catalysts",
+      "publisher": "Investing.com",
+      "published": "2026-11-19T21:00:11+00:00",
+      "summary": "Investing.com -- Warner Music Group (WMG) reported fiscal Q4 2026 on Nov 19, 2026. Revenue was $2.00B against a $1.91B estimate. Adjusted EPS was $0.34 against $0.36 expected, a -5.56% miss. The stock is at $32.69 (-0.83%) as of 3:17 PM EST, after trading as low as $30.90 intraday. It had closed near $32.96 the day before. The after-hours print on Nov 18 (+3.16%) did not carry through. The 52-week",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warner-music-group-earnings-analysis-210011487.html"
+    },
+    {
+      "title": "Warner Music: 3 Key Takeaways for Long-Term Investors",
+      "publisher": "Motley Fool",
+      "published": "2026-11-19T19:07:08+00:00",
+      "summary": "Warner's contract-driven price floors and cost cuts raise a question: how much of its margin gain is structural, and how much is one-time restructuring?",
+      "url": "https://www.fool.com/earnings/takeaways/2026/11/19/warner-music-3-key-takeaways-for-long-term-investors/"
+    },
+    {
+      "title": "Warner Music (WMG) Q4 2026 Earnings Call Transcript",
+      "publisher": "Motley Fool",
+      "published": "2026-11-19T18:32:00+00:00",
+      "summary": "Record fiscal results came from streaming pricing gains and an AI deal.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/19/warner-music-wmg-q4-2026-earnings-call-transcript/"
+    },
+    {
+      "title": "Warner Music Group Corp. Q4 2026 Earnings Call Summary",
+      "publisher": "Moby",
+      "published": "2026-11-19T17:49:15+00:00",
+      "summary": "Moby summary of Warner Music Group Corp.'s Q4 2026 earnings call",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-warner-music-group-corp-q4-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss"
+    },
+    {
+      "title": "Warner Music Group (NASDAQ:WMG) Shares Gap Down Following Weak Earnings - MarketBeat",
+      "publisher": "MarketBeat",
+      "published": "2026-11-19T15:31:30+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV1ZXVUcwanJnS1RaU2xtT0Q4Tjc3MkZrYnhveGZqdVE4QjRhUEFaaXJPVXBmUDZHMFN5eXI0cVBkVU9qV29TSXc1QW9xWGdwX1VQcUJvcVdSQVpGbmN6STBUeDNhTDlJY3BObVgyQ3MtUUgwT1preVl2ZldIQmtNcXRfeGFpanlramZJc3Y3WmtrTDBIOXh6VFQ1clFuVVhMelVBbnl6N0JCcExlZEw4cVA0N19tYkRxUVVhZlBfRWljMUR4MGo0Wg?oc=5"
+    },
+    {
+      "title": "Warner Music Group (WMG) Sees Mixed Market Reaction After Q4 Res - GuruFocus",
+      "publisher": "GuruFocus",
+      "published": "2026-11-19T15:24:24+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTnc5dlI3WjlRTHNCR0ZwY3ZrMkZvN0pYTnlQa3RxMFlidk9qYzJnMWFkVTZxYjBOc2otRzhkTU5hTzBzOENFcVkwN09Qb2YtVW0zT3FBREt5RTJKSnYxVnRZUi1SOGk2czhsN19mSk1SMVlwSkNRaHZHQlllaTFjeEtjaDBNZHhBVUthTE52Y3lBWnZlNkZialpvaUtwNUtIYWl0S2dtMVNHRWwtRV8xMnJja1l6SVhoUFo3SkdoSmxNdjhDTW8tTm14MVpub3Zwd2VMaQ?oc=5"
+    },
+    {
+      "title": "Warner Music Flat on Quarterly Results - TradingView",
+      "publisher": "TradingView",
+      "published": "2026-11-19T15:11:12+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjFpVU1Sd0xVdXdNX0lXNVBwOC1uTElGZnFsY1otQ3M3QkxjbXdEcHd0X096REd0b1IwLVdQTEJJNnlpVkY3dVJyd0d6ZFQzQ1U3aWxNZTJtM2JQclJLX0JsX2JNNzZNV0EtTXFZcE1scUtORjlOWXk4N2dRQkpQaDlDb1hnVmliZzdRcE5EYzAxLUxoXzdSNkxnRFE5a2c?oc=5"
+    },
+    {
+      "title": "Warner Music Group (WMG) Reports Strong Q4 Earnings, Highlights Dividend Sustainability - GuruFocus",
+      "publisher": "GuruFocus",
+      "published": "2026-11-19T13:27:58+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTmlrb1JDWEl4LWxkX2ZueVFrcU0yNDl0U3lGQmkwc1BLM19CaUlrTUhFRFE3a29henhtYzBVOE5RRXRjbHplYWo0VmNabUdRQ3FCa3FlcVJ0ZC05Zncyc09yMmc4VThPbmgxUWQ1dWZFdGhTVzBKSVREV0FVQ01COE1MTFZnS3N4ekFqODhTYmx2Sm9KMGJqeC1SZG1QV2hjQlhPb19ZRTlEQURydFh6d0NTWXVpOGx6M0RCQmlzTVc?oc=5"
+    },
+    {
+      "title": "Warner Music Group (WMG) Q4 Revenue Beats Estimates, Reinforcing Dividend Appeal - GuruFocus",
+      "publisher": "GuruFocus",
+      "published": "2026-11-19T13:05:51+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFdFUjF2TExKQ052VDh4cVRmd0ZYLWpRRHlXeUQycTFqWlJtR294SWNSMnk1cFVlV2EtZ3d1RFBmN29mcnpuaEdTZUY2TzVfaWRRYVVxM0RhRnN1V0loM180MDQ1UzhOcVVTODRRSjFkQUlVWHhjUllmWXV0QzNibzA1Y0hjSFZ6VmNNT2tSQ1RSS24tZGVuRkdWenIzRlJMSWQwVV9YTU01aHpnQlVpMVl2bUNCQ00?oc=5"
+    },
+    {
+      "title": "Warner Music Group Corp. (WMG) Misses Q4 Earnings Estimates - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-19T12:40:02+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT0c2Xzd6UGxmRlRRNTJjNXZlbG5yVUNjLUJiNzVJeXRrSVc1VWNGaHZlVVdYdlBKWnVnS01iYXh4cGdKNHc0SlBvWGwzdUNkbzF2blZ4eFdRbUYtaVJ3OUt6YkFGUUdHQlNwYllSSXRaZ2JLZXZ3TG5ybzRwX0Fsa1dsbUdRZ2xjY0tCX2tramFFRW4xRlp3?oc=5"
+    },
+    {
+      "title": "Earnings Flash (WMG) Warner Music Group Corp. Posts Q4 Adjusted EPS $0.55 per Share - marketscreener.com",
+      "publisher": "marketscreener.com",
+      "published": "2026-11-19T12:32:45+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOS1pR1NoSnRMRVlGR01Bb2ozN3VxU0hvY3dKUVBTSDJjbFlqdHMxMW9HVUdkajRmNm5tcERTQWx2WExkZmRhUXltZWhQbTdiOERrSjBjYWlrcDhFSHpodEprR1kxdE1iOTllcllSTjJxWDVhRnhvU1dQdGxBU2pYRlN4dElXVlNETFVKVXVUSWRoaE96V2NxdzNLNW9fbGRVTi1DMzBLME1HSmRaV04zbWJSSjlWTU50SEFsMGNWWGp4VVBiLVBTc1VPanA?oc=5"
+    },
+    {
+      "title": "Warner Music Group Corp. Reports Results for Fiscal Fourth Quarter and Full Year Ended September 30, 2026 - Stock Titan",
+      "publisher": "Stock Titan",
+      "published": "2026-11-19T12:30:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYU9JcTBaazg1bENxVlF4Tk5ONTNVN0d2bTRiVVN6ZGk0Y3diR1lrbVp5SGtkMFF0eE05cnhGNEp5dWVDSG5rOVhOR2RLQ2kydzA1QUZ2TW5kX1A1VVhKbXRxN2NxVmd6S1VLdVNNOUY5M3NWS25TbGJwZnRkdHRmYkpMTVNWRkV1NWdNZnc2UDhMZm4tV0JWcEJfUUNXdm5MMXNGcGIzdm02QmY2QUx4UDNxUjUtenFoNGFV?oc=5"
+    },
+    {
+      "title": "Warner Music Group (WMG) Stock Could Be Undervalued After A 15% Five Year Slide - Yahoo! Finance Canada",
+      "publisher": "Yahoo! Finance Canada",
+      "published": "2026-11-19T08:09:03+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNW92S1d3eTdjSGNvRlJac25GSTVKQW5iaWx2aUZiZ3dxTjNtOVNhZjBBN1A0eG1qVnpMU2p2Ukp1SjI4Sm1lcWJsUWZqcHZrb3RPMnpic1RvYXcybTRGS3pOQUlkc2g1eVg0Q2QwQTJscDYzWjJDYTk1RmgzY2NwcVYtTQ?oc=5"
+    },
+    {
+      "title": "Warner Music Group Corp. (WMG) Stock Forecasts - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-19T08:06:36+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTTlXcGZFTWIyX3NTcDZsYVR6cHBlR2xiWVZIMjY3Z25tcHQtN3Y5QzVxY1RadnNGMkZmX2VIM0pzYmJGMF8tdXdwYmk5ejJfWlFTbHhSV1VFc2x5a0VWcU04bklWaUJ3SFNSRWFtRk12ek9EampTcHFsSzVZeDBEREpkeHhVSndaTHZpS19MYw?oc=5"
+    },
+    {
+      "title": "Warner Music Group (Nasdaq:WMG) - Stock Analysis - Simply Wall St",
+      "publisher": "Simply Wall St",
+      "published": "2026-11-19T08:00:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HejhCNnNmcFJ3bXpwNjNpUWZWSGlrOFdxQklQZzNFSkJ0Tk5pMkxnYUREQVczV3diRUt2YmJQa2hfdE1qZ21fcDNKUnlGWkRhYlVMcklmS1Ywc3VHX1h4WXZVZkdYUXVFRENHNWpVYTdlN1R5NXc?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{"ticker": "GMAB", "rating": "Overweight", "confidence": 0.36,
+ "entry": 50.85, "entry_zone": [50.4, 51.3], "stop": 49.4, "target": 57.3, "horizon_days": 10,
+ "expected_return": {"low": -0.029, "high": 0.127},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "GMAB is a profitable, high-margin oncology royalty name (operating margin 0.3063, FCF 854.9M) digesting a fundamental late-October re-rating, pulling back on fading volume (ratio 0.66, RSI14 55) to its 10-day low of 50.24 above a rising SMA50 (42.98), and healthcare (XLV) is one of only three sectors holding up in a risk-off tape. Reward/risk from the 50.85 entry midpoint to the 57.3 target versus the 49.4 stop is about 4.4, so the trade has positive expectancy even at a low hit rate. Conviction is low: the stop is only about 0.7 ATR away, the post-gap sequence is lower highs and lower lows, and the regime is risk-off at 0.95 confidence, so this is a small-size Overweight, not a Buy.",
+ "invalidation": "A daily close below 49.4 (under the 10-day low of 50.24) invalidates the pullback and opens a gap-fill toward the 20-day low of 43.98.",
+ "key_risks": [
+  "Stop is about 0.7 ATR (2.03) from entry, so noise alone can trigger it; the next real support is the 44-45 gap-fill zone, so a gap through the stop could lose more than the -2.9% shown",
+  "Broad risk-off regime (QQQ 21-day -13.63%, VIX 31.34 at the 0.991 percentile) could hit a stock that has roughly doubled in six months as funds raise cash",
+  "Lower highs and lower lows since the 10/28 gap (57.06, 55.8, 53.87, 52.4); the 10/05, 10/23 and 10/28 jumps have no verified news cause",
+  "Valuation stretched on earnings (trailing PE 43.25, forward PE 32.03) with earnings growth -0.147 and total debt 5.198B above cash 1.871B; SEC quarterly series empty and next earnings date unknown",
+  "Correlated healthcare exposure: per lessons, cap combined healthcare weight rather than sizing GMAB alone"
+ ],
+ "debate_winner": "draw"}

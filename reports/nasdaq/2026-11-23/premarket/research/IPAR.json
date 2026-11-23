@@ -1,0 +1,14 @@
+{"ticker": "IPAR", "rating": "Hold", "confidence": 0.38,
+ "entry": 134.5, "entry_zone": [133.5, 135.5], "stop": 129.3, "target": 144.5, "horizon_days": 10,
+ "expected_return": {"low": -0.039, "high": 0.074},
+ "sector": "Consumer Defensive", "earnings_date": null,
+ "thesis": "IPAR is a high-quality, cash-generative company (gross margin 59.8%, ROE 19.0%, FCF 209M) in a clean post-earnings uptrend, and it sits in defensive consumer exposure while the risk-off tape punishes tech. But the stock closed 137.42, near its 52-week high of 138.5, with RSI 69.6, a rich forward P/E of 27.5 and a mean analyst target of 131 below the price. This morning's Goldman downgrade is not yet in the price. At the last price, R/R to the 144.5 target is only about 0.9 (7.08 up vs 8.12 down to 129.3), and even the bull puts the chance of reaching the target at 0.30, so this is a watchlist name: re-assess at pre-close only if price fills the 133.5-135.5 zone and holds above the 132.45-130.77 floor.",
+ "invalidation": "A daily close below the 129.77 swing low (stop 129.3), or a heavy-volume gap-down through the 132.45-130.77 consolidation floor after the Goldman downgrade.",
+ "key_risks": [
+  "Goldman downgrade to neutral (2026-11-23) is not priced into the 137.42 close; a gap-down or fade at the open is likely",
+  "Extended: RSI 69.6, 7.9% above SMA20 127.40, mean analyst target 131 below price",
+  "Rich valuation (trailing P/E 25.9, forward 27.5) with flat earnings growth (Q3 net income +3.6% y/y) and unreliable SEC revenue data",
+  "Broad risk-off regime (confidence 0.95, VIX 31.34 at 99th percentile); short interest 10.7% of float can speed up a failed breakout",
+  "R/R at last price is about 0.87, below the 1.5 floor; the setup works only on a pullback fill, so it is a missed trade if the stock runs from here"
+ ],
+ "debate_winner": "bear"}

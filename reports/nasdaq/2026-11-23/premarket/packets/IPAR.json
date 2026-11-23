@@ -1,0 +1,745 @@
+{
+  "ticker": "IPAR",
+  "exchange": "NASDAQ",
+  "as_of": "2026-11-23T13:49:19.958321+00:00",
+  "data_note": "In the pre-market session the last price is the previous close; in the pre-close session it is ~15 min delayed.",
+  "technical": {
+    "indicators": {
+      "symbol": "IPAR",
+      "date": "2026-11-20",
+      "close": 137.42,
+      "ret_5": 0.0304,
+      "ret_21": 0.1839,
+      "ret_63": 0.185,
+      "ret_126": 0.506,
+      "rs_63": 0.3227,
+      "sma20": 127.3955,
+      "sma50": 119.3044,
+      "sma200": 106.1916,
+      "trend": 4,
+      "atr": 3.9783,
+      "atr_pct": 0.029,
+      "rsi14": 69.6133,
+      "dist_high": -0.0078,
+      "vol_ratio": 0.9954,
+      "ext_20": 0.0787,
+      "vol_20": 0.4403,
+      "dollar_volume_20": 32851594.1386,
+      "low_20": 113.2,
+      "high_20": 138.5
+    },
+    "levels": {
+      "swing_low_10": 129.77000427246094,
+      "swing_low_20": 113.19999694824219,
+      "swing_high_20": 138.5,
+      "high_52w": 138.5,
+      "low_52w": 84.3405280764616
+    },
+    "last_60_days": [
+      {
+        "d": "2026-08-28",
+        "o": 117.48,
+        "h": 117.8,
+        "l": 114.08,
+        "c": 116.94,
+        "v": 159000
+      },
+      {
+        "d": "2026-08-31",
+        "o": 116.46,
+        "h": 116.64,
+        "l": 114.91,
+        "c": 116.59,
+        "v": 184000
+      },
+      {
+        "d": "2026-09-01",
+        "o": 116.22,
+        "h": 118.2,
+        "l": 115.39,
+        "c": 116.27,
+        "v": 187200
+      },
+      {
+        "d": "2026-09-02",
+        "o": 116.32,
+        "h": 117.7,
+        "l": 114.16,
+        "c": 115.63,
+        "v": 228800
+      },
+      {
+        "d": "2026-09-03",
+        "o": 116.37,
+        "h": 116.37,
+        "l": 112.98,
+        "c": 113.2,
+        "v": 251700
+      },
+      {
+        "d": "2026-09-04",
+        "o": 112.11,
+        "h": 116.1,
+        "l": 111.86,
+        "c": 115.86,
+        "v": 176700
+      },
+      {
+        "d": "2026-09-08",
+        "o": 114.99,
+        "h": 115.37,
+        "l": 111.77,
+        "c": 112.2,
+        "v": 129100
+      },
+      {
+        "d": "2026-09-09",
+        "o": 110.93,
+        "h": 111.45,
+        "l": 109.27,
+        "c": 110.82,
+        "v": 188900
+      },
+      {
+        "d": "2026-09-10",
+        "o": 110.33,
+        "h": 111.75,
+        "l": 108.73,
+        "c": 109.7,
+        "v": 152100
+      },
+      {
+        "d": "2026-09-11",
+        "o": 110.96,
+        "h": 111.39,
+        "l": 109.65,
+        "c": 111.21,
+        "v": 171800
+      },
+      {
+        "d": "2026-09-14",
+        "o": 111.96,
+        "h": 112.55,
+        "l": 110.59,
+        "c": 111.25,
+        "v": 184100
+      },
+      {
+        "d": "2026-09-15",
+        "o": 110.91,
+        "h": 111.14,
+        "l": 108.2,
+        "c": 109.99,
+        "v": 202800
+      },
+      {
+        "d": "2026-09-16",
+        "o": 110.68,
+        "h": 113.19,
+        "l": 110.35,
+        "c": 112.64,
+        "v": 187300
+      },
+      {
+        "d": "2026-09-17",
+        "o": 113.62,
+        "h": 114.0,
+        "l": 110.38,
+        "c": 110.74,
+        "v": 176200
+      },
+      {
+        "d": "2026-09-18",
+        "o": 110.25,
+        "h": 112.92,
+        "l": 109.25,
+        "c": 112.51,
+        "v": 740900
+      },
+      {
+        "d": "2026-09-21",
+        "o": 112.55,
+        "h": 112.93,
+        "l": 111.46,
+        "c": 112.76,
+        "v": 153100
+      },
+      {
+        "d": "2026-09-22",
+        "o": 115.24,
+        "h": 118.5,
+        "l": 115.23,
+        "c": 118.29,
+        "v": 241000
+      },
+      {
+        "d": "2026-09-23",
+        "o": 119.5,
+        "h": 119.75,
+        "l": 117.27,
+        "c": 117.4,
+        "v": 195200
+      },
+      {
+        "d": "2026-09-24",
+        "o": 117.51,
+        "h": 118.73,
+        "l": 115.23,
+        "c": 115.79,
+        "v": 188800
+      },
+      {
+        "d": "2026-09-25",
+        "o": 115.74,
+        "h": 118.72,
+        "l": 115.45,
+        "c": 117.93,
+        "v": 174700
+      },
+      {
+        "d": "2026-09-28",
+        "o": 117.14,
+        "h": 118.67,
+        "l": 114.61,
+        "c": 117.94,
+        "v": 194300
+      },
+      {
+        "d": "2026-09-29",
+        "o": 117.35,
+        "h": 117.75,
+        "l": 114.73,
+        "c": 115.09,
+        "v": 177000
+      },
+      {
+        "d": "2026-09-30",
+        "o": 115.57,
+        "h": 116.61,
+        "l": 110.64,
+        "c": 110.96,
+        "v": 290200
+      },
+      {
+        "d": "2026-10-01",
+        "o": 110.8,
+        "h": 113.95,
+        "l": 110.4,
+        "c": 111.85,
+        "v": 392000
+      },
+      {
+        "d": "2026-10-02",
+        "o": 113.41,
+        "h": 114.13,
+        "l": 111.55,
+        "c": 113.95,
+        "v": 251400
+      },
+      {
+        "d": "2026-10-05",
+        "o": 113.71,
+        "h": 114.14,
+        "l": 112.03,
+        "c": 113.76,
+        "v": 197700
+      },
+      {
+        "d": "2026-10-06",
+        "o": 115.03,
+        "h": 115.71,
+        "l": 112.45,
+        "c": 112.85,
+        "v": 192100
+      },
+      {
+        "d": "2026-10-07",
+        "o": 112.21,
+        "h": 113.49,
+        "l": 110.66,
+        "c": 111.0,
+        "v": 143600
+      },
+      {
+        "d": "2026-10-08",
+        "o": 110.63,
+        "h": 112.39,
+        "l": 110.3,
+        "c": 111.6,
+        "v": 170700
+      },
+      {
+        "d": "2026-10-09",
+        "o": 112.02,
+        "h": 112.7,
+        "l": 111.24,
+        "c": 112.21,
+        "v": 132100
+      },
+      {
+        "d": "2026-10-12",
+        "o": 112.0,
+        "h": 112.81,
+        "l": 109.84,
+        "c": 112.33,
+        "v": 164100
+      },
+      {
+        "d": "2026-10-13",
+        "o": 113.52,
+        "h": 114.29,
+        "l": 111.72,
+        "c": 114.06,
+        "v": 195900
+      },
+      {
+        "d": "2026-10-14",
+        "o": 113.55,
+        "h": 114.6,
+        "l": 113.04,
+        "c": 114.47,
+        "v": 155600
+      },
+      {
+        "d": "2026-10-15",
+        "o": 115.65,
+        "h": 117.85,
+        "l": 113.09,
+        "c": 115.11,
+        "v": 441900
+      },
+      {
+        "d": "2026-10-16",
+        "o": 115.85,
+        "h": 117.85,
+        "l": 114.35,
+        "c": 115.69,
+        "v": 199600
+      },
+      {
+        "d": "2026-10-19",
+        "o": 115.04,
+        "h": 116.54,
+        "l": 113.57,
+        "c": 114.75,
+        "v": 153300
+      },
+      {
+        "d": "2026-10-20",
+        "o": 115.74,
+        "h": 117.86,
+        "l": 115.74,
+        "c": 115.9,
+        "v": 171800
+      },
+      {
+        "d": "2026-10-21",
+        "o": 117.98,
+        "h": 118.54,
+        "l": 112.65,
+        "c": 113.2,
+        "v": 256600
+      },
+      {
+        "d": "2026-10-22",
+        "o": 113.37,
+        "h": 116.58,
+        "l": 113.37,
+        "c": 116.07,
+        "v": 277900
+      },
+      {
+        "d": "2026-10-23",
+        "o": 115.89,
+        "h": 115.94,
+        "l": 114.09,
+        "c": 115.22,
+        "v": 155700
+      },
+      {
+        "d": "2026-10-26",
+        "o": 115.11,
+        "h": 116.34,
+        "l": 114.63,
+        "c": 115.36,
+        "v": 158700
+      },
+      {
+        "d": "2026-10-27",
+        "o": 115.18,
+        "h": 115.37,
+        "l": 113.5,
+        "c": 115.19,
+        "v": 158400
+      },
+      {
+        "d": "2026-10-28",
+        "o": 114.32,
+        "h": 115.03,
+        "l": 113.2,
+        "c": 114.24,
+        "v": 190000
+      },
+      {
+        "d": "2026-10-29",
+        "o": 115.2,
+        "h": 115.91,
+        "l": 114.05,
+        "c": 115.5,
+        "v": 211700
+      },
+      {
+        "d": "2026-10-30",
+        "o": 117.47,
+        "h": 118.6,
+        "l": 115.73,
+        "c": 116.37,
+        "v": 271900
+      },
+      {
+        "d": "2026-11-02",
+        "o": 118.23,
+        "h": 121.56,
+        "l": 118.23,
+        "c": 119.86,
+        "v": 203500
+      },
+      {
+        "d": "2026-11-03",
+        "o": 120.33,
+        "h": 120.66,
+        "l": 116.51,
+        "c": 117.09,
+        "v": 275600
+      },
+      {
+        "d": "2026-11-04",
+        "o": 120.18,
+        "h": 126.51,
+        "l": 119.47,
+        "c": 123.57,
+        "v": 235400
+      },
+      {
+        "d": "2026-11-05",
+        "o": 125.96,
+        "h": 135.79,
+        "l": 125.96,
+        "c": 135.28,
+        "v": 747300
+      },
+      {
+        "d": "2026-11-06",
+        "o": 132.85,
+        "h": 136.52,
+        "l": 132.85,
+        "c": 135.55,
+        "v": 309000
+      },
+      {
+        "d": "2026-11-09",
+        "o": 136.26,
+        "h": 138.13,
+        "l": 133.71,
+        "c": 136.16,
+        "v": 311900
+      },
+      {
+        "d": "2026-11-10",
+        "o": 136.15,
+        "h": 137.82,
+        "l": 134.39,
+        "c": 135.56,
+        "v": 279200
+      },
+      {
+        "d": "2026-11-11",
+        "o": 134.75,
+        "h": 134.98,
+        "l": 132.21,
+        "c": 133.19,
+        "v": 201500
+      },
+      {
+        "d": "2026-11-12",
+        "o": 133.89,
+        "h": 133.89,
+        "l": 129.77,
+        "c": 130.77,
+        "v": 141800
+      },
+      {
+        "d": "2026-11-13",
+        "o": 131.6,
+        "h": 133.92,
+        "l": 131.0,
+        "c": 133.37,
+        "v": 221700
+      },
+      {
+        "d": "2026-11-16",
+        "o": 134.52,
+        "h": 135.31,
+        "l": 133.32,
+        "c": 134.31,
+        "v": 152800
+      },
+      {
+        "d": "2026-11-17",
+        "o": 133.49,
+        "h": 134.0,
+        "l": 131.5,
+        "c": 132.45,
+        "v": 158300
+      },
+      {
+        "d": "2026-11-18",
+        "o": 131.75,
+        "h": 134.88,
+        "l": 131.05,
+        "c": 133.73,
+        "v": 213800
+      },
+      {
+        "d": "2026-11-19",
+        "o": 131.38,
+        "h": 134.89,
+        "l": 130.41,
+        "c": 132.94,
+        "v": 320000
+      },
+      {
+        "d": "2026-11-20",
+        "o": 132.78,
+        "h": 138.5,
+        "l": 132.78,
+        "c": 137.42,
+        "v": 335200
+      }
+    ],
+    "weekly_closes_26": [
+      92.96,
+      89.91,
+      100.26,
+      98.38,
+      107.2,
+      118.54,
+      118.43,
+      122.35,
+      121.68,
+      123.66,
+      122.09,
+      113.81,
+      114.77,
+      116.94,
+      115.86,
+      111.21,
+      112.51,
+      117.93,
+      113.95,
+      112.21,
+      115.69,
+      115.22,
+      116.37,
+      135.55,
+      133.37,
+      137.42
+    ]
+  },
+  "profile": {
+    "symbol": "IPAR",
+    "shortName": "Interparfums, Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Household & Personal Products",
+    "marketCap": 4401229824,
+    "trailingPE": 25.879473,
+    "forwardPE": 27.53908,
+    "priceToSalesTrailing12Months": 2.9310172,
+    "enterpriseToEbitda": 15.711,
+    "profitMargins": 0.11331,
+    "operatingMargins": 0.17878,
+    "grossMargins": 0.59776,
+    "revenueGrowth": -0.0,
+    "earningsGrowth": 0.039,
+    "returnOnEquity": 0.19032,
+    "debtToEquity": 19.24,
+    "freeCashflow": 209067632,
+    "totalCash": 240246000,
+    "totalDebt": 212138000,
+    "beta": 1.086,
+    "shortPercentOfFloat": 0.1073,
+    "heldPercentInstitutions": 0.694,
+    "recommendationMean": 2.66667,
+    "numberOfAnalystOpinions": 6,
+    "targetMeanPrice": 131.0,
+    "fiftyTwoWeekHigh": 138.5,
+    "fiftyTwoWeekLow": 79.37,
+    "averageVolume": 226926,
+    "preMarketPrice": null,
+    "regularMarketPrice": 137.42,
+    "regularMarketPreviousClose": 132.94,
+    "earnings_date": "2026-11-04"
+  },
+  "sec_fundamentals": {
+    "available": true,
+    "cik": 822663,
+    "revenue_q": [
+      {
+        "end": "2015-09-30",
+        "val": 138944000,
+        "filed": "2016-11-08"
+      },
+      {
+        "end": "2016-03-31",
+        "val": 111522000,
+        "filed": "2017-05-09"
+      },
+      {
+        "end": "2016-06-30",
+        "val": 117157000,
+        "filed": "2017-08-07"
+      },
+      {
+        "end": "2016-09-30",
+        "val": 157622000,
+        "filed": "2017-11-08"
+      },
+      {
+        "end": "2017-03-31",
+        "val": 143058000,
+        "filed": "2018-05-08"
+      },
+      {
+        "end": "2017-06-30",
+        "val": 129136000,
+        "filed": "2017-08-07"
+      },
+      {
+        "end": "2017-09-30",
+        "val": 169531000,
+        "filed": "2017-11-08"
+      },
+      {
+        "end": "2018-03-31",
+        "val": 171767000,
+        "filed": "2018-05-08"
+      }
+    ],
+    "net_income_q": [
+      {
+        "end": "2024-06-30",
+        "val": 36823000,
+        "filed": "2025-08-05"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 62259000,
+        "filed": "2025-11-05"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 42492000,
+        "filed": "2026-05-05"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 31988000,
+        "filed": "2026-08-04"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 65809000,
+        "filed": "2026-11-04"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 43366000,
+        "filed": "2026-05-05"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 30487000,
+        "filed": "2026-08-04"
+      },
+      {
+        "end": "2026-09-30",
+        "val": 68203000,
+        "filed": "2026-11-04"
+      }
+    ],
+    "stale_warning": "latest revenue quarter is older than 200 days",
+    "revenue_yoy": 0.2007,
+    "net_income_yoy": 0.0364
+  },
+  "sec_filings_10d": [
+    {
+      "form": "8-K",
+      "filed": "2026-11-18",
+      "items": "7.01,9.01",
+      "url": "https://www.sec.gov/Archives/edgar/data/822663/000175392626002197/ipar-20261118.htm"
+    }
+  ],
+  "news_status": {
+    "status": "ok",
+    "source": "yahoo+google_rss",
+    "errors": []
+  },
+  "news_7d": [
+    {
+      "title": "Goldman sees limited upside in Interparfums after 65% share rally",
+      "publisher": "Investing.com",
+      "published": "2026-11-23T07:01:58+00:00",
+      "summary": "Investing.com -- Goldman Sachs downgraded French fragrance maker Interparfums to \"neutral\" from \"buy\" on Monday, saying a 65% rise in the shares since November 2025 already reflects expected sales growth from new product launches.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sees-limited-upside-interparfums-070158530.html"
+    },
+    {
+      "title": "Interparfums Eyes 2027 Growth on Strong Fragrance Launch Pipeline",
+      "publisher": "Zacks",
+      "published": "2026-11-19T15:40:00+00:00",
+      "summary": "IPAR eyes 2027 growth driven by major fragrance launches, new licensing partnerships and operating efficiencies despite regional weakness and cost pressures.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/interparfums-eyes-2027-growth-strong-154000183.html"
+    },
+    {
+      "title": "Interparfums forecasts 6% sales growth for 2027 fiscal year",
+      "publisher": "Investing.com",
+      "published": "2026-11-19T06:45:47+00:00",
+      "summary": "Investing.com -- Interparfums SA (EPA:IPAR) issued financial guidance for fiscal year 2027 on Thursday, projecting net sales of $1.58 billion and diluted earnings per share of $5.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/interparfums-forecasts-6-sales-growth-064547669.html"
+    },
+    {
+      "title": "Interparfums forecasts 6% sales growth for 2027 fiscal year By Investing.com - Investing.com South Africa",
+      "publisher": "Investing.com South Africa",
+      "published": "2026-11-19T06:29:39+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMDZTNFphb0RTbzRCdFpGa2FrelY3SGM4UTZYZmNWaEgzUmZKRk1RS3lWVXhmTFFnaGk4NEpwOEdhY3NTb0dUOFdDcWpZdEZQNjdSWnYtbzhLbl8tRVJZbVpCVjZXZHNBZ0ZlQWlDN3NMdFJYQ2FtNmVFQ1phNkdxdkR2VUJ2b2RlakJVLVp5RkdybFZaekQwQVZvYTg0MDBJQ3J4Mmw1U3hNQ2ZqZHUxLWd0NXI?oc=5"
+    },
+    {
+      "title": "Interparfums (IPAR) Projects $1.49B Revenue for 2026, Exceeding Expectations - GuruFocus",
+      "publisher": "GuruFocus",
+      "published": "2026-11-18T22:49:31+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUVoMlNrYjV1cDFzZk1nQnl2NDhRSDdObGxFNEc3T1pSVEN2WHRzVVN2QUlTVXFubFNUMGlBTHVLc2V0ZVNGcVRidkRBT0VTWlZHNGc5Umticm1MRkNpX3V1VlNUZzNpMG8teURsenhrU2F6OEFXS19lMk8wZmRVbzZQaFluMWFrY3NKRVlHa2Z3cy1WMWtqMUxtWEI2UHFhbHdRUTlJQWRyMVEzMDgw?oc=5"
+    },
+    {
+      "title": "Interparfums (NASDAQ:IPAR) Releases FY 2027 Earnings Guidance - MarketBeat",
+      "publisher": "MarketBeat",
+      "published": "2026-11-18T21:47:48+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb3BRYVlheFpfRUVQcVJuS0FUVlVEUkJvNlpqaVFZQXFDY1NKb19hODRmNlJKaE0wMTFpeE1raGFIRDVNT29fM0dTeW82TzM1ZmNEQVg1cGJHWmpTQ2F2elFFcEdBOXpGbjR3djgtcU1CSS1nSzl4aVd6eE5keTlwOEN1ZmJSa1BqTlFLSlBNQ2dOU3Q1RW5CTmRlc0RIcjZkOGVLVXpXd2ZmSHAyWU5LbnVUbDEyNW5wOFF1ak4xaw?oc=5"
+    },
+    {
+      "title": "Interparfums Announces Initial 2027 Guidance for Sales Growth and Higher EPS on New Fragrance Launches - Quiver Quantitative",
+      "publisher": "Quiver Quantitative",
+      "published": "2026-11-18T21:22:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR205emxHaWZzR3lsVUlkOHZNREJialR3d0hUblRZV1YwZkN5ZWRGcHk0amNDQXhaQTlXeGdZMEtNeE9SeFlCZFc2R0tyTzMtcG4wZkFMVUJKZFlqNy1ienJEcTRJRVJISEtwUXJUUUFWYmVKU01tVkc1clBPWnRZSFljb1k0SGR0bW1DVFNsdTZad2oyNzhPd19ZQ0c0MXI5ZXZNUldBMzJ4cGdLcDh5a0Rrbm9xaldkajQ0N19UUDNGcHQ1Z09YbWdhTy1qaGpZ?oc=5"
+    },
+    {
+      "title": "Interparfums, Inc. $IPAR Stake Raised by Bessemer Group Inc. - MarketBeat",
+      "publisher": "MarketBeat",
+      "published": "2026-11-18T08:22:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNmJyTzVYdkZha2lZWUpDMU9lSGZxRFpVZVNhdW5zWUFzRmZuN1pyS3p0dzkzeGQ1SkhqanhvUllTQ0Z0SHpmbXhFVUdsR2xxbnJaeG5jRDlDVXRCR2lWelVpU0kxYjNCUUZrZGstMHVLdTg5c3BYZGZWNnJNSDFQWWFVZXVxbmVlRjlLTFF1dVdvTXhDME9KQkZPdjNta0gtTHhQREhxUlM2eGQzdkstUHBBY01mRG9x?oc=5"
+    }
+  ]
+}

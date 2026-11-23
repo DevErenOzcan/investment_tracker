@@ -1,0 +1,8 @@
+{"ticker": "SIBN", "rating": "Overweight", "confidence": 0.45,
+ "entry": 23.5, "entry_zone": [23.2, 23.8], "stop": 22.55, "target": 25.92, "horizon_days": 10,
+ "expected_return": {"low": -0.04, "high": 0.10},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "SIBN is a post-earnings re-rated small-cap medtech (14.5% YoY revenue growth, narrowing loss, cash 146.26M vs debt 42.80M) pulling back in an orderly way to its SMA20 (23.32) in an uptrend with rs_63 +0.36. Buying in the 23.2-23.8 zone with a 22.55 stop under the 22.72 swing low targets the 25.92 52-week high, about 2.5 reward/risk at the 23.5 mid (about 1.9 at the 23.73 close). Healthcare is one of only three sectors holding above its 50-day, but the 0.95-confidence risk-off tape (VIX 31.34) caps this at Overweight with modest confidence.",
+ "invalidation": "A daily close below 22.55, which breaks the higher-low pullback structure under the 22.72 swing low.",
+ "key_risks": ["Broad risk-off regime (QQQ below 50/200-day, 21-day -13.63%, VIX 31.34) can drag the stock down with the market", "Thin name (about 0.7M average volume) can gap through the 22.55 stop in a market-wide liquidation", "25.92 is a prior supply zone and the post-earnings re-rating may keep fading with no fresh catalyst", "Insider sales by the CEO and two officers on 2026-11-18/19; the CEO sale is not explained in the packet", "Still loss-making with a slight sequential revenue dip (56.01M to 55.70M); valuation unknown at 4.85x sales", "Correlated healthcare exposure with other healthcare names in the book (lessons item 8); no sentiment card in the packet"],
+ "debate_winner": "draw"}

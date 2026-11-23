@@ -1,0 +1,16 @@
+{"ticker": "CRVL", "rating": "Overweight", "confidence": 0.45,
+ "entry": 87.25, "entry_zone": [86.5, 87.25], "stop": 81.6, "target": 95.9, "horizon_days": 15,
+ "expected_return": {"low": -0.065, "high": 0.099},
+ "sector": "Healthcare", "earnings_date": "2027-02-02",
+ "thesis": "CRVL is a high-quality, cash-rich compounder (revenue +11.47% YoY, net income +22.15% YoY, cash 270M vs debt 33M) in a clean uptrend above SMA20 84.86, SMA50 79.63 and SMA200 63.99, with 63-day relative strength of +0.377 while QQQ fell 13.63% over 21 days. There is no earnings or binary event before 2027-02-02. The risk-off regime (0.95), the rich valuation (P/E 37.09), the rejection at 90.71 and officer selling justify only a small position, bought on a dip and not chased at the 88.28 close.",
+ "invalidation": "Daily close below the 81.84 swing low (stop 81.6), with a close back below the SMA20 near 84.9 on rising volume as an early warning.",
+ "key_risks": [
+  "Broad risk-off tape (VIX 31.34, 1-year percentile 0.991) can drag down high-multiple leaders and gap the price through the 81.6 stop",
+  "Rich valuation (P/E 37.09, EV/EBITDA 21.532) with no peer data to support it",
+  "Nov 18 push to 90.71 rejected on volume ratio 1.27; first resistance only about 2.7% above the close",
+  "Officer Form 144 sales near the 52-week high (2026-11-19)",
+  "Reward/risk is only 1.14 at the 88.28 close and depends on a fill at or below 87.25",
+  "Correlated healthcare exposure; count it against the combined healthcare cap (lesson 8)",
+  "News feed is titles-only Google RSS; no sentiment card in the packet"
+ ],
+ "debate_winner": "draw"}

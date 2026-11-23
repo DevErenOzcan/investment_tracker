@@ -1,0 +1,8 @@
+{"ticker": "WMG", "rating": "Hold", "confidence": 0.42,
+ "entry": 32.10, "entry_zone": [31.8, 32.4], "stop": 30.45, "target": 34.75, "horizon_days": 10,
+ "expected_return": {"low": -0.051, "high": 0.083},
+ "sector": "Communication Services", "earnings_date": "2027-02-04",
+ "thesis": "WMG has a clean uptrend (close 32.72 > SMA20 31.41 > SMA50 29.69 > SMA200 28.36, rs_63 +0.32), and the market looked through the Nov 19 EPS shortfall on record revenue, with no earnings, offering or binary event before 2027-02-04. However, reward/risk is only 1.61 from the 32.10 mid-zone, about 1.0 at the 32.40 zone top, and under 1 at the 32.72 close or the 33.26 pre-market quote, so by the R/R-at-last-price rule this is a watch-list pullback, not a new position. A 0.95-confidence risk-off regime (VIX 31.34, QQQ below its 50/200-day) and heavy leverage (beta 1.32, debt/equity 420) argue against forcing it.",
+ "invalidation": "A daily close below 30.45, or a close back below the SMA20 (about 31.4) on rising volume, voids the higher-low structure.",
+ "key_risks": ["Risk-off regime (confidence 0.95, VIX 1-year percentile 0.991) could drag high-beta names regardless of stock-specific news", "Pre-market quote 33.26 sits above the 31.8-32.4 zone; R/R at the last price is below 1.0", "Nearer resistance at the 20-day high of 33.49 caps upside before the 34.75 target", "High leverage: debt about 4.9B vs cash 0.59B, debt/equity 420", "Conflicting EPS figures (0.34 vs 0.36 est vs 0.55) and possibly one-time margin gains make the post-earnings reversal fragile"],
+ "debate_winner": "bear"}

@@ -1,0 +1,8 @@
+{"ticker": "AMPH", "rating": "Overweight", "confidence": 0.37,
+ "entry": 28.1, "entry_zone": [27.9, 28.35], "stop": 27.35, "target": 31.0, "horizon_days": 10,
+ "expected_return": {"low": -0.027, "high": 0.103},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "AMPH is in an uptrend (above SMA20 28.00, SMA50 26.51 and SMA200 22.38, 63-day return +31%) and is pulling back to SMA20 and the floor of its 28-29.7 post-earnings range. Revenue growth is accelerating (+8.2% YoY in Q3) and the stock is cheap (forward P/E 8.4), and healthcare (XLV) is one of only three sectors holding above its 50-day in this risk-off tape. Reward/risk from the 28.1 midpoint is about 3.9 (2.9 up to the 31.0 high, 0.75 down to the 27.35 stop), so the trade has positive expectancy even with a low hit rate. That justifies a small Overweight rather than a Buy.",
+ "invalidation": "Daily close below 27.35, or a close back below SMA20 (about 28.0) on rising volume.",
+ "key_risks": ["Extreme risk-off regime (QQQ 21-day -13.63%, VIX 31.34 at 1-year percentile 0.991) can drag defensives too", "Stop is only about 0.7 ATR (1.12) below entry, so a noise stop-out is likely", "Price 28.25 is above the 24.5 mean analyst target with a 'Reduce' consensus; a downgrade could hit the stock", "The 11/06 spike to 31.0 reversed and the 28-29.7 range is rolling over; 21.7% short interest means sharp reversals both ways", "Correlated healthcare exposure (lessons item 8) and leverage (691.7M debt vs 9.2M FCF)"],
+ "debate_winner": "draw"}

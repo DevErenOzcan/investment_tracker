@@ -1,0 +1,16 @@
+{"ticker": "SIBN",
+ "thesis": "Buying a small-cap, still-loss-making medtech into a 0.95-confidence risk-off tape (QQQ below 50/200-day, VIX 31.34 at the 99th percentile) is poor timing. The stock is up about 62% in 126 days and has already faded 8% from its post-earnings high, so the earnings re-rating looks to be unwinding with no fresh catalyst. The 25.92 target is a prior supply zone, and a market-wide liquidation can gap a thin name (average volume about 0.7M) through the 22.55 stop. Insider selling by the CEO and two officers right after the pop adds to the caution. Sequential revenue slipped and the stock trades at 4.85x sales with negative forward earnings.",
+ "evidence": [
+  "regime_view: regime = risk-off, confidence = 0.95; long swing exposure warrants a defensive stance",
+  "regime_view: ^VIX 31.34, 1-year percentile 0.991; QQQ 21-day return -13.63%, below 50- and 200-day",
+  "technical: setup = pullback, close 23.73 vs SMA20 23.32; target 25.92 is the 52-week high (supply zone)",
+  "technical: stop 22.55 is only about 5% below the close, and the 11/18 low and 22.72 swing low are close to it",
+  "fundamentals: red_flags = still loss-making (profit margin -6.2%), sequential revenue 56.01M to 55.70M",
+  "fundamentals: stock up 61.65% over 126 days, near its 52w high 25.92; valuation = unknown, price/sales 4.85",
+  "news: insider sales by CEO, an officer and the CLO on 2026-11-18/19; CEO sale unexplained in the packet",
+  "news: short interest about 11.7% of float; stock gave back part of the post-earnings gap",
+  "news: no article describes the earnings print, so the cause of the 11/3 move is inferred from timing"
+ ],
+ "downside_case": {"level": 20.22, "probability": 0.25},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

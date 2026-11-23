@@ -1,0 +1,18 @@
+{"ticker": "CRVL",
+ "thesis": "CRVL is a good business with a clean chart, but it is being bought into the worst tape in a year. The regime is risk-off at 0.95 confidence with VIX at the 0.991 percentile, and high-multiple stocks near highs tend to get sold when correlations spike. Valuation is rich (P/E 37.09, EV/EBITDA 21.532) with no peer data to justify it. The Nov 18 break to 90.71 was rejected, volume gave no breakout confirmation, and officers are selling into the highs. Reward/risk of 1.53 is thin for a long swing in a defensive regime, and a gap through the 81.6 stop is plausible if the market sells off again.",
+ "evidence": [
+  "regime_view: regime = risk-off, confidence 0.95",
+  "regime_view: VIX 31.34, 1-year percentile 0.991; QQQ 21-day return -13.63%, below 50- and 200-day averages",
+  "regime_view: leading_sectors = XLP, XLV, XLU (defensives only); CRVL is not a defensive leader",
+  "fundamentals: valuation = rich; trailing P/E 37.09, EV/EBITDA 21.532, P/S 4.40",
+  "fundamentals: red_flags = no sector peer ratios, no analyst target data, SEC quarterly series has gaps",
+  "fundamentals: short interest 9.79% of float (not extreme, but a crowded-exit risk if the tape breaks)",
+  "news: officer Form 144 sales (EVP Bertels about 5,847 shares, VP sale, proposed 7,020 shares) dated 2026-11-19, near the 52-week high",
+  "news: Wall Street Zen 'Cut to Buy' on 2026-11-22, direction mixed or a downgrade",
+  "technical: Nov 18 push to 90.71 rejected (close 88.87, then 87.36); volume ratio 1.27 shows no breakout expansion",
+  "technical: reward_risk = 1.53; first resistance 90.71, only 2.7% above the 88.28 close",
+  "technical: close 88.28 is about 4% above SMA20 84.86, so an extended entry; invalidation 81.84"
+ ],
+ "downside_case": {"level": 81.6, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

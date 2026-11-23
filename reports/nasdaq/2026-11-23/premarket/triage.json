@@ -1,0 +1,31 @@
+{
+  "finalists": [
+    {"ticker": "IDXX", "why": "Healthcare (regime-leading sector) large cap in a trend-4 uptrend with RSI 59.8, ext_20 2.7% and 5.3% below the high, so not extended.", "watch": "Pulled back 4.0% over 5 days while ret_21 is +19.3%, and it trades at a forward PE near 40, so a rotation out of defensives could hit it."},
+    {"ticker": "IPAR", "why": "Consumer Defensive (regime-leading theme) in a trend-4 uptrend, 0.8% from its high with ext_20 7.9% and RSI 69.6, backed by 2027 sales guidance.", "watch": "Goldman sees limited upside after the 65% share rally, and RSI is already near 70."},
+    {"ticker": "AMPH", "why": "Healthcare drug maker with a clean setup: trend 4, RSI 54.2, ext_20 0.9% and 8.9% below the high, with a low forward PE of 8.4.", "watch": "Dollar volume is thin (about 14M), the sell-side rating is 'Reduce', and the CFO sold shares near $30."},
+    {"ticker": "GMAB", "why": "Large-cap healthcare biotech with strong 63-day relative strength, ext_20 -4.1%, RSI 55.2 and a Phase III readout catalyst narrative.", "watch": "Trend score is only 3, it sits 15.6% below the high, and volume ratio is a light 0.66."},
+    {"ticker": "CRVL", "why": "Uptrend (trend 4) 2.7% below the high with RSI 64.6, ext_20 4.0% and a volume ratio of 1.27, with the next earnings not until February.", "watch": "Liquidity is modest (about 17M dollar volume) and several officer sale filings appear in the headlines."},
+    {"ticker": "PLMR", "why": "Property and casualty insurer (defensive-leaning) breaking to new highs with trend 4, ext_20 8.5%, RSI 70.7 and 58% revenue growth.", "watch": "Near the high with RSI above 70, so a pullback is likely if the market sells off further."},
+    {"ticker": "WMG", "why": "Trend-4 uptrend with ext_20 4.2%, RSI 66.4 and a volume ratio of 1.27, with record earnings already reported and the next report not until February.", "watch": "Discretionary media exposure is vulnerable in a risk-off tape, and it sits 5.9% below the high."},
+    {"ticker": "SIBN", "why": "Healthcare med-tech with a trend-4 setup, RSI 57.6, ext_20 1.7%, 8.4% below the high and a volume ratio of 1.10.", "watch": "Small cap (about 1.07B) with ATR near 4.6% and negative forward earnings, so it is volatile in a high-VIX market."}
+  ],
+  "dropped": [
+    {"ticker": "XERS", "why": "Over-extended: RSI 81.7 and ext_20 22.3% after a 56% 21-day run."},
+    {"ticker": "SGRY", "why": "RSI 84.4 on very light volume (ratio 0.50), and a shareholder fairness investigation in the headlines points to buyout or litigation event risk."},
+    {"ticker": "INSM", "why": "ext_20 22.8% and a Sanofi buyout rumor in the headlines is binary event risk."},
+    {"ticker": "BRZE", "why": "RSI 78.0 fails the RSI < 78 cap, and it is technology, the regime's lagging area."},
+    {"ticker": "NTSK", "why": "Technology (lagging sector) with ATR 7.5% and a forward PE near 968, with earnings on 2026-12-02 only a few sessions away."},
+    {"ticker": "CRAI", "why": "RSI 77.3 is at the edge of the cap and it is a cyclical consulting name, so lower priority than the defensive picks."},
+    {"ticker": "EXPO", "why": "RSI 75.8 is stretched, and the headlines are mostly irrelevant noise and not a defensive setup."},
+    {"ticker": "SLN", "why": "RSI 77.6 with a very thin volume ratio of 0.27, and it is a pre-revenue biotech."},
+    {"ticker": "VRDN", "why": "Biotech with a 3.0% 5-day decline and negative earnings, and it ranks below the healthcare names picked."},
+    {"ticker": "ADMA", "why": "Sits 26.8% below its high, so it is not a clean breakout or base, and the headlines show put-option chatter."},
+    {"ticker": "COLM", "why": "Consumer Cyclical (not a leading sector), with a 21.3% 21-day run and director selling."},
+    {"ticker": "CROX", "why": "Consumer Cyclical with a 5.5% 5-day drop and a weaker setup than the defensive picks."},
+    {"ticker": "AXGN", "why": "ret_21 of 52% suggests a spike, and it is a lower-quality setup than the other healthcare names."},
+    {"ticker": "ARHS", "why": "Trend 3 and 14.3% below the high in a cyclical specialty retail name, which is a weak fit for a risk-off regime."},
+    {"ticker": "VERX", "why": "Technology (lagging sector), 13.3% below the high with a negative 5-day return."},
+    {"ticker": "APPN", "why": "Technology (lagging sector) with trend 3 and ATR 6.4%."},
+    {"ticker": "REPL", "why": "ATR 6.7%, trend 3, a 12.9% 5-day drop and 19% below the high, so the setup is broken."}
+  ]
+}

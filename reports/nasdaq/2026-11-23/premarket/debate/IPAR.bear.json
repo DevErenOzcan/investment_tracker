@@ -1,0 +1,15 @@
+{"ticker": "IPAR",
+ "thesis": "IPAR is extended at a 52-week high into a broad risk-off tape, and a Goldman downgrade to neutral landed this morning, after the 11/20 close, so it is not yet priced. The 65% rally already discounts the FY2027 guidance (about +6% sales, EPS about $5). The mean analyst target of 131 sits below the price. RSI is near 70 and the stock is 7.9% above SMA20, which makes a fade or gap-down at the open likely. Reward/risk of about 1.9 is modest, and with short interest at 10.7% of float and VIX at the 99th percentile, a failed breakout can move fast.",
+ "evidence": [
+  "technical card: close = 137.42, 0.8% below 52-week high 138.5, RSI 69.6, 7.9% above SMA20 (127.40)",
+  "technical card: reward_risk = 1.9, entry_zone = [133.5, 135.5], so buying at market is chasing",
+  "technical card: invalidation = daily close below 129.77, or a gap-down through the 132.45 to 130.77 floor on heavy volume after the Goldman downgrade",
+  "news card: Goldman downgrade to neutral from buy on 2026-11-23, not yet in the 11/20 close",
+  "news card: event_risks = mean analyst target 131 below price; short interest 10.7% of float",
+  "news card: score = -1, near-term news skew negative for a swing entry",
+  "regime_view: regime = risk-off, confidence 0.95; QQQ 21-day return -13.63%, VIX 31.34 at 1-year percentile 0.991",
+  "regime_view: Long swing exposure warrants a defensive stance; only XLP, XLV and XLU hold above their 50-day"
+ ],
+ "downside_case": {"level": 129.3, "probability": 0.4},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

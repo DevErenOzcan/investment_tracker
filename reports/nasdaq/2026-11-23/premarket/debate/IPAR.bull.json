@@ -1,0 +1,21 @@
+{"ticker": "IPAR",
+ "thesis": "IPAR is a high-quality, cash-generative company in a clean uptrend, with a gap-up earnings breakout and FY2027 guidance supporting the move. It is also defensive-ish consumer exposure in a risk-off tape where tech is the laggard. The bull case is only a pullback entry: buy the 133.5-135.5 zone with the stop at 129.3 and a target of 144.5, not a chase at the highs. The setup is weak to moderate. The stock is extended, valuation is rich, Goldman downgraded it this morning, and the regime is risk-off with long swing exposure warranted only defensively. Size small, or wait for the dip.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = pullback",
+  "technical: entry_zone = [133.5, 135.5]",
+  "technical: stop = 129.3",
+  "technical: target = 144.5",
+  "technical: reward_risk = 1.9",
+  "technical: notes = close 137.42 above SMA20 127.40, SMA50 119.30, SMA200 106.19; gap-up breakout Nov 5 on 747k volume, about 3x average",
+  "fundamentals: quality = high",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: notes = gross margin 59.8%, operating margin 17.9%, ROE 19.0%, free cash flow 209M, cash 240M against debt 212M; Q3 2026 net income 68.2M vs 65.8M a year earlier",
+  "fundamentals: notes = short interest 10.7% of float, below the 15% threshold",
+  "news: catalysts[2026-11-19] = initial FY2027 guidance of net sales about 1.58B (+6%) and diluted EPS about 5",
+  "news: binary_event = false",
+  "news: event_risks = no S-3 or 424B5 in the last 10 days, no offering risk; no takeover, litigation or probe in the news",
+  "regime_view: leading_sectors = XLP, XLV, XLU (defensive, consumer staples-like exposure is not the lagging group)"
+ ],
+ "upside_case": {"target": 144.5, "probability": 0.3},
+ "rebuttal_to_bear": null}

@@ -1,0 +1,17 @@
+{"ticker": "PLMR",
+ "thesis": "The market is in a 0.95-confidence risk-off regime with VIX near its 1-year high, and long swing exposure is explicitly flagged as needing a defensive stance. PLMR is the opposite of a defensive entry. It closed on a 5.7% momentum spike with no stated cause, RSI is 70.7, and the close is 8.5% above SMA20. Consensus upside is only about 3%, so the 180 target depends on a measured-move extrapolation. The technical card itself says to skip if price gaps up without a pullback, and the pre-market quote of 163.99 is already above the 159.5-162.5 entry zone. A single index-wide liquidation day would take out the stop at 151.9, and as a P&C insurer a catastrophe-loss gap is always possible.",
+ "evidence": [
+  "regime_view: regime = risk-off, confidence = 0.95; VIX 31.34, 1-year percentile 0.991; QQQ below 50- and 200-day averages",
+  "regime_view: summary = 'Long swing exposure warrants a defensive stance'",
+  "technical: RSI 70.7, close 163.59 is 8.5% above SMA20 150.8; 'a chase unattractive'",
+  "technical: entry_zone = [159.5, 162.5] versus pre-market quote 163.99; card says skip if price gaps higher without a pullback",
+  "technical: reward_risk = 2.1 depends on a measured-move target of 180.0, not on a resistance level",
+  "news: Nov 20 +5.7% breakout 'gives no specific cause, so this looks like momentum'",
+  "news: mean analyst target 168.83 is about 3% above the 163.59 close",
+  "fundamentals: red_flags include an extended entry on one-day 2x volume; no peer multiples, so valuation = fair is unverified",
+  "fundamentals: cash 55.6M vs total debt 315.0M, debt/equity 31.98",
+  "news: cat-loss risk (earthquake, wind, hail, severe convective storm) can cause sudden gaps"
+ ],
+ "downside_case": {"level": 151.9, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

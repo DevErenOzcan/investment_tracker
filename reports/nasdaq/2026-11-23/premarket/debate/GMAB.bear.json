@@ -1,0 +1,16 @@
+{"ticker": "GMAB",
+ "thesis": "GMAB has roughly doubled in six months on a single late-October gap, and it is now making lower highs and lower lows while sitting on its 10-day low. The market is in a violent risk-off regime (QQQ below both averages, VIX at the 99th percentile), and a high-beta, extended name is the kind that gets sold when funds raise cash. The proposed stop is only about 0.7 ATR from entry, so noise alone can stop it out. The real support is the gap-fill zone at 44-45, far below the stop. Valuation is stretched on earnings (trailing PE 43, forward PE 32) with earnings growth negative and debt above cash.",
+ "evidence": [
+  "regime_view: regime = risk-off, confidence 0.95; QQQ ret_21 = -13.63%; VIX 31.34 at 1-year percentile 0.991",
+  "technical: setup = pullback; sequence of lower highs and lower lows (57.06, 55.8, 53.87, 52.4) since the 10/28 gap",
+  "technical: close 50.6 is 4% below SMA20 (52.77) and sits at the 10-day low of 50.24",
+  "technical: stop 49.4 is about 0.7 ATR from entry (ATR 2.03), so it is tight and could be hit by noise",
+  "technical: invalidation opens a gap-fill toward 44-45 (20-day low 43.98), well below the stop",
+  "news: the +28% 10/28 gap and the +10% (10/05) and +9.5% (10/23) jumps have no matching news item, so their causes are unverified",
+  "news: Kalkine note says acquisition costs weigh on earnings; the catalyst is not new this week and there is no near-term catalyst",
+  "fundamentals: trailingPE = 43.25, forwardPE = 32.03, earningsGrowth = -0.147, price up 0.8831 over 126 days",
+  "fundamentals: totalDebt 5.198B vs totalCash 1.871B; SEC quarterly series is empty so acceleration cannot be verified; next earnings date unknown"
+ ],
+ "downside_case": {"level": 44, "probability": 0.25},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}
