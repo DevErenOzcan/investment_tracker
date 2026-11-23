@@ -1,0 +1,31 @@
+{
+ "ticker": "CRVL",
+ "rating": "Overweight",
+ "confidence": 0.45,
+ "entry": 87.25,
+ "entry_zone": [
+  86.5,
+  87.25
+ ],
+ "stop": 81.6,
+ "target": 95.9,
+ "horizon_days": 15,
+ "expected_return": {
+  "low": -0.065,
+  "high": 0.099
+ },
+ "sector": "Healthcare",
+ "earnings_date": "2027-02-02",
+ "thesis": "The morning thesis is intact. CRVL is at 88.09 intraday (below the 88.28 prior close), inside a tight 87-90 consolidation under the 90.71 52-week high, above SMA20 85.04, SMA50 79.95 and SMA200 64.19, with rs_63 +0.34 while QQQ is down 13.63% over 21 days. Fundamentals are strong (revenue +11.47% YoY, net income +22.15% YoY) and there is no catalyst before the 2027-02-02 earnings. The risk-off regime (0.95), the P/E of 37.01 and routine officer selling justify only a small position, filled at or below 87.25 (today's low 87.69 has not touched the zone) and not chased.",
+ "invalidation": "Daily close below the 81.84 10-day swing low (stop 81.6), with a close back below the SMA20 near 85.0 on rising volume as an early warning.",
+ "key_risks": [
+  "Broad risk-off tape (VIX 31.34, 1-year percentile 0.991) can drag down high-multiple leaders and gap the price through the 81.6 stop",
+  "Reward/risk is 1.53 only from the 87.25 limit; at the 88.09 last it is about 1.20, so the call depends on a fill in the 86.5-87.25 zone",
+  "Rich valuation (P/E 37.01, EV/EBITDA 21.53) with no peer data to support it",
+  "Supply near the 90.71 high: Nov 18 rejection and officer Form 144 sales (5,847 and 7,020 shares)",
+  "Sector tag is Financial Services/Insurance Brokers in the packet profile, while the morning card used Healthcare; the business (workers' comp managed care) is correlated with the healthcare names under lesson 8",
+  "Short interest about 9.8% of float adds volatility both ways",
+  "News feed is titles-only Google RSS; the technical card JSON is malformed (unterminated notes string), so its values were checked against the packet"
+ ],
+ "debate_winner": "skipped"
+}

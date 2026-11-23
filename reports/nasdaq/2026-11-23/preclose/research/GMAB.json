@@ -1,0 +1,15 @@
+{"ticker": "GMAB", "rating": "Hold", "confidence": 0.37,
+ "entry": 52.1, "entry_zone": [51.6, 52.6], "stop": 49.9, "target": 57.3, "horizon_days": 10,
+ "expected_return": {"low": -0.042, "high": 0.1},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "The thesis is intact: GMAB held its 10-day low of 50.24 and bounced from the 50.6 close to 53.12 (+5%), trend is up (SMA20 53.19 > SMA50 43.39 > SMA200 32.12, RSI14 61.7), and healthcare (XLV) is one of three sectors above its 50-day in a risk-off tape. However, price has run about 3.5% above the morning zone top of 51.3, and at the 53.12 last price reward/risk to 57.3 against the 49.9 stop is only about 1.3 (reward 4.18, risk 3.22), below the 1.5 floor, so per lesson 3 this is downgraded to Hold. It goes back to Overweight only on a dip into 51.6-52.6 (midpoint 52.1 gives about 2.4 reward/risk); do not chase.",
+ "invalidation": "A daily close below 49.9 (under the 10-day swing low of 50.24) ends the post-gap consolidation and opens a gap-fill toward the 20-day low of 43.98.",
+ "key_risks": [
+  "Entry ran away: at the 53.12 last price reward/risk is about 1.3, and today's bounce came on light volume (vol_ratio 0.65, partial day) while price sits right at the SMA20 (53.19)",
+  "Post-gap structure is still lower highs and lower lows since the 10/28 gap to 59.97 (closes 57.06, 55.8, 53.87, 52.4 highs), so today's bounce may be just another lower high",
+  "Broad risk-off regime at 0.95 confidence (QQQ 21-day -13.63%, VIX 31.34 at the 0.991 percentile) could pressure a stock up 97.6% over 126 days as funds raise cash",
+  "Valuation on earnings is stretched (trailing PE 45.4, forward PE 33.6) with earnings growth -0.147 and total debt 5.198B above cash 1.871B; SEC quarterly series empty, and the October catalysts are known only from an IBD recap",
+  "Stop moved from the morning's 49.4 to the technical card's 49.9 (just under the 50.24 swing low); it is about 1.1 ATR (2.09) below the 52.1 entry, so noise can trigger it",
+  "Correlated healthcare exposure: per lessons, cap combined healthcare weight rather than sizing GMAB alone"
+ ],
+ "debate_winner": "skipped"}

@@ -1,0 +1,19 @@
+{"regime": "risk-off",
+ "confidence": 0.95,
+ "leading_sectors": ["XLP", "XLV", "XLU"],
+ "lagging_sectors": ["XLK", "SMH", "XLE"],
+ "evidence": [
+  "QQQ below 50- and 200-day averages (last 608.45)",
+  "QQQ 21-day return -13.63%, past the -8% risk-off threshold; 5-day -10.51%",
+  "^VIX at 31.34 with 1-year percentile 0.991 (above 0.85), 21-day change +61.13%",
+  "SPY and IWM both below 50/200-day (SPY ret_21 -9.71%, IWM ret_21 -7.25%)",
+  "SMH ret_21 -23.56% and XLK ret_21 -18.28%, tech and semis leading the decline",
+  "Only XLP, XLV and XLU above their 50-day (3 of 15 sector ETFs); XLP ret_21 +0.52%, XLV ret_63 +1.84%"
+ ],
+ "watch": [
+  "Whether QQQ can reclaim its 50-day average",
+  "VIX staying above its 50- and 200-day averages (last 31.34)",
+  "Semiconductor weakness (SMH ret_5 -17.81%) spreading further"
+ ],
+ "summary": "Broad risk-off: QQQ is below both its 50- and 200-day averages with a 21-day return of -13.63%, and VIX is at 31.34 (1-year percentile 0.991). Selling is led by semis and tech (SMH -23.56%, XLK -18.28% over 21 days), while only defensives (XLP, XLV, XLU) hold above their 50-day. Long swing exposure warrants a defensive stance."
+}

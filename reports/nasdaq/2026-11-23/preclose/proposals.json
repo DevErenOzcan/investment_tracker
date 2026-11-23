@@ -1,0 +1,46 @@
+{
+  "as_of": "2026-11-23",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "peak_value_units": 1000,
+  "drawdown": 0.0,
+  "regime": "risk-off",
+  "regime_mult": 0.4,
+  "risk_per_trade": 0.0075,
+  "portfolio_vol": 0.0013881809937390142,
+  "positions": [
+    {
+      "ticker": "CRVL",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 87.25,
+      "stop": 81.6,
+      "target": 95.9,
+      "rr": 1.53,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "kelly": 0.0908,
+      "stop_pct": 0.0648,
+      "binding": "kelly",
+      "engine_weight": 0.0054,
+      "priority": 0.054450867052023046,
+      "flags": [],
+      "amount_units": 5.4
+    }
+  ],
+  "cash_weight": 0.9946,
+  "rejected": [
+    {
+      "ticker": "AMPH",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "GMAB",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "SIBN",
+      "reason": "rating Hold: no new buy"
+    }
+  ]
+}

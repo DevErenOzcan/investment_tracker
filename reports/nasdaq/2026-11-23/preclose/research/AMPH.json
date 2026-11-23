@@ -1,0 +1,8 @@
+{"ticker": "AMPH", "rating": "Hold", "confidence": 0.42,
+ "entry": 29.23, "entry_zone": [28.3, 28.75], "stop": 27.55, "target": 31.0, "horizon_days": 10,
+ "expected_return": {"low": -0.057, "high": 0.061},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "The uptrend is intact (last 29.23 above SMA20 28.19, SMA50 26.62 and SMA200 22.38, RSI 60, rs_63 +0.42), and no news broke the thesis. But the price ran +0.98 (+3.5%) on light partial-day volume and with no catalyst, so it is now above the morning zone of 27.9-28.35. At 29.23, reward/risk is only about 1.05 (1.77 up to the 31.0 high, 1.68 down to the 27.55 stop), well below 1.5, so per lessons item 3 this is a Hold and should not be chased. The setup becomes actionable again only on a pullback into the technical card's 28.3-28.75 zone (R/R about 2.5 from the 28.525 midpoint). Stop moved from the morning 27.35 to 27.55 per the technical card, just under the 10-day swing low of 27.79.",
+ "invalidation": "Daily close below 27.55 (under the 27.79 swing low of 11/19-11/20) voids the long setup.",
+ "key_risks": ["Entry ran away: R/R at the 29.23 last price is about 1.05, and filling above the zone turns a 2.5 R/R trade into a coin flip", "Extreme risk-off regime (QQQ 21-day -13.63%, VIX 31.34 at 1-year percentile 0.991) can drag defensives too", "31.0 is the 52-week high, rejected on 11/06 with a long upper wick; the CFO 10b5-1 sale at 29.99 adds overhead supply", "Price is above the 24.5 mean analyst target with a 'Reduce' consensus; short interest of 21.7% of float means sharp reversals both ways", "Correlated healthcare exposure (lessons item 8) and leverage (691.7M debt vs 230.6M cash, 9.2M FCF)"],
+ "debate_winner": "skipped"}
