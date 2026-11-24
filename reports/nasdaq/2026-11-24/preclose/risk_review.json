@@ -1,0 +1,21 @@
+{
+  "vetoes": [],
+  "reductions": [
+    {
+      "ticker": "CROX",
+      "factor": 0.5,
+      "reason": "A morning limit at 157.24-157.38 may already have filled but is not recorded, so true CROX exposure is unknown; on top of that the 0.45 confidence rests on a 2.61 R/R at the 155.75 midpoint that has not traded (1.21 at the 157.815 last, about 1.41 from a morning fill), the stop sits only about 0.6 ATR below entry in a risk-off tape with gap risk, and the leverage and margin-squeeze headlines were not re-checked."
+    }
+  ],
+  "portfolio_notes": "The regime is risk-off (confidence 0.85, VIX 29.99 at the 0.981 percentile), and the engine's 98.6% cash with one small consumer-discretionary position fits that; there is no AI or semis concentration and no binary event inside the window (CROX earnings 2027-02-11, no offering filings). The main risk is a gap between the record and reality: state/portfolio.json shows no holdings, but the morning PGNY and CROX limits may have partly filled today, so sizing, sector and cash checks may be understating exposure. CROX should stay limit-only inside 154.5-157.0 at the reduced size, with no adding above 157.0. If both morning fills happened, the owner should record them before the next run so the next sizing pass counts them.",
+  "held_alerts": [
+    {
+      "ticker": "CROX",
+      "alert": "Possible unrecorded morning fill at 157.24-157.38 (today's low 157.24 touched the zone top 157.38); against the 152.50 stop (about 3% below) and the 164.24 target, R/R from that fill is only about 1.41, under the 1.5 minimum, so do not add to it, and a daily close below 152.50 ends the thesis; record any fill in state/portfolio.json."
+    },
+    {
+      "ticker": "PGNY",
+      "alert": "Possible unrecorded morning fill at 35.39-35.60 (today's low 35.39); research says hold any fill with the 34.65 stop (invalidated by a close below 34.65 or below SMA20 near 33.90 on rising volume), but the 37.21 target is only about 0.65 ATR above the 36.49 last with RSI 70.5, so a reversal at the 52-week high is plausible, the next earnings date is unconfirmed, and no new buying should happen outside 35.0-35.6; record any fill in state/portfolio.json."
+    }
+  ]
+}

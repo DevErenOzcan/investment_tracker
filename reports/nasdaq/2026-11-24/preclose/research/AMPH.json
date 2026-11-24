@@ -1,0 +1,8 @@
+{"ticker": "AMPH", "rating": "Hold", "confidence": 0.45,
+ "entry": 29.76, "entry_zone": [28.5, 28.9], "stop": 27.5, "target": 31.0, "horizon_days": 10,
+ "expected_return": {"low": -0.0759, "high": 0.0417},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "Downgraded from the morning Overweight. The fill-conditional entry did not trigger (low 29.61 vs the 28.8-29.5 zone), and today's open near 29.96 faded from 30.57 to 29.76, a mild rejection under 31.00 that weakens the breakout the morning 32.16 target depended on. Target cut to the technical card's 31.00 high and stop moved from 27.60 to 27.50 (under the 27.79 swing low). Under these levels R/R is 1.24/2.26 = 0.55 at last and 0.94 at the 29.3 zone top, reaching 1.5 only at or below 28.90. Fundamentals are still solid (revenue +8.2% YoY, forward P/E 8.9), but sell-side consensus is Reduce with a 24.5 target and the CFO is selling, so only a dip to 28.5-28.9 reopens the trade.",
+ "invalidation": "Daily close below 27.50, or a second rejection at 30.5-31.0 followed by a close back under SMA20 (about 28.42) on rising volume.",
+ "key_risks": ["The 31.00 52-week high was rejected on 11/6 and again near 30.57 today", "Mean analyst target 24.5 is about 18% below last; downgrade or target-cut risk", "21.7% short float makes moves sharp both ways; CFO 10b5-1 selling near 30 is a mild overhang", "Leverage (debt 691.7M, debt/equity 84.9) and thin free cash flow (9.2M)", "Correlated healthcare exposure with PGNY and SIBN (lessons item 8)", "Next earnings date not in the packet (last report 2026-11-05)", "Debate skipped (pre-close procedure); judgement rests on the technical and news cards only"],
+ "debate_winner": "skipped"}

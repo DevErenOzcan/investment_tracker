@@ -1,0 +1,52 @@
+{
+  "as_of": "2026-11-24",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "peak_value_units": 1000,
+  "drawdown": 0.0,
+  "regime": "risk-off",
+  "regime_mult": 0.4,
+  "risk_per_trade": 0.0075,
+  "portfolio_vol": 0.0046747742149399925,
+  "positions": [
+    {
+      "ticker": "CROX",
+      "status": "new",
+      "sector": "Consumer Cyclical",
+      "price": 155.75,
+      "stop": 152.5,
+      "target": 164.24,
+      "rr": 2.61,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "kelly": 0.2395,
+      "stop_pct": 0.0209,
+      "binding": "kelly",
+      "engine_weight": 0.0072,
+      "priority": 0.1436749116607775,
+      "flags": [
+        "risk-officer reduction x0.5: A morning limit at 157.24-157.38 may already have filled but is not recorded, so true CROX exposure is unknown; on top of that the 0.45 confidence rests on a 2.61 R/R at the 155.75 midpoint that has not traded (1.21 at the 157.815 last, about 1.41 from a morning fill), the stop sits only about 0.6 ATR below entry in a risk-off tape with gap risk, and the leverage and margin-squeeze headlines were not re-checked."
+      ],
+      "amount_units": 7.2
+    }
+  ],
+  "cash_weight": 0.9928,
+  "rejected": [
+    {
+      "ticker": "AMPH",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "ASO",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "PGNY",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "SIBN",
+      "reason": "rating Hold: no new buy"
+    }
+  ]
+}

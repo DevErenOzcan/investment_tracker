@@ -1,0 +1,8 @@
+{"ticker": "ASO", "rating": "Hold", "confidence": 0.52,
+ "entry": 72.28, "entry_zone": [67.8, 69.5], "stop": 66.7, "target": 73.82, "horizon_days": 8,
+ "expected_return": {"low": -0.0771, "high": 0.0214},
+ "sector": "Consumer Cyclical", "earnings_date": "2026-12-08",
+ "thesis": "Downgraded from the morning Overweight because the entry ran away. ASO rallied 4.3% to 72.28 (high 72.70, low 69.96) and never reached the 67.8-69.3 zone. The uptrend and XLY leadership are intact, but there is no company-specific catalyst. At the last price, R/R to 73.82 against the 66.70 stop is 1.545/5.575 = 0.28. In the technical card's new 68.8-70.3 zone, R/R only reaches 1.5 at or below about 69.55, a full ATR below last and under today's low. The 2026-12-08 earnings report falls inside the 8-day window, so a fresh entry would need a dip into 67.8-69.5 and an exit by the 2026-12-07 close.",
+ "invalidation": "A daily close below 66.70 (under the 66.96 swing low and SMA20 near 67.2), or a failed retest of 73.82 followed by lower closes.",
+ "key_risks": ["Earnings on 2026-12-08 are inside the holding window (binary_event true); a gap can skip the 66.70 stop. Exit by the 2026-12-07 close", "Price 72.28 is well above the 63.58 mean analyst target after a +66% 63-day run", "Target 73.82 is the Nov 18 intraday high that reversed", "Short interest about 19.9% of float amplifies moves both ways", "Risk-off regime (VIX 29.99, 0.981 percentile) can de-gross crowded momentum names", "Debate skipped (pre-close procedure); judgement rests on the technical and news cards only"],
+ "debate_winner": "skipped"}
