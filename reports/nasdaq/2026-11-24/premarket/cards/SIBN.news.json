@@ -1,0 +1,15 @@
+{"ticker": "SIBN", "catalysts": [
+{"what": "Motley Fool takeaways piece on SI-BONE results: higher hospital reimbursement rates for complex spinal surgeries could accelerate adoption (consistent with the 2026-11-03 gap up of about +17% on 3.3M shares after the Q3 10-Q; the packet has no direct earnings article)", "date": "2026-11-22", "direction": "positive", "source": "https://www.fool.com/earnings/takeaways/2026/11/22/si-bone-3-key-takeaways-for-long-term-investors/"},
+{"what": "Fireside chat with SI-BONE management scheduled for 8 a.m. ET on Dec 1 (investor conference, likely no new data)", "date": "2026-12-01", "direction": "mixed", "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRnRNdHNhUURha1lNSF9HdlpyRHFkWlBSLWVaME53Z0l5S0JOazJINGc2ZmFvMV9qckg4azU3Q2hULURtWE1Fb0gwZ0RjQTdUTWQ0MVNtX2J0RXJqdUZvRXc5VFJTaWlMYmptSUstbV90bGVKZk5FSkV5WDg3R0s1MjNJMlJSMzZMQkdTQ2tGREEwQ3ZQdTdybkFhNVdncmVqVXdsWERjODIwX2JBYnR1OVhRdw?oc=5"},
+{"what": "CEO, chief legal officer and another officer sold shares around Nov 18-19 (CEO about $393k); Stock Titan says the legal chief and Maheshwari sales covered tax withholding on vested awards, so mostly routine", "date": "2026-11-19", "direction": "mixed", "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYmVfeVlNbnRIRGtYakxVOF9VRnEwdVNUdkszTi1MM3hveWUyXzl4MFRDSDdMU1ZiSkZQZUpScnpETnpnaTNiQWRMM0t5TmRQX2JzbmlsMzY0V1ZiX3BVYmRMOGphdDFpcnktdGp4aVVGRUxFX09TSk1MVUdkX3ktZzJRSzY5bUVaU1hTT3ZvcVcyMENsVUxOUGdMU0c4MjN4TjUzaVNTdi1uUXUwR3BzQ0RlRHBLVkhwTkZF?oc=5"}
+],
+"event_risks": [
+"No SEC filings in the last 10 days, so no S-3/424B5 or 8-K event risk is visible. The company has about 146M cash against 43M debt, so near-term offering need looks low. Equity raises are still a general risk after a +69% run in 6 months.",
+"Insider selling cluster (CEO, CLO, other officer), mostly tax-withholding sales per Stock Titan; minor sentiment overhang.",
+"Short interest about 11.7% of float, which can amplify moves in both directions.",
+"Next earnings 2027-02-22 is outside the 20-business-day window. The only known event is the Dec 1 fireside chat.",
+"Price is near the 52w high (25.92) and the analyst mean target is 26.78, leaving little upside to targets.",
+"No takeover bid, litigation or regulatory probe appears in the packet."
+],
+"binary_event": false, "news_available": true, "score": 1,
+"notes": "The big price move was the 2026-11-03 gap from 20.22 to 23.77 on 3.3M shares, which coincides with the Q3 10-Q filing (revenue 55.7M, +14.5% YoY, net loss narrowing to -3.6M). The packet has no direct earnings article, so the driver is inferred from timing and the Motley Fool recap. The recap points to reimbursement tailwinds, which are structural rather than one-off. Stock has held the post-earnings gains (about 24.77 versus 23.77) with analyst consensus strongly bullish (mean 1.33). News flow is otherwise light: Yahoo and Google RSS items are mostly noise, and two are unrelated local stories. Insider sales look routine, and no offering or M&A risk shows in the filings. Overall mildly positive, with no known binary event in the next 20 business days."}

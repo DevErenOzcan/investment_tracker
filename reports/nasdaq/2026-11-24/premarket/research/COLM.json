@@ -1,0 +1,8 @@
+{"ticker": "COLM", "rating": "Hold", "confidence": 0.45,
+ "entry": 73.65, "entry_zone": [72.8, 74.5], "stop": 70.0, "target": 81.0, "horizon_days": 10,
+ "expected_return": {"low": -0.05, "high": 0.10},
+ "sector": "Consumer Discretionary", "earnings_date": "2027-02-02",
+ "thesis": "COLM is a post-earnings re-rated name (Sep-26 net income +63% YoY, positive FCF, low dilution risk) holding near its 52-week high with rs_63 +0.37 in XLY, one of the few leading sectors in a risk-off tape. The pullback setup has R/R of about 2.0 at mid-zone 73.65 (stop 70.0, target 81.0), but at the last close of 75.77 R/R is only about 0.9 with RSI 71 and a 7% extension above SMA20. Under the standing rule to downgrade to Hold when R/R at the last price is below 1.5, this stays Hold now; the pre-close review should reconsider Overweight if price trades into 72.8-74.5 while holding above SMA20 (~70.7).",
+ "invalidation": "A daily close below 70.0 (under the 70.47 swing low and the breakout base) voids the setup.",
+ "key_risks": ["Risk-off regime (QQQ below 50/200-day, VIX percentile 0.981) could drag even leading sectors", "Technically extended: RSI 71, +24% in 21 days, price above analyst mean target 73.0", "Short interest 18.97% of float raises reversal volatility", "Director selling 2026-11-17/18 after the run-up", "Revenue growth only ~2%; rally rests on margin recovery, and no news item confirms the driver"],
+ "debate_winner": "draw"}

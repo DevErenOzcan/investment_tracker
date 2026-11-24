@@ -1,0 +1,21 @@
+{"ticker": "CROX", "catalysts": [
+{"what": "Q3 earnings beat drove a gap from 119.69 to 150.26 on 2026-10-29 on 4.9M shares (about 4x average volume); Q3 net income 216.8M (+48.7% YoY), revenue 1.04B (+4.7% YoY). The stock has held and extended the gain since (now about 158).", "date": "2026-10-29", "direction": "positive", "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeDFLNnFldmNhY1dQNlNQcHFOS3FteU5aeDFDMWg1aTVGMUtyZk44MkJ6cjZieHM0NFB5Z3ZFQTZNNFc0UzNoNW4wRjAtMXBCTUZTcTZZdDI3Rmloakp2TC1VWUpkU0VZZWJLMjBZLWg1Q1F6aDNFaE5wdkVtZUZfS1dKN0k2LVhRN0UtWEMxclRMWC1CYVBCSEFfLV9iR2ptOW94alFSSW1KeDQzS0g1b1UteWlvSDlyOTkxQjh3?oc=5"},
+{"what": "Rising earnings estimate revisions after the Exane Outdoor & Sports Conference presentation (brand, cost discipline, DTC, HEYDUDE integration); Zacks Rank #1 on both the momentum and value lists.", "date": "2026-11-21", "direction": "positive", "source": "https://finance.yahoo.com/markets/stocks/articles/crocs-crox-rising-earnings-estimates-111039678.html"},
+{"what": "Zacks Rank #1 (Strong Buy) on the momentum list, which may draw momentum-style flows.", "date": "2026-11-20", "direction": "positive", "source": "https://finance.yahoo.com/markets/stocks/articles/best-momentum-stocks-buy-november-140000534.html"},
+{"what": "Concern that record footwear prices could squeeze margins (headline only, no detail in the packet).", "date": "2026-11-18", "direction": "mixed", "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcndBZjZlcF9QLU1QODVWUW5rbS1hRGJIWTRHaVBqcFZsUTZtZkVwWkgxODZlVWRRaVhueVFfSW5EM3NOcTlqN2ItSTlxWm9Rd09LN21ISlNSWm55Tm5KRjRaSHk5elhVTWxUMTIydnMwUmI0OEZoVzc0eVUyMkk4VjBzcTVLNWF2Nk8zYXpxcTlBWUNocnh2UFdOMmk1RDgwZzVtb2N5SFdwR2N5OU8tcTJoOEE2dm5NV3lBN0J3ZWdvQW0wQ3lj0gHMAUFVX3lxTE5TV1EwZUE2VGJTVURLSHk2QXd4d0xPaWxaalNVNC1tZ3hPY09kX0NaU05BUWhfX3JDMENvZ09aUXlwNV9EbHVKWkdkVlJCb2lJY0Mza1ctelNZdUVYVHNJZjlubzdwbHlDT1Q2eWZlekpGN0RIX1RRNjhCdVpkSmROalM3aVZwa2FVQ0l4X3NQTXVUVzVuSWdWOUZLX2hORHZMWG9GODZhX1k2VmN5Z3NPeE1XQjJScHFuTTlVOUI0QllHMmlwbnVYNkQ1Wg?oc=5"},
+{"what": "International sales up 12%, which supports the case that growth can persist overseas (headline only).", "date": "2026-11-18", "direction": "positive", "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTd1aGNuSVR3WlVseVJmTzJUdU5FVEp6STBKVWpoMExBWVljbWtBNTVOeWs1TlByOEdBXy1ON1pqUnRzancwV2p3bmpHLVlHaUxnaHNSVnRhWG1INHAxM19MT2lRUk5ZWnljVVhXRktKRU5rdGdQMGtjQjA3ejd3dFloUVNKZ0N6cXkwdHJwSGR1TUdqdTR1Q0dGSXJCOXM?oc=5"}
+],
+"event_risks": [
+"No 8-K, S-3 or 424B5 filings in the last 10 days, so there is no offering risk visible.",
+"Next earnings are on 2027-02-11, outside the 20-business-day window, so there is no scheduled binary event.",
+"The stock is up about 32% in 21 days and sits 3.9% below the 52-week high of 164.24. The mean analyst target of 164.67 is only about 4% above the price, so upside from re-ratings is limited and a pullback is possible.",
+"Short interest is 13% of float and beta is 1.5, so moves can be sharp in both directions.",
+"Leverage: debt of 1.66B against cash of 163M.",
+"Margin pressure from footwear price and input cost headlines is a theme to watch; the packet gives no detail.",
+"Insider activity is minor: HEYDUDE president had shares withheld for taxes on vesting, which is not a sale."
+],
+"binary_event": false,
+"news_available": true,
+"score": 1,
+"notes": "The price driver was the Q3 earnings beat on 2026-10-29, a gap of about +25% on heavy volume. It has held and extended since, with rising estimate revisions and Zacks Rank #1 on both the momentum and value lists, so the effect looks persistent rather than one-off. News since then is mostly aggregator and valuation pieces, with no new hard catalyst, and there are no SEC filings in the last 10 days. Near-term upside is limited by the price sitting close to the mean analyst target (164.67) and the 52-week high, and there is no scheduled event before 2027-02-11. Net score is mildly positive. Pre-market price is 158.77 against a previous close of 157.78, which is roughly flat."
+}

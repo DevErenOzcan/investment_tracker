@@ -1,0 +1,126 @@
+{
+  "as_of": "2026-11-24",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "peak_value_units": 1000,
+  "drawdown": 0.0,
+  "regime": "risk-off",
+  "regime_mult": 0.4,
+  "risk_per_trade": 0.0075,
+  "portfolio_vol": 0.012135016042515073,
+  "positions": [
+    {
+      "ticker": "PGNY",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 35.3,
+      "stop": 34.65,
+      "target": 37.21,
+      "rr": 2.94,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "kelly": 0.2628,
+      "stop_pct": 0.0184,
+      "binding": "kelly",
+      "engine_weight": 0.0126,
+      "priority": 0.1576963350785345,
+      "flags": [
+        "risk-officer reduction x0.8: Event risk cannot be fully checked: the earnings catalyst is inferred from price and SEC data only, with no news article in the packet, gaps in the SEC quarterly series and no confirmed next earnings date; the stop is also only about 0.6 ATR below entry, so noise could trigger it."
+      ],
+      "amount_units": 12.6
+    },
+    {
+      "ticker": "CROX",
+      "status": "new",
+      "sector": "Consumer Cyclical",
+      "price": 156.5,
+      "stop": 152.8,
+      "target": 164.24,
+      "rr": 2.09,
+      "rating": "Overweight",
+      "confidence": 0.47,
+      "kelly": 0.2166,
+      "stop_pct": 0.0236,
+      "binding": "kelly",
+      "engine_weight": 0.013,
+      "priority": 0.12998449612403162,
+      "flags": [],
+      "amount_units": 13.0
+    },
+    {
+      "ticker": "ASO",
+      "status": "new",
+      "sector": "Consumer Discretionary",
+      "price": 68.55,
+      "stop": 66.7,
+      "target": 73.8,
+      "rr": 2.84,
+      "rating": "Overweight",
+      "confidence": 0.4,
+      "kelly": 0.1886,
+      "stop_pct": 0.027,
+      "binding": "kelly",
+      "engine_weight": 0.0057,
+      "priority": 0.11314285714285754,
+      "flags": [
+        "risk-officer reduction x0.5: Earnings on 2026-12-08 leave a holding window of about 9 trading days that includes the Thanksgiving holiday, and the 3-day earnings blackout begins around 12/3; the name is also a crowded momentum stock (+60% over 63 days, price above the 63.58 mean analyst target, 19.9% short interest) with the lowest confidence in the set (0.40)."
+      ],
+      "amount_units": 5.7
+    },
+    {
+      "ticker": "SIBN",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 24.4,
+      "stop": 22.65,
+      "target": 27.5,
+      "rr": 1.77,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "kelly": 0.1395,
+      "stop_pct": 0.0717,
+      "binding": "kelly",
+      "engine_weight": 0.0063,
+      "priority": 0.08370967741935491,
+      "flags": [
+        "risk-officer reduction x0.75: A loss-making, high-beta small-cap med-tech name in a risk-off tape (VIX percentile 0.981), with an insider selling cluster on Nov 18-19 and 11.7% short interest; trimmed as part of capping the combined healthcare bet (lesson 8)."
+      ],
+      "amount_units": 6.3
+    },
+    {
+      "ticker": "AMPH",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 29.15,
+      "stop": 27.6,
+      "target": 32.16,
+      "rr": 1.94,
+      "rating": "Overweight",
+      "confidence": 0.43,
+      "kelly": 0.1365,
+      "stop_pct": 0.0532,
+      "binding": "kelly",
+      "engine_weight": 0.0041,
+      "priority": 0.08188704318936893,
+      "flags": [
+        "risk-officer reduction x0.5: Weakest of three correlated healthcare names (lesson 8): the target needs a breakout through the 31.00 high rejected on 11/6 (R/R about 1.2 to that level), sell-side consensus is Reduce with a mean target of 24.5 (about 21% below the close), the +5.1% move on 11/23 has no news driver, short float is 21.7% and the next earnings date is not in the packet, so confidence 0.43 is generous."
+      ],
+      "amount_units": 4.1
+    }
+  ],
+  "cash_weight": 0.9583,
+  "rejected": [
+    {
+      "ticker": "COLM",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "CRCT",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "UPBD",
+      "reason": "rating Hold: no new buy"
+    }
+  ]
+}

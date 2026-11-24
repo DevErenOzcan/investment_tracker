@@ -1,0 +1,15 @@
+{"ticker": "PGNY", "rating": "Overweight", "confidence": 0.45,
+ "entry": 35.30, "entry_zone": [35.0, 35.6], "stop": 34.65, "target": 37.21, "horizon_days": 10,
+ "expected_return": {"low": -0.018, "high": 0.054},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "PGNY is a post-earnings re-rated name in a clean uptrend (close 35.53 above SMA20 33.47, SMA50 29.56 and SMA200 25.21) that is digesting the 11/5 gap on average volume (ratio 0.92), with high-quality fundamentals (net income YoY 0.8935, FCF 195.1M, cash 195.6M vs debt 25.9M, forward P/E 14.8). Healthcare (XLV) is one of the 5 sectors above its 50-day in a tech-led risk-off tape, so the name is not in the lagging group. Upside is capped at the 52-week high (37.21) with a tight stop, so this is a modest tactical long sized as Overweight, not Buy: R/R is 2.9 from the 35.30 midpoint but only about 1.9 at the 35.53 last close.",
+ "invalidation": "Daily close below 34.65 (under the 34.94 10-day swing low and the post-earnings gap area), or a close below SMA20 (about 33.47) on rising volume.",
+ "key_risks": [
+  "Stop is only about 0.6 ATR (ATR 1.0793) below the entry midpoint, so normal noise can trigger it; kept as the card's level because the next structural low (27.55) is beyond the 2.5 ATR limit",
+  "Risk-off regime (confidence 0.85, VIX 29.99 at 0.981 percentile, QQQ ret_21 -7.58%) could drag even defensive names if the sell-off extends",
+  "Target is only the 52-week high (37.21), about 4.7% above close and below the mean analyst target 37.75, so upside is limited and a reversal at the high is plausible",
+  "About 14% earnings gap could partially fade; earnings catalyst is inferred from price and SEC data only, with no article in the packet and gaps in the SEC quarterly series",
+  "Correlated healthcare exposure (lessons.md item 8): size within a combined healthcare cap",
+  "Next earnings date is not in the packet (likely early 2027, unconfirmed)"
+ ],
+ "debate_winner": "draw"}

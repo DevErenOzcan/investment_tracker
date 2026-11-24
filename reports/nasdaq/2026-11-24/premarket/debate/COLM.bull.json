@@ -1,0 +1,21 @@
+{"ticker": "COLM",
+ "thesis": "COLM is in a clean uptrend with earnings recovery behind it: Sep-26 net income rose 63% YoY, free cash flow is positive and dilution risk is low. The post-earnings gap has held with higher lows. In a risk-off tape, consumer discretionary (XLY) is one of the few leading sectors and COLM shows strong relative strength. The setup is a pullback entry, not a chase, because RSI 71 and the extension above SMA20 argue against buying at the last price. A dip into the entry zone gives a defined stop and about 2:1 reward/risk toward the 52-week-high area. This is a moderate-conviction setup. The regime, valuation and short-term overextension cap the upside probability.",
+ "evidence": [
+  "technical: setup = pullback",
+  "technical: trend = up",
+  "technical: entry_zone = [72.8, 74.5]",
+  "technical: stop = 70.0",
+  "technical: target = 81.0",
+  "technical: reward_risk = 2.0",
+  "technical: notes = close 75.77 above SMA20 (70.72), SMA50 (63.05) and SMA200 (60.60); rs_63 +0.37; post-earnings gap held with higher lows",
+  "fundamentals: notes = Sep-26 net income 84.7M vs 52.0M a year earlier (+63%); free cash flow 182M; cash 230M vs debt 458M",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: earnings_date = 2027-02-02 (no earnings event inside the swing window)",
+  "fundamentals: red_flags = short interest 18.97% of float, squeeze potential",
+  "news: binary_event = false",
+  "news: event_risks = no S-3/424B5 or other SEC filings in the last 10 days, so no offering risk visible",
+  "regime_view: leading_sectors = XLY, XLP, XLU (COLM is consumer discretionary)",
+  "regime_view: evidence = XLY ret_21 +3.39% while QQQ ret_21 is -7.58%"
+ ],
+ "upside_case": {"target": 81.0, "probability": 0.35},
+ "rebuttal_to_bear": null}

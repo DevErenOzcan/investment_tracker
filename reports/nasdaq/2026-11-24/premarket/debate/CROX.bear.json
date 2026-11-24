@@ -1,0 +1,18 @@
+{"ticker": "CROX",
+ "thesis": "CROX is a high-beta consumer name bought into a risk-off tape (QQQ below 50/200-day, VIX percentile 0.981) after a +32% 21-day run that has already carried it to the mean analyst target. The remaining upside is capped by repeated supply at 163-164, while the stop sits only about 3.7 below entry and a regime-driven gap or a close below SMA20 would void the setup. Volume is light (0.86), so the hold since the earnings gap shows no fresh accumulation. Revenue growth is only +4.65%, leverage is heavy (1.66B debt vs 163M cash), and margin-squeeze headlines are unresolved. Good news is priced in, and reward/risk of about 2.1 is thin for a 1.5-beta stock with 13% short interest that can move sharply either way.",
+ "evidence": [
+  "regime_view: regime = risk-off, confidence = 0.85; VIX 29.99 at 1-year percentile 0.981; QQQ below 50- and 200-day",
+  "regime_view: leading_sectors = XLY, XLP, XLU, but breadth is only 5 of 15 sectors above their 50-day",
+  "technical: failed rallies at 163-164 on 11/13, 11/16 and 11/18 show supply at the 164.24 high",
+  "technical: volume ratio 0.86, so no fresh accumulation; reward_risk = 2.1; stop 152.8 vs close 157.78",
+  "technical: close 157.78 is 3.9% below the 52-week high 164.24, which is also the target",
+  "news: mean analyst target 164.67 is only about 4% above the price; stock +32% in 21 days",
+  "news: short interest 13% of float, beta 1.5, so moves are sharp both ways",
+  "news: 11/18 headline on record footwear prices squeezing margins (mixed, no detail)",
+  "fundamentals: totalDebt 1,663,117,952 vs totalCash 163,456,992, debtToEquity 123.651",
+  "fundamentals: revenue growth +4.65% YoY, so earnings growth is outpacing sales; the quarter ended 2025-06-30 net loss of -492,282,000 distorts YoY comparisons",
+  "fundamentals: Zacks Rank #1 momentum crowding (news catalyst 2026-11-20)"
+ ],
+ "downside_case": {"level": 149.5, "probability": 0.3},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

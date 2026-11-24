@@ -1,0 +1,21 @@
+{"ticker": "ASO",
+ "thesis": "ASO has run about 60% in 63 days with no company-specific catalyst, only a sector and holiday-sentiment move, and it now trades above the mean analyst target. Earnings on 2026-12-08 fall inside the hold, with about 20% short interest and slowing revenue growth, so a gap through the stop is a realistic outcome and the 66.70 stop gives no protection against it. The regime is risk-off at high confidence (VIX 29.99 at the 98th percentile, QQQ below both averages), and a 52-week-high retail name is exposed to a risk-off de-grossing of crowded momentum. The Nov 18 reversal candle off the 73.82 high is a failed breakout that caps the 73.8 target. If the setup breaks, price has little structural support between the stop and the SMA50.",
+ "evidence": [
+  "regime_view: regime = risk-off, confidence = 0.85",
+  "regime_view: evidence = VIX at 29.99, 1-year percentile 0.981; QQQ below 50- and 200-day averages",
+  "regime_view: evidence = Breadth weak: only 5 of 15 sectors above their 50-day",
+  "technical: notes = 52-week high 73.82 on Nov 18 reversed to a 73.05 close; last three days drifted lower",
+  "technical: notes = 63-day return +60%; close 69.28 is 4% above SMA20 (66.56) and well above SMA50 (58.37) and SMA200 (53.47)",
+  "technical: notes = Earnings on 2026-12-08 inside the holding window, so gap risk applies; short interest about 20% of float",
+  "technical: invalidation = failed retest of the 73.82 high followed by lower closes weakens the setup",
+  "news: event_risks = Price (69.28; pre-market 71.36) is above the mean analyst target of 63.58, so downgrade or target-reset risk exists",
+  "news: notes = recent move looks driven by retail and holiday sentiment, not a disclosed company event, so persistence is uncertain; score = 0",
+  "news: binary_event = true",
+  "fundamentals: red_flags = Quarterly revenue growth slowing: YoY +2.97%",
+  "fundamentals: red_flags = Total debt 1,968,884,992 vs cash 298,212,992 (debt/equity 90.381)",
+  "fundamentals: red_flags = Last close 69.28 is above analyst mean target 63.58 (19 opinions) after ret_63 +59.8%",
+  "fundamentals: valuation = fair (no peer ratios in the packet, so the low P/E of 11.62 is not confirmed cheap)"
+ ],
+ "downside_case": {"level": 58.37, "probability": 0.3},
+ "rebuttal_to_bull": "The bull calls the pullback constructive and cites XLY holding up. But XLY strength is a sector read, and the stock's own run of +60% is a sentiment move that is already 'above the analyst target'. The bull's 2.8 reward/risk assumes the stop at 66.70 fills, and an earnings gap or a risk-off open can skip it. The 73.82 high is also the level that just rejected, so the target is capped by a recent failed breakout. The bull itself admits the setup is low-conviction, with earnings inside the hold and a hostile regime, and those are reasons to wait for the post-earnings print rather than size modestly into it.",
+ "dealbreaker": false}

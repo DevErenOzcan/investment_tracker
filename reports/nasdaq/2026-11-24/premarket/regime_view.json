@@ -1,0 +1,20 @@
+{"regime": "risk-off",
+ "confidence": 0.85,
+ "leading_sectors": ["XLY", "XLP", "XLU"],
+ "lagging_sectors": ["XLE", "SMH", "XLK"],
+ "evidence": [
+  "QQQ below both 50- and 200-day averages (last 651.03, ret_21 -7.58%, ret_63 -8.3%)",
+  "VIX at 29.99, 1-year percentile 0.981 (above the 0.85 risk-off threshold), ret_21 +63.08%",
+  "SPY and IWM also below 50- and 200-day (SPY ret_21 -4.96%, IWM ret_21 -3.63%)",
+  "Semis and tech leading the decline: SMH ret_21 -12.71%, XLK ret_21 -11.38%, both below 50/200-day",
+  "Breadth weak: only XLP, XLRE, XLU, XLV, XLY above their 50-day (5 of 15 sectors)",
+  "Defensive and consumer sectors holding up: XLY ret_21 +3.39%, XLP ret_21 +2.4%, XLU ret_21 +1.79%",
+  "XLE ret_21 -13.64%, below 50-day; 10-year yield (^TNX) 4.892, ret_63 +4.89%"
+ ],
+ "watch": [
+  "QQQ reclaiming its 50-day and 200-day averages",
+  "VIX percentile falling back below 0.85",
+  "Whether the 21-day QQQ drawdown (-7.58%) extends past the -8% threshold"
+ ],
+ "summary": "QQQ is below both its 50- and 200-day averages and VIX sits at 29.99 (1-year percentile 0.981), so the regime is risk-off. Semis and tech are leading the sell-off (SMH ret_21 -12.71%, XLK -11.38%), while defensives and consumer discretionary (XLP, XLU, XLY) are holding positive 21-day returns. Breadth is poor, with only 5 of 15 sectors above their 50-day."
+}

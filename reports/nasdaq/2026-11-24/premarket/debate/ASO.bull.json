@@ -1,0 +1,22 @@
+{"ticker": "ASO",
+ "thesis": "ASO is in a strong uptrend (above SMA20, SMA50 and SMA200) and is consolidating on light volume. That gives a pullback entry with a defined stop under the swing low and a reward/risk of about 2.8 to the 52-week high. It is profitable and cash generative at a low multiple, and it sits in XLY, one of the few sectors holding up in a risk-off tape. The setup is a tactical pullback trade, not a high-conviction one. Earnings on 2026-12-08 fall inside the hold, the price is above the mean analyst target, and the market regime is hostile. Size should be modest and the entry disciplined, with no chasing of the pre-market indication.",
+ "evidence": [
+  "technical: setup = pullback",
+  "technical: trend = up",
+  "technical: entry_zone = [67.8, 69.3]",
+  "technical: stop = 66.7",
+  "technical: target = 73.8",
+  "technical: reward_risk = 2.8",
+  "technical: score = 1.0",
+  "technical: notes = RSI 60.7 not overbought; last three days drifted lower on light volume, a constructive consolidation; stop about 0.7 ATR from entry",
+  "fundamentals: quality = medium",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: notes = profit margin 6.39%, ROE 18.6%, free cash flow 169,622,880; trailing P/E 11.62, forward P/E 9.79, P/S 0.69",
+  "fundamentals: red_flags = Short interest 19.92% of float: squeeze potential and higher volatility",
+  "news: catalysts = ASO named among retailers hitting 52-week highs on holiday-season optimism (2026-11-18, positive); three new stores opened in Q4 (positive)",
+  "news: event_risks = No S-3, 424B5 or 8-K in the last 10 days, so no offering risk visible",
+  "regime_view: leading_sectors = XLY, XLP, XLU",
+  "regime_view: evidence = XLY ret_21 +3.39%, holding up while QQQ is below its 50- and 200-day averages"
+ ],
+ "upside_case": {"target": 73.8, "probability": 0.35},
+ "rebuttal_to_bear": null}

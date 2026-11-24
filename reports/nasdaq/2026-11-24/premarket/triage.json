@@ -1,0 +1,31 @@
+{
+  "finalists": [
+    {"ticker": "ASO", "why": "Sporting-goods retailer (consumer discretionary, a regime-leading sector) in a trend-4 uptrend, with ext_20 4.1%, RSI 60.7 and a 52-week-high headline, so it is not extended.", "watch": "Earnings on 2026-12-08 fall a few sessions after the entry window, and a risk-off tape could hit retail names."},
+    {"ticker": "CROX", "why": "Footwear name in consumer discretionary with a clean trend-4 setup, ext_20 3.0%, RSI 60.9 and 3.9% below the 52-week high.", "watch": "Volume ratio is 0.86, so there is no volume confirmation yet, and ret_21 of +32% leaves room for a pullback."},
+    {"ticker": "COLM", "why": "Apparel maker (consumer discretionary) in a steady uptrend with the lowest ATR in the list (3.0%), ext_20 7.1% and 2% below the high.", "watch": "RSI is 71.2, which is near the upper end, and a director has sold stock (a small amount)."},
+    {"ticker": "UPBD", "why": "Rent-to-own consumer retailer, discretionary-leaning and breaking out at its 52-week high, with ext_20 13.3% (under the 15% cap), RSI 70 and a director buying 15,300 shares.", "watch": "ext_20 is close to the cap after a +56% 21-day run, and Loop Capital downgraded the stock."},
+    {"ticker": "CRCT", "why": "Consumer-products name (sector data missing, judged from the description) in a trend-4 uptrend with ext_20 10.6% and RSI 66, still 9.9% below its high, so there is room to run.", "watch": "Several officers have sold shares in a row and dollar volume is the thinnest in the group."},
+    {"ticker": "PGNY", "why": "Healthcare benefits/fertility services name (XLV is holding above its 50-day), with ext_20 6.2%, ATR 3.0% and RSI 66.8, so the pullback entry is orderly.", "watch": "ret_5 is -4.4%, so short-term momentum is fading, and the sector is a defensive-leaning, not a leading, group in this regime."},
+    {"ticker": "AMPH", "why": "Specialty generic drug maker (defensive healthcare) with ext_20 5.3%, RSI 62.5, a trend-4 uptrend and a low forward PE of 8.9.", "watch": "Dollar volume is thin ($14.6M per day), a CFO sold under a 10b5-1 plan and the sell-side rating is 'Reduce'."},
+    {"ticker": "SIBN", "why": "Medical-device company (healthcare) in a trend-4 uptrend with ext_20 5.4%, RSI 63.3, a 1.27 volume ratio and revenue growth of 14.5%.", "watch": "Small cap with a negative forward PE and ATR of 4.4%, so it can gap down if risk-off deepens."}
+  ],
+  "dropped": [
+    {"ticker": "ULCC", "why": "ext_20 of 15.9% is over the 15% cap after a +74% 21-day run, and the airline is cyclical in a risk-off regime."},
+    {"ticker": "GDYN", "why": "IT-services/tech name, a lagging sector in this regime, with ret_21 of +56% and no sector data to justify a regime preference; a cleaner consumer or healthcare name was available."},
+    {"ticker": "NTSK", "why": "Cybersecurity software (XLK, lagging) with a +18% 5-day spike, ATR of 7.1%, a forward PE of about 1044, earnings on 2026-12-02 and takeover-speculation headlines in the security sector."},
+    {"ticker": "XERS", "why": "RSI of 83.5 and ext_20 of 23.0% make it badly over-extended."},
+    {"ticker": "VCEL", "why": "RSI of 73.3 and ext_20 of 13.3% after a +39% 21-day run leave it stretched; the healthcare slots went to cleaner setups."},
+    {"ticker": "KYMR", "why": "ext_20 of 17.5% is over the cap, ATR is 6.2%, and the headlines say it looks stretched after binary Phase IIb data."},
+    {"ticker": "AZTA", "why": "Healthcare instruments with ext_20 of 12.5% and ATR of 6.2%; ranked below the other healthcare picks on extension and volatility, and the volume ratio is only 0.86."},
+    {"ticker": "VRDN", "why": "Clinical/launch-stage biotech with revenue growth of -63.5% and binary event risk, and ext_20 of 11.6% after a +43% 21-day run."},
+    {"ticker": "INSM", "why": "Binary event risk: headlines report a $41bn Sanofi takeover; ext_20 is 26.5%, RSI 76.6 and trend is 3, so the price is pinned to a deal."},
+    {"ticker": "BRZE", "why": "RSI of 78.3 is over the 78 limit, software is a lagging sector, and the 21-day return is flat."},
+    {"ticker": "CRAI", "why": "RSI of 77.6 is right at the limit; consulting has no regime tailwind and the CEO sold shares."},
+    {"ticker": "REPL", "why": "Biotech with a negative forward PE, a +83% 21-day run and 11% below its high, which makes it a binary-event name rather than a clean swing setup."},
+    {"ticker": "SGRY", "why": "RSI of 81.1 is over-extended, and headlines about shareholder-deal investigations and an 8-K point to possible takeover or event risk."},
+    {"ticker": "APPN", "why": "Software (XLK lagging) with a flat 21-day return and 5-day weakness, so there is no momentum edge in a risk-off tape."},
+    {"ticker": "ADMA", "why": "Sits 25% below its 52-week high, so it is not a breakout or tight-base setup, and biotech event risk applies."},
+    {"ticker": "VERX", "why": "Software, a lagging sector; 9.6% below its high with a negative 5-day return and no catalyst."},
+    {"ticker": "OKTA", "why": "Trend is only 3, the stock is 12% below its high, it fell 7.4% on Friday and software is the lagging sector, with earnings on 2026-12-01."}
+  ]
+}

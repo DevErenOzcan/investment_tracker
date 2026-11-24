@@ -1,0 +1,19 @@
+{"ticker": "UPBD",
+ "thesis": "UPBD is a post-earnings re-rating in a persistent uptrend, trading above its SMA20, SMA50 and SMA200 and near its 52-week high, with cheap multiples (forward P/E 5.77, EV/EBITDA 6.39) and two director open-market buys in the last week. Short interest of 16.79% of float adds squeeze fuel, and the stock has little tie to the semis and tech sell-off that is driving the risk-off regime. The setup is honest but modest. The stock is extended (RSI 70.2, 13% above the SMA20), reward/risk is only 1.66, the mean analyst target is close to the price, and the regime is risk-off. Only a pullback entry in the 25.5-26.1 zone is worth taking, and the thesis supports a small, patient position, not a chase.",
+ "evidence": [
+  "technical: trend = up; close 26.60 above SMA20 23.48, SMA50 19.02 and SMA200 18.65 (notes)",
+  "technical: setup = trend-continuation; entry_zone = [25.5, 26.1], stop = 23.45, target = 29.7, reward_risk = 1.66",
+  "technical: score = 1, capped because of the extension (RSI14 70.2, close 13% above SMA20)",
+  "fundamentals: valuation = cheap; trailing P/E 14.0, forward P/E 5.77, EV/EBITDA 6.39, P/S 0.33 (notes)",
+  "fundamentals: net income Sep-26 quarter 34.3M vs 13.2M a year earlier, YoY +159.22% (notes)",
+  "fundamentals: dilution_risk = low; profitable, with operating margin 7.15% and ROE 15.5% (notes)",
+  "fundamentals: red_flags = short interest 16.79% of float, squeeze potential",
+  "fundamentals: earnings_date = 2027-02-18, so no earnings event inside the swing window (notes)",
+  "news: catalysts = director Harold Lewis buys 15,300 shares (2026-11-21), positive",
+  "news: catalysts = director Charu Jain buys 2,000 shares at $24.60 (2026-11-17), positive",
+  "news: binary_event = false; no offering, takeover or litigation headlines (event_risks)",
+  "news: score = 1; the post-earnings re-rating looks persistent, with rising volume (notes)",
+  "regime_view: regime = risk-off, confidence 0.85; weakness is concentrated in SMH ret_21 -12.71% and XLK ret_21 -11.38% (evidence)"
+ ],
+ "upside_case": {"target": 29.7, "probability": 0.3},
+ "rebuttal_to_bear": null}

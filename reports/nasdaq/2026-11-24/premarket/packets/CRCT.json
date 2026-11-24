@@ -1,0 +1,710 @@
+{
+  "ticker": "CRCT",
+  "exchange": "NASDAQ",
+  "as_of": "2026-11-24T13:51:08.978646+00:00",
+  "data_note": "In the pre-market session the last price is the previous close; in the pre-close session it is ~15 min delayed.",
+  "technical": {
+    "indicators": {
+      "symbol": "CRCT",
+      "date": "2026-11-23",
+      "close": 8.74,
+      "ret_5": 0.0104,
+      "ret_21": 0.3984,
+      "ret_63": 0.4889,
+      "ret_126": 1.2134,
+      "rs_63": 0.572,
+      "sma20": 7.8992,
+      "sma50": 6.9032,
+      "sma200": 5.1145,
+      "trend": 4,
+      "atr": 0.4432,
+      "atr_pct": 0.0507,
+      "rsi14": 65.9568,
+      "dist_high": -0.099,
+      "vol_ratio": 1.2012,
+      "ext_20": 0.1064,
+      "vol_20": 1.7893,
+      "dollar_volume_20": 13163733.8744,
+      "low_20": 5.93,
+      "high_20": 9.7
+    },
+    "levels": {
+      "swing_low_10": 8.09000015258789,
+      "swing_low_20": 5.929999828338623,
+      "swing_high_20": 9.699999809265137,
+      "high_52w": 9.699999809265137,
+      "low_52w": 3.6504975509905493
+    },
+    "last_60_days": [
+      {
+        "d": "2026-08-31",
+        "o": 5.81,
+        "h": 5.93,
+        "l": 5.74,
+        "c": 5.9,
+        "v": 885000
+      },
+      {
+        "d": "2026-09-01",
+        "o": 5.86,
+        "h": 5.97,
+        "l": 5.68,
+        "c": 5.85,
+        "v": 634900
+      },
+      {
+        "d": "2026-09-02",
+        "o": 5.93,
+        "h": 5.98,
+        "l": 5.7,
+        "c": 5.76,
+        "v": 753900
+      },
+      {
+        "d": "2026-09-03",
+        "o": 5.8,
+        "h": 5.95,
+        "l": 5.77,
+        "c": 5.85,
+        "v": 789200
+      },
+      {
+        "d": "2026-09-04",
+        "o": 5.77,
+        "h": 5.84,
+        "l": 5.53,
+        "c": 5.54,
+        "v": 923900
+      },
+      {
+        "d": "2026-09-08",
+        "o": 5.52,
+        "h": 5.58,
+        "l": 5.41,
+        "c": 5.45,
+        "v": 556600
+      },
+      {
+        "d": "2026-09-09",
+        "o": 5.39,
+        "h": 5.47,
+        "l": 5.32,
+        "c": 5.43,
+        "v": 517800
+      },
+      {
+        "d": "2026-09-10",
+        "o": 5.4,
+        "h": 5.55,
+        "l": 5.35,
+        "c": 5.46,
+        "v": 700800
+      },
+      {
+        "d": "2026-09-11",
+        "o": 5.53,
+        "h": 5.73,
+        "l": 5.5,
+        "c": 5.62,
+        "v": 646100
+      },
+      {
+        "d": "2026-09-14",
+        "o": 5.65,
+        "h": 5.71,
+        "l": 5.57,
+        "c": 5.65,
+        "v": 554300
+      },
+      {
+        "d": "2026-09-15",
+        "o": 5.6,
+        "h": 5.66,
+        "l": 5.57,
+        "c": 5.65,
+        "v": 474800
+      },
+      {
+        "d": "2026-09-16",
+        "o": 5.63,
+        "h": 5.63,
+        "l": 5.52,
+        "c": 5.59,
+        "v": 563500
+      },
+      {
+        "d": "2026-09-17",
+        "o": 5.66,
+        "h": 5.73,
+        "l": 5.61,
+        "c": 5.71,
+        "v": 507200
+      },
+      {
+        "d": "2026-09-18",
+        "o": 5.64,
+        "h": 5.68,
+        "l": 5.54,
+        "c": 5.64,
+        "v": 1381100
+      },
+      {
+        "d": "2026-09-21",
+        "o": 5.66,
+        "h": 5.71,
+        "l": 5.53,
+        "c": 5.65,
+        "v": 632400
+      },
+      {
+        "d": "2026-09-22",
+        "o": 5.7,
+        "h": 5.84,
+        "l": 5.66,
+        "c": 5.81,
+        "v": 554500
+      },
+      {
+        "d": "2026-09-23",
+        "o": 5.81,
+        "h": 5.93,
+        "l": 5.75,
+        "c": 5.89,
+        "v": 536400
+      },
+      {
+        "d": "2026-09-24",
+        "o": 5.87,
+        "h": 5.95,
+        "l": 5.74,
+        "c": 5.92,
+        "v": 691400
+      },
+      {
+        "d": "2026-09-25",
+        "o": 5.92,
+        "h": 6.18,
+        "l": 5.92,
+        "c": 6.14,
+        "v": 812000
+      },
+      {
+        "d": "2026-09-28",
+        "o": 6.1,
+        "h": 6.44,
+        "l": 6.01,
+        "c": 6.33,
+        "v": 941800
+      },
+      {
+        "d": "2026-09-29",
+        "o": 6.31,
+        "h": 6.41,
+        "l": 6.28,
+        "c": 6.41,
+        "v": 688400
+      },
+      {
+        "d": "2026-09-30",
+        "o": 6.41,
+        "h": 6.49,
+        "l": 6.37,
+        "c": 6.38,
+        "v": 605000
+      },
+      {
+        "d": "2026-10-01",
+        "o": 6.41,
+        "h": 6.66,
+        "l": 6.33,
+        "c": 6.51,
+        "v": 736400
+      },
+      {
+        "d": "2026-10-02",
+        "o": 6.55,
+        "h": 6.62,
+        "l": 6.42,
+        "c": 6.52,
+        "v": 545700
+      },
+      {
+        "d": "2026-10-05",
+        "o": 6.52,
+        "h": 6.52,
+        "l": 6.35,
+        "c": 6.47,
+        "v": 617200
+      },
+      {
+        "d": "2026-10-06",
+        "o": 6.51,
+        "h": 6.53,
+        "l": 6.37,
+        "c": 6.38,
+        "v": 426700
+      },
+      {
+        "d": "2026-10-07",
+        "o": 6.35,
+        "h": 6.43,
+        "l": 6.29,
+        "c": 6.36,
+        "v": 396800
+      },
+      {
+        "d": "2026-10-08",
+        "o": 6.3,
+        "h": 6.49,
+        "l": 6.3,
+        "c": 6.4,
+        "v": 754000
+      },
+      {
+        "d": "2026-10-09",
+        "o": 6.4,
+        "h": 6.51,
+        "l": 6.36,
+        "c": 6.39,
+        "v": 496000
+      },
+      {
+        "d": "2026-10-12",
+        "o": 6.37,
+        "h": 6.53,
+        "l": 6.37,
+        "c": 6.48,
+        "v": 432300
+      },
+      {
+        "d": "2026-10-13",
+        "o": 6.51,
+        "h": 6.61,
+        "l": 6.48,
+        "c": 6.55,
+        "v": 422900
+      },
+      {
+        "d": "2026-10-14",
+        "o": 6.52,
+        "h": 6.53,
+        "l": 6.43,
+        "c": 6.49,
+        "v": 476300
+      },
+      {
+        "d": "2026-10-15",
+        "o": 6.51,
+        "h": 6.82,
+        "l": 6.51,
+        "c": 6.7,
+        "v": 984400
+      },
+      {
+        "d": "2026-10-16",
+        "o": 6.7,
+        "h": 6.78,
+        "l": 6.38,
+        "c": 6.45,
+        "v": 766500
+      },
+      {
+        "d": "2026-10-19",
+        "o": 6.5,
+        "h": 6.54,
+        "l": 6.43,
+        "c": 6.54,
+        "v": 301400
+      },
+      {
+        "d": "2026-10-20",
+        "o": 6.56,
+        "h": 6.59,
+        "l": 6.43,
+        "c": 6.48,
+        "v": 627900
+      },
+      {
+        "d": "2026-10-21",
+        "o": 6.43,
+        "h": 6.46,
+        "l": 6.26,
+        "c": 6.33,
+        "v": 947100
+      },
+      {
+        "d": "2026-10-22",
+        "o": 6.33,
+        "h": 6.41,
+        "l": 6.21,
+        "c": 6.41,
+        "v": 702700
+      },
+      {
+        "d": "2026-10-23",
+        "o": 6.31,
+        "h": 6.38,
+        "l": 6.18,
+        "c": 6.25,
+        "v": 553900
+      },
+      {
+        "d": "2026-10-26",
+        "o": 6.22,
+        "h": 6.38,
+        "l": 6.22,
+        "c": 6.34,
+        "v": 457500
+      },
+      {
+        "d": "2026-10-27",
+        "o": 6.35,
+        "h": 6.38,
+        "l": 6.09,
+        "c": 6.15,
+        "v": 815900
+      },
+      {
+        "d": "2026-10-28",
+        "o": 6.15,
+        "h": 6.2,
+        "l": 5.97,
+        "c": 6.07,
+        "v": 888100
+      },
+      {
+        "d": "2026-10-29",
+        "o": 6.08,
+        "h": 6.24,
+        "l": 6.03,
+        "c": 6.18,
+        "v": 525900
+      },
+      {
+        "d": "2026-10-30",
+        "o": 6.23,
+        "h": 6.37,
+        "l": 6.02,
+        "c": 6.08,
+        "v": 614800
+      },
+      {
+        "d": "2026-11-02",
+        "o": 6.24,
+        "h": 6.3,
+        "l": 6.03,
+        "c": 6.04,
+        "v": 952500
+      },
+      {
+        "d": "2026-11-03",
+        "o": 6.04,
+        "h": 6.26,
+        "l": 5.93,
+        "c": 5.97,
+        "v": 707000
+      },
+      {
+        "d": "2026-11-04",
+        "o": 7.0,
+        "h": 9.1,
+        "l": 6.58,
+        "c": 8.88,
+        "v": 7629200
+      },
+      {
+        "d": "2026-11-05",
+        "o": 8.88,
+        "h": 9.7,
+        "l": 8.71,
+        "c": 9.25,
+        "v": 3657700
+      },
+      {
+        "d": "2026-11-06",
+        "o": 9.0,
+        "h": 9.1,
+        "l": 8.55,
+        "c": 8.78,
+        "v": 2416200
+      },
+      {
+        "d": "2026-11-09",
+        "o": 8.82,
+        "h": 8.96,
+        "l": 8.52,
+        "c": 8.79,
+        "v": 1467400
+      },
+      {
+        "d": "2026-11-10",
+        "o": 8.75,
+        "h": 8.77,
+        "l": 8.46,
+        "c": 8.67,
+        "v": 1197200
+      },
+      {
+        "d": "2026-11-11",
+        "o": 8.74,
+        "h": 9.14,
+        "l": 8.68,
+        "c": 8.88,
+        "v": 1421800
+      },
+      {
+        "d": "2026-11-12",
+        "o": 8.86,
+        "h": 8.94,
+        "l": 8.48,
+        "c": 8.5,
+        "v": 1000500
+      },
+      {
+        "d": "2026-11-13",
+        "o": 8.58,
+        "h": 8.69,
+        "l": 8.39,
+        "c": 8.65,
+        "v": 975600
+      },
+      {
+        "d": "2026-11-16",
+        "o": 8.6,
+        "h": 8.77,
+        "l": 8.46,
+        "c": 8.65,
+        "v": 1037300
+      },
+      {
+        "d": "2026-11-17",
+        "o": 8.57,
+        "h": 8.72,
+        "l": 8.3,
+        "c": 8.5,
+        "v": 1032700
+      },
+      {
+        "d": "2026-11-18",
+        "o": 8.43,
+        "h": 8.7,
+        "l": 8.16,
+        "c": 8.56,
+        "v": 1266200
+      },
+      {
+        "d": "2026-11-19",
+        "o": 8.54,
+        "h": 8.6,
+        "l": 8.09,
+        "c": 8.3,
+        "v": 1411700
+      },
+      {
+        "d": "2026-11-20",
+        "o": 8.26,
+        "h": 8.48,
+        "l": 8.22,
+        "c": 8.35,
+        "v": 1313800
+      },
+      {
+        "d": "2026-11-23",
+        "o": 8.48,
+        "h": 8.77,
+        "l": 8.35,
+        "c": 8.74,
+        "v": 1028800
+      }
+    ],
+    "weekly_closes_26": [
+      4.05,
+      4.39,
+      4.36,
+      4.53,
+      4.36,
+      4.41,
+      4.63,
+      4.46,
+      4.69,
+      5.84,
+      5.76,
+      5.59,
+      5.8,
+      5.54,
+      5.62,
+      5.64,
+      6.14,
+      6.52,
+      6.39,
+      6.45,
+      6.25,
+      6.08,
+      8.78,
+      8.65,
+      8.35,
+      8.74
+    ]
+  },
+  "profile": {
+    "symbol": "CRCT",
+    "shortName": "Cricut, Inc.",
+    "sector": "Technology",
+    "industry": "Computer Hardware",
+    "marketCap": 1820509184,
+    "trailingPE": 19.863636,
+    "forwardPE": 30.524218,
+    "priceToSalesTrailing12Months": 2.5714316,
+    "enterpriseToEbitda": 13.592,
+    "profitMargins": 0.13419,
+    "operatingMargins": 0.15533,
+    "grossMargins": 0.57385,
+    "revenueGrowth": 0.107,
+    "earningsGrowth": 0.345,
+    "returnOnEquity": 0.25075,
+    "debtToEquity": 2.363,
+    "freeCashflow": 75542624,
+    "totalCash": 272702016,
+    "totalDebt": 9439000,
+    "beta": 0.148,
+    "shortPercentOfFloat": 0.0935,
+    "heldPercentInstitutions": 0.56804,
+    "recommendationMean": null,
+    "numberOfAnalystOpinions": 3,
+    "targetMeanPrice": 4.73333,
+    "fiftyTwoWeekHigh": 9.7,
+    "fiftyTwoWeekLow": 3.735,
+    "averageVolume": 938421,
+    "preMarketPrice": 8.74,
+    "regularMarketPrice": 8.74,
+    "regularMarketPreviousClose": 8.35,
+    "earnings_date": "2026-11-03"
+  },
+  "sec_fundamentals": {
+    "available": true,
+    "cik": 1828962,
+    "revenue_q": [
+      {
+        "end": "2024-06-30",
+        "val": 167947000,
+        "filed": "2025-08-06"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 167890000,
+        "filed": "2025-11-05"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 162634000,
+        "filed": "2026-05-06"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 172112000,
+        "filed": "2026-08-05"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 170437000,
+        "filed": "2026-11-04"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 159471000,
+        "filed": "2026-05-06"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 156285000,
+        "filed": "2026-08-05"
+      },
+      {
+        "end": "2026-09-30",
+        "val": 188622000,
+        "filed": "2026-11-04"
+      }
+    ],
+    "net_income_q": [
+      {
+        "end": "2024-06-30",
+        "val": 19769000,
+        "filed": "2025-11-05"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 11488000,
+        "filed": "2025-11-05"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 23914000,
+        "filed": "2026-11-04"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 24488000,
+        "filed": "2026-11-04"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 20512000,
+        "filed": "2026-11-04"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 20318000,
+        "filed": "2026-11-04"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 39054000,
+        "filed": "2026-11-04"
+      },
+      {
+        "end": "2026-09-30",
+        "val": 27842000,
+        "filed": "2026-11-04"
+      }
+    ],
+    "stale_warning": null,
+    "revenue_yoy": 0.1067,
+    "net_income_yoy": 0.3574
+  },
+  "sec_filings_10d": [],
+  "news_status": {
+    "status": "ok",
+    "source": "yahoo+google_rss",
+    "errors": []
+  },
+  "news_7d": [
+    {
+      "title": "CRCT Stock Rises 58% in 3 Months: Here's What Investors Should Know",
+      "publisher": "Zacks",
+      "published": "2026-11-19T15:09:00+00:00",
+      "summary": "Cricut's new product launches, 30% international sales growth, rising subscriptions and strong cash position support expansion and shareholder return.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crct-stock-rises-58-3-150900442.html"
+    },
+    {
+      "title": "After selling 70,000 shares on each of three straight days, a Cricut (CRCT) officer plans another sale. - Stock Titan",
+      "publisher": "Stock Titan",
+      "published": "2026-11-18T22:57:05+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeEJhdFNEUEFlTHFGWVFVYU9EaTRwZjcyY3BYdS16YjNBVmJlcDNIeFlTTzRZTDFYSnNTMWduaFl6MEYyWWY3YUhRangzejVIUWNGUnZKY2JRSHAwdG5qeEJ1Vm5vQWhXdUVaTnN5QXRldWxFX3gxbkdOcnpxLVhwa1lWSlVqVEZVVXZrQUlQOWM?oc=5"
+    },
+    {
+      "title": "Alongside Ryan Harmer’s 10,000-share sale, Cricut (CRCT) withheld 1,776 shares for taxes. - Stock Titan",
+      "publisher": "Stock Titan",
+      "published": "2026-11-18T22:07:20+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaW1idnJMY1hOX3lSZ0ZvSXEzZHQ5Ukt2TGtBaF8xSTZNSlZzeGczSmUxREFFSUVBeFM3ZlJpWHZONGxVMkQ3UnBJLTlyZVJhLXJQM1hldzd3N19aYWVmZkkzZ2UyUENIT0dQbDRtUmdSbUdBRTE2ZzdiUGR6UFV4RWVsTWlJWlVidzJqZUNUUUJGNDhqTWdhdlRlQzFfMTA2alVyM2VZSQ?oc=5"
+    },
+    {
+      "title": "When CEO Ashish Arora’s stock award vested, Cricut (CRCT) withheld 36,605 shares for taxes. - Stock Titan",
+      "publisher": "Stock Titan",
+      "published": "2026-11-18T22:05:12+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMmFpZFB0bHdqaXo1MHV1dWlFTkY4N2hVZ3h3N3lpX0FXLUlSbmdhN0UwTmVVZy1DWUhKRXRyZ2RvcVVHWDNWcEFDYUxFU25SUHJadDVmamJiQjVtTlo1MWQ4VXhMc1JjVGVLNTRFZmpCSi1LdTI3TXh2VkpNeXpHbUdUU3ZHRUtEcVhHNWlIRFhfbWFPQ3FuRG1vVnU0WWZSOUJJaUFqVQ?oc=5"
+    }
+  ]
+}

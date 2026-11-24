@@ -1,0 +1,8 @@
+{"ticker": "CROX", "rating": "Overweight", "confidence": 0.47,
+ "entry": 156.5, "entry_zone": [155.0, 157.38], "stop": 152.8, "target": 164.24, "horizon_days": 10,
+ "expected_return": {"low": -0.024, "high": 0.049},
+ "sector": "Consumer Cyclical", "earnings_date": "2027-02-11",
+ "thesis": "CROX is a high-quality, cheap (forward PE 9.85), accelerating-earnings name consolidating in a 150-164 base after the 10/29 post-earnings gap, holding above SMA20 153.16, and it sits in XLY, one of the few sectors with positive 21-day returns in a risk-off tape. A pullback fill near the 156.5 mid-zone with the structural stop at 152.8 gives about 2.1 R/R to the 164.24 high, and no earnings or offering event is due before 2027-02-11. Conviction is moderate only: there is repeated supply at 163-164, volume is light (0.86), beta is 1.5 in a VIX-98th-percentile regime, and the price is already near the mean analyst target of 164.67. Entry zone top cut from 158.0 to 157.38 so R/R stays at least 1.5; the pre-market 158.77 is above the zone (R/R about 0.9 there), so do not chase.",
+ "invalidation": "A daily close below 152.80 (under the 153.92 10-day swing low and SMA20) voids the pullback setup.",
+ "key_risks": ["Risk-off regime (QQQ below 50/200-day, VIX 29.99 at 0.981 percentile) with beta 1.5 creates gap risk through the stop", "Supply at 163-164 (failed rallies 11/13, 11/16, 11/18) caps the target; price is near the 164.67 mean analyst target", "Light volume (ratio 0.86) after a +32% 21-day run; Zacks Rank #1 momentum crowding", "Leverage (debt 1.66B vs cash 163M) and unresolved margin-squeeze headlines", "Pre-market 158.77 is above the entry zone, so the setup may not fill"],
+ "debate_winner": "draw"}

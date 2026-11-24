@@ -1,0 +1,27 @@
+{
+  "vetoes": [],
+  "reductions": [
+    {
+      "ticker": "AMPH",
+      "factor": 0.5,
+      "reason": "Weakest of three correlated healthcare names (lesson 8): the target needs a breakout through the 31.00 high rejected on 11/6 (R/R about 1.2 to that level), sell-side consensus is Reduce with a mean target of 24.5 (about 21% below the close), the +5.1% move on 11/23 has no news driver, short float is 21.7% and the next earnings date is not in the packet, so confidence 0.43 is generous."
+    },
+    {
+      "ticker": "SIBN",
+      "factor": 0.75,
+      "reason": "A loss-making, high-beta small-cap med-tech name in a risk-off tape (VIX percentile 0.981), with an insider selling cluster on Nov 18-19 and 11.7% short interest; trimmed as part of capping the combined healthcare bet (lesson 8)."
+    },
+    {
+      "ticker": "ASO",
+      "factor": 0.5,
+      "reason": "Earnings on 2026-12-08 leave a holding window of about 9 trading days that includes the Thanksgiving holiday, and the 3-day earnings blackout begins around 12/3; the name is also a crowded momentum stock (+60% over 63 days, price above the 63.58 mean analyst target, 19.9% short interest) with the lowest confidence in the set (0.40)."
+    },
+    {
+      "ticker": "PGNY",
+      "factor": 0.8,
+      "reason": "Event risk cannot be fully checked: the earnings catalyst is inferred from price and SEC data only, with no news article in the packet, gaps in the SEC quarterly series and no confirmed next earnings date; the stop is also only about 0.6 ATR below entry, so noise could trigger it."
+    }
+  ],
+  "portfolio_notes": "Healthcare names PGNY, SIBN and AMPH make up 3.24% of the 5.67% engine book (about 57%); lesson 8 treats them as one correlated bet, so this review trims the two weakest names and leaves PGNY as the core holding. CROX ('Consumer Cyclical') and ASO ('Consumer Discretionary') are both XLY momentum names after large runs, but they carry different sector labels, so the engine's sector check counts them as separate sectors. Their combined exposure is small today, but the labels should be normalised. Every entry is limit-only: the pre-market indications for CROX (158.77) and ASO (71.36) are above their entry zones, and the SIBN and AMPH last closes are above theirs, so none of these should be chased. No vetoes are issued, consistent with lesson 4. The book stays heavily in cash, which fits a risk-off regime with 0.85 confidence.",
+  "held_alerts": []
+}

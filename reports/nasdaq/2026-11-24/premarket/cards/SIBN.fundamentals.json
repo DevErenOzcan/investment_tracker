@@ -1,0 +1,18 @@
+{
+  "ticker": "SIBN",
+  "quality": "medium",
+  "growth": "stable",
+  "valuation": "fair",
+  "earnings_date": "2027-02-22",
+  "dilution_risk": "low",
+  "score": 1,
+  "red_flags": [
+    "Still loss-making: profit margin -6.2%, operating margin -7.6%, ROE -7.7%",
+    "Sequential revenue dipped in the latest quarter (56.01M to 55.70M); YoY growth of 14.5% is steady, not accelerating",
+    "Valuation cannot be compared with sector peers from the packet; P/S 5.06 and forward P/E negative (-86.24) are the only ratios",
+    "Quarterly SEC series has gaps (no Q4 periods), so the trend rests on partial data",
+    "Several insider sales in the last week (CEO, legal chief, another officer); reports describe at least some as tax-withholding sales",
+    "yfinance earningsGrowth and trailingPE are null; the earnings date of 2027-02-22 may be an estimate"
+  ],
+  "notes": "Revenue grew 14.5% YoY in the latest quarter (55.70M), after about 15.2% in the prior quarter and about 11.2% in the March quarter, so growth is stable rather than accelerating. Net loss is narrowing steadily (-4.57M to -3.62M YoY, a 20.7% improvement), and gross margin is 79.4%. Free cash flow is about breakeven (-1.17M), and cash of 146.26M covers debt of 42.80M (debt/equity 23.2), so dilution risk is low. Valuation looks fair to slightly full for a high-gross-margin med-tech name (market cap 1.12B, P/S 5.06); no sector ratios are available to confirm this. Short interest is 11.7% of float (below the 15% threshold). Analysts are strongly positive (mean rating 1.33 from 9 opinions), but the mean target of 26.78 is only modestly above the 24.77 close. Next earnings are 2027-02-22, about 64 weekdays away before holiday adjustment, so there is no earnings event inside a swing horizon. A fireside chat is scheduled for Dec 1."
+}

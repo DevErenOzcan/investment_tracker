@@ -1,0 +1,20 @@
+{"ticker": "SIBN",
+ "thesis": "SIBN is a stock-specific uptrend holding a post-earnings gap: price is above SMA20, SMA50 and SMA200, RS63 is positive, and the last session's rise came on about 1.9x average volume. Fundamentals are improving but unspectacular: revenue +14.5% YoY, a narrowing net loss, 79.4% gross margin, and cash well above debt, so dilution risk is low. There is no earnings event inside the swing horizon, and the reimbursement tailwind is structural. The setup is only moderate. Reward/risk is about 1.8, the regime is risk-off, and the analyst target sits close to price, so this is a small, dip-entry long and not a high-conviction one.",
+ "evidence": [
+  "technical: setup = pullback",
+  "technical: trend = up",
+  "technical: entry_zone = [24.0, 24.8]",
+  "technical: stop = 22.65",
+  "technical: target = 27.5",
+  "technical: reward_risk = 1.77",
+  "technical: notes = close 24.77 above SMA20 (23.50), SMA50 (21.00), SMA200 (16.98), RS63 +0.35, RSI 63; last session +4.4% on about 1.9x average volume",
+  "fundamentals: growth = stable (revenue +14.5% YoY, net loss narrowing 20.7%, gross margin 79.4%)",
+  "fundamentals: dilution_risk = low (cash 146.26M vs debt 42.80M)",
+  "fundamentals: notes = analyst mean rating 1.33 from 9 opinions; short interest 11.7% of float, below the 15% threshold",
+  "fundamentals: earnings_date = 2027-02-22 (no earnings event in the swing horizon)",
+  "news: binary_event = false",
+  "news: catalysts = reimbursement tailwind described as structural; insider sales mostly tax-withholding",
+  "regime_view: regime = risk-off, confidence 0.85; leading_sectors = XLY, XLP, XLU (SIBN is stock-specific strength against a weak tape, but the regime is a headwind)"
+ ],
+ "upside_case": {"target": 27.5, "probability": 0.35},
+ "rebuttal_to_bear": null}

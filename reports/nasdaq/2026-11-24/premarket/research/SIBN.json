@@ -1,0 +1,8 @@
+{"ticker": "SIBN", "rating": "Overweight", "confidence": 0.45,
+ "entry": 24.4, "entry_zone": [24.0, 24.4], "stop": 22.65, "target": 27.5, "horizon_days": 15,
+ "expected_return": {"low": -0.072, "high": 0.127},
+ "sector": "Healthcare", "earnings_date": "2027-02-22",
+ "thesis": "SIBN is a post-earnings re-rated med-tech name holding its 2026-11-03 gap, with price above SMA20/50/200, RS63 +0.35 and the last session up 4.4% on about 1.9x average volume. Fundamentals support it but are not exceptional: revenue +14.5% YoY, a narrowing loss, 79.4% gross margin, low dilution risk and no earnings inside the horizon. The risk-off tape and nearby resistance at 25.92 cap conviction, so this is a small, dip-only long: the entry zone is narrowed from the card's 24.0-24.8 to 24.0-24.4 (the card's preferred dip area), because at the 24.77 last close reward/risk is only about 1.29, while at the 24.4 entry it is about 1.77.",
+ "invalidation": "A daily close below 22.65 (under the 22.72 swing low), or a close back below the 20-day SMA (~23.5) on rising volume.",
+ "key_risks": ["Risk-off regime (VIX percentile 0.981, QQQ below 50/200-day) can drag high-beta small caps regardless of stock-specific strength", "Resistance at the 25.92 52-week high and an analyst mean target of 26.78 sit below the 27.5 target", "Still loss-making; sequential revenue dipped slightly (56.01M to 55.70M)", "Insider selling cluster around Nov 18-19 (mostly tax-withholding per reports) and 11.7% short interest can amplify a reversal", "Correlated healthcare exposure with other book names; size against a combined healthcare cap", "Fills only on a dip to 24.0-24.4; no position should be opened at or above the 24.77 last close"],
+ "debate_winner": "draw"}
