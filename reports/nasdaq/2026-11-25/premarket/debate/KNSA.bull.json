@@ -1,0 +1,16 @@
+{"ticker": "KNSA",
+ "thesis": "KNSA is a rare stock with fundamentals and price both confirming strength in a hostile tape. Revenue growth is accelerating (+58.1% YoY), profits are rising, cash far exceeds debt, and dilution risk is low. The trend is clean (close above SMA20, SMA50 and SMA200) at a 52-week high, with no earnings event in the swing window and fresh analyst support (TD Cowen $115). The setup is only moderate, not compelling. Valuation is rich, the stock is extended, and the regime is risk-off with VIX at the 99th percentile. The bull case therefore depends on buying the pullback zone, not chasing, and on defensive-leaning healthcare rotation helping (XLV is a leading sector).",
+ "evidence": [
+  "fundamentals: growth = accelerating (revenue +58.1% YoY, 285.97M vs 180.86M; sequential +13.7% to +17.4%)",
+  "fundamentals: net income 47.3M vs 18.4M a year earlier (+156.8% YoY); quality = high",
+  "fundamentals: cash 568.8M vs debt 7.9M, dilution_risk = low, short interest 9.99% of float (below 15% threshold)",
+  "fundamentals: earnings_date = 2027-02-23, outside the swing window",
+  "technical: trend = up, close 102.72 > SMA20 95.1 > SMA50 84.9 > SMA200 64.7; 21-day return +40.8%; at 52-week high 103.37",
+  "technical: setup = trend-continuation, entry_zone = [99.0, 101.5], stop = 92.3, target = 114.0, reward_risk = 1.73",
+  "technical: score = 1.0; no overhead resistance since price is at its high",
+  "news: TD Cowen names KNSA a 2027 Best Idea, target raised to $115 from $100, Buy (2026-11-19)",
+  "news: Zacks flags unusual options activity (2026-11-20), direction = mixed; binary_event = false",
+  "regime_view: leading_sectors = XLP, XLV, XLY (healthcare is a leading sector; defensives hold above 50/200-day)"
+ ],
+ "upside_case": {"target": 114.0, "probability": 0.4},
+ "rebuttal_to_bear": null}

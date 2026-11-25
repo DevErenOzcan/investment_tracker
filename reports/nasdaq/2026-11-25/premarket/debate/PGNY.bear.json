@@ -1,0 +1,16 @@
+{"ticker": "PGNY",
+ "thesis": "PGNY is an extended, overbought stock (RSI 70.5, 7.6% above SMA20) sitting 2% under its 52-week high and almost at the mean analyst target, so consensus upside is nearly gone. The regime is risk-off with VIX at the 99th percentile and QQQ below its 50- and 200-day averages, and a high-beta mid-cap that has re-rated sharply is vulnerable to a de-grossing wave. The recent support is sell-side target bumps and a Zacks momentum-screen upgrade, which are crowded, lagging signals rather than new fundamentals. Revenue growth of +8.9% YoY is modest for a stock that gapped 14% and has run well above its averages. A repeated failure at 37.21 resistance would leave the stock with little support until the 34.8 stop and then the gap area.",
+ "evidence": [
+  "technical card: close 36.48 vs SMA20 33.90, SMA50 29.74; RSI 70.5; price 7.6% above SMA20",
+  "technical card: notes = first leg extended, 37.21 resistance may be retested several times",
+  "technical card: stop 34.8 vs premarket 36.08, with the post-earnings gap area at risk on a break",
+  "news card: price 36.48 vs mean analyst target 37.75, so little gap to consensus",
+  "news card: later catalysts are the Truist target and the Zacks Rank #1 upgrade, described as momentum-screen coverage rather than new fundamental news",
+  "news card: Q3 revenue 341M (+8.9% YoY)",
+  "news card: short interest 9% of float, which adds volatility both ways",
+  "regime_view: risk-off, confidence 0.93; VIX 31.19 (1-year percentile 0.991); QQQ ret_21 -10.4%, below 50/200-day averages",
+  "regime_view: long swing entries in NASDAQ names face a hostile backdrop"
+ ],
+ "downside_case": {"level": 34.8, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

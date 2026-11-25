@@ -1,0 +1,12 @@
+{
+  "vetoes": [
+    {"ticker": "PLMR", "reason": "Per the research card, R/R is 1.44 at the 167.67 last price and 1.28 at the 168.64 pre-market price, both below the 1.5 minimum, so lessons.md item 3 (downgrade to Hold when R/R at the last price is below 1.5) applies; an undated investor day that may fall in the window and a possible follow-on offering after the run to highs add event risk that cannot be checked; re-assess at pre-close only if price trades back inside 163.5-167.0."}
+  ],
+  "reductions": [
+    {"ticker": "GMAB", "factor": 0.7, "reason": "Event risk the feeds cannot check: a biotech with unannounced clinical or regulatory news possible, an unexplained and volume-unconfirmed +6.4% move on 11-24, unverified M&A chatter, and 6-K filings (foreign issuer) that the SEC check does not capture; the 10-28 gap air pocket down to the mid-40s means a gap through the 49.9 stop could roughly double the planned loss."},
+    {"ticker": "CROX", "factor": 0.75, "reason": "A beta-1.5, levered (debt about 1.66B vs cash 0.16B), 10.5%-short-interest name up about 34% in 21 days fights a risk-off tape at VIX 31 (99th percentile); R/R to the twice-rejected 164.24 resistance is only about 1.1, the 3.6% stop is tight enough to slip, and its 0.40 confidence is the lowest of the slate."},
+    {"ticker": "PGNY", "factor": 0.85, "reason": "PGNY and GMAB carry different sector labels ('Healthcare' vs 'Health Care'), so the engine's sector check counts them as two sectors; lessons.md item 8 says to treat healthcare as one correlated bet, so combined healthcare weight is trimmed, and PGNY's next earnings date is null (unconfirmed)."}
+  ],
+  "portfolio_notes": "All four proposals share one theme: overbought post-earnings re-rated momentum names near 52-week highs (RSI 68-74, close to analyst mean targets). In a risk-off regime (confidence 0.93, VIX 99th percentile) a momentum or de-grossing unwind could hit all of them at once, whatever their sector labels. The sector labels for GMAB ('Health Care') and PGNY ('Healthcare') are inconsistent, so the engine's sector-cap and grouping logic sees two separate sectors; the label should be normalised in scanner/research-manager output. After these actions, gross new exposure falls from about 4.8% to about 2.9% (GMAB ~0.92%, CROX ~0.95%, PGNY ~1.04%), and all entries remain pullback-only with no chasing above the zone tops.",
+  "held_alerts": []
+}

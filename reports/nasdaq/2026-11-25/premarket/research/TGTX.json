@@ -1,0 +1,8 @@
+{"ticker": "TGTX", "rating": "Hold", "confidence": 0.4,
+ "entry": 68.0, "entry_zone": [66.5, 69.0], "stop": 61.0, "target": 79.5, "horizon_days": 10,
+ "expected_return": {"low": -0.103, "high": 0.169},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "TGTX is a profitable commercial biotech (Q3 revenue 259.9M, +60.7% YoY, raised guidance, positive FCF) in a clean uptrend at all-time highs after the 11/24 Briumvi sBLA acceptance, and healthcare is a leading sector in this risk-off tape. The entry is poor, though. Pre-market 69.34 sits above the 66.5-69.0 zone, and reward/risk at that price is only about 1.2 to the 79.5 measured-move target with the 61.0 stop (about 1.6 from 68). With a stretched RSI of 69, the price above the mean analyst target, beta 1.8 and a risk-off regime (VIX 99th percentile), this stays a watchlist Hold until a pullback into the lower half of the zone makes the setup work.",
+ "invalidation": "A daily close below 64.06 (low of the 11/24 breakout bar) signals a failed breakout, and a close below 61.5 (10-day swing low) breaks the uptrend.",
+ "key_risks": ["Post-news-spike fade: price is 11.9% above SMA20 with RSI 69.3 and pre-market 69.34 below the 70.13 close", "Risk-off regime with QQQ below its 50/200-day averages and VIX 31.19; beta 1.8 magnifies market drawdowns", "Rich valuation (trailing P/E 104.67, P/S 11.81) with price above the 69.43 mean analyst target and sequential revenue growth slowing", "Short interest 27.37% of float and ATR 4.72% of price mean volatility in both directions", "Ocrevus-copy competitive risk and the Halper Sadeh shareholder-rights investigation headline", "Correlated healthcare exposure: per lessons.md, healthcare names should be capped as one bet"],
+ "debate_winner": "bear"}

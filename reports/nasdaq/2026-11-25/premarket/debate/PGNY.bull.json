@@ -1,0 +1,15 @@
+{"ticker": "PGNY",
+ "thesis": "PGNY is a profitable, accelerating-growth name in a clean uptrend that has held its post-earnings gap through a violent risk-off tape, which is relative strength. Premarket 36.08 is already inside the 35.6-36.3 pullback zone, with a stop under the 34.94 swing low and a 3.1 reward/risk to a measured-move target of 39.5. Fundamentals (revenue YoY 1.4% to 5.3% to 8.9%, low dilution risk, forward P/E 15.2) and sell-side support (Truist PT 42, Zacks Rank #1) back the move. This is a modest, not high-conviction, long: RSI is overbought, price is near the mean analyst target, and the regime is hostile (VIX 31, QQQ below its 50/200-day), so sizing should be small and entry disciplined at the zone rather than chasing.",
+ "evidence": [
+  "technical: setup = pullback; trend = up",
+  "technical: entry_zone = [35.6, 36.3]; stop = 34.8; target = 39.5; reward_risk = 3.1",
+  "technical: notes = close 36.48 above SMA20 33.90, SMA50 29.74, SMA200 25.29; 63-day relative strength +0.49; tight 34.94-37.21 consolidation on lighter volume (vol_ratio 0.87); premarket 36.08 already inside entry zone",
+  "fundamentals: quality = high; growth = accelerating; dilution_risk = low",
+  "fundamentals: notes = revenue YoY 1.4% -> 5.3% -> 8.9%, net income YoY 61% -> 64% -> 89%, free cash flow 195.1M vs debt 25.9M, forward P/E 15.2, short interest 9.0% of float",
+  "news: catalysts = Truist raises price target to 42 (2026-11-19); Zacks upgrade to Rank #1 Strong Buy (2026-11-19)",
+  "news: binary_event = false; event_risks = no SEC offering filings, no scheduled events in the next 20 business days",
+  "news: notes = stock held post-earnings gap (30.10 to 34.37) and drifted higher, suggesting a durable re-rating",
+  "regime_view: regime = risk-off; defensives and XLY leading (XLY ret_21 +3.0%), so a consumer/health-services name is not in the lagging semis/tech cohort"
+ ],
+ "upside_case": {"target": 39.5, "probability": 0.35},
+ "rebuttal_to_bear": null}

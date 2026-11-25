@@ -1,0 +1,96 @@
+{
+  "as_of": "2026-11-25",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "peak_value_units": 1000,
+  "drawdown": 0.0,
+  "regime": "risk-off",
+  "regime_mult": 0.4,
+  "risk_per_trade": 0.0075,
+  "portfolio_vol": 0.009555292270926701,
+  "positions": [
+    {
+      "ticker": "GMAB",
+      "status": "new",
+      "sector": "Health Care",
+      "price": 55.0,
+      "stop": 49.9,
+      "target": 69.7,
+      "rr": 2.88,
+      "rating": "Overweight",
+      "confidence": 0.42,
+      "kelly": 0.2188,
+      "stop_pct": 0.0927,
+      "binding": "kelly",
+      "engine_weight": 0.0092,
+      "priority": 0.13126530612244894,
+      "flags": [
+        "risk-officer reduction x0.7: Event risk the feeds cannot check: a biotech with unannounced clinical or regulatory news possible, an unexplained and volume-unconfirmed +6.4% move on 11-24, unverified M&A chatter, and 6-K filings (foreign issuer) that the SEC check does not capture; the 10-28 gap air pocket down to the mid-40s means a gap through the 49.9 stop could roughly double the planned loss."
+      ],
+      "amount_units": 9.2
+    },
+    {
+      "ticker": "CROX",
+      "status": "new",
+      "sector": "Consumer Discretionary",
+      "price": 158.13,
+      "stop": 152.5,
+      "target": 176.0,
+      "rr": 3.17,
+      "rating": "Overweight",
+      "confidence": 0.4,
+      "kelly": 0.211,
+      "stop_pct": 0.0356,
+      "binding": "kelly",
+      "engine_weight": 0.0095,
+      "priority": 0.12658086177951888,
+      "flags": [
+        "risk-officer reduction x0.75: A beta-1.5, levered (debt about 1.66B vs cash 0.16B), 10.5%-short-interest name up about 34% in 21 days fights a risk-off tape at VIX 31 (99th percentile); R/R to the twice-rejected 164.24 resistance is only about 1.1, the 3.6% stop is tight enough to slip, and its 0.40 confidence is the lowest of the slate."
+      ],
+      "amount_units": 9.5
+    },
+    {
+      "ticker": "PGNY",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 36.08,
+      "stop": 34.8,
+      "target": 39.5,
+      "rr": 2.67,
+      "rating": "Overweight",
+      "confidence": 0.42,
+      "kelly": 0.2029,
+      "stop_pct": 0.0355,
+      "binding": "kelly",
+      "engine_weight": 0.0103,
+      "priority": 0.1217543859649122,
+      "flags": [
+        "risk-officer reduction x0.85: PGNY and GMAB carry different sector labels ('Healthcare' vs 'Health Care'), so the engine's sector check counts them as two sectors; lessons.md item 8 says to treat healthcare as one correlated bet, so combined healthcare weight is trimmed, and PGNY's next earnings date is null (unconfirmed)."
+      ],
+      "amount_units": 10.3
+    }
+  ],
+  "cash_weight": 0.971,
+  "rejected": [
+    {
+      "ticker": "ASO",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "COLM",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "KNSA",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "PLMR",
+      "reason": "risk-officer veto: Per the research card, R/R is 1.44 at the 167.67 last price and 1.28 at the 168.64 pre-market price, both below the 1.5 minimum, so lessons.md item 3 (downgrade to Hold when R/R at the last price is below 1.5) applies; an undated investor day that may fall in the window and a possible follow-on offering after the run to highs add event risk that cannot be checked; re-assess at pre-close only if price trades back inside 163.5-167.0."
+    },
+    {
+      "ticker": "TGTX",
+      "reason": "rating Hold: no new buy"
+    }
+  ]
+}

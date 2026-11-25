@@ -1,0 +1,16 @@
+{"ticker": "ASO",
+ "thesis": "ASO has run +66% in 63 days with no company-specific catalyst, and the news card attributes the 52-week high to a sector and sentiment move on holiday-retail enthusiasm. Price sits above the mean analyst target, revenue growth is cooling, and Q3 earnings on 2026-12-08 fall inside the swing window after a parabolic run, so the gap risk is asymmetric to the downside. The regime is risk-off with VIX at the 99th percentile, and high-beta momentum names tend to be sold hard when correlations spike. The breakout has no volume confirmation, and 19.5% short interest makes both directions violent, which hurts a stop at 66.7 because a gap can skip it.",
+ "evidence": [
+  "regime_view: regime = risk-off, confidence = 0.93; QQQ ret_21 = -10.4%, ^VIX = 31.19 (1y percentile 0.991)",
+  "technical: 63-day return +66%, close 72.24 vs SMA50 58.81 (extended well above its averages)",
+  "technical: volume ratio 0.92, breakout has no volume confirmation yet; price only 2.1% under 52-week high of 73.82 after about two weeks of range",
+  "technical: reward_risk = 1.9 only, against an earnings gap that can bypass the 66.7 stop",
+  "news: binary_event = true; Q3 FY2026 earnings 2026-12-08 inside the 20-day window, gap risk two-sided after the run",
+  "news: no company-specific catalyst; the 52-week high is a sector and sentiment move (Stocktwits, 2026-11-19)",
+  "fundamentals: last close 72.24 above mean analyst target 63.58, little room for upside revisions",
+  "fundamentals: revenue growth slowed from about +6.7% to +3.0% YoY; debt/equity 90.4",
+  "fundamentals: short interest 19.5% of float, higher volatility"
+ ],
+ "downside_case": {"level": 58.8, "probability": 0.3},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

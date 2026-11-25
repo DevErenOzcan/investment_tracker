@@ -1,0 +1,31 @@
+{
+  "finalists": [
+    {"ticker": "ASO", "why": "Consumer Cyclical (XLY leading), trend 4, ext_20 7.5%, RSI 65.7, just 2.1% off the 52-week high with a recent multi-name 52-week-high breakout.", "watch": "Volume ratio is only 0.92 and the broad risk-off tape (VIX 31) could hit retail names; next earnings 2026-12-08."},
+    {"ticker": "CROX", "why": "Footwear name in a leading sector (XLY), barely extended (ext_20 2.6%, RSI 62.1), 3.0% below its high, with the largest dollar volume among candidates.", "watch": "Volume ratio 0.80 shows muted participation after a 34% 21-day run; a failed hold of the recent base would invalidate the setup."},
+    {"ticker": "COLM", "why": "Apparel maker (XLY) pressing its 52-week high (0.8% away) with ext_20 8.9% and trend 4.", "watch": "RSI 74.7 is near the 78 limit, so the setup is stretched and prone to a pullback in a volatile market."},
+    {"ticker": "GMAB", "why": "Large-cap biotech (XLV leading) with the best liquidity here, ext_20 5.2%, RSI 68.5 and a 63-day return of 67.6%.", "watch": "Volume ratio 0.78 and 8.9% 5-day gain; the ADR can gap on pipeline news."},
+    {"ticker": "PGNY", "why": "Healthcare plans (XLV) in a clean uptrend, ext_20 7.6%, 2.0% from the high, and an ATR of 3.0% that is lower than most peers.", "watch": "RSI 70.5 with flat 5-day return (-0.6%) and a volume ratio of 0.87 hint at consolidation that could roll over."},
+    {"ticker": "KNSA", "why": "Specialty pharma (XLV) at a fresh high (0.6% away), ext_20 8.0%, RSI 66.1, with a 2027 best-idea mention from TD Cowen.", "watch": "Volume ratio 0.79 on a 40.8% 21-day run; a headline notes unusual options activity, which could signal event risk."},
+    {"ticker": "TGTX", "why": "Biotech (XLV) at all-time highs after FDA acceptance of the Briumvi filing, ext_20 11.9%, RSI 69.3, heavy liquidity.", "watch": "ext_20 is the highest of the picks and the move was catalyst-driven, so gap-fade risk is real; earnings were due 2026-11-09, so the setup is post-event."},
+    {"ticker": "PLMR", "why": "Property and casualty insurer (defensive, different sub-industry from the other picks), trend 4, ext_20 9.1%, 1.0% from the high, with a buy-point breakout.", "watch": "RSI 74.1 is close to the 78 cap and Financial Services is not a regime-leading sector."}
+  ],
+  "dropped": [
+    {"ticker": "XERS", "why": "Over-extended: RSI 84.0 and ext_20 21.1%."},
+    {"ticker": "SGRY", "why": "Pending take-private merger at $23.50 per share with shareholder-fairness investigations (binary deal risk); RSI 82.0."},
+    {"ticker": "VCEL", "why": "Over-extended: ext_20 15.5% (above 15%) and RSI 76.5 after a 42% 21-day run."},
+    {"ticker": "CRAI", "why": "RSI 79.5 is above the 78 limit."},
+    {"ticker": "BRZE", "why": "RSI 78.7 is above the 78 limit, and it is tech (lagging sector) in a software selloff."},
+    {"ticker": "KOD", "why": "Parabolic (63-day return 192%), ext_20 12.6% with a volume ratio of 0.39, and clinical-stage binary risk."},
+    {"ticker": "ADMA", "why": "Sits 22.8% below its 52-week high, so it is not a clean breakout or tight base."},
+    {"ticker": "CRCT", "why": "Repeated officer share sales and a 38% 21-day run in a thinner name (dollar volume 13.6M)."},
+    {"ticker": "ULCC", "why": "Airline with ATR 7.0% after a 67% 21-day run; too volatile for the risk-off regime."},
+    {"ticker": "REPL", "why": "Biotech after a 78% 21-day run with ATR 6.2% and a negative forward PE; also capped by the 2-per-sub-industry limit."},
+    {"ticker": "XNCR", "why": "Biotech with a negative forward PE and sub-industry cap (GMAB and TGTX already chosen); has a Dec. 1 presentation event."},
+    {"ticker": "AZTA", "why": "Valid setup, but ATR 6.2% and it was edged out by lower-volatility picks."},
+    {"ticker": "AMPH", "why": "Thin liquidity (dollar volume about 15M) and a sell-side 'Reduce' rating."},
+    {"ticker": "APPN", "why": "Tech/software is a lagging sector, ATR 6.0%, and the headlines suggest it is fully valued."},
+    {"ticker": "VERX", "why": "Software is a lagging sector (XLK) in a tech-led selloff; RSI 70.2."},
+    {"ticker": "SIBN", "why": "Small medical-device name edged out by better-ranked finalists; the headlines show only insider tax-withholding sales."},
+    {"ticker": "CBLL", "why": "Unprofitable small cap with ext_20 10.4% and a 15% 5-day jump; low liquidity (dollar volume about 16.7M)."}
+  ]
+}

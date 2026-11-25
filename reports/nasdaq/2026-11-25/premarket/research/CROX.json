@@ -1,0 +1,8 @@
+{"ticker": "CROX", "rating": "Overweight", "confidence": 0.4,
+ "entry": 158.13, "entry_zone": [155.5, 159.0], "stop": 152.5, "target": 176.0, "horizon_days": 15,
+ "expected_return": {"low": -0.036, "high": 0.113},
+ "sector": "Consumer Discretionary", "earnings_date": "2027-02-11",
+ "thesis": "CROX re-rated after its 10-29 gap and has held a four-week 150-164 consolidation above a rising SMA20 (155.1), with cheap valuation (forward P/E 9.95), accelerating revenue, rising estimates and no earnings until 2027-02-11. Consumer discretionary (XLY) is holding up while tech leads the risk-off selloff, so this is a non-tech post-earnings consolidator near its highs. The edge is modest: price has stalled twice under 164.24 on fading volume (vol_ratio 0.80) and sits near the 164.67 analyst target in a VIX-99th-percentile tape, so the position should be small and partly scaled out at 164.24.",
+ "invalidation": "A daily close below 152.5, which breaks the 153.92 swing low and the post-earnings consolidation.",
+ "key_risks": ["Risk-off regime (QQQ ret_21 -10.4%, VIX 31.19 at 1y percentile 0.991) with beta 1.498 exposes CROX to broad liquidation", "Twice-rejected resistance at 164.24 on fading volume; R/R to that first resistance from 158.13 is only about 1.1", "Little room to the 164.67 mean analyst target after a +33.98% 21-day run; post-gap drift may fade", "Leverage: total debt about 1.66B vs cash about 0.16B; footwear-price margin worries (headline only)", "Short interest 10.46% of float means sharp moves in both directions"],
+ "debate_winner": "draw"}

@@ -1,0 +1,65 @@
+{
+  "as_of": "2026-11-25",
+  "session": "premarket",
+  "exchange": "NASDAQ",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "regime": "risk-off",
+  "positions": [
+    {
+      "ticker": "GMAB",
+      "status": "new",
+      "sector": "Health Care",
+      "price": 55.0,
+      "weight": 0.0092,
+      "engine_weight": 0.0092,
+      "amount_units": 9.2,
+      "entry_zone": [54.2, 55.8],
+      "stop": 49.9,
+      "target": 69.7,
+      "rating": "Overweight",
+      "confidence": 0.42,
+      "action": "buy",
+      "rationale": "Engine weight kept unchanged (already cut x0.7 by the risk-officer for event and gap risk); a profitable biotech holding its post-gap base in a leading sector, pullback-only entry in 54.2-55.8, do not chase the 55.98 pre-market price."
+    },
+    {
+      "ticker": "CROX",
+      "status": "new",
+      "sector": "Consumer Discretionary",
+      "price": 158.13,
+      "weight": 0.0095,
+      "engine_weight": 0.0095,
+      "amount_units": 9.5,
+      "entry_zone": [155.5, 159.0],
+      "stop": 152.5,
+      "target": 176.0,
+      "rating": "Overweight",
+      "confidence": 0.4,
+      "action": "buy",
+      "rationale": "Engine weight kept unchanged (already cut x0.75 by the risk-officer); cheap post-earnings consolidator in a holding sector, but scale out at the 164.24 resistance where R/R is only about 1.1."
+    },
+    {
+      "ticker": "PGNY",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 36.08,
+      "weight": 0.0103,
+      "engine_weight": 0.0103,
+      "amount_units": 10.3,
+      "entry_zone": [35.6, 36.3],
+      "stop": 34.8,
+      "target": 39.5,
+      "rating": "Overweight",
+      "confidence": 0.42,
+      "action": "buy",
+      "rationale": "Engine weight kept unchanged (already cut x0.85 to cap combined healthcare with GMAB at 1.95%); post-earnings re-rated consolidator with pre-market inside the zone, no chasing above 36.3."
+    }
+  ],
+  "cash_weight": 0.971,
+  "vetoed": [
+    {
+      "ticker": "PLMR",
+      "reason": "Risk-officer veto: R/R 1.44 at the 167.67 last price and 1.28 at the 168.64 pre-market price, below the 1.5 minimum (lessons item 3), plus undated investor-day and follow-on offering risk; re-assess at pre-close only inside 163.5-167.0."
+    }
+  ]
+}

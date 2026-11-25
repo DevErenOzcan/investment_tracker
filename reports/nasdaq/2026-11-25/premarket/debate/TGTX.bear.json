@@ -1,0 +1,18 @@
+{"ticker": "TGTX",
+ "thesis": "TGTX is a stretched, news-spike entry in a hostile tape. The stock sits at an all-time high after a one-day gap on a modest sBLA acceptance (a convenience filing, not a new indication), trades above the mean analyst target, and carries rich multiples while sequential revenue growth is slowing. The regime is risk-off (VIX 99th percentile, QQQ below its 50- and 200-day averages), and a beta of 1.8 means a market bounce failure hits this name harder. Reward/risk is only about 1.6 from the entry zone, short interest is high, and post-spike fades are common. There is no edge in buying here, and the card's own advice is to wait for a pullback.",
+ "evidence": [
+  "technical card: setup = pullback; close 70.13 is 11.9% above SMA20, RSI14 = 69.3, pre-market 69.34 below the close, so buying now chases",
+  "technical card: reward_risk = 1.6 (below 2), entry_zone = [66.5, 69.0], stop = 61.0, target 79.5 is only a measured move",
+  "technical card: invalidation = close under 64.06 (low of 11/24 breakout bar) signals a failed breakout; beta 1.8",
+  "fundamentals card: valuation = rich; trailing P/E 104.67, forward P/E 27.47, P/S 11.81, EV/EBITDA 52.19",
+  "fundamentals card: price 70.13 is above the mean analyst target 69.43; growth = decelerating (revenue +60.7% YoY vs about 70% prior two quarters, sequential 240.3M to 259.9M)",
+  "fundamentals card: total debt 754.4M vs cash 504.7M, debt/equity 131.85",
+  "news card: the 11/24 catalyst is an sBLA acceptance for a simplified dosing schedule, described as modest launch-friction improvement; the news effect is modest",
+  "news card: Halper Sadeh shareholder-rights investigation (11/23) and Seeking Alpha note on Ocrevus copies (11/19) as competitive risk",
+  "news card: the sBLA action date is unknown, and the next earnings date is unknown, so there is no dated upside catalyst",
+  "fundamentals card: short interest 27.37% of float, ATR 4.72% of price, so volatility cuts both ways",
+  "regime_view: regime = risk-off, confidence 0.93; VIX 31.19 (1y pct 0.991); QQQ ret_21 -10.4%, below 50/200-day; SMH ret_21 -21.2%"
+ ],
+ "downside_case": {"level": 61.0, "probability": 0.4},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

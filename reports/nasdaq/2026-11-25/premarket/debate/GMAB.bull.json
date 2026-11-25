@@ -1,0 +1,22 @@
+{"ticker": "GMAB",
+ "thesis": "GMAB is a profitable, cash-generative biotech that re-rated on cancer-program news and has held a post-gap base above its 50.24 swing low while the Nasdaq sold off. Relative strength in a risk-off tape is a real positive, and the defensive-leaning health care sector is among the leaders. A pullback entry of 54.2-55.8 with a 49.9 stop gives a reward/risk of about 2.9 to a measured-move target of 69.7, and there is no earnings or offering event inside the swing window. The setup is only moderate. The regime is hostile, the stock is extended, the latest bounce lacks volume confirmation, and the target depends on a breakout above 59.97, so this should be a small, pullback-only long.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = trend-continuation",
+  "technical: entry_zone = [54.2, 55.8]",
+  "technical: stop = 49.9",
+  "technical: target = 69.7",
+  "technical: reward_risk = 2.9",
+  "technical: notes = close 56.57 is above SMA20 (53.79), SMA50 (43.84) and SMA200 (32.25), and 63-day return is +68%",
+  "fundamentals: notes = operating margin 30.6%, profit margin 17.0%, free cash flow 854.9M, cash 1.871B",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: earnings_date = 2027-02-10, outside the swing window",
+  "fundamentals: notes = mean analyst target of 66.1 is above the 56.57 close",
+  "fundamentals: notes = short interest 1.45% of float, so no squeeze risk against the position",
+  "news: catalysts[0] = IBD cites an October 'hat trick' in cancer treatment, direction positive",
+  "news: catalysts[2] = IBD lists a biotech showing strength in a weak market, direction positive",
+  "news: binary_event = false",
+  "regime_view: leading_sectors = XLP, XLV, XLY (defensive and health care leadership)"
+ ],
+ "upside_case": {"target": 69.7, "probability": 0.3},
+ "rebuttal_to_bear": null}

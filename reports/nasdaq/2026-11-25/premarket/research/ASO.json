@@ -1,0 +1,8 @@
+{"ticker": "ASO", "rating": "Hold", "confidence": 0.36,
+ "entry": 71.35, "entry_zone": [70.4, 72.3], "stop": 66.7, "target": 80.5, "horizon_days": 8,
+ "expected_return": {"low": -0.065, "high": 0.128},
+ "sector": "Consumer Cyclical", "earnings_date": "2026-12-08",
+ "thesis": "ASO is a clean relative-strength uptrend (close 72.24 above SMA20 67.21, SMA50 58.81 and SMA200 53.55) consolidating 2.1% under its 73.82 high, backed by profitable fundamentals at a forward P/E of 10.2, and consumer discretionary (XLY) is one of the few sectors holding up. But reward/risk is only 1.97 at the 71.35 zone midpoint and about 1.49 at the 72.24 last close, which is under the 1.5 floor. The 80.5 target needs about 3.4 ATR in the roughly 8 trading days before the 2026-12-08 earnings, the breakout has no volume confirmation (ratio 0.92), and the regime is risk-off (VIX 31.19, 99th percentile). Even the bull puts target odds at 0.35. Hold and revisit after earnings, or on a volume-confirmed close above 73.82.",
+ "invalidation": "A daily close below 66.7 (under the 66.96 swing low) breaks the uptrend and voids any long case.",
+ "key_risks": ["Q3 earnings on 2026-12-08 fall inside a 20-day window; after a +66% 63-day run the gap is two-sided and can skip the 66.7 stop (bear downside level 58.8)", "Risk-off regime (confidence 0.93; QQQ ret_21 -10.4%, VIX 31.19) where high-beta momentum names get sold when correlations spike", "Last close 72.24 is above the mean analyst target of 63.58, and revenue growth slowed from about +6.7% to +3.0% YoY", "Short interest is 19.5% of float, so moves in either direction can be violent", "No volume confirmation on the range high, and no company-specific catalyst explains the run"],
+ "debate_winner": "bear"}

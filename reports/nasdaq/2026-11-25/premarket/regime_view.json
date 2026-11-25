@@ -1,0 +1,20 @@
+{"regime": "risk-off",
+ "confidence": 0.93,
+ "leading_sectors": ["XLP", "XLV", "XLY"],
+ "lagging_sectors": ["SMH", "XLK", "XLE"],
+ "evidence": [
+  "QQQ below 50- and 200-day averages (last 638.1, ret_21 -10.4%, ret_63 -10.2%), breaching the -8% 21-day threshold",
+  "^VIX at 31.19 with 1-year percentile 0.991 (ret_21 +78.0%, ret_5 +27.0%), well above the 0.85 risk-off line",
+  "SMH ret_21 -21.2% and XLK ret_21 -15.7%, both below 50/200-day: tech/semis leading the selloff",
+  "SPY below 50/200-day (ret_21 -6.1%) and IWM below 50/200-day (ret_21 -3.6%): weakness is broad",
+  "Defensives holding: XLP ret_21 +4.5% (1y pct 0.981), XLV ret_21 +3.0% (1y pct 0.942), both above 50/200-day",
+  "XLY ret_21 +3.0% and above 50/200-day; XLE ret_21 -13.2% and below 50-day",
+  "^TNX 4.84 with ret_5 -4.5%, yields easing but not offsetting equity weakness"
+ ],
+ "watch": [
+  "Whether VIX (31.19) rolls over from its 99th-percentile level",
+  "Whether QQQ (638.1) can reclaim its 50-day average",
+  "Semiconductor (SMH) stabilization after a -21.2% 21-day drop"
+ ],
+ "summary": "Risk-off: QQQ is below its 50- and 200-day averages with a 21-day return of -10.4%, and VIX sits at 31.19 (1-year percentile 0.991). Selling is led by semis and tech (SMH -21.2%, XLK -15.7% over 21 days), while defensives (XLP, XLV) and XLY hold up above their averages. Long swing entries in NASDAQ names face a hostile backdrop."
+}

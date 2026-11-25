@@ -1,0 +1,15 @@
+{"ticker": "GMAB",
+ "thesis": "GMAB is an extended post-gap rerating (+68% in 63 days, +127% off the low) being bought into a risk-off tape with VIX in its 99th percentile. The latest two-day bounce (+6.4% on 11-24) has no identified catalyst and is not volume-confirmed, so it looks like a relief rally inside a 50-60 range. First resistance at 59.97 is only about 1R from entry, which leaves the quoted 2.9 R/R dependent on a breakout that may fail. Valuation is rich (trailing P/E 48.4, forward 35.8) with earnings growth negative and debt of 5.198B, and the gap leaves an air pocket down to the mid-40s if the October story, possibly M&A-related and unverified, fades.",
+ "evidence": [
+  "regime_view: regime = risk-off, confidence 0.93, VIX 31.19 at 1y percentile 0.991, QQQ ret_21 -10.4%",
+  "technical: RSI 68, 20-day volume ratio 0.78, bounce not volume-confirmed",
+  "technical: first resistance 59.97 is only about 1.0 R from entry; target 69.7 depends on a breakout above 59.97",
+  "technical: stop 49.9 vs 20-day low 44.35, so a failed range leaves a gap below the stop",
+  "news: event_risks = no headline explains the +6.4% move on 2026-11-24; pre-market 55.98 is below the prior close",
+  "news: event_risks = takeover/M&A cause of October spikes is unverified; air pocket from the 10-28 gap down to the mid-40s",
+  "fundamentals: trailing P/E 48.4, forward P/E 35.8, earnings growth -14.7% vs revenue growth +16.1%",
+  "fundamentals: total debt 5.198B vs cash 1.871B; SEC quarterly series empty so growth trend is unverified",
+  "fundamentals: red_flags = multiples already reflect the rerating"],
+ "downside_case": {"level": 50.24, "probability": 0.35},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

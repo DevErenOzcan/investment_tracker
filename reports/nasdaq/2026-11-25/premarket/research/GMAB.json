@@ -1,0 +1,15 @@
+{"ticker": "GMAB", "rating": "Overweight", "confidence": 0.42,
+ "entry": 55.0, "entry_zone": [54.2, 55.8], "stop": 49.9, "target": 69.7, "horizon_days": 15,
+ "expected_return": {"low": -0.093, "high": 0.267},
+ "sector": "Health Care", "earnings_date": "2027-02-10",
+ "thesis": "GMAB is a profitable biotech (operating margin 30.6%, FCF 854.9M) that re-rated on October cancer-program news and has held a 50.24-59.97 post-gap base while QQQ fell 10.4% over 21 days, with XLV among the leading sectors. A pullback-only entry in 54.2-55.8 against a 49.9 stop gives about 2.9 R/R to the 69.7 measured move, with no earnings (2027-02-10) or offering event in the window. The debate is a draw: the bear's points (risk-off regime with VIX 31.19, RSI 68, unconfirmed 0.78 volume ratio on an unexplained 11-24 bounce, and first resistance at 59.97 only about 1R away) cap conviction and size but are not dealbreakers.",
+ "invalidation": "A daily close below 50.24 (the 2026-11-20 swing low), or a close back under 56 after a push through 59.97 on weak volume.",
+ "key_risks": [
+  "Hostile regime: risk-off with confidence 0.93, VIX 31.19 at 1y percentile 0.991",
+  "Target needs a breakout above 59.97, which is only about 1R from entry; scale out or tighten the stop there",
+  "Air pocket from the 10-28 gap (44.67 to 57.29) and a 20-day low of 44.35 below the stop, so slippage through 49.9 is possible",
+  "The 11-24 +6.4% bounce has no identified catalyst and is not volume-confirmed (volume ratio 0.78); pre-market 55.98 is above the zone, so a fill is not assured",
+  "Rich valuation (trailing P/E 48.4, forward 35.8) with earnings growth -14.7%, debt 5.198B, and an empty SEC quarterly series so the growth trend is unverified",
+  "Correlated healthcare exposure: per lessons.md item 8, size together with other health care names"
+ ],
+ "debate_winner": "draw"}

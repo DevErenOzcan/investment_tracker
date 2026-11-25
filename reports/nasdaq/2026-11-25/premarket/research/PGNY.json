@@ -1,0 +1,8 @@
+{"ticker": "PGNY", "rating": "Overweight", "confidence": 0.42,
+ "entry": 36.08, "entry_zone": [35.6, 36.3], "stop": 34.8, "target": 39.5, "horizon_days": 10,
+ "expected_return": {"low": -0.035, "high": 0.095},
+ "sector": "Healthcare", "earnings_date": null,
+ "thesis": "PGNY re-rated on Q3 results (14% gap from 30.10 to 34.37 on 2.8M shares) and has held a tight 34.94-37.21 consolidation on lighter volume, with accelerating revenue (YoY 1.4% to 5.3% to 8.9%) and net income growth, low dilution risk and forward P/E 15.2. The premarket 36.08 is inside the 35.6-36.3 pullback zone, giving about 2.7 reward/risk to the 39.5 measured-move target against a 34.8 stop. This matches the post-earnings consolidation pattern noted in lessons, but the risk-off tape (VIX 31.19, QQQ below its 50/200-day) and overbought RSI 70.5 cap conviction, so the rating is Overweight rather than Buy.",
+ "invalidation": "Daily close below 34.80 (under the 34.94 swing low and into the post-earnings gap area), or a failed breakout closing back below 35.4 on rising volume.",
+ "key_risks": ["Risk-off regime: VIX 31.19 (99th percentile), QQQ ret_21 -10.4%, broad de-grossing could hit re-rated names", "Extended: RSI 70.5, price 7.6% above SMA20, repeated rejections at 37.21 resistance possible", "Close 36.48 near the mean analyst target 37.75, so little consensus upside; recent support is sell-side and Zacks momentum coverage", "Q3 revenue 341.3M fell sequentially from Q2 350.5M", "Healthcare is a correlated cohort in the book; combined healthcare weight should be capped", "Do not chase above the 36.3 zone top: at the 36.48 close R/R falls to about 1.8"],
+ "debate_winner": "bull"}

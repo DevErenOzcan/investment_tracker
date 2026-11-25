@@ -1,0 +1,19 @@
+{"ticker": "TGTX",
+ "thesis": "TGTX is a profitable, fast-growing commercial biotech in a clean uptrend, making all-time highs on roughly 2x average volume after a Q3 beat with raised guidance and an FDA-accepted Briumvi sBLA. Fundamentals support the move: revenue up about 61% YoY, positive free cash flow, and low dilution risk. High short interest adds squeeze fuel. The setup is only a conditional long. Price is extended, reward/risk is below 2 from the mid-zone, and the regime is risk-off, so the thesis only works on a pullback toward the 66.5-69.0 entry zone with modest size. Defensive-style healthcare strength (XLV) is a partial tailwind.",
+ "evidence": [
+  "technical: trend = up; close 70.13 > SMA20 62.66 > SMA50 58.12 > SMA200 46.63 (from notes)",
+  "technical: notes = new 52-week/all-time high 71.24 on 11/24 on 3.77M shares, about 2x the 1.86M average volume",
+  "technical: notes = 63-day relative strength of +0.38",
+  "technical: entry_zone = [66.5, 69.0], stop = 61.0, target = 79.5, reward_risk = 1.6",
+  "technical: setup = pullback; notes say wait for entry nearer 66.5 or size modestly",
+  "fundamentals: notes = revenue 259.9M for the quarter ended 2026-09-30, up 60.7% YoY; guidance raised after the 2026-11-09 report",
+  "fundamentals: notes = profit margin 11.8%, operating margin 21.5%, gross margin 82.7%, free cash flow 85.5M",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: red_flags = short interest 27.37% of float, squeeze potential",
+  "news: catalysts[0] = FDA accepted supplemental BLA for simplified Briumvi initiation schedule, direction positive, 2026-11-24",
+  "news: catalysts[1] = Q3 results with raised revenue guidance, direction positive, 2026-11-09",
+  "news: event_risks = no SEC filings in the last 10 days, so no S-3/424B5 or 8-K offering signal; binary_event = false",
+  "regime_view: leading_sectors = XLP, XLV, XLY (healthcare is a leading sector in a risk-off tape)"
+ ],
+ "upside_case": {"target": 79.5, "probability": 0.35},
+ "rebuttal_to_bear": null}
