@@ -1,0 +1,75 @@
+{
+  "as_of": "2026-11-25",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "peak_value_units": 1000,
+  "drawdown": 0.0,
+  "regime": "risk-off",
+  "regime_mult": 0.4,
+  "risk_per_trade": 0.0075,
+  "portfolio_vol": 0.008069376923679202,
+  "positions": [
+    {
+      "ticker": "GMAB",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 55.3,
+      "stop": 49.9,
+      "target": 69.7,
+      "rr": 2.67,
+      "rating": "Overweight",
+      "confidence": 0.42,
+      "kelly": 0.2025,
+      "stop_pct": 0.0976,
+      "binding": "kelly",
+      "engine_weight": 0.0085,
+      "priority": 0.12150000000000005,
+      "flags": [
+        "risk-officer reduction x0.7: The morning gap and event risk still stands: a biotech re-rated on Phase III news with no dated regulatory or launch catalyst in the packet, 6-K filings (foreign issuer) the SEC check cannot see, an empty SEC quarterly series, and the 10-28 air pocket (gap-day low 44.35) below the 49.9 stop, so a gap could roughly double the planned loss; today's RBC note explains sentiment but not the unconfirmed bounce (vol_ratio 0.75, last 56.78 above the 54.8-55.8 zone)."
+      ],
+      "amount_units": 8.5
+    },
+    {
+      "ticker": "PGNY",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 36.23,
+      "stop": 34.8,
+      "target": 39.5,
+      "rr": 2.29,
+      "rating": "Overweight",
+      "confidence": 0.42,
+      "kelly": 0.1664,
+      "stop_pct": 0.0395,
+      "binding": "kelly",
+      "engine_weight": 0.009,
+      "priority": 0.09981651376146804,
+      "flags": [
+        "risk-officer reduction x0.9: Per lessons item 8, GMAB and PGNY count as one correlated healthcare bet; after the GMAB cut, combined healthcare already sits under the morning's 1.95% cap, so this is a lighter trim than the morning's 0.85, kept because the last price of 36.23 is above the 36.2 zone top, R/R to the first resistance at 37.21 is only about 0.7, the earnings date field is still null, and the news support is mostly Zacks screens and title-only RSS items."
+      ],
+      "amount_units": 9.0
+    },
+    {
+      "ticker": "CROX",
+      "status": "new",
+      "sector": "Consumer Discretionary",
+      "price": 159.57,
+      "stop": 153.4,
+      "target": 174.6,
+      "rr": 2.44,
+      "rating": "Overweight",
+      "confidence": 0.4,
+      "kelly": 0.1537,
+      "stop_pct": 0.0387,
+      "binding": "kelly",
+      "engine_weight": 0.0069,
+      "priority": 0.09221556886227579,
+      "flags": [
+        "risk-officer reduction x0.75: Unchanged from the morning: a beta-1.5, levered (debt about 1.66B vs cash 0.16B), 10.5%-short-interest name up about 33.5% in 21 days goes against a risk-off tape at VIX 31.19 (99th percentile), resistance at 164.24 has rejected it three times on fading volume, it trades near the 164.67 mean analyst target, and its 0.40 confidence is the lowest on the slate (lessons item 5 shows weaker hit rates at the low end)."
+      ],
+      "amount_units": 6.9
+    }
+  ],
+  "cash_weight": 0.9756,
+  "rejected": []
+}

@@ -1,0 +1,18 @@
+{"ticker": "GMAB", "catalysts": [
+{"what": "RBC says Genmab's three self-commercialised assets can drive growth through the Darzalex royalty cliff (supportive analyst view)", "date": "2026-11-25", "direction": "positive", "source": "https://finance.yahoo.com/healthcare/articles/genmab-apos-three-key-drugs-180916327.html"},
+{"what": "IBD: stock up about 60% in October on an unexpected 'hat trick' in cancer treatment per CEO (Epkinly, Tivdak, royalties, ADCs, bispecifics). Packet price data show the main jump on 2026-10-28 (+28%, about 29M shares), with earlier jumps on 10-05 and 10-23", "date": "2026-11-20", "direction": "positive", "source": "https://www.investors.com/research/the-new-america/genmab-stock-epkinly-tivdak-royalties-adcs-bispecifics/?src=A00220&yptr=yahoo"},
+{"what": "TradingView headline: three strong Phase III readouts set up potential 2027 launches and focused investment (title only, no detail in packet)", "date": "2026-11-19", "direction": "positive", "source": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcEVmWmxEWDZGWHU1VDhrOUtnTDY0RF9zc3VmVmd0Nmc2a01EVW83UEgxYV9GdFpteEFDdWd4c0E4dDBKMmNQSVNnN3JSaTllVWRDbDh5c1hjQUZtV3hDQ2Z5dFZtTE5UVW5weXZubXVkeHlVT1UwNGhSeXNmb05OMFNVYWtLWnlJbGVHdEVza3JTanVTM3Z4OElMME5fWUtfeG1vbi0tdzctWTkzZ1JzUEc4c19EY3hmSnhJUVdRdHF5SjN5dUUteWVVbG9meUY3Y2h0MHlJTFBZRlp1TmE4STF0Vm13SVotMVFVSGphVUdRcW5meFVsQmR1TDJqSFpyamlnRnlzN2Y?oc=5"},
+{"what": "Routine grant of 4,993 RSUs and 4,607 warrants to employees (minor dilution, not an offering)", "date": "2026-11-18", "direction": "mixed", "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWRjZDluc2xZU3Q5UGNJMHFOSS0xbFM0alhOUW8tdFFRcnhKbXZWV204OU00VmtQNzV5dHRFS0xmLWFvMzR5TktzaS0zeEpvekhqQTFKX05jRDY2Mm1xdXhDUmIySWlOUER6RWd0NnA3aGk1WmNXUU81eklzX0pvbnNCc2xLRWpXNlRkODZ2aFQzakJLUkpIRmw3UXZscW40NjBiQkxSTGw4dw?oc=5"}
+],
+"event_risks": [
+"No SEC filings in the last 10 days, so no S-3/424B5 offering signal and no 8-K items to interpret",
+"Long-term Darzalex royalty cliff is the structural overhang that the bulls argue the pipeline can offset",
+"Stock is up about 66% over 63 days and about 110% over 126 days, trading near the 52w high of 59.97, so it is vulnerable to sell-the-news and profit-taking (sharp pullback from 57 to 50 in November already seen)",
+"Phase III-driven rerating means any regulatory or launch timing news carries gap risk; the packet gives no dated catalyst",
+"No takeover bid or litigation news found in the packet",
+"Next earnings 2027-02-10, outside the 20-business-day window; no other known dated events in the packet"
+],
+"binary_event": false,
+"news_available": true,
+"score": 1,
+"notes": "News status is ok (yahoo+google_rss); most RSS items are title-only. The price rerating came from a cluster of oncology and Phase III positive news in October (largest move 2026-10-28, +28% on about 29M shares), and the move has largely held, so it looks like a durable fundamental rerating rather than a one-off spike. Today's RBC note is supportive, and the last price of 56.78 is near the high. No offering or other filing risk, no binary event inside 20 business days, and earnings are on 2027-02-10. I score it mildly positive (+1) because the stock is extended after a very large run and I could not see details of the October readouts in the packet."}

@@ -1,0 +1,68 @@
+{
+  "as_of": "2026-11-25",
+  "session": "preclose",
+  "exchange": "NASDAQ",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "regime": "risk-off",
+  "positions": [
+    {
+      "ticker": "GMAB",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 55.3,
+      "last_price": 56.78,
+      "weight": 0.0085,
+      "engine_weight": 0.0085,
+      "amount_units": 8.5,
+      "entry_zone": [54.8, 55.8],
+      "stop": 49.9,
+      "target": 69.7,
+      "rating": "Overweight",
+      "confidence": 0.42,
+      "action": "buy-confirm",
+      "rationale": "Engine weight kept unchanged (down from 0.0092 in the morning after the risk-officer x0.7 cut); the post-gap base held with an intraday dip to 54.91 inside the zone and R/R at the 56.78 last is still 1.88, but buy only on a pullback into 54.8-55.8 (zone floor raised from 54.2), do not chase."
+    },
+    {
+      "ticker": "PGNY",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 36.23,
+      "last_price": 36.23,
+      "weight": 0.009,
+      "engine_weight": 0.009,
+      "amount_units": 9.0,
+      "entry_zone": [35.6, 36.2],
+      "stop": 34.8,
+      "target": 39.5,
+      "rating": "Overweight",
+      "confidence": 0.42,
+      "action": "buy-confirm",
+      "rationale": "Engine weight kept unchanged (down from 0.0103 after the x0.9 healthcare-cohort cut, combined healthcare with GMAB about 1.75%); the 34.94-37.21 consolidation held on light volume and R/R at the last is about 2.3, but fill only inside 35.6-36.2 (top lowered from 36.3) and take partial profit at 37.21."
+    },
+    {
+      "ticker": "CROX",
+      "status": "new",
+      "sector": "Consumer Discretionary",
+      "price": 159.57,
+      "last_price": 159.57,
+      "weight": 0.0069,
+      "engine_weight": 0.0069,
+      "amount_units": 6.9,
+      "entry_zone": [156.0, 159.0],
+      "stop": 153.4,
+      "target": 174.6,
+      "rating": "Overweight",
+      "confidence": 0.4,
+      "action": "buy-confirm",
+      "rationale": "Engine weight kept unchanged (down from 0.0095 after the x0.75 risk-officer cut); the intraday dip to 154.46 held the 153.92 swing low, stop raised to 153.4 and target lowered to 174.6 per the pre-close card, pullback-only fill in 156-159 and scale out at the 164.24 resistance."
+    }
+  ],
+  "cash_weight": 0.9756,
+  "vetoed": [
+    {
+      "ticker": "PLMR",
+      "reason": "Morning risk-officer veto stands (R/R below 1.5 at the last and pre-market prices, undated investor-day and follow-on offering risk); the re-assessment condition was a price inside 163.5-167.0, but no pre-close packet exists, so it stays vetoed and unreviewed."
+    }
+  ]
+}

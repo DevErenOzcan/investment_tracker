@@ -1,0 +1,15 @@
+{"ticker": "GMAB", "rating": "Overweight", "confidence": 0.42,
+ "entry": 55.3, "entry_zone": [54.8, 55.8], "stop": 49.9, "target": 69.7, "horizon_days": 15,
+ "expected_return": {"low": -0.098, "high": 0.26},
+ "sector": "Healthcare", "earnings_date": "2027-02-10",
+ "thesis": "The morning thesis holds. GMAB is a profitable biotech (operating margin 30.6%, FCF 854.9M) that re-rated in October and is still above its 50.24-59.02 post-gap base. Today it dipped to 54.91, inside the pullback zone, and recovered to 56.78, above SMA20 53.77. RBC published a supportive note today and XLV is still a leading sector while QQQ is down 10.4% over 21 days. A pullback entry at 54.8-55.8 against a 49.9 stop gives 2.67 R/R to the 69.7 measured move, and R/R at the last price is still 1.88. No earnings (2027-02-10) or offering filings fall in the window. Conviction stays capped because of the risk-off tape, light volume (vol_ratio 0.75), RSI 68.8, and resistance at 59.02-59.97 only about 1R above entry.",
+ "invalidation": "A daily close below 50.24 (the 2026-11-20 swing low), or a close back under SMA20 (about 53.8) on rising volume.",
+ "key_risks": [
+  "Hostile regime: risk-off with confidence 0.93, VIX 31.19 at 1y percentile 0.991",
+  "The target needs a breakout above 59.97; R/R to the 59.02-59.97 resistance is only about 0.9, so scale out or tighten the stop there",
+  "Air pocket from the 10-28 gap (44.67 to 57.29) with the gap-day low at 44.35 below the stop, so slippage through 49.9 is possible",
+  "The bounce of 11-24 and 11-25 is not volume-confirmed (vol_ratio 0.75, 1.98M shares today against a 4.24M average); last 56.78 is above the zone, so do not chase",
+  "Rich valuation (trailing P/E 48.5, forward 35.9) with earnings growth -14.7%, debt 5.198B, and an empty SEC quarterly series, so the growth trend is unverified; Darzalex royalty cliff is the structural overhang",
+  "Correlated healthcare exposure: per lessons.md item 8, size together with other health care names"
+ ],
+ "debate_winner": "skipped"}
