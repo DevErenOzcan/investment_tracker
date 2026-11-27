@@ -1,0 +1,8 @@
+{"ticker": "IDXX", "rating": "Hold", "confidence": 0.45,
+ "entry": 702.0, "entry_zone": [696.0, 708.0], "stop": 670.5, "target": 757.0, "horizon_days": 10,
+ "expected_return": {"low": -0.045, "high": 0.078},
+ "sector": "Health Care", "earnings_date": "2027-02-01",
+ "thesis": "IDXX is a high-quality compounder (operating margin 32.5%, ROE 68.9%) that re-rated on the 11/02 earnings gap and has held a tight 672-715 range above all major averages, in a leading defensive sector, which fits the post-earnings consolidation pattern noted in lessons. The edge exists only on a pullback: R/R is 1.75 from the 702 zone midpoint but about 1.22 at the 709.46 last close, below the 1.5 rule, while the regime is risk-off (confidence 0.9), valuation is rich, the mean analyst target of 717.17 sits at spot, and the 757 target is a measured move rather than a confirmed level. Hold now; re-assess for Overweight if price trades into roughly 696-705, where R/R at the fill clears 1.5.",
+ "invalidation": "A daily close below 672.7 (post-earnings consolidation floor), or a failed breakout that closes back under 690 on rising volume after a push above 715.",
+ "key_risks": ["Risk-off regime with QQQ below its 50/200-day averages and VIX at the 0.90 1y percentile argues for reduced long exposure", "Extended after a +26.4% 21-day run with no earnings catalyst before 2027-02-01 and consensus target about 1% above spot", "Rich valuation (trailing P/E 47.8, forward P/E 42.0) with revenue growth slowing from about 14.3% to about 9.9% YoY", "Cause of the gap is inferred, not sourced; recent support is passive ETF flow that can fade", "Correlated healthcare exposure across the book; thin half-day liquidity (13:00 ET close)"],
+ "debate_winner": "bear"}

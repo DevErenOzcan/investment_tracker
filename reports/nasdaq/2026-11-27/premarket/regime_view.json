@@ -1,0 +1,20 @@
+{"regime": "risk-off",
+ "confidence": 0.9,
+ "leading_sectors": ["XLP", "XLV", "XLRE"],
+ "lagging_sectors": ["XLK", "XLE", "XLI"],
+ "evidence": [
+  "QQQ below both 50- and 200-day averages (last 633.93, 1y percentile 0.246)",
+  "QQQ 21-day return -12.11%, worse than the -8% risk-off threshold; 63-day -12.0%",
+  "VIX 25.44 at 1y percentile 0.90 (above 0.85 threshold), 21-day +47.9%, though 5-day -29.1% signals some easing from the peak",
+  "SMH 21-day -24.29% and XLK 21-day -17.78%, both below 50/200-day: tech/semis leading the drawdown",
+  "Breadth weak: SPY 21-day -6.88% and IWM 21-day -4.04%, both below 50/200-day",
+  "Defensives strong: XLP 21-day +5.91% (1y percentile 0.986), XLV 21-day +2.51% (percentile 0.923)",
+  "XLE 21-day -10.72% and XLI 21-day -2.96%, both below 50-day"
+ ],
+ "watch": [
+  "Half-day session today with early close at 13:00 ET, so liquidity is thin",
+  "Whether VIX keeps fading (5-day -29.1%) or turns back up from 25.44",
+  "Whether QQQ can reclaim its 50-day average after a 5-day return of -3.88%"
+ ],
+ "summary": "Risk-off. QQQ is below its 50- and 200-day averages with a 21-day return of -12.11%, and VIX sits at the 0.90 percentile of its 1-year range. Semis and tech lead the selloff while staples, health care and real estate hold up. VIX has fallen 29.1% over 5 days, so a bounce is possible, but the trend evidence still favors reduced long exposure."
+}

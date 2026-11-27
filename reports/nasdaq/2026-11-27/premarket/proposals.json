@@ -1,0 +1,80 @@
+{
+  "as_of": "2026-11-27",
+  "notional_base": 1000,
+  "portfolio_value_units": 1000,
+  "peak_value_units": 1000,
+  "drawdown": 0.0,
+  "regime": "risk-off",
+  "regime_mult": 0.4,
+  "risk_per_trade": 0.0075,
+  "portfolio_vol": 0.004337969302474904,
+  "positions": [
+    {
+      "ticker": "PGNY",
+      "status": "new",
+      "sector": "Healthcare",
+      "price": 35.9,
+      "stop": 34.8,
+      "target": 39.4,
+      "rr": 3.18,
+      "rating": "Overweight",
+      "confidence": 0.4,
+      "kelly": 0.2114,
+      "stop_pct": 0.0306,
+      "binding": "kelly",
+      "engine_weight": 0.0095,
+      "priority": 0.12685714285714272,
+      "flags": [
+        "risk-officer reduction x0.75: Confidence 0.40 on an extended name (RSI 68.7, +31% in 21 days, last close near the 37.75 mean analyst target) with a stop only about 1 ATR below entry, so a thin 13:00 ET half-day session can stop it out on noise; trim it and keep it dip-only in 35.5-36.3."
+      ],
+      "amount_units": 9.5
+    },
+    {
+      "ticker": "AMPH",
+      "status": "new",
+      "sector": "Health Care",
+      "price": 28.8,
+      "stop": 27.55,
+      "target": 31.0,
+      "rr": 1.76,
+      "rating": "Overweight",
+      "confidence": 0.45,
+      "kelly": 0.1375,
+      "stop_pct": 0.0434,
+      "binding": "kelly",
+      "engine_weight": 0.0041,
+      "priority": 0.0824999999999999,
+      "flags": [
+        "risk-officer reduction x0.5: R/R at the 29.12 last close is only about 1.20 (below the 1.5 rule in lesson 3) and only reaches 1.76 if the 28.80 limit fills; add a debate draw, neutral news score 0, a price above the 24.5 mean analyst target, 21.5% short interest and leverage, and confidence 0.45 overstates the case, so halve it and keep it limit-only at or below 28.80."
+      ],
+      "amount_units": 4.1
+    }
+  ],
+  "cash_weight": 0.9864,
+  "rejected": [
+    {
+      "ticker": "AZTA",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "CROX",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "GMAB",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "IDXX",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "IPAR",
+      "reason": "rating Hold: no new buy"
+    },
+    {
+      "ticker": "PLMR",
+      "reason": "rating Hold: no new buy"
+    }
+  ]
+}

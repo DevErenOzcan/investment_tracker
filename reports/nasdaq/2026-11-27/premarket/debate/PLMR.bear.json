@@ -1,0 +1,19 @@
+{"ticker": "PLMR",
+ "thesis": "PLMR is a good business bought at the wrong time. It is overbought (RSI14 74.1), 8% above its SMA20 and 0.9% under the 52-week high, and it has already run +25.5% in 21 days. Price is within 2.5% of the thin 6-opinion consensus target, so the fundamental upside is mostly spent while valuation is only fair. Volume has faded to about the 258k average after the breakout, and the session is a thin half day. All of this sits in a risk-off tape (QQQ below the 50- and 200-day averages, VIX at the 0.90 percentile) where high-beta winners get sold for liquidity. The stock is a clean pullback candidate, not a buy at 167.74. Any fill at the top of the entry zone cuts reward/risk toward 1.5, and a gap-fill to the 154.61 swing low would erase the whole post-earnings breakout.",
+ "evidence": [
+  "technical: RSI14 = 74.1, close 167.74 is 8% above SMA20 155.3 and 0.9% under the 52-week high 169.315",
+  "technical: volume faded to 258k over the last two sessions after 714.8k on the 11-05 gap and 524k on the 11-20 breakout",
+  "technical: reward_risk = 2.06 from the zone midpoint, falling toward 1.5 at the top of the entry zone 162.5-165.0",
+  "technical: invalidation = daily close below 154.61, which would erase the gap and the breakout; also do not chase above 169.3",
+  "fundamentals: red_flags = price 167.74 within 2.5% of analyst mean target 172.0 (only 6 opinions)",
+  "fundamentals: valuation = fair, trailing P/E 21.0, and no peer ratios in the packet to show it is cheap",
+  "fundamentals: cash 55.6M against total debt 315.0M, and the quarterly SEC series has gaps (no Q4 quarters)",
+  "news: event_risks = pullback risk is high without a news trigger; news flow since the Nov 5 earnings is only technical or sector commentary",
+  "news: P&C insurer, so catastrophe-loss headlines (earthquake, wildfire, hurricane) can hit without warning",
+  "news: Nov 23 macro piece cites a possible Fed rate hike and an index selloff, and the half-day session closes 13:00 ET with thin liquidity",
+  "regime_view: regime = risk-off, confidence 0.9; QQQ 21-day return -12.11%, VIX 25.44 at the 0.90 percentile",
+  "regime_view: summary = trend evidence still favors reduced long exposure"
+ ],
+ "downside_case": {"level": 154.61, "probability": 0.3},
+ "rebuttal_to_bull": null,
+ "dealbreaker": false}

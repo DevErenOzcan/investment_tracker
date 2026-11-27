@@ -1,0 +1,836 @@
+{
+  "ticker": "IDXX",
+  "exchange": "NASDAQ",
+  "as_of": "2026-11-27T13:48:44.046773+00:00",
+  "data_note": "In the pre-market session the last price is the previous close; in the pre-close session it is ~15 min delayed.",
+  "technical": {
+    "indicators": {
+      "symbol": "IDXX",
+      "date": "2026-11-25",
+      "close": 709.46,
+      "ret_5": 0.0157,
+      "ret_21": 0.2641,
+      "ret_63": 0.3016,
+      "ret_126": 0.249,
+      "rs_63": 0.4216,
+      "sma20": 679.404,
+      "sma50": 591.3664,
+      "sma200": 574.3677,
+      "trend": 4,
+      "atr": 22.7533,
+      "atr_pct": 0.0321,
+      "rsi14": 66.1847,
+      "dist_high": -0.0077,
+      "vol_ratio": 0.9308,
+      "ext_20": 0.0442,
+      "vol_20": 0.854,
+      "dollar_volume_20": 476842822.894,
+      "low_20": 540.61,
+      "high_20": 715.0
+    },
+    "levels": {
+      "swing_low_10": 672.719970703125,
+      "swing_low_20": 540.6099853515625,
+      "swing_high_20": 715.0,
+      "high_52w": 715.0,
+      "low_52w": 500.6099853515625
+    },
+    "last_60_days": [
+      {
+        "d": "2026-09-02",
+        "o": 546.73,
+        "h": 558.42,
+        "l": 537.31,
+        "c": 538.99,
+        "v": 655500
+      },
+      {
+        "d": "2026-09-03",
+        "o": 542.02,
+        "h": 548.85,
+        "l": 527.74,
+        "c": 529.29,
+        "v": 590100
+      },
+      {
+        "d": "2026-09-04",
+        "o": 522.05,
+        "h": 536.09,
+        "l": 522.05,
+        "c": 535.38,
+        "v": 407800
+      },
+      {
+        "d": "2026-09-08",
+        "o": 528.42,
+        "h": 529.02,
+        "l": 519.07,
+        "c": 520.21,
+        "v": 613000
+      },
+      {
+        "d": "2026-09-09",
+        "o": 517.0,
+        "h": 522.49,
+        "l": 511.16,
+        "c": 515.15,
+        "v": 556500
+      },
+      {
+        "d": "2026-09-10",
+        "o": 508.44,
+        "h": 514.3,
+        "l": 504.77,
+        "c": 506.53,
+        "v": 422300
+      },
+      {
+        "d": "2026-09-11",
+        "o": 509.88,
+        "h": 511.15,
+        "l": 500.61,
+        "c": 504.7,
+        "v": 401600
+      },
+      {
+        "d": "2026-09-14",
+        "o": 510.83,
+        "h": 515.48,
+        "l": 505.02,
+        "c": 509.56,
+        "v": 454100
+      },
+      {
+        "d": "2026-09-15",
+        "o": 509.56,
+        "h": 516.02,
+        "l": 502.4,
+        "c": 510.73,
+        "v": 603600
+      },
+      {
+        "d": "2026-09-16",
+        "o": 511.56,
+        "h": 520.41,
+        "l": 509.02,
+        "c": 513.62,
+        "v": 376100
+      },
+      {
+        "d": "2026-09-17",
+        "o": 514.33,
+        "h": 514.37,
+        "l": 501.98,
+        "c": 506.48,
+        "v": 459800
+      },
+      {
+        "d": "2026-09-18",
+        "o": 506.48,
+        "h": 516.43,
+        "l": 505.21,
+        "c": 511.65,
+        "v": 1124000
+      },
+      {
+        "d": "2026-09-21",
+        "o": 511.65,
+        "h": 518.96,
+        "l": 506.22,
+        "c": 515.3,
+        "v": 513200
+      },
+      {
+        "d": "2026-09-22",
+        "o": 519.27,
+        "h": 523.95,
+        "l": 511.73,
+        "c": 521.5,
+        "v": 476500
+      },
+      {
+        "d": "2026-09-23",
+        "o": 517.2,
+        "h": 523.22,
+        "l": 516.88,
+        "c": 522.02,
+        "v": 364200
+      },
+      {
+        "d": "2026-09-24",
+        "o": 520.88,
+        "h": 524.12,
+        "l": 511.73,
+        "c": 513.39,
+        "v": 328300
+      },
+      {
+        "d": "2026-09-25",
+        "o": 510.94,
+        "h": 520.16,
+        "l": 507.01,
+        "c": 519.26,
+        "v": 331100
+      },
+      {
+        "d": "2026-09-28",
+        "o": 516.53,
+        "h": 530.15,
+        "l": 515.12,
+        "c": 529.06,
+        "v": 392000
+      },
+      {
+        "d": "2026-09-29",
+        "o": 530.1,
+        "h": 536.84,
+        "l": 522.11,
+        "c": 533.44,
+        "v": 648900
+      },
+      {
+        "d": "2026-09-30",
+        "o": 531.09,
+        "h": 531.11,
+        "l": 521.78,
+        "c": 522.19,
+        "v": 502200
+      },
+      {
+        "d": "2026-10-01",
+        "o": 521.58,
+        "h": 525.96,
+        "l": 517.06,
+        "c": 517.75,
+        "v": 320300
+      },
+      {
+        "d": "2026-10-02",
+        "o": 523.5,
+        "h": 524.02,
+        "l": 516.02,
+        "c": 518.39,
+        "v": 288800
+      },
+      {
+        "d": "2026-10-05",
+        "o": 516.57,
+        "h": 528.69,
+        "l": 513.48,
+        "c": 527.07,
+        "v": 588900
+      },
+      {
+        "d": "2026-10-06",
+        "o": 529.14,
+        "h": 531.38,
+        "l": 512.54,
+        "c": 515.41,
+        "v": 502400
+      },
+      {
+        "d": "2026-10-07",
+        "o": 513.31,
+        "h": 515.17,
+        "l": 501.17,
+        "c": 506.67,
+        "v": 716400
+      },
+      {
+        "d": "2026-10-08",
+        "o": 506.67,
+        "h": 514.51,
+        "l": 506.12,
+        "c": 513.14,
+        "v": 696700
+      },
+      {
+        "d": "2026-10-09",
+        "o": 513.67,
+        "h": 522.02,
+        "l": 513.1,
+        "c": 518.0,
+        "v": 466800
+      },
+      {
+        "d": "2026-10-12",
+        "o": 518.0,
+        "h": 525.76,
+        "l": 515.13,
+        "c": 523.94,
+        "v": 552800
+      },
+      {
+        "d": "2026-10-13",
+        "o": 525.73,
+        "h": 528.49,
+        "l": 514.73,
+        "c": 520.31,
+        "v": 445400
+      },
+      {
+        "d": "2026-10-14",
+        "o": 520.2,
+        "h": 529.63,
+        "l": 518.84,
+        "c": 529.01,
+        "v": 824400
+      },
+      {
+        "d": "2026-10-15",
+        "o": 538.34,
+        "h": 547.83,
+        "l": 535.29,
+        "c": 547.18,
+        "v": 545300
+      },
+      {
+        "d": "2026-10-16",
+        "o": 553.6,
+        "h": 566.55,
+        "l": 552.62,
+        "c": 560.36,
+        "v": 708800
+      },
+      {
+        "d": "2026-10-19",
+        "o": 559.28,
+        "h": 563.95,
+        "l": 553.52,
+        "c": 555.8,
+        "v": 497100
+      },
+      {
+        "d": "2026-10-20",
+        "o": 559.14,
+        "h": 561.83,
+        "l": 552.78,
+        "c": 557.93,
+        "v": 439500
+      },
+      {
+        "d": "2026-10-21",
+        "o": 549.7,
+        "h": 560.63,
+        "l": 547.48,
+        "c": 553.48,
+        "v": 406700
+      },
+      {
+        "d": "2026-10-22",
+        "o": 562.01,
+        "h": 568.67,
+        "l": 558.39,
+        "c": 566.76,
+        "v": 430100
+      },
+      {
+        "d": "2026-10-23",
+        "o": 564.8,
+        "h": 569.56,
+        "l": 558.29,
+        "c": 560.38,
+        "v": 398300
+      },
+      {
+        "d": "2026-10-26",
+        "o": 564.23,
+        "h": 571.75,
+        "l": 557.94,
+        "c": 570.21,
+        "v": 528100
+      },
+      {
+        "d": "2026-10-27",
+        "o": 563.23,
+        "h": 567.55,
+        "l": 559.03,
+        "c": 561.25,
+        "v": 489000
+      },
+      {
+        "d": "2026-10-28",
+        "o": 556.78,
+        "h": 567.77,
+        "l": 555.21,
+        "c": 562.91,
+        "v": 351800
+      },
+      {
+        "d": "2026-10-29",
+        "o": 570.17,
+        "h": 576.17,
+        "l": 568.01,
+        "c": 575.98,
+        "v": 478000
+      },
+      {
+        "d": "2026-10-30",
+        "o": 583.75,
+        "h": 586.0,
+        "l": 540.61,
+        "c": 551.21,
+        "v": 1173500
+      },
+      {
+        "d": "2026-11-02",
+        "o": 625.0,
+        "h": 673.19,
+        "l": 620.2,
+        "c": 671.64,
+        "v": 1976100
+      },
+      {
+        "d": "2026-11-03",
+        "o": 662.26,
+        "h": 681.5,
+        "l": 655.52,
+        "c": 672.04,
+        "v": 1188100
+      },
+      {
+        "d": "2026-11-04",
+        "o": 686.23,
+        "h": 713.74,
+        "l": 681.7,
+        "c": 698.55,
+        "v": 1398900
+      },
+      {
+        "d": "2026-11-05",
+        "o": 702.0,
+        "h": 704.03,
+        "l": 664.81,
+        "c": 670.71,
+        "v": 873000
+      },
+      {
+        "d": "2026-11-06",
+        "o": 652.12,
+        "h": 680.57,
+        "l": 650.0,
+        "c": 676.04,
+        "v": 589000
+      },
+      {
+        "d": "2026-11-09",
+        "o": 682.35,
+        "h": 709.26,
+        "l": 680.89,
+        "c": 706.65,
+        "v": 703700
+      },
+      {
+        "d": "2026-11-10",
+        "o": 700.0,
+        "h": 700.0,
+        "l": 682.58,
+        "c": 696.64,
+        "v": 463900
+      },
+      {
+        "d": "2026-11-11",
+        "o": 688.04,
+        "h": 703.84,
+        "l": 680.0,
+        "c": 702.59,
+        "v": 423300
+      },
+      {
+        "d": "2026-11-12",
+        "o": 711.68,
+        "h": 712.88,
+        "l": 696.72,
+        "c": 698.02,
+        "v": 487600
+      },
+      {
+        "d": "2026-11-13",
+        "o": 710.24,
+        "h": 711.23,
+        "l": 702.53,
+        "c": 704.23,
+        "v": 392400
+      },
+      {
+        "d": "2026-11-16",
+        "o": 705.0,
+        "h": 713.11,
+        "l": 698.68,
+        "c": 700.65,
+        "v": 491000
+      },
+      {
+        "d": "2026-11-17",
+        "o": 701.14,
+        "h": 706.76,
+        "l": 687.72,
+        "c": 690.24,
+        "v": 400800
+      },
+      {
+        "d": "2026-11-18",
+        "o": 684.64,
+        "h": 704.85,
+        "l": 683.72,
+        "c": 698.47,
+        "v": 373700
+      },
+      {
+        "d": "2026-11-19",
+        "o": 698.79,
+        "h": 698.79,
+        "l": 686.33,
+        "c": 689.65,
+        "v": 395800
+      },
+      {
+        "d": "2026-11-20",
+        "o": 688.61,
+        "h": 696.89,
+        "l": 672.72,
+        "c": 676.21,
+        "v": 614300
+      },
+      {
+        "d": "2026-11-23",
+        "o": 691.01,
+        "h": 694.19,
+        "l": 683.0,
+        "c": 687.02,
+        "v": 421500
+      },
+      {
+        "d": "2026-11-24",
+        "o": 683.19,
+        "h": 713.38,
+        "l": 680.56,
+        "c": 712.08,
+        "v": 648700
+      },
+      {
+        "d": "2026-11-25",
+        "o": 708.68,
+        "h": 715.0,
+        "l": 695.75,
+        "c": 709.46,
+        "v": 665300
+      }
+    ],
+    "weekly_closes_26": [
+      562.16,
+      560.88,
+      562.09,
+      551.5,
+      557.8,
+      563.57,
+      567.44,
+      544.32,
+      559.07,
+      586.67,
+      550.96,
+      556.93,
+      554.99,
+      535.38,
+      504.7,
+      511.65,
+      519.26,
+      518.39,
+      518.0,
+      560.36,
+      560.38,
+      551.21,
+      676.04,
+      704.23,
+      676.21,
+      709.46
+    ]
+  },
+  "profile": {
+    "symbol": "IDXX",
+    "shortName": "IDEXX Laboratories, Inc.",
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research",
+    "marketCap": 55895703552,
+    "trailingPE": 47.807278,
+    "forwardPE": 41.997524,
+    "priceToSalesTrailing12Months": 11.989073,
+    "enterpriseToEbitda": 33.871,
+    "profitMargins": 0.25357,
+    "operatingMargins": 0.32497,
+    "grossMargins": 0.62722,
+    "revenueGrowth": 0.099,
+    "earningsGrowth": 0.179,
+    "returnOnEquity": 0.68925005,
+    "debtToEquity": 52.053,
+    "freeCashflow": 1064129600,
+    "totalCash": 197536000,
+    "totalDebt": 972963008,
+    "beta": 1.536,
+    "shortPercentOfFloat": 0.031400003,
+    "heldPercentInstitutions": 0.96353996,
+    "recommendationMean": null,
+    "numberOfAnalystOpinions": 12,
+    "targetMeanPrice": 717.1667,
+    "fiftyTwoWeekHigh": 757.24,
+    "fiftyTwoWeekLow": 500.61,
+    "averageVolume": 572614,
+    "preMarketPrice": 710.0,
+    "regularMarketPrice": 709.46,
+    "regularMarketPreviousClose": 712.08,
+    "earnings_date": "2027-02-01"
+  },
+  "sec_fundamentals": {
+    "available": true,
+    "cik": 874716,
+    "revenue_q": [
+      {
+        "end": "2024-06-30",
+        "val": 1003578000,
+        "filed": "2025-08-04"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 975543000,
+        "filed": "2025-11-03"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 998427000,
+        "filed": "2026-05-05"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 1109457000,
+        "filed": "2026-08-04"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 1105239000,
+        "filed": "2026-11-02"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 1140820000,
+        "filed": "2026-05-05"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 1216585000,
+        "filed": "2026-08-04"
+      },
+      {
+        "end": "2026-09-30",
+        "val": 1214237000,
+        "filed": "2026-11-02"
+      }
+    ],
+    "net_income_q": [
+      {
+        "end": "2024-06-30",
+        "val": 203298000,
+        "filed": "2025-11-03"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 232841000,
+        "filed": "2025-11-03"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 242677000,
+        "filed": "2026-11-02"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 293989000,
+        "filed": "2026-11-02"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 274610000,
+        "filed": "2026-11-02"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 278446000,
+        "filed": "2026-11-02"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 338412000,
+        "filed": "2026-11-02"
+      },
+      {
+        "end": "2026-09-30",
+        "val": 317145000,
+        "filed": "2026-11-02"
+      }
+    ],
+    "stale_warning": null,
+    "revenue_yoy": 0.0986,
+    "net_income_yoy": 0.1549
+  },
+  "sec_filings_10d": [],
+  "news_status": {
+    "status": "ok",
+    "source": "yahoo+google_rss",
+    "errors": []
+  },
+  "news_7d": [
+    {
+      "title": "Direxion NASDAQ-100 Equal Weighted (QQQE) Adds IDEXX and Walmart on Nov. 25",
+      "publisher": "GuruFocus.com",
+      "published": "2026-11-27T11:05:09+00:00",
+      "summary": "The $1.46 billion fund bought $87.9 million of stock and sold nothing, lifting all 101 positions.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/direxion-nasdaq-100-equal-weighted-110509309.html"
+    },
+    {
+      "title": "iShares U.S. Medical Devices (IHI) Buys $18.6 Million More ABT on Nov. 25",
+      "publisher": "GuruFocus.com",
+      "published": "2026-11-27T11:05:00+00:00",
+      "summary": "The fund added $106.9 million across all 47 of its positions, led by an $18.6 million increase in Abbott Laboratories.",
+      "url": "https://finance.yahoo.com/healthcare/articles/ishares-u-medical-devices-ihi-110500808.html"
+    },
+    {
+      "title": "Invesco S&P 500 Equal Weight (RSP) Buys $2.7 Million More Moderna on Nov. 25",
+      "publisher": "GuruFocus.com",
+      "published": "2026-11-27T11:03:41+00:00",
+      "summary": "The fund added $817.9 million across all 503 positions, led by a $2.7 million purchase of Moderna.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-p-500-equal-weight-110341275.html"
+    },
+    {
+      "title": "IDEXX Laboratories Stock Outlook: Is Wall Street Bullish or Bearish",
+      "publisher": "Barchart",
+      "published": "2026-11-26T13:13:20+00:00",
+      "summary": "IDEXX Laboratories has underperformed the broader market over the past year, but analysts are cautiously optimistic about the stock’s prospects.",
+      "url": "https://www.barchart.com/story/news/9018921/idexx-laboratories-stock-outlook-is-wall-street-bullish-or-bearish"
+    },
+    {
+      "title": "iShares U.S. Medical Devices (IHI) Sells $39.2 Million of Abbott on Nov. 24",
+      "publisher": "GuruFocus.com",
+      "published": "2026-11-26T11:05:10+00:00",
+      "summary": "The fund sold $229.5 million of stock and bought nothing on Tuesday, trimming all 47 of its positions.",
+      "url": "https://finance.yahoo.com/healthcare/articles/ishares-u-medical-devices-ihi-110510357.html"
+    },
+    {
+      "title": "Invesco S&P 500 Equal Weight (RSP) Sells Moderna and PTC on Nov. 24",
+      "publisher": "GuruFocus.com",
+      "published": "2026-11-26T11:04:38+00:00",
+      "summary": "The $100.70 billion fund sold $364.2 million of stock across all 503 positions, with no buys.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-p-500-equal-weight-110438813.html"
+    },
+    {
+      "title": "The Biggest Earnings Winners Grind Sandisk And Dell Into The Dust",
+      "publisher": "Investor's Business Daily",
+      "published": "2026-11-25T21:27:31+00:00",
+      "summary": "Some of the biggest Q3 winners signaled bullish narrative shifts, including Pentair and Clorox.",
+      "url": "https://www.investors.com/news/large-cap-stocks-biggest-earnings-winners-q3/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Does ETF Buying Change The Bull Case For IDEXX Stock (IDXX)?",
+      "publisher": "Simply Wall St.",
+      "published": "2026-11-25T17:12:38+00:00",
+      "summary": "IDEXX Laboratories has been highlighted as a strong growth candidate, with analysts expecting EPS to rise 14.7% this year and an ETF recently allocating about US$4.2 million to its shares. The combination of high margin recurring diagnostics, expanding international reach and fresh ETF inflows highlights growing attention on how effectively IDEXX Laboratories converts underused veterinary testing ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-etf-buying-change-bull-171238814.html"
+    },
+    {
+      "title": "What Invesco S&P 500 Equal Weight ETF (RSP) Sold: Moderna Leads on Nov. 23",
+      "publisher": "GuruFocus.com",
+      "published": "2026-11-25T11:04:43+00:00",
+      "summary": "The fund sold $550.0 million of stock on Monday, Nov. 23, trimming all 503 of its positions and buying nothing.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-p-500-equal-weight-110443601.html"
+    },
+    {
+      "title": "OPKO Health (OPK) Stock Is Up 6.2% Today as Health Care Stocks Rally",
+      "publisher": "GuruFocus.com",
+      "published": "2026-11-24T20:45:35+00:00",
+      "summary": "OPKO Health shares rose 6.2% on Tuesday, Nov. 24, without company-specific news, as health care stocks gained while the S&P 500 fell.",
+      "url": "https://finance.yahoo.com/healthcare/articles/opko-health-opk-stock-6-204535594.html"
+    },
+    {
+      "title": "Is it Prudent to Add Insulet Stock to Your Portfolio Right Now? - TradingView",
+      "publisher": "TradingView",
+      "published": "2026-11-24T16:39:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGotb1RKSzV1MkZyVzg5U20tWWF2bW5aYTJSLXZCVmpnNnhFbWhlVllLSGJFSHBCWWJQTHNBeEo5aDZ3eHZaSHMzUFU0alJGRHJSUnE3Z1JmX0dyWDgwX2NnVEJjRnlDamFDMUg1ZW5Qdm5rVjBocG94RFhTMWhiY1Q5UGFGa2lMQkk2cHNGNlllaDljM0JCTVdqUGY3RDZfNFNxSEp2ajBxY3lmTlJnWlA5QlI2b3Bu?oc=5"
+    },
+    {
+      "title": "Can IDEXX Stock Keep Rising After Its 25% Run? - Trefis",
+      "publisher": "Trefis",
+      "published": "2026-11-24T15:26:34+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnhrcXA1YTB2SXp2Z2hlQ0pleG11QlhhSW1mZXhqa1pkVkdmN0xvcTBWcy1ORjJkNmRsdEp5NldOUlAxTUNvdUVpLWR4NERHSGdBLTE5VTR4UFBDaVZzWk9OMTBBdnNTUzZVZGUwTEN2elJSZFdTZGZ1RFFCaEs5TUdyT0RLZzN2c25PN1pGeVctb0ZEZVU0ckN0amtncUdDbGt2NVJfUmo?oc=5"
+    },
+    {
+      "title": "IDEXX Laboratories Inc. stock rises Monday, still underperforms market - MarketWatch",
+      "publisher": "MarketWatch",
+      "published": "2026-11-23T21:49:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR0pvQkIwN2NnYWw1Zk5TS2lYWUlMel9TX2tCR1V1a01TVUJCZmxkekd0NFJkM0RFUE91bks3X1MtdFV6bjREREFHZ182TVQ5QmNWcGtCNW9xWFpkRVFualY2dDNGWVMtQVhTR05TTUVQM1NPU3FkbHJKZXQ5TGpxcnBvUG8yeTktVHkxVDlQU1Q5VVMyMHVRQlRUdkNIYWY0aElYMVhzSU93YXRYcDNVcGJVNFk4RXJaQlh1bW5KRU92SkRlOVVN?oc=5"
+    },
+    {
+      "title": "Idexx (IDXX) is an Incredible Growth Stock: 3 Reasons Why - Yahoo Finance",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-23T16:45:02+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcW9HYmlLdlJmemVjdU1MeVRzblVyUDhmSU10MTI5cC0yY3F6MXhrRmJJb0hEVUgwd2NmMGRseXZyVkYwTnFlRVpnNDBKd1JKaXNSOGxCVnBSSk5ldXBIVmNjWWtQWVgxMzJkcGNkUTBrQTJLUTdlSVlFYmEwWUVPdmhZbmFocjJjb3YtNXR6VkxpbmVUd2lRWG5QVl9Wa2ZE?oc=5"
+    },
+    {
+      "title": "Buy 3 Stocks With Double-Digit Returns in November Defying Market Rout - TradingView",
+      "publisher": "TradingView",
+      "published": "2026-11-23T13:20:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaWpnODVVWEQyVXh6UGxGVDlzd2Z0dF9oMTFVWmp6cmhsVVh5NC1IalFjSmRFMlpOQXVfek90bEpINVdUUU9Pc3p6dm82MXprLV81bGpETE1weTFLeWFEY19IeWVhNnNlYUgzSGp5bUktSVhPbzdib21CMjdLRnpiOFJjVERGUmIyNDY5S0o0Z2JoNFZ4YnQ1UlFFUmp6amlESFU4T3lPTmF2QjNGWXR0UlVlekZCWTd3ZkhTOW5wVUEzYks1?oc=5"
+    },
+    {
+      "title": "Should You Still Retain Zimmer Biomet Stock in Your Portfolio? - TradingView",
+      "publisher": "TradingView",
+      "published": "2026-11-23T13:04:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc0dOeVNGLUEwZlJfSFBPTWRBSUpacXR0V2p2c3pJUjJ3X0d2T3d2UmxJODF1U3luOUNPSWFoQUhDTTRuTmdqRk1LTXRCcV9PV0FWQ0VXeHktcmVaUkFfNzV2RkJ1c3ZzRGFyaXlKMS1qbmFLcjhRQ0xxaEFFMTl6OHdiQ1I0aWdtcWdqc0ozVGxpY3A1dV9hb1B2YXd3bnZGZjRPbndqem5TLVVQMkI5OWQ3dDd4RGxm?oc=5"
+    },
+    {
+      "title": "Is Idexx Laboratories (NASDAQ:IDXX) Showing Signs Of Renewed Strength? - Kalkine Media",
+      "publisher": "Kalkine Media",
+      "published": "2026-11-22T11:16:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWI3eDJFc1dKNm5RT1BLT0RNczlOWEk2YTdmUHZBOFNNWVdydXhIQjhvTHB0bjNmRnhsdFlXWU5JRlpIblFWLU1BSXVmaVZsdkVSblVXMlZ3bnJwSjYtOVlSbUhrOGt4ZVp3UlZUdXd3U0dleVJCSlU1aW93djUxZlVtQm9pblpQRlROY1dwMmo0NW5uR2YzbEF6UU9mUUdYME1KazBPV18tV1lvZkpFa3NB?oc=5"
+    },
+    {
+      "title": "At IDEXX Laboratories (IDXX), executive vice president Michael Lane exercised options for 863 shares at three prices. - Stock Titan",
+      "publisher": "Stock Titan",
+      "published": "2026-11-20T22:00:38+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVXNSMVlSVEFaQ05mMjdxaE9jVXV4bmo0UXgzSGxnZUZaRHBBN2k5ZzV0a2FzNGNjaDloaXVjNERnb3VBY3lWZ01ydlZpX0ZweFdXM3dSZ3BnQzF2UnlBSVN0Vy1fWlhlRmVvVVZiTE4takZyMVQ4bWZPWUZKbUs3ZzY3X0s0MG1lZndiTnc4SWZkdFp2SW02YUFELUlLUjJ5M0xDRFgycVBEaEFTWEVnbVplbm9yR3JQOWZz?oc=5"
+    },
+    {
+      "title": "IDEXX Laboratories Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "publisher": "MarketWatch",
+      "published": "2026-11-20T21:48:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbmJ0bWlYeEhWRXRGUFdWYk9JVVVYTVhkYWRVRUdNVVgzbUcyNlB1bWh6M1FfbjdWdzNIUGFEYllqbTZ3UEVIdjVveVRIYUloTUc5UEdaMDJVejdSVWNsdnBhOEItcG5DQUVaa0hMWGZjaVJhMEZKMEgydENzWUhRQmI2cnJoWXNsYzR6ZFlWdDl5bXB4b0paR0VNcVhSU0ViRVdNMDhnX2JkMW5BX3EwZ1YwVnl0c0tZY3RQeGhwVms5VlVjbG9xTk0tVGZyUHViWldqSg?oc=5"
+    },
+    {
+      "title": "Charles River Stock Surges 102.3% in a Year: What's Fueling the Drive? - TradingView",
+      "publisher": "TradingView",
+      "published": "2026-11-20T16:57:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONmxQQktKR0JpVVNadTRGUk8zRDJTTUdudHg1TDZWUUdPUUF0T09GLXJ1R25ERjJwSXAzUXR1Ym1wVEtXVXhDSDl5ME4wbzdnTmFwRVBDODVzV3cySjl5aHBhelQ3YkdlNWo5ZUxkdm1OemllWmlPdlRPdGNKVDMyZldWVWxxbjQtZDU2MWxsZjNPTVBPTDhuRy1PQVowTWxITDAwaEcycUEwQ2VlY1ZUbW5vd282dGxOSDlJbmREQXY?oc=5"
+    },
+    {
+      "title": "Is This the Right Time to Hold Resmed Stock in Your Portfolio? - TradingView",
+      "publisher": "TradingView",
+      "published": "2026-11-20T16:57:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOEd4V3pBN1BEbUZSNmcwQ195SjZsTkphTm9EYTVpbGo3VjI4d2gtc0dZc1hDU251akFBQmlqOHJHQ0lyTmVmQmdIcUk2VGpBbVhVWlFab3JYOTNvNTJncnNKSVg1OHhWYkV3VkFlc1lyRE4wN2FwSFhGYzdNZWItZk5uUGhCS0xaNXpjdHhoVDR2ZlpPbzNubGNnaHI1Mm5fZF8xdzIzZXBOWXVxM180Yk9RaC1Vei16?oc=5"
+    },
+    {
+      "title": "Quest Diagnostics Stock Gains 49.3% YTD: What's Behind the Rally? - TradingView",
+      "publisher": "TradingView",
+      "published": "2026-11-20T13:52:00+00:00",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPczFBckFTVG13WEdBa1pBYUVmdHE5eW5vQkFkTGpnMUlFUlBjX3RmYWFPUzJsclpzeFNRTUJSWUs2LVV6ODFKWF9LVjlycTZqMnhfcWUwazc4bWxNa0tCWVJfQ1BoUHRLc050QVg3dFVDMjhrTUVvTzU0aERTX0J6NmVLVm5EdjE3SlI2Ykcwd1pDNDdqWGt5SE82WkdycE9Idi1mejJ5ZUdKREhobEs2REpmaGFRc3UzdlE?oc=5"
+    }
+  ]
+}

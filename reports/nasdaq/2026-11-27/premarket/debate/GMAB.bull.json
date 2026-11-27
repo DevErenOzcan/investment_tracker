@@ -1,0 +1,23 @@
+{"ticker": "GMAB",
+ "thesis": "GMAB is a profitable, cash-generative company in a confirmed uptrend (close above SMA20, SMA50 and SMA200) that is digesting a large October re-rating. It is rebounding out of a six-week base and sits about 5% below its 52-week high, with sell-side support (RBC, mean target above price) and no earnings event inside the swing window. The entry zone is a modest dip rather than a chase, and the trade pays only on a breakout through 59.97 toward 64.4. The setup is only moderate: reward/risk is 1.55, the last leg had weak volume, and the regime is risk-off. This supports a small, disciplined long, not a high-conviction one.",
+ "evidence": [
+  "technical: trend = up",
+  "technical: setup = trend-continuation",
+  "technical: entry_zone = [55.2, 56.6]",
+  "technical: stop = 50.4",
+  "technical: target = 64.4",
+  "technical: reward_risk = 1.55",
+  "technical: notes = close 56.80 above SMA20 (53.77), SMA50 (44.29), SMA200 (32.38), RS63 strong, +11% in 5 days, 6-week digestion between 50.24 and 59.02",
+  "fundamentals: quality = high",
+  "fundamentals: dilution_risk = low",
+  "fundamentals: notes = operating margin 30.6%, profit margin 17.0%, free cash flow 854,875,008, gross margin 92.7%, revenue growth +16.1% YoY",
+  "fundamentals: notes = mean analyst target 66.14545 (11 opinions, recommendationMean 1.41667) vs previous close 56.8",
+  "fundamentals: earnings_date = 2027-02-10, no earnings event inside the swing horizon",
+  "fundamentals: notes = short interest 1.45% of float, so there is no crowded-short risk",
+  "news: catalysts = RBC 2026-11-25, three self-commercialised assets can drive growth through the Darzalex royalty cliff (positive)",
+  "news: catalysts = IBD 2026-11-20, October rally attributed to positive cancer-drug results (positive)",
+  "news: binary_event = false",
+  "regime_view: summary = VIX has fallen 29.1% over 5 days, so a bounce is possible (the same card says the trend still favors reduced long exposure)"
+ ],
+ "upside_case": {"target": 64.4, "probability": 0.3},
+ "rebuttal_to_bear": null}

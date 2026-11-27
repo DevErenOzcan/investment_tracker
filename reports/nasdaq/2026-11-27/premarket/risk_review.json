@@ -1,0 +1,7 @@
+{"vetoes": [],
+ "reductions": [
+  {"ticker": "AMPH", "factor": 0.5, "reason": "R/R at the 29.12 last close is only about 1.20 (below the 1.5 rule in lesson 3) and only reaches 1.76 if the 28.80 limit fills; add a debate draw, neutral news score 0, a price above the 24.5 mean analyst target, 21.5% short interest and leverage, and confidence 0.45 overstates the case, so halve it and keep it limit-only at or below 28.80."},
+  {"ticker": "PGNY", "factor": 0.75, "reason": "Confidence 0.40 on an extended name (RSI 68.7, +31% in 21 days, last close near the 37.75 mean analyst target) with a stop only about 1 ATR below entry, so a thin 13:00 ET half-day session can stop it out on noise; trim it and keep it dip-only in 35.5-36.3."}
+ ],
+ "portfolio_notes": "Both proposals are healthcare, so they are one correlated bet (lesson 8). After these reductions combined healthcare is about 1.36% (PGNY ~0.95%, AMPH ~0.41%) against 2.09% proposed, with cash about 98.6%. Healthcare leads this risk-off tape (XLV 21-day +2.51%), so neither name fights the regime, and both news cards are available with no binary events and no S-3/424B5/8-K filings in the last 10 days. The sizing engine labels the two names 'Healthcare' and 'Health Care'. If the sector cap groups by that raw string, it treats them as two different sectors; this does not bind at current weights, but the sector map should be normalized.",
+ "held_alerts": []}

@@ -1,0 +1,15 @@
+{"ticker": "PLMR", "rating": "Hold", "confidence": 0.42,
+ "entry": 163.75, "entry_zone": [162.5, 165.0], "stop": 153.9, "target": 184.0, "horizon_days": 10,
+ "expected_return": {"low": -0.0602, "high": 0.1237},
+ "sector": "Financials",
+ "earnings_date": "2027-02-11",
+ "thesis": "PLMR is a high-quality P&C insurer with revenue up 58% YoY, accelerating net income (+27% in Q3), and a high-volume post-earnings breakout. It sits in the defensive rotation that leads this risk-off tape, and it fits the provisional lesson that favors re-rated names near their highs with high rs_63. The bear wins on timing, though: the last price of 167.74 is above the 162.5-165.0 zone, RSI14 is 74.1, the stock is 0.9% under its 52-week high, and reward/risk at the last price is only about 1.17 ((184.0-167.74)/(167.74-153.9)). That is below the 1.5 floor, so this is Hold, and it can be upgraded if price pulls back into the zone, where reward/risk is 1.71 to 2.06.",
+ "invalidation": "A daily close below the 154.61 swing low (stop 153.9) erases the post-earnings gap and the breakout and voids the long case.",
+ "key_risks": [
+  "Extended entry: RSI14 74.1, 8% above SMA20 155.3 and +25.5% in 21 days, so reward/risk at the last price of 167.74 is about 1.17",
+  "Risk-off regime (confidence 0.9): QQQ 21-day -12.11% and VIX 25.44 at the 0.90 percentile, so recent winners may be sold for liquidity",
+  "Little upside to consensus: price is within 2.5% of the 172.0 mean target (6 opinions)",
+  "Catastrophe-loss headline risk for a P&C insurer, plus thin liquidity in the half-day session that closes at 13:00 ET",
+  "Volume has faded to 258k after the 714.8k gap day and the 524k breakout day"
+ ],
+ "debate_winner": "bear"}

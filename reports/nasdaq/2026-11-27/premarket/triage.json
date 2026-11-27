@@ -1,0 +1,31 @@
+{
+  "finalists": [
+    {"ticker": "IDXX", "why": "Healthcare (regime-leading XLV) large cap in a clean uptrend, ext_20 4.4%, RSI 66.2, 0.8% below the 52-week high, no earnings until 2027-02-01.", "watch": "Forward PE of about 42 leaves it exposed to a multiple squeeze if the risk-off tape extends."},
+    {"ticker": "PGNY", "why": "Healthcare plans name in an orderly uptrend, ext_20 5.7%, RSI 68.7, ATR 3.0%, within 2.5% of the high, with earnings already behind it (2026-11-04).", "watch": "Volume ratio is 0.93, so there is no fresh volume confirmation, and ret_21 of +31% invites a pullback."},
+    {"ticker": "GMAB", "why": "Large-cap biotech (regime-leading healthcare) with strong relative strength, ext_20 5.6%, RSI 68.9, next earnings 2027-02-10.", "watch": "Volume ratio of 0.77 and a 5.3% gap to the high; ret_5 of +11% could mean a short-term pause. Biotech headlines can be binary."},
+    {"ticker": "IPAR", "why": "Consumer Defensive (regime-leading XLP) at a 52-week high, volume ratio 1.29, ext_20 8.8%, ATR 2.8%, earnings not until 2027-02-23.", "watch": "RSI 73.5 is near the cap and Goldman sees limited upside after the 65% rally."},
+    {"ticker": "PLMR", "why": "Defensive-leaning P&C insurer, uptrend with ext_20 8.0%, volume ratio 1.16, 0.9% below the high, earnings 2027-02-11.", "watch": "RSI 74.1 is stretched, so a pullback to the 20-day average is a real possibility."},
+    {"ticker": "CROX", "why": "Least extended name on the list (ext_20 1.8%, RSI 62.7), 2.6% below the high, earnings 2027-02-11, forward PE about 10.", "watch": "Consumer Cyclical is not a leading sector, ret_5 is -1.7% and volume ratio is 0.77, so momentum is cooling."},
+    {"ticker": "AZTA", "why": "Medical instruments name (healthcare) with room to run, ext_20 8.3%, RSI 58.2, earnings 2027-02-03.", "watch": "ATR of 6.2% means wide stops, ret_5 is -3.9% and it sits 6.6% below the high."},
+    {"ticker": "AMPH", "why": "Specialty pharma (healthcare) with ext_20 only 2.0%, RSI 57.7 and forward PE about 8.7; a calm pullback-to-trend setup.", "watch": "Dollar volume of about 15M a day is thin, which matters on a half-day session. Earnings were 2026-11-05, so the catalyst is behind it."}
+  ],
+  "dropped": [
+    {"ticker": "NTSK", "why": "Earnings on 2026-12-02, inside the exclusion window, ATR 7.3%, and Technology is a lagging sector."},
+    {"ticker": "CBRL", "why": "Earnings on 2026-12-02, and Consumer Cyclical is not a regime-leading sector."},
+    {"ticker": "SGRY", "why": "Pending take-private buyout with shareholder-litigation headlines, which is binary event risk; RSI is 77.7 and volume ratio 0.40."},
+    {"ticker": "COLM", "why": "RSI 78.4 is above the 78 cap and the stock is extended after a 33% 21-day run."},
+    {"ticker": "SLN", "why": "RSI 79.2 is above the 78 cap, after a 225% run, with ret_21 of only +1% showing momentum has stalled."},
+    {"ticker": "UPBD", "why": "Overextended: ret_21 +62%, RSI 72.4, ext_20 11.8% right at the high, and not a regime-leading sector."},
+    {"ticker": "VCEL", "why": "RSI 75.8 and ext_20 13.1% are stretched, with a director Form 144 sale."},
+    {"ticker": "GDYN", "why": "Technology is a lagging sector, with ret_21 +63% in a risk-off tape."},
+    {"ticker": "CRCT", "why": "Repeated officer share sales, thin liquidity (about 13.7M a day) and a non-leading sector."},
+    {"ticker": "ASO", "why": "Earnings on 2026-12-08 fall inside a typical swing holding period, and Consumer Cyclical is not a leading sector."},
+    {"ticker": "ULCC", "why": "Airline in the lagging Industrials sector, with ATR 7.5% and a director sale."},
+    {"ticker": "REPL", "why": "Biotech after a 150% run, with the Dec 1 management webcast as a binary event and insider selling; ATR 6.3%."},
+    {"ticker": "FLYW", "why": "Technology is a lagging sector in a risk-off regime."},
+    {"ticker": "VERX", "why": "Technology is a lagging sector, and RSI 72.5 is stretched."},
+    {"ticker": "ADMA", "why": "Sits 20.9% below the 52-week high, so it is not a clean uptrend or tight base; RSI 70.6."},
+    {"ticker": "XNCR", "why": "Biotech with ATR 5.5% and negative earnings; the biotech slots (max 2 per sub-industry) went to the large-cap GMAB."},
+    {"ticker": "KOD", "why": "Parabolic (ret_63 +182%) on a 0.39 volume ratio and ATR 6.5%, which is poor risk/reward in a thin half-day session."}
+  ]
+}
